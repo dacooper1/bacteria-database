@@ -1,0 +1,174 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+130209,JC23,"DSM 23394, CCUG 57911, KCTC 13605, NBRC 105754",1,"Ureibacillus acetophenoni",Ureibacillus
+157067,,"CCUG 69312 Q",0,"Ureibacillus chungkukjangi",Ureibacillus
+155073,,"CCUG 56387",0,"Ureibacillus massiliensis",Ureibacillus
+155765,,"CCUG 59246",0,"Ureibacillus massiliensis",Ureibacillus
+157171,,"CCUG 70029",0,"Ureibacillus massiliensis",Ureibacillus
+155508,,"CCUG 57912, KCTC 13604, DSM 23555, NBRC 105753",1,"Ureibacillus xyleni",Ureibacillus
+164868,,"JCM 39082",0,"Uabimicrobium amorphum",Uabimicrobium
+170000,"IMCC 34675","KACC 21758, NBRC 114418",1,"Uliginosibacterium aquaticum",Uliginosibacterium
+162510,,"JCM 19465, KACC 17644",1,"Uliginosibacterium flavum",Uliginosibacterium
+13936,5YN10-9,"DSM 18521, KACC 11603",1,"Uliginosibacterium gangwonense",Uliginosibacterium
+133283,KBP-13,"BCRC 80903, LMG 28837, KCTC 42655",1,"Uliginosibacterium paludis",Uliginosibacterium
+164045,,"JCM 31375, KCTC 52159",1,"Uliginosibacterium sangjuense",Uliginosibacterium
+158641,M1-21,"KACC 19271, JCM 32000",1,"Uliginosibacterium sediminicola",Uliginosibacterium
+5660,,"DSM 23424, IMCC 3101, KCCM 42686, NBRC 102682",1,"Ulvibacter antarcticus",Ulvibacter
+5658,,"DSM 16195, CCUG 47093, KCTC 12104, KMM 3912, CIP 108343",1,"Ulvibacter litoralis",Ulvibacter
+5659,,"DSM 19843, CCUG 47093, KCTC 12104, KMM 3912",1,"Ulvibacter litoralis",Ulvibacter
+166566,CCMM003,"MCCC 1K03244, KCTC 52639",1,"Ulvibacterium marinum",Ulvibacterium
+140996,SCTF-16,"KCTC 52628, NBRC 112760, DSM 112598",1,"Umboniibacter caenipelagi",Umboniibacter
+17913,,"DSM 25080, JCM 15738, NRIC 0753, KMM 3891, KCTC 42352",1,"Umboniibacter marinipuniceus",Umboniibacter
+131509,14-121-B13,"DSM 29882, KCTC 42467",1,"Umboniibacter roseus",Umboniibacter
+132335,YIM2047X,"DSM 103496, CPCC 204132, KCTC 39538, YIM 2047X, JCM 30637",1,"Umezawaea endophytica",Umezawaea
+163843,,"JCM 30636",0,"Umezawaea endophytica",Umezawaea
+13413,MK27-91F2,"DSM 44720, AS 4.1711, ATCC BAA-481, FERM P-16053, IFO 16184, JCM 10302, NBRC 16184, NRRL B-24463, CGMCC 4.1711",1,"Umezawaea tangerina",Umezawaea
+18871,,"Cc 9844",0,unclassified,unclassified
+18988,"An m14",,0,unclassified,unclassified
+19313,,"NOCB 7721",0,unclassified,unclassified
+19447,"An m23",,0,unclassified,unclassified
+19656,"An m9",,0,unclassified,unclassified
+20579,,"Cc 10428",0,unclassified,unclassified
+21524,,"Cc 3752",0,unclassified,unclassified
+22370,,"Myx 10570",0,unclassified,unclassified
+169309,OL,"DSM 104464, VKM B-3021",1,"Desulfosporosinus metallidurans",Desulfosporosinus
+169308,"D16, 4/1/38B","DSM 27791, BEI HM-79",0,"unclassified bacterium",unclassified
+169310,7D4C2,"DSM 110548",0,"unclassified bacterium",unclassified
+169311,"NM08_P-01, NM08, P-01","DSM 110563",0,"unclassified bacterium",unclassified
+23391,4AA7,"DSM 13636",0,"unclassified bacterium",unclassified
+2124,CreDm1,"DSM 6526",0,"unclassified bacterium",unclassified
+23392,NapHS2,"DSM 14454",0,"unclassified bacterium",unclassified
+2511,LD64,"DSM 11001",0,"unclassified bacterium",unclassified
+23394,EbS7,"DSM 15769",0,"unclassified bacterium",unclassified
+2675,,"DSM 4029, ATCC 29733, VPI C48-50",0,"unclassified bacterium",unclassified
+23395,MLMS-1,"DSM 17814",0,"unclassified bacterium",unclassified
+23396,95,"DSM 30001, ATCC 19103, IAM 1433",0,"unclassified bacterium",unclassified
+24688,EL-44,"DSM 11444",0,"unclassified bacterium",unclassified
+24710,EL-182,"DSM 12549",0,"unclassified bacterium",unclassified
+24711,agV6,"DSM 13281",0,"unclassified bacterium",unclassified
+24712,AZD10A1,"DSM 17878, CCUG 52015",0,"unclassified bacterium",unclassified
+24713,AP57,"DSM 18372, CECT 7177",0,"unclassified bacterium",unclassified
+130784,"CH 1359","DSM 12902",0,"unclassified bacterium",unclassified
+130785,,"DSM 14861, HEL Hel43, HEL 43",0,"unclassified bacterium",unclassified
+130786,"JWIYJL-CPRB 1, JW/YJL-CPRB1","DSM 17738",0,"unclassified bacterium",unclassified
+130792,G.Slu-02,"DSM 21096",0,"unclassified bacterium",unclassified
+130793,L-1031,"DSM 22395",0,"unclassified bacterium",unclassified
+23365,SIO,"DSM 2170, ATCC 19263, CCM 326, NCMB 1052, CCUG 1829",0,"unclassified bacterium",unclassified
+130970,"CHL6 7","DSM 10147",0,"unclassified bacterium",unclassified
+23366,008-523,"DSM 3039",0,"unclassified bacterium",unclassified
+130971,"CHL6 8","DSM 10148",0,"unclassified bacterium",unclassified
+23367,B6,"DSM 3644",0,"unclassified bacterium",unclassified
+23368,Re10,"DSM 4661",0,"unclassified bacterium",unclassified
+23369,Wo021,"DSM 5672",0,"unclassified bacterium",unclassified
+132009,,"DSM 17195, Jamm 0065",0,"unclassified bacterium",unclassified
+23370,KN032,"DSM 5673",0,"unclassified bacterium",unclassified
+132016,FSW06-301,"DSM 27188",0,"unclassified bacterium",unclassified
+23371,US2,"DSM 5848",0,"unclassified bacterium",unclassified
+132018,CL-2,"DSM 28716, CSUR P1230",0,"Clostridium jeddahitimonense",Clostridium
+23373,PHB,"DSM 6754",0,"unclassified bacterium",unclassified
+132022,SB2,"DSM 100743, CSUR P1926",0,"unclassified bacterium",unclassified
+23374,FlGlyM,"DSM 6945",0,"unclassified bacterium",unclassified
+132029,P2414,"DSM 102218, CSUR P2414",0,"Clostridium nigeriense",Clostridium
+23376,16AV,"DSM 8385",0,"unclassified bacterium",unclassified
+132035,,"DSM 102883, CSUR P2434, Marseille-2434",0,"unclassified bacterium",unclassified
+23377,DMA,"DSM 8827",0,"unclassified bacterium",unclassified
+23378,Ia3,"DSM 10066",0,"unclassified bacterium",unclassified
+23379,LFR,"DSM 10174, ATCC 51258",0,"unclassified bacterium",unclassified
+23380,19gly3,"DSM 11262",0,"unclassified bacterium",unclassified
+23382,RZLAS,"DSM 11480",0,"unclassified bacterium",unclassified
+23383,,"DSM 11764, MUA MuA21, MUA 21",0,"unclassified bacterium",unclassified
+23386,mXyS1,"DSM 12567",0,"unclassified bacterium",unclassified
+23387,PB90-2,"DSM 12558",0,"unclassified bacterium",unclassified
+23389,XB90,"DSM 12595",0,"unclassified bacterium",unclassified
+23390,72Chol,"DSM 12783",0,"unclassified bacterium",unclassified
+160191,"6/3/54 A FAA","DSM 24432",0,"unclassified bacterium",unclassified
+160192,IFRC300,"DSM 24590",0,"unclassified bacterium",unclassified
+139746,,"DSM 53758, CB Cb502, CB 502",0,"unclassified bacterium",unclassified
+160193,KNH,"DSM 24760",0,"unclassified bacterium",unclassified
+139748,FGR15-07,"DSM 26766, KACC 15970",0,"unclassified bacterium",unclassified
+160194,"CP 19","DSM 24779",0,"unclassified bacterium",unclassified
+139749,,"DSM 27371, WR 21",0,"unclassified bacterium",unclassified
+160195,NYFB,"DSM 25439",0,"unclassified bacterium",unclassified
+139751,"UV 2.5","DSM 100784",0,"unclassified bacterium",unclassified
+160196,M3/9,"DSM 100058",0,"Anaeropeptidivorans aminofermentans",Anaeropeptidivorans
+139754,2-bin,"DSM 105719, KCTC 32235, CFCC 10925",0,"Lampropedia puyangensis",Lampropedia
+157035,S15,"CCUG 68986, DSM 105791, CIP 111406",0,"unclassified bacterium",unclassified
+157746,"RS22 G","DSM 23554",0,"unclassified bacterium",unclassified
+157753,HV4-6-A5C,"DSM 104144",0,"unclassified bacterium",unclassified
+157754,HV4-5-B5C,"DSM 104463",0,"unclassified bacterium",unclassified
+157755,Melo94,"DSM 105095",0,"unclassified bacterium",unclassified
+157759,"f-CSY, f_CSY","DSM 107475",0,"unclassified bacterium",unclassified
+157760,"f-RGN, f_RGN","DSM 107527",0,"unclassified bacterium",unclassified
+157761,"f-CXY, f_CXY","DSM 107528",0,"Brotolimicola acetigignens",Brotolimicola
+157762,APC924/74,"DSM 108024",0,"unclassified bacterium",unclassified
+157766,"H2-39, H2_39","DSM 108347",0,"unclassified bacterium",unclassified
+157946,639,"DSM 10557, IFAM 3594",0,"unclassified bacterium",unclassified
+159078,,"DSM 23666, CAT 12a",0,"unclassified bacterium",unclassified
+159079,"B1107, A0630","DSM 24543, CGMCC 1-10790, CGMCC 1.10790",0,"unclassified bacterium",unclassified
+159080,"AO627, B1132","DSM 24544, CGMCC 1.10791",0,"unclassified bacterium",unclassified
+132037,LC8,"DSM 103728",0,"unclassified bacterium",unclassified
+159081,GH-B6,"DSM 24633",0,"unclassified bacterium",unclassified
+159091,HV4-5-C5C,"DSM 103941",0,"unclassified bacterium",unclassified
+159093,H3_16,"DSM 108225",0,"unclassified bacterium",unclassified
+170116,GYH,"JCM 32856, KCTC 62792",1,"Undibacter mobilis",Undibacter
+141168,KYPY9,"BCRC 81009, LMG 29730 KCTC 52442",1,"Undibacterium amnicola",Undibacterium
+132285,THG-DN7.3,"DSM 103791, CCTCC AB 2015119, KCTC 42243, JCM 30323",1,"Undibacterium aquatile",Undibacterium
+141056,6-67,"CCTCC AB 2015162, KCTC 42986",1,"Undibacterium arcticum",Undibacterium
+167130,BYS107W,"GDMCC 1.2453, KCTC 82653",1,"Undibacterium baiyunense",Undibacterium
+167163,B2R-29,"KCTC 72018, CGMCC 1.13792",1,"Undibacterium crateris",Undibacterium
+167896,CY22W,"KACC 21951, GDMCC 1.1906",1,"Undibacterium curvum",Undibacterium
+132626,E3/4,"DSM 102221, CCM 8677, CIP 111017",1,"Undibacterium danionis",Undibacterium
+167786,FT137W,"GDMCC 1.2456, KCTC 82656",1,"Undibacterium fentianense",Undibacterium
+167859,LX15W,"GDMCC 1.1910, JCM 34286",1,"Undibacterium flavidum",Undibacterium
+167802,FT31W,"KACC 21953, GDMCC 1.1908",1,"Undibacterium griseum",Undibacterium
+167873,CY18W,"GDMCC 1.1904, KACC 21949",1,"Undibacterium hunanense",Undibacterium
+24270,"JS04-04, JS4-4","DSM 19386, KACC 12607, NBRC 108922",1,"Undibacterium jejuense",Undibacterium
+167119,LFS511W,"GDMCC 1.2458, KCTC 82658",1,"Undibacterium luofuense",Undibacterium
+130506,CMJ-9,"DSM 29770, BCRC 80406, KCTC 23916, LMG 26891",1,"Undibacterium macrobrachii",Undibacterium
+167852,LX22W,"KACC 21957, GDMCC 1.1912",1,"Undibacterium nitidum",Undibacterium
+11375,"EM 1","DSM 21777, CCUG 57265",1,"Undibacterium oligocarboniphilum",Undibacterium
+11374,"CMB NF2a","DSM 23061, CCUG 49012, CIP 109317, UCCCB17",1,"Undibacterium parvum",Undibacterium
+11373,"CMB NF1b","DSM 19792, CCUG 49009, CIP 109318, UCCCB16",1,"Undibacterium pigrum",Undibacterium
+164488,S11R28,"JCM 33224, KCTC 62668",1,"Undibacterium piscinae",Undibacterium
+167111,FT147W,"KCTC 82657, GDMCC 1.2457",1,"Undibacterium rivi",Undibacterium
+167781,CY7W,"KACC 21961, GDMCC 1.1903",1,"Undibacterium rugosum",Undibacterium
+130505,SHS5-24,"DSM 29980, KACC 16656, NBRC 108929",1,"Undibacterium seohonense",Undibacterium
+132889,"TR 48","DSM 18072",0,"Undibacterium sp.",Undibacterium
+132183,CMJ-15,"DSM 103672, BCRC 80404, KCTC 23917, LMG 26892",1,"Undibacterium squillarum",Undibacterium
+131260,,"DSM 102222, NBRC 108789",1,"Undibacterium terreum",Undibacterium
+167858,NL8W,"KACC 21960, GDMCC 1.1915",1,"Undibacterium umbellatum",Undibacterium
+167366,ETA_A1,"DSM 103724, LMG 29796",1,"Urbifossiella limnaea",Urbifossiella
+138328,D6P-C,"CIP 106087, ATCC 51252",1,"Ureaplasma canigenitalium",Ureaplasma
+167743,A417,"CIP 106089, NCTC 10182, ATCC 43321, DSM 21276",1,"Ureaplasma diversum",Ureaplasma
+8632,FT2-B,"DSM 24216, ATCC 49229, NCTC 11709",1,"Ureaplasma felinum",Ureaplasma
+159568,ES2783-GEN,"DSM 24842, ATCC BAA-2460",1,"Ureaplasma miroungigenitalium",Ureaplasma
+159570,CSL7643-GEN,"DSM 24844",0,"Ureaplasma sp.",Ureaplasma
+159571,ES3175,"DSM 24961",0,"Ureaplasma sp.",Ureaplasma
+159572,ES3157,"DSM 24962",0,"Ureaplasma sp.",Ureaplasma
+138826,"2K 160, 960 (CX8)","CIP 103755, ATCC 27618, NCTC 10177, CCUG 38149, CCUG 50782",1,"Ureaplasma urealyticum",Ureaplasma
+159569,CSL7644-GEN,"DSM 24843, ATCC BAA-2262",1,"Ureaplasma zalophigenitalium",Ureaplasma
+168541,LPB0138,"KACC 18889, JCM 31563",1,"Urechidicola croceus",Urechidicola
+168215,2RL3-2,"NBRC 108948, KACC 16626",1,"Ureibacillus chungkukjangi",Ureibacillus
+1400,HC145,"DSM 17951, KACC 11361",1,"Ureibacillus composti",Ureibacillus
+168224,DX-1,"KCTC 33127, CGMCC 1.12358",1,"Ureibacillus defluvii",Ureibacillus
+169783,Re31,"DSM 112365",0,"Ureibacillus galli",Ureibacillus
+23761,Mn1-7,"DSM 26584, CCTCC AB 2012916",1,"Ureibacillus manganicus",Ureibacillus
+23756,4400831,"DSM 27596, CCUG 49529, CIP 108446, KCTC 13178",1,"Ureibacillus massiliensis",Ureibacillus
+23759,BLB-1,"DSM 27595, JCM 15800, KCTC 13296",1,"Ureibacillus sinduriensis",Ureibacillus
+1398,6T-19,"DSM 16752, CIP 109211, KACC 11287",1,"Ureibacillus suwonensis",Ureibacillus
+1399,6T-29,"DSM 16753",0,"Ureibacillus suwonensis",Ureibacillus
+1396,TH9A,"DSM 12654, LMG 19470, CIP 107065",1,"Ureibacillus terrenus",Ureibacillus
+1397,"Tu 1A","DSM 12656",0,"Ureibacillus terrenus",Ureibacillus
+1401,HC148,"DSM 17952, KACC 11362",1,"Ureibacillus thermophilus",Ureibacillus
+1394,"p-11, HAMBI:1900","DSM 10633, HAMBI 1900, CIP 104857, KCTC 13004",1,"Ureibacillus thermosphaericus",Ureibacillus
+1395,29A,"DSM 12655",0,"Ureibacillus thermosphaericus",Ureibacillus
+144378,,"CCUG 24808",0,"Ureibacillus thermosphaericus",Ureibacillus
+153360,,"CCUG 49329",0,"Ureibacillus thermosphaericus",Ureibacillus
+156715,,"CCUG 64367",0,"Ureibacillus thermosphaericus",Ureibacillus
+160188,FC2,"DSM 100581",0,"Urinicoccus massiliensis",Urinicoccus
+132258,Bamse61,"DSM 28138, CCUG 65145",1,"Ursidibacter arcticus",Ursidibacter
+132257,PB43106,"DSM 28137, CCUG 65144",1,"Ursidibacter maritimus",Ursidibacter
+10505,1258/02,"CIP 108700, DSM 17474, CCUG 47806, CECT 5685",1,"Uruburuella suis",Uruburuella
+152860,,"CCUG 47805",0,"Uruburuella suis",Uruburuella
+130469,07_0D624,"DSM 26510, CCUG 63373",1,"Uruburuella testudinis",Uruburuella
+166894,Swamp67,"LMG 29997, CECT 9242, DSM 104440",1,"Usitatibacter palustris",Usitatibacter
+167046,0125_3,"LMG 29998, DSM 104443, CECT 9241",1,"Usitatibacter rugosus",Usitatibacter

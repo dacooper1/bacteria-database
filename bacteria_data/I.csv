@@ -1,0 +1,156 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+17737,F12,"DSM 19957, KCTC 19879, NBRC 102561",1,"Iamia majanohamensis",Iamia
+131330,Th6,"DSM 26283, JCM 18636, KCTC 32140",1,"Psychroserpens magnus",Psychroserpens
+141119,JBKA-6,"ATCC BAA-2465, JCM 18228",1,"Ichthyobacterium seriolicida",Ichthyobacterium
+169995,3Y2,"KCTC 82813, GDMCC 1.2584",1,"Ideonella alba",Ideonella
+169996,4Y11,"GDMCC 1.1935, JCM 34285",1,"Ideonella aquatica",Ideonella
+17955,1a22,"DSM 21438, JCM 15503",1,"Ideonella azotifigens",Ideonella
+170529,"B 7","LMG 32345, NCAIM B.02664",1,"Ideonella benzenivorans",Ideonella
+137263,,"CIP 104251, CCUG 30977, CCUG 30898, ATCC 51718",1,"Ideonella dechloratans",Ideonella
+167235,TBM-1,"LMG 31339, BCRC 81199",1,"Ideonella livida",Ideonella
+170530,NS12-5,"KACC 22691, TBRC 16346",1,"Ideonella oryzae",Ideonella
+141120,KBP-31,"BCRC 80524, KCTC 32238",1,"Ideonella paludis",Ideonella
+140803,201-F6,"NBRC 110686, TISTR 2288, DSM 112585",1,"Piscinibacter sakaiensis",Piscinibacter
+161524,,"JCM 14686",0,"Ideonella sp.",Ideonella
+161933,,"JCM 17105",0,"Ideonella sp.",Ideonella
+6228,,"DSM 15222, ATCC BAA-312, KMM 227, CIP 107408",1,"Idiomarina abyssalis",Idiomarina
+164110,,"JCM 31645, LMG 29773",1,"Pseudidiomarina andamanensis",Pseudidiomarina
+170057,"SN 14","CECT 8360, CCM 8471, LMG 27613",1,"Idiomarina aquatica",Idiomarina
+6226,OS145,"DSM 15154, LMG 21691, CIP 107824",1,"Idiomarina baltica",Idiomarina
+6227,OS-146,"DSM 15155",0,"Idiomarina baltica",Idiomarina
+6231,F23,"DSM 16139",1,"Idiomarina fontislapidosi",Idiomarina
+172821,F23,"CIP 108573, CECT 5859, LMG 22169",1,"Idiomarina fontislapidosi",Idiomarina
+133925,SW104,"CGMCC 1.10824, JCM 18138",1,"Idiomarina indica",Idiomarina
+6229,L2-TR,"DSM 15497, CIP 108396, ATCC BAA-735",1,"Idiomarina loihiensis",Idiomarina
+166504,ZQ330,"MCCC 1K03495, KCTC 62455",1,"Pseudidiomarina mangrovi",Pseudidiomarina
+167874,"PCU 325, TPS4-2","TISTR 2054, NBRC 108617",1,"Idiomarina piscisalsi",Idiomarina
+6232,R22,"DSM 16140",1,"Idiomarina ramblicola",Idiomarina
+173527,R22,"CIP 108572, CECT 5858, LMG 22170",1,"Idiomarina ramblicola",Idiomarina
+170602,"M 1R2S28","KCTC 92133, CGMCC 1.19026",1,"Idiomarina rhizosphaerae",Idiomarina
+6234,CL-SP19,"DSM 21922, JCM 12526, KCTC 12296, CIP 108665",1,"Idiomarina seosinensis",Idiomarina
+23067,106,"DSM 22724",0,"Idiomarina sp.",Idiomarina
+23068,82,"DSM 22726",0,"Idiomarina sp.",Idiomarina
+23069,618,"DSM 22722",0,"Idiomarina sp.",Idiomarina
+23070,615,"DSM 22723",0,"Idiomarina sp.",Idiomarina
+131105,YIM-Y3,"DSM 17052",0,"Idiomarina sp.",Idiomarina
+158049,YIM-Y3,"DSM 21166",0,"Idiomarina sp.",Idiomarina
+139893,H96B18,"DSM 22448, CGMCC 1.8464",0,"Idiomarina sp.",Idiomarina
+139894,"KWS/BacEI002/12, E-36","DSM 26509",0,"Idiomarina sp.",Idiomarina
+133294,CC-PW-9,"JCM 19757, BCRC 80745",1,"Idiomarina tyrosinivorans",Idiomarina
+169102,10-D-4,"MCCC 1A01370, CCTCC AB 209061, LMG 25227",1,"Idiomarina xiamenensis",Idiomarina
+6230,,"DSM 15924, KMM 231, CIP 107407, ATCC BAA-313",1,"Idiomarina zobellii",Idiomarina
+159851,UAE-HKU57,"CCOS 1165, NBRC 113042",1,"Ignatzschineria cameli",Ignatzschineria
+17528,FFA1,"DSM 22309, KCTC 22643, NCIM 5325",1,"Ignatzschineria indica",Ignatzschineria
+17527,L1/68,"DSM 13226, CCUG 54526, NCAIM B01938, CIP 107108, NCAIM B1938",1,"Ignatzschineria larvae",Ignatzschineria
+137375,,"CIP 109421, CCUG 53854, CSUR P16",1,"Ignatzschineria massiliensis",Ignatzschineria
+170604,HR5S32,"KCTC 92093, CGMCC 1.19435",1,"Ignatzschineria rhizosphaerae",Ignatzschineria
+155059,,"CCUG 56332",0,"Ignatzschineria sp.",Ignatzschineria
+17529,FFA3,"DSM 22310, KCTC 22644, NCIM 5326",1,"Ignatzschineria ureiclastica",Ignatzschineria
+17819,Mat9-16,"DSM 19864, NBRC 101810, JCM 16511",1,"Ignavibacterium album",Ignavibacterium
+235,1607-97,"DSM 15695, ATCC 700630, CCUG 37658, CIP 105896",1,"Ignavigranum ruoffiae",Ignavigranum
+156840,,"CCUG 65994",0,"Ignavigranum ruoffiae",Ignavigranum
+149493,,"CCUG 37841",0,"Ignavigranum ruoffiae",Ignavigranum
+150826,,"CCUG 42496",0,"Ignavigranum ruoffiae",Ignavigranum
+4191,"KIN4/1, KIN4/I","DSM 18386, JCM 14125",1,"Ignicoccus hospitalis",Ignicoccus
+4189,,"DSM 13165, ATCC 700957, Kol 8",1,"Ignicoccus islandicus",Ignicoccus
+4190,"LPC 33","DSM 13166, ATCC 700958",1,"Ignicoccus pacificus",Ignicoccus
+4192,"AQ1.S1, TG 866","DSM 17230, JCM 13409",1,"Ignisphaera aggregans",Ignisphaera
+160800,,"DSM 103486, Marseille-P3115",0,"Alterileibacterium massiliense",Alterileibacterium
+140269,NYU-BL-A3,"DSM 103668, ATCC TSD-63",1,"Ileibacterium valens",Ileibacterium
+133934,YM16-304,"NBRC 103263, KCTC 29153",1,"Ilumatobacter coccineus",Ilumatobacter
+110,YM22-133,"DSM 18936, JCM 17811, MBIC 08263",1,"Ilumatobacter fluminis",Ilumatobacter
+133933,YM16-303,"NBRC 29153, KCTC 29139",1,"Ilumatobacter nonamiensis",Ilumatobacter
+5779,10cr1,"DSM 5704, ATCC 49679",1,"Ilyobacter delafieldii",Ilyobacter
+5780,VenChi2,"DSM 6831, CCUG 48290",1,"Ilyobacter insuetus",Ilyobacter
+5777,,"DSM 2926, CuHbu CuHBu1, CuHbu 1",1,"Ilyobacter polytropus",Ilyobacter
+5778,GraTa2,"DSM 2382, ATCC 35898",1,"Ilyobacter tartaricus",Ilyobacter
+167552,17mud1-­8,"KCTC 52874, NBRC 112826",1,"Ilyomonas limi",Ilyomonas
+2473,JA132,"DSM 18805, ATCC BAA-1362, JCM 14149, MTCC 8120",1,"Imhoffiella bheemlica",Imhoffiella
+162311,,"JCM 18851, KCTC 15575, MTCC 12304",1,"Imhoffiella purpurea",Imhoffiella
+133093,TR3.2,"DSM 103040, ATCC TSD-58",1,"Immundisolibacter cernigliae",Immundisolibacter
+134040,P4,"CICC 10659, KCTC 32399, DSM 104961",0,"Imperialibacter roseus",Imperialibacter
+5746,K1,"DSM 24931, JCM 17677, MTCC 11055",1,"Imtechella halotolerans",Imtechella
+159202,WCA-383-APC-5B,"DSM 108839, JCM 34424",1,"Inconstantimicrobium porci",Inconstantimicrobium
+133554,LW1,"KCTC 22604, CCUG 57479",1,"Indibacter alkaliphilus",Indibacter
+164124,S5-TSA-19,"JCM 31737, KCTC 33871, MTCC 12608",1,"Indiicoccus explosivorum",Indiicoccus
+158434,,"DSM 105146, CGMCC 1.15812, SCSIO 08040",1,"Indioceanicola profundi",Indioceanicola
+132019,Mt12,"DSM 100590, CSUR P1907",0,"Inediibacterium massiliense",Inediibacterium
+166144,CCP-18,"BCRC 81120, LMG 30595, KCTC 62511",1,"Inhella crocodyli",Inhella
+23449,TNR-25,"DSM 27144, BCRC 80211, LMG 25721",1,"Inhella fonticola",Inhella
+167702,"4 Y10","KCTC 82338, GDMCC 1.1829",1,"Inhella gelatinilytica",Inhella
+17957,,"DSM 23958, CCUG 54308, KCTC 12791, LMG 23877, NBRC 103252, IMCC 1713, CIP 110045",1,"Inhella inkyongensis",Inhella
+167806,1Y17,"KACC 21948, GDMCC 1.1830",1,"Inhella proteolytica",Inhella
+132414,S2479,"DSM 100275, VKM B-2962",1,"Inmirania thermothiophila",Inmirania
+13942,,"DSM 25189, KCTC 12574, LMG 23638, Gsoil 080",1,"Inquilinus ginsengisoli",Inquilinus
+13941,AU476,"CIP 108342, CCM 7171, DSM 16000, CCUG 45653, LMG 20952",1,"Inquilinus limosus",Inquilinus
+139881,"579896, 103798","DSM 103798",0,"Inquilinus limosus",Inquilinus
+152055,,"CCUG 45650",0,"Inquilinus limosus",Inquilinus
+152058,,"CCUG 45656",0,"Inquilinus limosus",Inquilinus
+152185,,"CCUG 45997",0,"Inquilinus limosus",Inquilinus
+24530,"Plancto 6","DSM 13285",0,"Inquilinus sp.",Inquilinus
+156348,,"CCUG 61251",0,"Inquilinus sp.",Inquilinus
+163556,,"JCM 28675",0,"Inquilinus sp.",Inquilinus
+152198,,"CCUG 46046, LMG 20953",0,"Inquilinus sp.",Inquilinus
+14018,,"DSM 1839, ATCC 15387, NCIB 9435, CCUG 13795, NBRC 14922, LMG 4340, JCM 21450, CIP 107318, IAM 14979, IFO 14922, NCIMB 9435, IAM 13945",1,"Insolitispirillum peregrinum",Insolitispirillum
+14019,"MF 19","CCUG 49449, IAM 14946, LMG 5407, DSM 11589, ATCC 33334, IFO 13617, NBRC 13617, JCM 21428, CIP 107757",1,"Insolitispirillum peregrinum subsp. integrum",Insolitispirillum
+170424,DA-C8,"DSM 111723, JCM 34211",1,"Insulibacter thermoxylanivorax",Insulibacter
+2830,,"DSM 16795, ATCC BAA-827, CCUG 48940, WAL 16138",1,"Intestinibacter bartlettii",Intestinibacter
+167605,SG0102,"NBRC 113396, KCTC 15725",1,"Intestinibaculum porci",Intestinibaculum
+24772,SRB-521-5-l,"DSM 26588, CCUG 63529, KCTC 15744, JCM 32124",1,"Intestinimonas butyriciproducens",Intestinimonas
+132161,Sanger_35,"DSM 102175",0,"Intestinimonas butyriciproducens",Intestinimonas
+159587,27-5-10,"DSM 104946",0,"Intestinimonas butyriciproducens",Intestinimonas
+140057,AP4,"DSM 26097",0,"Intestinimonas butyriciproducens",Intestinimonas
+169637,"afr 2-1.1, AF211","DSM 26243",0,"Intestinimonas butyriciproducens",Intestinimonas
+140323,GD2,"DSM 100417, CSUR P1930",1,"Intestinimonas massiliensis",Intestinimonas
+132024,GD4,"DSM 100769, CSUR P2010",0,"Intestinimonas timonensis",Intestinimonas
+167129,"BIT- B35","KCTC 72448, CGMCC 1.17042",1,"Intestinirhabdus alba",Intestinirhabdus
+6242,"No.7 KIP","DSM 43043, ATCC 23552, CUB 430, IFO 12989, IMET 7816, JCM 3097, KCC A-0097, NBRC 12989, NCIB 10167, CGMCC 4.5633, IAM 14907, IMSNU 21320, IMSNU 22007, KACC 20040, KCTC 9122, KCTC 9796, MTCC 499, NCIMB 10167, NRRL B-3866, PCM 2332, RIA 920, VKM Ac-701",1,"Intrasporangium calvum",Intrasporangium
+6243,KIP,"DSM 25090, IMET 7839",0,"Intrasporangium calvum",Intrasporangium
+6244,"KIP 7","DSM 25091, IMET 7816",0,"Intrasporangium calvum",Intrasporangium
+105474,"STH00258(ZIMET), FSU-3728, ST 00434","HKI 0258",0,"Intrasporangium calvum",Intrasporangium
+105475,SF001136(FSU),,0,"Intrasporangium calvum",Intrasporangium
+130357,4LS1,"DSM 23577",0,"Intrasporangium calvum",Intrasporangium
+6246,Q5-1,"DSM 25801, CCTCC Aa 2010019, CGMCC 1.10750, KCTC 19811, NRRL B-59521, JCM 18316",1,"Intrasporangium chromatireducens",Intrasporangium
+132373,,"DSM 29621, MCCC 1K00454, NBRC 110749, MUSC 78",1,"Intrasporangium flavum",Intrasporangium
+6247,,"DSM 23217, CCTCC AA 209077, JCM 19548, YIM 49065",1,"Intrasporangium mesophilum",Intrasporangium
+6245,KV-657,"DSM 22331, JCM 15924, NBRC 101802, NRRL B-24470, CIP 109705",1,"Intrasporangium oryzae",Intrasporangium
+138722,,"CIP 100004",0,"Intrasporangium oryzae",Intrasporangium
+161542,,"JCM 14774",0,"Intrasporangium sp.",Intrasporangium
+140335,TT07R-051,"DSM 24456, NBRC 107105",0,"Intrasporangium sp.",Intrasporangium
+140336,IY07-96,"DSM 24459, NBRC 106457",0,"Intrasporangium sp.",Intrasporangium
+162119,,"JCM 17844, LMG 28661",1,"Iodidimonas gelatinilytica",Iodidimonas
+162120,,"JCM 17845, LMG 28662",0,"Iodidimonas gelatinilytica",Iodidimonas
+133277,C-3,"JCM 17843, LMG 28660",1,"Iodidimonas muriae",Iodidimonas
+130823,M4-16,"DSM 100243, CIP 110311, MTCC 11351, CCUG 62945, CIP 1103011",1,"Iodobacter arcticus",Iodobacter
+164502,H11R3,"JCM 33283, KCTC 62666",1,"Iodobacter ciconiae",Iodobacter
+10460,2236,"DSM 3764, ATCC 33051, CCM 3308, NCTC 11159, CCUG 30103, JCM 9044, CIP 103351, IAM 13652, LMG 6630, NBRC 102505, NCIMB 2053",1,"Iodobacter fluviatilis",Iodobacter
+100562,ST033265(HKI),,0,"Iodobacter fluviatilis",Iodobacter
+138787,2237,"CIP 103352, CCM 3309, NCTC 11160",0,"Iodobacter fluviatilis",Iodobacter
+132145,E1,"DSM 103822, CCTCC AB 2010224, NRRL B-59456",1,"Iodobacter limnosediminis",Iodobacter
+131522,2PG-426-CC-4.2,"DSM 28593, KCTC 28593",1,"Irregularibacter muris",Irregularibacter
+166942,Z-1701,"VKM B-3261, JCM 32929, DSM 109060",1,"Isachenkonia alkalipeptolytica",Isachenkonia
+2277,M577-94,"DSM 13760, CCUG 37660, CIP 107375",1,"Isobaculum melis",Isobaculum
+169049,"8111, SMG 176, Sta. Cruz","ATCC 25588, DSM 176",1,"Isochromatium buderi",Isochromatium
+24345,06182M-1,"DSM 27643, BCRC 16888, JCM 18063, KCTC 19740",1,"Isoptericola chiayiensis",Isoptericola
+132577,AP-38,"DSM 101603, LMG 29223, CCM 8653, JCM 31758, CIP 110981",1,"Isoptericola cucumis",Isoptericola
+138458,DS-3,"CIP 108921, KCTC 19128, JCM 15137",1,"Isoptericola dokdonensis",Isoptericola
+167308,,"KCTC 49061, CFH 91151, DSM 105976",1,"Isoptericola halalbus",Isoptericola
+12584,,"DSM 16376, KCTC 19046, YIM 70177, JCM 13590, NBRC 104116, CIP 108968",1,"Isoptericola halotolerans",Isoptericola
+12585,CD12E2-119,"DSM 16849, CIP 108902, HKI 0342, NBRC 104396, NCIMB 14033, JCM 15589, JCM 14325",1,"Isoptericola hypogeus",Isoptericola
+12586,CLG,"DSM 21863, CCTCC AB 208287, JCM 17812",1,"Isoptericola jiangsuensis",Isoptericola
+12587,H17,"DSM 24300, CCTCC AB 2011005, JCM 19549",1,"Isoptericola nanjingensis",Isoptericola
+162447,,"JCM 19252, MTCC 11080",1,"Isoptericola rhizophila",Isoptericola
+161694,,"JCM 15901, KCTC 19617",1,"Isoptericola salitolerans",Isoptericola
+103271,SF001060(FSU),,0,"Isoptericola sp.",Isoptericola
+159496,,"DSM 18230, YIM 90497",0,"Isoptericola sp.",Isoptericola
+159497,,"DSM 19799, YIM 90731",0,"Isoptericola sp.",Isoptericola
+159498,MP105-24,"DSM 29724",0,"Isoptericola sp.",Isoptericola
+162384,,"JCM 19051",0,"Isoptericola sp.",Isoptericola
+139926,,"DSM 21150, JSM 077025",0,"Isoptericola sp.",Isoptericola
+139927,BL-18,"DSM 21904, ATCC BAA-1712",0,"Isoptericola sp.",Isoptericola
+139928,,"DSM 22746, YIM 93601",0,"Isoptericola sp.",Isoptericola
+12583,MX5,"DSM 10177, ATCC BAA-303, CIP 109082, JCM 11754, KCTC 9985, NBRC 104115",1,"Isoptericola variabilis",Isoptericola
+168602,IS1B,"ATCC 43644, DSM 9630",1,"Isosphaera pallida",Isosphaera
+158282,D4N98,"DSM 105030, LMG 30066",1,"Izhakiella australiensis",Izhakiella
+132465,N6PO6,"DSM 29293, LMG 28430",1,"Izhakiella capsodis",Izhakiella
+132464,N8PO1,"DSM 29292, LMG 28431",0,"Izhakiella capsodis",Izhakiella

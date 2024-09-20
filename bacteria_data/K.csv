@@ -1,0 +1,1730 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+170166,H3001,"CCUG 73276, CIP 111694",1,"Kaistella daneshvariae",Kaistella
+170167,7-3A,"CCTCC AB 2016141, KCTC 52492",1,"Kaistella flava",Kaistella
+159535,,"DSM 18886, YIM 47657",0,"Kaistella flava",Kaistella
+170165,G5-32,"KCTC 72766, CCTCC AA 2019083",1,"Kaistella gelatinilytica",Kaistella
+169785,Sa1CV4A,"DSM 112388",0,"Kaistella pullorum",Kaistella
+170775,DKR-2,"NBRC 114725, KACC 22070",1,"Kaistella soli",Kaistella
+169216,JJC,"DSM 29251, KCTC 23266, ATCC BAA-2161",1,"Kaistella zaccaria",Kaistella
+13563,"CHj 404","DSM 17808, IAM 15023, JCM 21486, KCTC 12095, CIP 108816",1,"Kaistia adipata",Kaistia
+159825,,"JCM 31803, KACC 19096, LYH 11",1,"Kaistia algarum",Kaistia
+13567,B6-8,"DSM 18800, KCTC 12850",1,"Kaistia dalseonensis",Kaistia
+133806,B6-12,"KCTC 23766, JCM 18034",1,"Kaistia defluvii",Kaistia
+13568,B1-1,"DSM 18799, KCTC 12849",1,"Kaistia geumhonensis",Kaistia
+13564,Ko04,"DSM 23481, KCTC 12575, LMG 23410",1,"Kaistia granuli",Kaistia
+24471,E94,"DSM 25966, CCM 8401, CIP 110381, LMG 26925",1,"Kaistia hirudinis",Kaistia
+170699,K-TC2,"CCM 9239, CCOS 2022",1,"Kaistia nematophila",Kaistia
+13565,5YN9-8,"DSM 19436, KACC 12605",1,"Kaistia soli",Kaistia
+100590,STH00153(ZIMET),"HKI 0153",0,"Kaistia soli",Kaistia
+130594,17,"DSM 8896, ATCC 27833",0,"Kaistia sp.",Kaistia
+13566,5YN7-3,"DSM 21341, KACC 12910",1,"Kaistia terrae",Kaistia
+159357,IIIF1SW-P2,"DSM 108198, NRRL B-65522",0,"Pantoea piersonii",Pantoea
+160809,GM4,"DSM 100575",0,"Kallipyga gabonensis",Kallipyga
+160745,Ph2,"DSM 26229, CSUR P241",1,"Kallipyga massiliensis",Kallipyga
+24804,JKG1,"DSM 26889, JCM 19132",1,"Kallotenue papyrolyticum",Kallotenue
+159856,XY-R6,"MCCC 1K01498, KCTC 52266, DSM 104294",1,"Kandeliimicrobium roseum",Kandeliimicrobium
+5378,"RL 2, T 185","DSM 20405, ATCC 27783, CCUG 32236, JCM 1143, JCM 8228, LMG 18931, CIP 103154, NRRL B-14854, BCRC 14621, KCTC 3578, LMG 17754, LMG 18316, LMG 9474, NCFB 2030, NCIMB 702030, NCDO 2030",1,"Kandleria vitulina",Kandleria
+397,SW-154,"DSM 16071, KCTC 12183, JCM 12318",1,"Kangiella aquimarina",Kangiella
+133675,YCS-5,"KCTC 23420, CCUG 60526",1,"Kangiella geojedonensis",Kangiella
+133576,,"NRIC 0764, JCM 16211, KMM 3899",1,"Kangiella japonica",Kangiella
+396,SW-125,"DSM 16069, KCTC 12182, JCM 12317",1,"Kangiella koreensis",Kangiella
+133782,KM1,"BCRC 80329, JCM 17728",1,"Kangiella marina",Kangiella
+163748,,"JCM 30232, CGMCC 1.12959, KCTC 42297",1,"Kangiella profundi",Kangiella
+133836,BB-Mw22,"KCTC 23892, CCUG 62217",1,"Kangiella sediminilitoris",Kangiella
+170063,PI,"KCTC 82509, MCCC 1K04352",1,"Kangiella shandongensis",Kangiella
+140401,P2C19,"DSM 24501",0,"Kangiella sp.",Kangiella
+398,A79,"DSM 23219, ATCC BAA-2076",1,"Kangiella spongicola",Kangiella
+133783,KT1,"BCRC 80330, JCM 17727",1,"Kangiella taiwanensis",Kangiella
+167273,GH1-50,"KCTC 72224, NBRC 113929",1,"Kangsaoukella pontilimi",Kangsaoukella
+22970,KD-1,"DSM 26752, JCM 18769",1,"Keratinibaculum paraultunense",Keratinibaculum
+354,"3925, R-20010","DSM 16618, CCUG 47000, LMG 5906, CIP 108214, Api 184-2-84",1,"Kerstersia gyiorum",Kerstersia
+144352,,"CCUG 24721, LMG 15539",0,"Kerstersia gyiorum",Kerstersia
+144356,,"CCUG 24726, LMG 15542, LMG 5895",0,"Kerstersia gyiorum",Kerstersia
+147697,,"CCUG 34029, LMG 15979",0,"Kerstersia gyiorum",Kerstersia
+152691,,"CCUG 47381",0,"Kerstersia gyiorum",Kerstersia
+133793,,"CCUG 46999, LMG 5890, CIP 111651, Api 145-2-84",1,"Kerstersia similis",Kerstersia
+152523,,"CCUG 46998, LMG 5891",0,"Kerstersia sp.",Kerstersia
+159863,GI5,"KCTC 52659, JCM 31835",1,"Ketobacter alkanivorans",Ketobacter
+167245,GYS_M3H,"MCCC 1A13808, KCTC 72247",1,"Ketobacter nezhaii",Ketobacter
+132020,Mt13,"DSM 100591, CSUR P1935",0,"Haloimpatiens massiliensis",Haloimpatiens
+13290,,"DSM 43828, ATCC 39323, IFO 14493, JCM 7912, NBRC 14493, HUT 6562, IMSNU 21282, KACC 20025, KCTC 9293, NRRL B-16436, VKM Ac-1316",1,"Kibdelosporangium aridum",Kibdelosporangium
+13291,,"DSM 44150, ATCC 39922, IFO 15152, NBRC 15152, JCM 9107, IMSNU 21347, KCTC 9363, NRRL B-24462",1,"Kibdelosporangium aridum subsp. largum",Kibdelosporangium
+132398,"F-240,109","DSM 46670, LMG 28181",1,"Kibdelosporangium banguiense",Kibdelosporangium
+140582,K08-0175,"DSM 103925, TBRC 6786, NBRC 112388",1,"Kibdelosporangium kanagawaense",Kibdelosporangium
+132225,,"DSM 102252, KCTC 29675, MCCC 1K00430, XMU 506, JCM 31486",1,"Kibdelosporangium lantanae",Kibdelosporangium
+133307,"KC 266","KCTC 39719, CCTCC AA 2016002",1,"Kibdelosporangium metalli",Kibdelosporangium
+160543,4NS15,"DSM 110728, NCCB 100701, CIP 111705",1,"Kibdelosporangium persicum",Kibdelosporangium
+13292,A80407,"DSM 44226, ATCC 49844, NRRL 18198, JCM 9918, IFO 14839, IFO 15154, KCTC 9838, NBRC 14839, NBRC 15154, NCIMB 13200",1,"Kibdelosporangium philippinense",Kibdelosporangium
+132134,,"DSM 104448, CCTCC AA 2010001, KCTC 19775, KLBMP 1111, JCM 31487",1,"Kibdelosporangium phytohabitans",Kibdelosporangium
+140583,K10-0543,"NBRC 112389, TBRC 6787, DSM 103926",1,"Kibdelosporangium rhizosphaerae",Kibdelosporangium
+140584,K12-0791,"DSM 103985, TBRC 6788, NBRC 112390",1,"Kibdelosporangium rhizovicinum",Kibdelosporangium
+140549,soj2014,"KCTC 42186, JCM 30386",1,"Kiloniella antarctica",Kiloniella
+17694,LD81,"DSM 19542, JCM 14845, NCIMB 14374",1,"Kiloniella laminariae",Kiloniella
+168757,M56.1,"CECT 9195, LMG 29925",1,"Kiloniella majae",Kiloniella
+162674,,"JCM 19930, KCCM 43040",1,"Kiloniella spongiae",Kiloniella
+161357,,"JCM 13414, KCCM 42262",0,"Kiloninella sp.",Kiloninella
+166142,F02,"KCTC 52616, MCCC 1H00224",1,"Kineobactrum sediminis",Kineobactrum
+6316,"RA 333","DSM 7487, ATCC 51238, IFO 15268, NBRC 15268, CCUG 44589, CIP 105426, JCM 10180, CCM 4366, NCFB 3013, NCIMB 13309, VKM Ac-1947",1,"Kineococcus aurantiacus",Kineococcus
+158283,,"DSM 102158, KCTC 39739, YIM 121940",1,"Kineococcus aureolus",Kineococcus
+164075,,"JCM 31488, KCTC 19886, NBRC 108674",1,"Kineococcus endophyticus",Kineococcus
+6320,,"DSM 26692, CCTCC AA 209075, JCM 18126, YIM 75677, NBRC 111526",1,"Kineococcus glutinatus",Kineococcus
+134344,KKD096,"TISTR 1856, NRRL B-24568, BCC 26245, NBRC 103943, JCM 15972, KACC 14421",1,"Kineococcus gynurae",Kineococcus
+131474,,"DSM 27627, CCTCC AA 2013232, KCTC 39765, YIM 121300, JCM 31746, CCTCC AB 2013232",1,"Kineococcus gypseus",Kineococcus
+160125,T90,"DSM 110026",0,"Kineococcus indalonis",Kineococcus
+140890,L2-1-L1,"BCC 75409, NBRC 110933",1,"Kineococcus mangrovi",Kineococcus
+6317,"SRS30216, SRS 30216","DSM 14245, ATCC BAA-149, JCM 12686, CIP 107704, NBRC 101839",1,"Kineococcus radiotolerans",Kineococcus
+6318,RP-B16,"DSM 19711, JCM 16541, KCTC 19366",1,"Kineococcus rhizosphaerae",Kineococcus
+160322,B12,"DSM 110506, NRRL B-65556",1,"Kineococcus rubinsiae",Kineococcus
+160323,T28,"DSM 110025",0,"Kineococcus siccus",Kineococcus
+103041,ST000621(HKI),,0,"Kineococcus sp.",Kineococcus
+103042,ST000627(HKI),,0,"Kineococcus sp.",Kineococcus
+103043,ST000645(HKI),,0,"Kineococcus sp.",Kineococcus
+103044,ST000659(HKI),,0,"Kineococcus sp.",Kineococcus
+103045,ST000662(HKI),,0,"Kineococcus sp.",Kineococcus
+103046,ST000664(HKI),,0,"Kineococcus sp.",Kineococcus
+103047,ST000674(HKI),,0,"Kineococcus sp.",Kineococcus
+103048,ST000660(HKI),,0,"Kineococcus sp.",Kineococcus
+103049,ST000663(HKI),,0,"Kineococcus sp.",Kineococcus
+103050,ST000641(HKI),,0,"Kineococcus sp.",Kineococcus
+103051,ST000608(HKI),,0,"Kineococcus sp.",Kineococcus
+103052,ST000609(HKI),,0,"Kineococcus sp.",Kineococcus
+103053,ST000611(HKI),,0,"Kineococcus sp.",Kineococcus
+103054,ST000613(HKI),,0,"Kineococcus sp.",Kineococcus
+103055,ST000616(HKI),,0,"Kineococcus sp.",Kineococcus
+103056,ST000618(HKI),,0,"Kineococcus sp.",Kineococcus
+158284,,"DSM 102155, KCTC 39738, YIM 121936",1,"Kineococcus terrestris",Kineococcus
+160324,T13,"DSM 110024",0,"Kineococcus vitellinus",Kineococcus
+6319,S2-20,"DSM 22857, KCTC 19474, CCTCC AB 207179, JCM 16219, NBRC 107624, CIP 110123",1,"Kineococcus xinjiangensis",Kineococcus
+3941,"Lpha5, 225","CCUG 57105, DSM 14548, JCM 11399, NBRC 100340",1,"Kineosphaera limosa",Kineosphaera
+130279,403,"DSM 14549, JCM 11400",0,"Kineosphaera sp.",Kineosphaera
+6321,A/10312,"DSM 43858, ATCC 29727, IFO 13890, IFO 14067, JCM 3230, KCC A-0230, NBRC 13890, NBRC 14067, NRRL B-16913, BCRC 13431, HUT 6563, IMSNU 21365, IMSNU 22002, KCTC 9189, KCTC 9364, NCIMB 11473, VKM Ac-702",1,"Kineosporia aurantiaca",Kineosporia
+166084,,"JCM 9958",0,"Kineosporia aurantiaca",Kineosporia
+128647,ST033320(HKI),,0,"Kineosporia aurantiaca",Kineosporia
+166082,,"JCM 9955",0,"Kineosporia aurantiaca",Kineosporia
+6327,VN05A0415,"DSM 45444, JCM 31032, NBCR 104154, VTCC A-0961, NBRC 104154",1,"Kineosporia babensis",Kineosporia
+161870,,"JCM 16804, VTCC A-1732",0,"Kineosporia babensis",Kineosporia
+168282,J2-2,"NBRC 114885, TBRC 13504",1,"Kineosporia corallincola",Kineosporia
+6328,,"DSM 45271, CCTCC AA 208061, JCM 16902, YIM 65293",1,"Kineosporia mesophila",Kineosporia
+6325,I-463,"DSM 44390, JCM 9961, CIP 105755, IFO 16234, NBRC 16234",1,"Kineosporia mikuniensis",Kineosporia
+6322,I-132,"DSM 44387, JCM 9954, CIP 105752, IFO 16231, NBRC 16231",1,"Kineosporia rhamnosa",Kineosporia
+137305,I-113,"CIP 105751, JCM 9953",0,"Kineosporia rhamnosa",Kineosporia
+6324,I-449,"DSM 44389, JCM 9960, CIP 105754, IFO 16233, NBRC 16233",1,"Kineosporia rhizophila",Kineosporia
+137302,I-468,"CIP 105756, JCM 9962",0,"Kineosporia rhizophila",Kineosporia
+128648,"STI40621(IMET), IPV63x",,0,"Kineosporia rhizophila",Kineosporia
+6326,06-3147,"DSM 45115",0,"Kineosporia sp.",Kineosporia
+128649,"ST005178(HKI), INA872/54","IMET 40124",0,"Kineosporia sp.",Kineosporia
+6323,I-273,"DSM 44388, JCM 9957, CIP 105753, IFO 16232, NBRC 16232",1,"Kineosporia succinea",Kineosporia
+137304,I-092,"CIP 105750, JCM 9952",0,"Kineosporia succinea",Kineosporia
+166083,,"JCM 9956",0,"Kineosporia succinea",Kineosporia
+166085,,"JCM 9959",0,"Kineosporia succinea",Kineosporia
+133070,KNHs209,"DSM 100556, ATCC TSD-26",1,"Kineothrix alysoides",Kineothrix
+10462,A358/72,"DSM 10202, ATCC 33394, NCTC 10995, CIP 103473, CCUG 6516",1,"Kingella denitrificans",Kingella
+143161,,"CCUG 17601",0,"Kingella denitrificans",Kingella
+135809,"B 6992, A359/72)","CIP 80.22, NCTC 10996",0,"Kingella denitrificans",Kingella
+135810,A140/74,"CIP 80.23, NCTC 10997",0,"Kingella denitrificans",Kingella
+143240,,"CCUG 17990",0,"Kingella denitrificans",Kingella
+143286,,"CCUG 18262",0,"Kingella denitrificans",Kingella
+145822,,"CCUG 29699",0,"Kingella denitrificans",Kingella
+142443,,"CCUG 12510",0,"Kingella denitrificans",Kingella
+142496,,"CCUG 12687",0,"Kingella denitrificans",Kingella
+142558,,"CCUG 12982",0,"Kingella denitrificans",Kingella
+155148,,"CCUG 56605",0,"Kingella denitrificans",Kingella
+155279,,"CCUG 57179",0,"Kingella denitrificans",Kingella
+139180,363.84,"CIP 100869",0,"Kingella denitrificans",Kingella
+142802,,"CCUG 14935",0,"Kingella denitrificans",Kingella
+142804,,"CCUG 14999",0,"Kingella denitrificans",Kingella
+142887,,"CCUG 15578",0,"Kingella denitrificans",Kingella
+137978,344-86,"CIP 102352",0,"Kingella denitrificans",Kingella
+137056,341-86,"CIP 102353",0,"Kingella denitrificans",Kingella
+143067,,"CCUG 16771",0,"Kingella denitrificans",Kingella
+145370,,"CCUG 28284",0,"Kingella denitrificans",Kingella
+143068,,"CCUG 16772",0,"Kingella denitrificans",Kingella
+145374,,"CCUG 28308",0,"Kingella denitrificans",Kingella
+143069,,"CCUG 16773",0,"Kingella denitrificans",Kingella
+10461,4177/66,"CCUG 352, NCTC 10529, DSM 7536, ATCC 23330, CIP 80.16, CCM 5679, JCM 1479",1,"Kingella kingae",Kingella
+141474,,"CCUG 2136",0,"Kingella kingae",Kingella
+143119,,"CCUG 17260",0,"Kingella kingae",Kingella
+147047,,"CCUG 32736",0,"Kingella kingae",Kingella
+154759,,"CCUG 55102",0,"Kingella kingae",Kingella
+141475,,"CCUG 2137",0,"Kingella kingae",Kingella
+143156,,"CCUG 17526",0,"Kingella kingae",Kingella
+135807,,"CIP 80.18, ATCC 23332, NCTC 10746",0,"Kingella kingae",Kingella
+145587,,"CCUG 28875",0,"Kingella kingae",Kingella
+156042,,"CCUG 60176",0,"Kingella kingae",Kingella
+145691,,"CCUG 29267",0,"Kingella kingae",Kingella
+150318,,"CCUG 39627",0,"Kingella kingae",Kingella
+141684,,"CCUG 4726 A",0,"Kingella kingae",Kingella
+143234,,"CCUG 17922",0,"Kingella kingae",Kingella
+144443,,"CCUG 24975",0,"Kingella kingae",Kingella
+150450,,"CCUG 39964",0,"Kingella kingae",Kingella
+144487,,"CCUG 25275",0,"Kingella kingae",Kingella
+153556,,"CCUG 50167 A",0,"Kingella kingae",Kingella
+100215,ST032442(HKI),,0,"Kingella kingae",Kingella
+154996,,"CCUG 56011",0,"Kingella kingae",Kingella
+100216,"ST027324(HKI), F156, Nü47",,0,"Kingella kingae",Kingella
+141958,,"CCUG 8762 B",0,"Kingella kingae",Kingella
+156270,,"CCUG 60968",0,"Kingella kingae",Kingella
+143561,,"CCUG 20134",0,"Kingella kingae",Kingella
+142606,,"CCUG 13271",0,"Kingella kingae",Kingella
+156613,,"CCUG 63569",0,"Kingella kingae",Kingella
+144694,,"CCUG 26280",0,"Kingella kingae",Kingella
+151669,,"CCUG 44570",0,"Kingella kingae",Kingella
+142736,,"CCUG 14290",0,"Kingella kingae",Kingella
+149207,,"CCUG 37277",0,"Kingella kingae",Kingella
+151756,,"CCUG 44801",0,"Kingella kingae",Kingella
+142754,,"CCUG 14452",0,"Kingella kingae",Kingella
+142794,,"CCUG 14853",0,"Kingella kingae",Kingella
+151786,,"CCUG 44878",0,"Kingella kingae",Kingella
+156770,,"CCUG 65027",0,"Kingella kingae",Kingella
+146134,,"CCUG 30428",0,"Kingella kingae",Kingella
+142874,,"CCUG 15480",0,"Kingella kingae",Kingella
+156832,,"CCUG 65960",0,"Kingella kingae",Kingella
+146266,,"CCUG 30752",0,"Kingella kingae",Kingella
+137772,553.85,"CIP 101722",0,"Kingella kingae",Kingella
+151993,,"CCUG 45468",0,"Kingella kingae",Kingella
+156849,,"CCUG 66057",0,"Kingella kingae",Kingella
+144912,,"CCUG 27051 C",0,"Kingella kingae",Kingella
+145036,,"CCUG 27488",0,"Kingella kingae",Kingella
+149598,,"CCUG 38034",0,"Kingella kingae",Kingella
+138016,474-86,"CIP 102470",0,"Kingella kingae",Kingella
+145048,,"CCUG 27520",0,"Kingella kingae",Kingella
+142971,,"CCUG 15968",0,"Kingella kingae",Kingella
+150820,,"CCUG 42447",0,"Kingella kingae",Kingella
+145076,,"CCUG 27607",0,"Kingella kingae",Kingella
+143625,,"CCUG 20639",0,"Kingella kingae",Kingella
+149677,,"CCUG 38166",0,"Kingella kingae",Kingella
+148070,,"CCUG 34766",0,"Kingella kingae",Kingella
+141210,,"CCUG 200 B",0,"Kingella kingae",Kingella
+150920,,"CCUG 42753",0,"Kingella kingae",Kingella
+149972,,"CCUG 38773",0,"Kingella kingae",Kingella
+153886,,"CCUG 51499",0,"Kingella kingae",Kingella
+146794,,"CCUG 32129 B",0,"Kingella kingae",Kingella
+142559,,"CCUG 12986",0,"Kingella kingae",Kingella
+150050,,"CCUG 38916",0,"Kingella kingae",Kingella
+156453,,"CCUG 61871",0,"Kingella kingae",Kingella
+153108,,"CCUG 48511",0,"Kingella kingae",Kingella
+136098,475-86,"CIP 102473",0,"Kingella kingae",Kingella
+151032,,"CCUG 43105",0,"Kingella kingae",Kingella
+142561,,"CCUG 13024",0,"Kingella kingae",Kingella
+134807,,"CIP 68.12, ATCC 23331, NCTC 10745",0,"Kingella kingae",Kingella
+155401,,"CCUG 57605",0,"Kingella kingae",Kingella
+142562,,"CCUG 13025",0,"Kingella kingae",Kingella
+134808,,"CIP 68.13",0,"Kingella kingae",Kingella
+137598,"Clé, 375-79","CIP 79.42",0,"Kingella kingae",Kingella
+142599,,"CCUG 13202",0,"Kingella kingae",Kingella
+134831,449-79,"CIP 73.1",0,"Kingella kingae",Kingella
+155499,,"CCUG 57898",0,"Kingella kingae",Kingella
+142604,,"CCUG 13250",0,"Kingella kingae",Kingella
+140547,,"CSUR P957, CCUG 69806, SCH Sch538",1,"Kingella negevensis",Kingella
+10463,"UB 38(Dewhirst), UB-38","DSM 18271, ATCC 51147, CCM 4589, CCUG 30450, CIP 103803, FDC UB-38",1,"Kingella oralis",Kingella
+10464,3/SID/1128,"DSM 18304, CCUG 49773, CIP 108935, NCTC 13336",1,"Kingella potus",Kingella
+150709,,"CCUG 42026",0,"Kingella sp.",Kingella
+151617,,"CCUG 44465",0,"Wielerella bovis",Wielerella
+3031,KIN192,"DSM 25082, CCUG 53117, CECT 7319",1,"Roseateles asaccharophilus",Roseateles
+160293,DAIF2,"DSM 112015",0,"Roseateles sp.",Roseateles
+132503,L21-Fru-AB,"DSM 26986, JCM 19195",1,"Kiritimatiella glycovorans",Kiritimatiella
+163687,,"JCM 30010, CCUG 65711",1,"Kistimonas alittae",Kistimonas
+133556,,"KCCM 90076, JCM 15607, KMD 001, DSM 21796, NCIMB 14710",1,"Kistimonas asteriae",Kistimonas
+133798,A36,"KACC 16204, JCM 17805",1,"Kistimonas scapharcae",Kistimonas
+14880,S-66,"DSM 40033, ATCC 23869, CBS 608.68, IFO 12830, ISP 5033, JCM 4170, KCC S-0170, NBRC 12830, NRRL B-2218, RIA 1107, ISM 1083, BCRC 11617, CBS 280.60, CECT 3315, CGMCC 4.1469, IFM 1083, IMET 43081, IMSNU 21005, JCM 4613, KACC 20033, KCTC 9663, LMG 19305, NRRL ISP-5033, RIA 732, VKM Ac-1868",1,"Kitasatospora aburaviensis",Kitasatospora
+127841,ST031490(HKI),,0,"Kitasatospora aburaviensis",Kitasatospora
+127842,ST031491(HKI),,0,"Kitasatospora aburaviensis",Kitasatospora
+127843,ST031492(HKI),,0,"Kitasatospora aburaviensis",Kitasatospora
+127844,ST027566(HKI),,0,"Kitasatospora aburaviensis",Kitasatospora
+164236,,"JCM 32302, KCTC 49011",1,"Kitasatospora acidiphila",Kitasatospora
+14939,"304 R7","DSM 40570, ATCC 27414, CBS 766.72, IFO 13465, ISP 5570, JCM 4716, NBRC 13465, RIA 1426, BCRC 15179, CGMCC 4.1661, KCTC 9676, KCTC 9749, NRRL B-3604, NRRL ISP-5570, VKM Ac-704",1,"Kitasatospora albolonga",Kitasatospora
+14860,2291-120,"DSM 44785, HKI 0189, NCIMB 13973, JCM 13002, BCRC 16815, IAM 15268, NBRC 101834",1,"Kitasatospora arboriphila",Kitasatospora
+128541,ST033384(HKI),,0,"Kitasatospora arboriphila",Kitasatospora
+14850,K55-G-32,"DSM 41649, AS 4.1582, ATCC 51343, IFO 14327, JCM 3337, NBRC 14327, NRRL B-24282, VKM Ac-2005, CGMCC 4.1248, CGMCC 4.1582, IAM 15281, NRRL B-16502",1,"Kitasatospora atroaurantiaca",Kitasatospora
+15015,A-377,"DSM 40127, ATCC 10762, ATCC 23884, CBS 664.68, IFO 12594, IFO 12843, ISP 5127, JCM 4008, KACC 20180, NBRC 12594, NBRC 12843, NRRL 2209, RIA 1129, BCRC 11610, CBS 434.51, CCM 3239, CECT 3206, CGMCC 4.0568, CIP 57.11, HAMBI 1072, HAMBI 313, HUT 6048, HUT 6097, ICMP 499, IFM 1042, IFM 1218, IFM 1219, IFO 3712, IMET 43577, JCM 4624, LMG 5968, MTCC 325, NBIMCC 3424, NBRC 3712, NCAIM B.01479, NCIMB 8234, NRRL B-2183, NRRL B-2657, NRRL B-5404, NRRL ISP-5127, RIA 57, VKM Ac-771, VTT E-042475",1,"Kitasatospora aureofaciens",Kitasatospora
+127424,"ST018861(HKI), BI 08676",,0,"Kitasatospora aureofaciens",Kitasatospora
+127376,"STI07115(IMET), 87-70",,0,"Kitasatospora aureofaciens",Kitasatospora
+127315,ST029371(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127518,"ST010291(HKI), BI 07306, BI 07038",,0,"Kitasatospora aureofaciens",Kitasatospora
+127680,"ST011435(HKI), BI 07892",,0,"Kitasatospora aureofaciens",Kitasatospora
+127550,"ST010463(HKI), BI 07187",,0,"Kitasatospora aureofaciens",Kitasatospora
+127456,"ST017841(HKI), CIBAID40883, BI 11742, BI 09236",,0,"Kitasatospora aureofaciens",Kitasatospora
+127217,"ST024913(HKI), 530/94",,0,"Kitasatospora aureofaciens",Kitasatospora
+127347,"ST023239(HKI), BI 11869",,0,"Kitasatospora aureofaciens",Kitasatospora
+127582,"STI07236(IMET), 783-7",,0,"Kitasatospora aureofaciens",Kitasatospora
+15033,317,"DSM 41743",0,"Kitasatospora aureofaciens",Kitasatospora
+127249,ST017076(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127488,"ST019399(HKI), BI 09124",,0,"Kitasatospora aureofaciens",Kitasatospora
+127614,"ST021989(HKI), BI 11011",,0,"Kitasatospora aureofaciens",Kitasatospora
+127521,"ST008075(HKI), BI 06170",,0,"Kitasatospora aureofaciens",Kitasatospora
+127390,"ST018301(HKI), BI 08291",,0,"Kitasatospora aureofaciens",Kitasatospora
+127553,"ST010515(HKI), BI 07239",,0,"Kitasatospora aureofaciens",Kitasatospora
+127281,"ST017865(HKI), BI 11607",,0,"Kitasatospora aureofaciens",Kitasatospora
+127220,ST031050(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127646,STI07586(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127585,ST031117(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127422,"ST018981(HKI), BI 08689",,0,"Kitasatospora aureofaciens",Kitasatospora
+127252,ST017102(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127313,ST028632(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127617,ST030274(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127678,"ST024863(HKI), 531/97",,0,"Kitasatospora aureofaciens",Kitasatospora
+127393,ST030863(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127454,"ST019618(HKI), BI 09294",,0,"Kitasatospora aureofaciens",Kitasatospora
+127284,"ST017869(HKI), CIBAID40904, BI 09217",,0,"Kitasatospora aureofaciens",Kitasatospora
+127345,"ST023203(HKI), BI 11833",,0,"Kitasatospora aureofaciens",Kitasatospora
+127649,"STI07660(IMET), M1444/82",,0,"Kitasatospora aureofaciens",Kitasatospora
+15031,"CM 62","DSM 41142, IMRU 3721",0,"Kitasatospora aureofaciens",Kitasatospora
+127425,"ST018991(HKI), BI 08699",,0,"Kitasatospora aureofaciens",Kitasatospora
+127486,"ST019304(HKI), BI 09000",,0,"Kitasatospora aureofaciens",Kitasatospora
+127316,ST029372(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127519,"ST010292(HKI), BI 07039, BI 07307",,0,"Kitasatospora aureofaciens",Kitasatospora
+127681,ST032349(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127551,"ST010483(HKI), BI 07207",,0,"Kitasatospora aureofaciens",Kitasatospora
+127218,ST031031(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127583,"STI07572(IMET), GdfN933","Tsukamura 7776",0,"Kitasatospora aureofaciens",Kitasatospora
+127676,"ST022397(HKI), BI 11362",,0,"Kitasatospora aureofaciens",Kitasatospora
+127250,ST017090(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127452,ST031176(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127615,"ST022480(HKI), BI 11382",,0,"Kitasatospora aureofaciens",Kitasatospora
+127343,"ST022252(HKI), BI 11281",,0,"Kitasatospora aureofaciens",Kitasatospora
+127391,"ST018593(HKI), BI 08434",,0,"Kitasatospora aureofaciens",Kitasatospora
+15029,A-377-U290-12,"DSM 41139, ATCC 10762d, IMRU 3714",0,"Kitasatospora aureofaciens",Kitasatospora
+127282,ST017867(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127484,"ST019151(HKI), BI 08777",,0,"Kitasatospora aureofaciens",Kitasatospora
+127647,"STI07655(IMET), F1170/82",,0,"Kitasatospora aureofaciens",Kitasatospora
+127375,STI07012(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127423,"ST018842(HKI), BI 08630",,0,"Kitasatospora aureofaciens",Kitasatospora
+127517,"ST010211(HKI), BI 07304",,0,"Kitasatospora aureofaciens",Kitasatospora
+127314,ST029369(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127549,"ST010439(HKI), BI 07163",,0,"Kitasatospora aureofaciens",Kitasatospora
+127679,"ST024864(HKI), 531/48",,0,"Kitasatospora aureofaciens",Kitasatospora
+127216,"ST024898(HKI), 530/21",,0,"Kitasatospora aureofaciens",Kitasatospora
+127455,"ST017871(HKI), CIBAID40802, BI 09219",,0,"Kitasatospora aureofaciens",Kitasatospora
+127581,"STI07235(IMET), 775-26",,0,"Kitasatospora aureofaciens",Kitasatospora
+127346,"ST023210(HKI), BI 11840",,0,"Kitasatospora aureofaciens",Kitasatospora
+127248,ST017075(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+15032,"CM 73","DSM 41143, IMRU 3722",0,"Kitasatospora aureofaciens",Kitasatospora
+127613,"ST020502(HKI), BI 09994",,0,"Kitasatospora aureofaciens",Kitasatospora
+127487,"ST019357(HKI), BI 09076",,0,"Kitasatospora aureofaciens",Kitasatospora
+127389,ST030702(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127520,"ST008074(HKI), BI 06169",,0,"Kitasatospora aureofaciens",Kitasatospora
+127280,"ST017843(HKI), CIBAID40884, BI 09237",,0,"Kitasatospora aureofaciens",Kitasatospora
+127552,"ST010507(HKI), BI 07231",,0,"Kitasatospora aureofaciens",Kitasatospora
+127645,"STI07576(IMET), GdfN938","Tsukamura 9138",0,"Kitasatospora aureofaciens",Kitasatospora
+127219,ST031039(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127421,"ST018848(HKI), BI 08636",,0,"Kitasatospora aureofaciens",Kitasatospora
+127584,ST031049(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127312,ST028598(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127251,ST017094(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127677,"ST022532(HKI), BI 11434",,0,"Kitasatospora aureofaciens",Kitasatospora
+127616,"ST017860(HKI), BI 11605",,0,"Kitasatospora aureofaciens",Kitasatospora
+127453,ST009008(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127392,"ST018608(HKI), BI 08450",,0,"Kitasatospora aureofaciens",Kitasatospora
+127344,"ST022375(HKI), BI 11340",,0,"Kitasatospora aureofaciens",Kitasatospora
+127283,"ST017868(HKI), CIBAID40903, BI 09216",,0,"Kitasatospora aureofaciens",Kitasatospora
+15030,A-377-1637,"DSM 41140, ATCC 10762f, IMRU 3715",0,"Kitasatospora aureofaciens",Kitasatospora
+127648,"STI07656(IMET), F1155/82",,0,"Kitasatospora aureofaciens",Kitasatospora
+127485,"ST019199(HKI), BI 08800",,0,"Kitasatospora aureofaciens",Kitasatospora
+127619,ST009041(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127622,"ST018840(HKI), BI 08628",,0,"Kitasatospora aureofaciens",Kitasatospora
+127395,ST030885(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127398,ST030941(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127286,"ST017872(HKI), BI 11657",,0,"Kitasatospora aureofaciens",Kitasatospora
+127289,"ST017878(HKI), BI 11609",,0,"Kitasatospora aureofaciens",Kitasatospora
+127651,"STI07664(IMET), MC236/83",,0,"Kitasatospora aureofaciens",Kitasatospora
+127654,STI07734(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127427,"ST019003(HKI), BI 08711",,0,"Kitasatospora aureofaciens",Kitasatospora
+127430,ST030424(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127318,ST030248(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127321,ST030256(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127459,"ST019825(HKI), BI 09410",,0,"Kitasatospora aureofaciens",Kitasatospora
+127462,ST009012(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127350,ST030521(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127353,ST030553(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+15039,"2758 FI","DSM 40554, ATCC 23730, CBS 752.72, IFO 13451, IMRU 3911, IPV 1830, ISP 5554, JCM 4321, NBRC 13451, NRRL B-3447, RIA 1412, BCRC 12219, CGMCC 4.1687, IMI 126840, JCM 4725, NCIMB 11000, VKM Ac-1720",0,"Kitasatospora aureofaciens",Kitasatospora
+127494,"ST019922(HKI), BI 09501",,0,"Kitasatospora aureofaciens",Kitasatospora
+127491,"ST011961(HKI), BI 08038",,0,"Kitasatospora aureofaciens",Kitasatospora
+127527,ST009022(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127524,"ST020724(HKI), BI 10046",,0,"Kitasatospora aureofaciens",Kitasatospora
+127559,ST030530(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127556,"ST018282(HKI), BI 08272",,0,"Kitasatospora aureofaciens",Kitasatospora
+127226,ST031125(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127223,ST031107(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127591,"STI07519(IMET), b3",,0,"Kitasatospora aureofaciens",Kitasatospora
+127588,ST030395(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127258,ST017658(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127255,"ST017441(HKI), CIBAID40675, BI 09118",,0,"Kitasatospora aureofaciens",Kitasatospora
+127623,"ST018841(HKI), BI 08629",,0,"Kitasatospora aureofaciens",Kitasatospora
+127620,ST009052(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127399,ST030945(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127396,ST030892(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127287,"ST017876(HKI), BI 11608",,0,"Kitasatospora aureofaciens",Kitasatospora
+127652,"STI07665(IMET), ME416/83",,0,"Kitasatospora aureofaciens",Kitasatospora
+127457,"ST017848(HKI), CIBAID40887, BI 09240",,0,"Kitasatospora aureofaciens",Kitasatospora
+127428,"ST017439(HKI), CIBAID40673, BI 08923",,0,"Kitasatospora aureofaciens",Kitasatospora
+127348,ST028758(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127319,ST030251(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+15034,58-44,"DSM 46447, IMET 40384",0,"Kitasatospora aureofaciens",Kitasatospora
+127460,STI07402(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127489,"ST011919(HKI), BI 07996",,0,"Kitasatospora aureofaciens",Kitasatospora
+127351,ST030525(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127522,"ST008090(HKI), BI 06185",,0,"Kitasatospora aureofaciens",Kitasatospora
+127492,"ST019917(HKI), BI 09496",,0,"Kitasatospora aureofaciens",Kitasatospora
+127554,"ST022496(HKI), BI 11398",,0,"Kitasatospora aureofaciens",Kitasatospora
+127525,ST008999(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127221,ST031094(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127557,"ST018283(HKI), BI 08273",,0,"Kitasatospora aureofaciens",Kitasatospora
+127586,ST031153(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127224,ST031114(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127253,ST017128(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127589,ST030396(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127618,ST028464(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127256,"ST017606(HKI), BI 08821, CIBAID40612",,0,"Kitasatospora aureofaciens",Kitasatospora
+127394,ST030873(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127621,ST028633(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127285,"ST017870(HKI), CIBAID40905, BI 09218",,0,"Kitasatospora aureofaciens",Kitasatospora
+127397,ST030893(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127650,"STI07661(IMET), MB672/82",,0,"Kitasatospora aureofaciens",Kitasatospora
+127288,ST017877(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127426,"ST018992(HKI), BI 08700",,0,"Kitasatospora aureofaciens",Kitasatospora
+127653,"STI07721(IMET), Cl733",,0,"Kitasatospora aureofaciens",Kitasatospora
+127317,ST030234(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127429,"ST009513(HKI), BI 06831",,0,"Kitasatospora aureofaciens",Kitasatospora
+127458,"ST017785(HKI), BI 10957",,0,"Kitasatospora aureofaciens",Kitasatospora
+127320,ST030255(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127349,ST029687(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127461,STI07403(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+15035,,"DSM 46454, IMET 40611, IPV 551x",0,"Kitasatospora aureofaciens",Kitasatospora
+127352,ST030532(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127490,"ST011926(HKI), BI 08003",,0,"Kitasatospora aureofaciens",Kitasatospora
+127493,"ST019919(HKI), BI 09498",,0,"Kitasatospora aureofaciens",Kitasatospora
+127523,"ST020723(HKI), BI 10045",,0,"Kitasatospora aureofaciens",Kitasatospora
+127526,ST009010(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127555,"ST017901(HKI), CIBAID40611, BI 08966",,0,"Kitasatospora aureofaciens",Kitasatospora
+127558,ST033547(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127222,ST031099(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127225,ST031115(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127587,"ST019617(HKI), BI 09293",,0,"Kitasatospora aureofaciens",Kitasatospora
+127590,ST030406(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127254,ST017142(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127257,"ST017654(HKI), BI 08925, CIBAID40727",,0,"Kitasatospora aureofaciens",Kitasatospora
+127625,ST030374(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127404,"STI07233(IMET), Noc. 578",,0,"Kitasatospora aureofaciens",Kitasatospora
+127401,ST030985(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127295,"ST018232(HKI), BI 08222",,0,"Kitasatospora aureofaciens",Kitasatospora
+127292,ST017889(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127660,"ST021922(HKI), BI 10928",,0,"Kitasatospora aureofaciens",Kitasatospora
+127657,"ST017846(HKI), BI 11598",,0,"Kitasatospora aureofaciens",Kitasatospora
+127436,ST033564(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127433,ST031120(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127327,ST030290(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127324,ST030272(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127468,"ST018652(HKI), BI 08494",,0,"Kitasatospora aureofaciens",Kitasatospora
+127465,"ST018585(HKI), BI 08426",,0,"Kitasatospora aureofaciens",Kitasatospora
+127359,ST030591(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127356,ST030574(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127500,"ST020028(HKI), BI 09558",,0,"Kitasatospora aureofaciens",Kitasatospora
+127497,"ST019931(HKI), BI 09510",,0,"Kitasatospora aureofaciens",Kitasatospora
+127533,"ST011278(HKI), BI 07713",,0,"Kitasatospora aureofaciens",Kitasatospora
+127530,ST009062(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127200,"ST021931(HKI), BI 10937",,0,"Kitasatospora aureofaciens",Kitasatospora
+127562,"ST020180(HKI), BI 09771",,0,"Kitasatospora aureofaciens",Kitasatospora
+127565,"ST017442(HKI), CIBAID40676, BI 09119",,0,"Kitasatospora aureofaciens",Kitasatospora
+127229,"STI07642(IMET), 31",,0,"Kitasatospora aureofaciens",Kitasatospora
+127232,"STI07659(IMET), CR626/82",,0,"Kitasatospora aureofaciens",Kitasatospora
+127594,ST009137(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127597,ST030311(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127261,"ST017698(HKI), BI 08939, CIBAID40688",,0,"Kitasatospora aureofaciens",Kitasatospora
+127264,"ST017707(HKI), CIBAID40638, BI 08834",,0,"Kitasatospora aureofaciens",Kitasatospora
+127626,ST028413(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127402,ST030994(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127293,ST017891(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127290,"ST017879(HKI), BI 11610",,0,"Kitasatospora aureofaciens",Kitasatospora
+127658,"ST020073(HKI), BI 09628",,0,"Kitasatospora aureofaciens",Kitasatospora
+127655,STI07735(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127434,ST033561(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127431,ST030437(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127325,ST030281(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127322,ST030258(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127466,"ST018607(HKI), BI 08448",,0,"Kitasatospora aureofaciens",Kitasatospora
+127463,ST009006(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127357,ST030577(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127354,ST030555(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127498,"ST019933(HKI), BI 09512",,0,"Kitasatospora aureofaciens",Kitasatospora
+127495,"ST019923(HKI), BI 09502",,0,"Kitasatospora aureofaciens",Kitasatospora
+127531,ST009146(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127528,ST009048(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127563,ST030943(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127560,ST030586(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127230,"STI07657(IMET), F1330/82",,0,"Kitasatospora aureofaciens",Kitasatospora
+127227,ST031127(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127595,ST009113(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127592,"STI07524(IMET), E1",,0,"Kitasatospora aureofaciens",Kitasatospora
+127262,"ST017701(HKI), CIBAID40640, BI 08831",,0,"Kitasatospora aureofaciens",Kitasatospora
+127259,"ST017670(HKI), BI 08932, CIBAID40679",,0,"Kitasatospora aureofaciens",Kitasatospora
+127627,ST028414(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127624,"ST010204(HKI), BI 06965",,0,"Kitasatospora aureofaciens",Kitasatospora
+127403,"STI07232(IMET), 198",,0,"Kitasatospora aureofaciens",Kitasatospora
+127400,ST030984(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127294,ST018043(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127291,"ST017883(HKI), BI 11614",,0,"Kitasatospora aureofaciens",Kitasatospora
+127659,ST029947(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127656,ST030404(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127435,ST033562(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127432,ST017144(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127326,ST030285(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127323,ST030266(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127467,"ST018638(HKI), BI 08480",,0,"Kitasatospora aureofaciens",Kitasatospora
+127464,"ST018570(HKI), BI 08411",,0,"Kitasatospora aureofaciens",Kitasatospora
+127358,ST030590(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127355,ST030557(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127499,"ST019970(HKI), BI 09549",,0,"Kitasatospora aureofaciens",Kitasatospora
+127496,"ST019926(HKI), BI 09505",,0,"Kitasatospora aureofaciens",Kitasatospora
+127532,"ST011274(HKI), BI 07709",,0,"Kitasatospora aureofaciens",Kitasatospora
+127529,ST009053(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127564,"ST020493(HKI), BI 09985",,0,"Kitasatospora aureofaciens",Kitasatospora
+127561,ST030589(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127231,"STI07658(IMET), F4/83",,0,"Kitasatospora aureofaciens",Kitasatospora
+127228,ST031175(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127596,ST030554(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127593,ST032237(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127263,"ST017704(HKI), CIBAID40641, BI 08832",,0,"Kitasatospora aureofaciens",Kitasatospora
+127260,"ST017697(HKI), CIBAID40687, BI 08938",,0,"Kitasatospora aureofaciens",Kitasatospora
+127628,ST009042(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127328,ST030323(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127299,"ST018271(HKI), BI 08261",,0,"Kitasatospora aureofaciens",Kitasatospora
+127469,"ST018662(HKI), BI 08449",,0,"Kitasatospora aureofaciens",Kitasatospora
+127664,"ST017853(HKI), BI 11601",,0,"Kitasatospora aureofaciens",Kitasatospora
+127360,ST030612(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127440,ST031119(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127501,"ST020071(HKI), BI 09626",,0,"Kitasatospora aureofaciens",Kitasatospora
+127331,ST030340(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127534,"ST011279(HKI), BI 07714",,0,"Kitasatospora aureofaciens",Kitasatospora
+15017,,"DSM 40642, ATCC 13303, NRRL B-1286",0,"Kitasatospora aureofaciens",Kitasatospora
+127201,"ST021969(HKI), BI 10967",,0,"Kitasatospora aureofaciens",Kitasatospora
+127472,"ST010625(HKI), BI 07357",,0,"Kitasatospora aureofaciens",Kitasatospora
+127566,ST030393(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127363,ST030653(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127233,"STI07662(IMET), MF405/82",,0,"Kitasatospora aureofaciens",Kitasatospora
+127504,"ST020188(HKI), BI 09779",,0,"Kitasatospora aureofaciens",Kitasatospora
+127598,"ST022711(HKI), BI 11629",,0,"Kitasatospora aureofaciens",Kitasatospora
+127537,"ST011337(HKI), BI 07772",,0,"Kitasatospora aureofaciens",Kitasatospora
+127265,ST017709(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127204,"ST022800(HKI), BI 11691",,0,"Kitasatospora aureofaciens",Kitasatospora
+127630,STI07765(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127569,"ST010197(HKI), BI 06958",,0,"Kitasatospora aureofaciens",Kitasatospora
+127406,"STI07237(IMET), 783-10",,0,"Kitasatospora aureofaciens",Kitasatospora
+127236,STI07732(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127297,"ST018263(HKI), BI 08253",,0,"Kitasatospora aureofaciens",Kitasatospora
+127601,ST030331(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127662,"ST022598(HKI), BI 11574",,0,"Kitasatospora aureofaciens",Kitasatospora
+127377,STI07135(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127438,ST033578(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127268,"ST017747(HKI), BI 11589",,0,"Kitasatospora aureofaciens",Kitasatospora
+127329,ST030324(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127633,ST031283(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127470,"ST018726(HKI), BI 08517",,0,"Kitasatospora aureofaciens",Kitasatospora
+127409,"STI07240(IMET), 783-23",,0,"Kitasatospora aureofaciens",Kitasatospora
+127361,ST030618(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127300,"ST018288(HKI), BI 08278",,0,"Kitasatospora aureofaciens",Kitasatospora
+127502,"ST020112(HKI), BI 09690",,0,"Kitasatospora aureofaciens",Kitasatospora
+127665,"ST017856(HKI), BI 11603",,0,"Kitasatospora aureofaciens",Kitasatospora
+127535,"ST011327(HKI), BI 08108, BI 07762",,0,"Kitasatospora aureofaciens",Kitasatospora
+127441,"ST021966(HKI), BI 10964",,0,"Kitasatospora aureofaciens",Kitasatospora
+127202,"ST022767(HKI), BI 11658",,0,"Kitasatospora aureofaciens",Kitasatospora
+127332,ST030379(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127567,ST030409(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+15018,,"DSM 40643, ATCC 13305, NRRL B-1288",0,"Kitasatospora aureofaciens",Kitasatospora
+127234,"STI07663(IMET), MG1618/82",,0,"Kitasatospora aureofaciens",Kitasatospora
+127473,"ST010661(HKI), BI 07393",,0,"Kitasatospora aureofaciens",Kitasatospora
+127599,"ST017746(HKI), BI 11588",,0,"Kitasatospora aureofaciens",Kitasatospora
+127364,ST030660(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127266,"ST017726(HKI), BI 08948, CIBAID40704",,0,"Kitasatospora aureofaciens",Kitasatospora
+127505,"ST020216(HKI), BI 09807",,0,"Kitasatospora aureofaciens",Kitasatospora
+127631,"ST022502(HKI), BI 11404",,0,"Kitasatospora aureofaciens",Kitasatospora
+127538,"ST016362(HKI), BI 08116",,0,"Kitasatospora aureofaciens",Kitasatospora
+127407,"STI07238(IMET), 783-15",,0,"Kitasatospora aureofaciens",Kitasatospora
+127205,"ST022802(HKI), BI 11693",,0,"Kitasatospora aureofaciens",Kitasatospora
+127298,"ST018268(HKI), BI 08258",,0,"Kitasatospora aureofaciens",Kitasatospora
+127570,ST017890(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127663,"ST022603(HKI), BI 11579",,0,"Kitasatospora aureofaciens",Kitasatospora
+127237,STI07733(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127439,"STI07099(IMET), 482-198",,0,"Kitasatospora aureofaciens",Kitasatospora
+127602,"ST017750(HKI), BI 11592",,0,"Kitasatospora aureofaciens",Kitasatospora
+127330,ST030339(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127378,ST023406(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+15016,,"DSM 40631, ATCC 13304, ATCC 14896, NRRL B-1287",0,"Kitasatospora aureofaciens",Kitasatospora
+127269,"ST017749(HKI), BI 11591",,0,"Kitasatospora aureofaciens",Kitasatospora
+127471,"ST018802(HKI), BI 08593",,0,"Kitasatospora aureofaciens",Kitasatospora
+127634,"ST011334(HKI), BI 07769",,0,"Kitasatospora aureofaciens",Kitasatospora
+127362,ST030621(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127410,"STI07241(IMET), 788-28",,0,"Kitasatospora aureofaciens",Kitasatospora
+127503,"ST020184(HKI), BI 09775",,0,"Kitasatospora aureofaciens",Kitasatospora
+127301,"ST018311(HKI), BI 08301",,0,"Kitasatospora aureofaciens",Kitasatospora
+127536,"ST011336(HKI), BI 07771",,0,"Kitasatospora aureofaciens",Kitasatospora
+127203,"ST022777(HKI), BI 11668",,0,"Kitasatospora aureofaciens",Kitasatospora
+127568,ST030608(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127629,STI07764(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127235,"STI07706(IMET), 938-179",,0,"Kitasatospora aureofaciens",Kitasatospora
+127405,"STI07234(IMET), 775-18",,0,"Kitasatospora aureofaciens",Kitasatospora
+127600,"ST017748(HKI), BI 11590",,0,"Kitasatospora aureofaciens",Kitasatospora
+127296,"ST018261(HKI), BI 08251",,0,"Kitasatospora aureofaciens",Kitasatospora
+127267,"ST017739(HKI), CIBAID40717, BI 08955",,0,"Kitasatospora aureofaciens",Kitasatospora
+127661,"ST022714(HKI), BI 11632",,0,"Kitasatospora aureofaciens",Kitasatospora
+127632,"ST022374(HKI), BI 11339",,0,"Kitasatospora aureofaciens",Kitasatospora
+127437,ST033565(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127408,"STI07239(IMET), 783-20",,0,"Kitasatospora aureofaciens",Kitasatospora
+127539,"ST010403(HKI), BI 07074",,0,"Kitasatospora aureofaciens",Kitasatospora
+127304,ST028406(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127206,"ST022811(HKI), BI 11702",,0,"Kitasatospora aureofaciens",Kitasatospora
+127669,"ST022870(HKI), BI 11771",,0,"Kitasatospora aureofaciens",Kitasatospora
+127571,ST008996(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127445,"ST019358(HKI), BI 09077",,0,"Kitasatospora aureofaciens",Kitasatospora
+127238,STI07736(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127336,ST030420(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127603,"ST011330(HKI), BI 07765",,0,"Kitasatospora aureofaciens",Kitasatospora
+15022,A,"DSM 41108, IMRU 3617",0,"Kitasatospora aureofaciens",Kitasatospora
+127379,ST030669(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127477,"ST019002(HKI), BI 08710",,0,"Kitasatospora aureofaciens",Kitasatospora
+127270,"ST017754(HKI), BI 11594",,0,"Kitasatospora aureofaciens",Kitasatospora
+127368,"ST022476(HKI), BI 11378",,0,"Kitasatospora aureofaciens",Kitasatospora
+127635,"ST011338(HKI), BI 07773",,0,"Kitasatospora aureofaciens",Kitasatospora
+127509,"ST019832(HKI), BI 09468",,0,"Kitasatospora aureofaciens",Kitasatospora
+127411,"STI07242(IMET), 788-30",,0,"Kitasatospora aureofaciens",Kitasatospora
+127542,"ST010411(HKI), BI 07135",,0,"Kitasatospora aureofaciens",Kitasatospora
+127302,"ST018338(HKI), BI 08324",,0,"Kitasatospora aureofaciens",Kitasatospora
+127209,"STI07489(IMET), GdfM292",,0,"Kitasatospora aureofaciens",Kitasatospora
+127667,"ST022822(HKI), BI 11713",,0,"Kitasatospora aureofaciens",Kitasatospora
+127574,"ST019205(HKI), BI 08806",,0,"Kitasatospora aureofaciens",Kitasatospora
+127443,ST031137(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127241,ST031429(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127334,ST030401(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127606,"ST011914(HKI), BI 07991",,0,"Kitasatospora aureofaciens",Kitasatospora
+15020,"Tü 95","DSM 40724, ETH 28832",0,"Kitasatospora aureofaciens",Kitasatospora
+127382,"ST022713(HKI), BI 11631",,0,"Kitasatospora aureofaciens",Kitasatospora
+127475,"ST018623(HKI), BI 08465",,0,"Kitasatospora aureofaciens",Kitasatospora
+127273,ST017779(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127366,ST030728(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127638,"ST011498(HKI), BI 07933",,0,"Kitasatospora aureofaciens",Kitasatospora
+127507,"ST019614(HKI), BI 09290",,0,"Kitasatospora aureofaciens",Kitasatospora
+127414,"STI07247(IMET), 801-212",,0,"Kitasatospora aureofaciens",Kitasatospora
+127540,"ST010406(HKI), BI 07077",,0,"Kitasatospora aureofaciens",Kitasatospora
+127305,ST028427(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127207,"ST022816(HKI), BI 11707",,0,"Kitasatospora aureofaciens",Kitasatospora
+127670,"ST023269(HKI), BI 11786, 234/22",,0,"Kitasatospora aureofaciens",Kitasatospora
+127572,ST009026(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127446,"STI07847(IMET), 1344-189",,0,"Kitasatospora aureofaciens",Kitasatospora
+127239,STI07769(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127337,ST030423(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127604,"ST019833(HKI), BI 09469",,0,"Kitasatospora aureofaciens",Kitasatospora
+15023,"A 377-5-250","DSM 41133, ATCC 10762a, IMRU 3708",0,"Kitasatospora aureofaciens",Kitasatospora
+127380,ST030018(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127478,"ST019005(HKI), BI 08713",,0,"Kitasatospora aureofaciens",Kitasatospora
+127271,ST017762(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127369,"ST022477(HKI), BI 11379",,0,"Kitasatospora aureofaciens",Kitasatospora
+127636,"ST011339(HKI), BI 07774",,0,"Kitasatospora aureofaciens",Kitasatospora
+127510,"ST019835(HKI), BI 09471",,0,"Kitasatospora aureofaciens",Kitasatospora
+127412,"STI07244(IMET), 788-67",,0,"Kitasatospora aureofaciens",Kitasatospora
+127543,"ST010412(HKI), BI 07136",,0,"Kitasatospora aureofaciens",Kitasatospora
+127303,"ST018346(HKI), BI 08332",,0,"Kitasatospora aureofaciens",Kitasatospora
+127210,"STI07523(IMET), P2",,0,"Kitasatospora aureofaciens",Kitasatospora
+127668,"ST022835(HKI), BI 11726",,0,"Kitasatospora aureofaciens",Kitasatospora
+127575,"ST017873(HKI), BI 11740",,0,"Kitasatospora aureofaciens",Kitasatospora
+127444,"ST021995(HKI), BI 11017",,0,"Kitasatospora aureofaciens",Kitasatospora
+127242,ST031430(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127335,ST030403(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127607,"ST019971(HKI), BI 09550",,0,"Kitasatospora aureofaciens",Kitasatospora
+15021,"Tü 342","DSM 40731, JCM 4981, NBRC 14004",0,"Kitasatospora aureofaciens",Kitasatospora
+127383,ST030020(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127476,"ST018979(HKI), BI 08687",,0,"Kitasatospora aureofaciens",Kitasatospora
+127274,"ST017791(HKI), CIBAID40814, BI 09200",,0,"Kitasatospora aureofaciens",Kitasatospora
+127367,ST030738(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127639,"ST011439(HKI), BI 07896",,0,"Kitasatospora aureofaciens",Kitasatospora
+127508,"ST019636(HKI), BI 09312",,0,"Kitasatospora aureofaciens",Kitasatospora
+127541,"ST010408(HKI), BI 07132",,0,"Kitasatospora aureofaciens",Kitasatospora
+127208,STI07401(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127666,"ST022712(HKI), BI 11630",,0,"Kitasatospora aureofaciens",Kitasatospora
+127573,"ST011434(HKI), BI 07891",,0,"Kitasatospora aureofaciens",Kitasatospora
+127442,ST031130(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127240,"STI07848(IMET), 1344-199",,0,"Kitasatospora aureofaciens",Kitasatospora
+127333,ST030400(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127605,"ST019824(HKI), BI 09409",,0,"Kitasatospora aureofaciens",Kitasatospora
+15019,"Tü 24","DSM 40703, ETH 13387",0,"Kitasatospora aureofaciens",Kitasatospora
+127381,"ST018820(HKI), BI 08608",,0,"Kitasatospora aureofaciens",Kitasatospora
+127474,"ST018862(HKI), BI 08677",,0,"Kitasatospora aureofaciens",Kitasatospora
+127272,"ST017767(HKI), CIBAID40750, BI 08963",,0,"Kitasatospora aureofaciens",Kitasatospora
+127365,ST030665(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127637,"ST011342(HKI), BI 07777",,0,"Kitasatospora aureofaciens",Kitasatospora
+127506,"ST011997(HKI), BI 08074",,0,"Kitasatospora aureofaciens",Kitasatospora
+127413,"STI07246(IMET), 796-116A",,0,"Kitasatospora aureofaciens",Kitasatospora
+127309,ST028582(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127211,"STI07551(IMET), GdfN13",,0,"Kitasatospora aureofaciens",Kitasatospora
+127674,ST017108(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127576,"ST022821(HKI), BI 11712",,0,"Kitasatospora aureofaciens",Kitasatospora
+127450,"ST009271(HKI), BI 06697",,0,"Kitasatospora aureofaciens",Kitasatospora
+127243,ST017042(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127341,ST030469(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127608,"ST019911(HKI), BI 09490",,0,"Kitasatospora aureofaciens",Kitasatospora
+15027,A-377-5-294-4,"DSM 41137, ATCC 10762b, IMRU 3712",0,"Kitasatospora aureofaciens",Kitasatospora
+127384,ST030777(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127482,"ST019139(HKI), BI 08765",,0,"Kitasatospora aureofaciens",Kitasatospora
+127275,ST017792(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127373,STI07008(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127640,"ST020101(HKI), BI 09656",,0,"Kitasatospora aureofaciens",Kitasatospora
+127514,"ST020436(HKI), BI 09837",,0,"Kitasatospora aureofaciens",Kitasatospora
+127416,"STI07249(IMET), 835-60",,0,"Kitasatospora aureofaciens",Kitasatospora
+127547,"ST009247(HKI), BI 06673",,0,"Kitasatospora aureofaciens",Kitasatospora
+127307,ST028563(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127214,"STI07573(IMET), GdfN934","Tsukamura 9028",0,"Kitasatospora aureofaciens",Kitasatospora
+127672,"ST023218(HKI), BI 11848",,0,"Kitasatospora aureofaciens",Kitasatospora
+127579,"ST019135(HKI), BI 08761",,0,"Kitasatospora aureofaciens",Kitasatospora
+127448,"ST009292(HKI), BI 06709",,0,"Kitasatospora aureofaciens",Kitasatospora
+127246,ST017062(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127339,ST030450(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127611,ST030879(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+15025,,"DSM 41135, ATCC 10762g, IMRU 3710",0,"Kitasatospora aureofaciens",Kitasatospora
+127387,ST030845(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127480,"ST019105(HKI), BI 08731",,0,"Kitasatospora aureofaciens",Kitasatospora
+127278,"ST017826(HKI), BI 09228, CIBAID40843",,0,"Kitasatospora aureofaciens",Kitasatospora
+127371,STI07004(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127643,"STI07561(IMET), Gdf692",,0,"Kitasatospora aureofaciens",Kitasatospora
+127512,"ST011237(HKI), BI 07671",,0,"Kitasatospora aureofaciens",Kitasatospora
+127419,ST017423(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127545,"ST011495(HKI), BI 07930",,0,"Kitasatospora aureofaciens",Kitasatospora
+127310,ST028586(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127212,"STI07558(IMET), Gdf668",,0,"Kitasatospora aureofaciens",Kitasatospora
+127675,"ST021071(HKI), BI 10315",,0,"Kitasatospora aureofaciens",Kitasatospora
+127577,"ST024874(HKI), 531/110",,0,"Kitasatospora aureofaciens",Kitasatospora
+127451,ST031171(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127244,"ST004334(HKI), BI 06059",,0,"Kitasatospora aureofaciens",Kitasatospora
+127342,ST030471(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127609,"ST019920(HKI), BI 09499",,0,"Kitasatospora aureofaciens",Kitasatospora
+15028,A-377-U290-3,"DSM 41138, ATCC 10762c, IMRU 3713",0,"Kitasatospora aureofaciens",Kitasatospora
+127385,ST030803(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127483,"ST019141(HKI), BI 08767",,0,"Kitasatospora aureofaciens",Kitasatospora
+127276,"ST017794(HKI), CIBAID40817, BI 09201",,0,"Kitasatospora aureofaciens",Kitasatospora
+127374,STI07009(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127641,"STI07557(IMET), Gdf671",,0,"Kitasatospora aureofaciens",Kitasatospora
+127515,"ST020479(HKI), BI 09971",,0,"Kitasatospora aureofaciens",Kitasatospora
+127417,"STI07250(IMET), 835-61",,0,"Kitasatospora aureofaciens",Kitasatospora
+127308,ST028581(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127673,"ST023223(HKI), BI 11853",,0,"Kitasatospora aureofaciens",Kitasatospora
+127449,"ST009252(HKI), BI 06678",,0,"Kitasatospora aureofaciens",Kitasatospora
+127340,ST030459(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+15026,A-377-4408,"DSM 41136, ATCC 10762h, IMRU 3711",0,"Kitasatospora aureofaciens",Kitasatospora
+127481,"ST019127(HKI), BI 08753",,0,"Kitasatospora aureofaciens",Kitasatospora
+127372,STI07007(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127513,"ST020419(HKI), BI 09820",,0,"Kitasatospora aureofaciens",Kitasatospora
+127415,"STI07248(IMET), 835-59",,0,"Kitasatospora aureofaciens",Kitasatospora
+127546,"ST009242(HKI), BI 06668",,0,"Kitasatospora aureofaciens",Kitasatospora
+127306,ST028500(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127213,"STI07559(IMET), Gdf669",,0,"Kitasatospora aureofaciens",Kitasatospora
+127671,"ST023209(HKI), BI 11839",,0,"Kitasatospora aureofaciens",Kitasatospora
+127578,"ST024890(HKI), 529/13",,0,"Kitasatospora aureofaciens",Kitasatospora
+127447,ST017140(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127245,ST017052(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127338,ST030432(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127610,ST030864(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+15024,A-377-WI-2158,"DSM 41134, ATCC 10762e, IMRU 3709",0,"Kitasatospora aureofaciens",Kitasatospora
+127386,ST030822(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127479,"ST019017(HKI), BI 08725",,0,"Kitasatospora aureofaciens",Kitasatospora
+127277,ST017797(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127370,STI07002(IMET),,0,"Kitasatospora aureofaciens",Kitasatospora
+127642,"STI07560(IMET), Gdf670",,0,"Kitasatospora aureofaciens",Kitasatospora
+127511,"ST011234(HKI), BI 07668",,0,"Kitasatospora aureofaciens",Kitasatospora
+127418,"ST018618(HKI), BI 08460",,0,"Kitasatospora aureofaciens",Kitasatospora
+127544,"ST011483(HKI), BI 07868",,0,"Kitasatospora aureofaciens",Kitasatospora
+127516,"ST010206(HKI), BI 07301",,0,"Kitasatospora aureofaciens",Kitasatospora
+127548,"ST010431(HKI), BI 07155",,0,"Kitasatospora aureofaciens",Kitasatospora
+127215,"STI07574(IMET), GdfN935","Tsukamura 8183",0,"Kitasatospora aureofaciens",Kitasatospora
+127580,ST029375(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127247,ST017067(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127612,"ST020170(HKI), BI 09761",,0,"Kitasatospora aureofaciens",Kitasatospora
+127388,ST030695(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+127279,"ST017836(HKI), BI 09234, CIBAID40851",,0,"Kitasatospora aureofaciens",Kitasatospora
+127644,"STI07575(IMET), GdfN937","Tsukamura 8773",0,"Kitasatospora aureofaciens",Kitasatospora
+127420,"ST018724(HKI), BI 08515",,0,"Kitasatospora aureofaciens",Kitasatospora
+127311,ST028587(HKI),,0,"Kitasatospora aureofaciens",Kitasatospora
+14851,,"DSM 41650, ATCC 51237, IFO 13803, NBRC 13803, JCM 8798, ATCC 29755, CGMCC 4.1663, IAM 15163, KACC 20223, KCTC 9699, MTCC 703",1,"Kitasatospora azatica",Kitasatospora
+128543,ST033416(HKI),,0,"Kitasatospora azatica",Kitasatospora
+128544,SF001593(FSU),,0,"Kitasatospora azatica",Kitasatospora
+128545,SF002407(FSU),,0,"Kitasatospora azatica",Kitasatospora
+131135,"YC 75","DSM 101999, KCTC 2395, JCM 21757, IAM 15307",1,"Kitasatospora cheerisanensis",Kitasatospora
+14858,SK-3255,"DSM 44780, CIP 107255, IFO 16452, JCM 10915, KCTC 19932, NBRC 16452, NRRL B-23134, BCRC 16811, IAM 15157, NCIMB 14261, NRRL B-24134",1,"Kitasatospora cineracea",Kitasatospora
+128547,"STI40628(IMET), IPV555x","NCIB 9595",0,"Kitasatospora cineracea",Kitasatospora
+16203,,"DSM 41469, AS 4.1622, ATCC 43679, INA 5202, JCM 6916, NBRC 15395, NRRL B-2289, NRRL B-16360, CGMCC 4.1622, IFO 15395",1,"Kitasatospora cinereorecta",Kitasatospora
+128546,ST033417(HKI),,0,"Kitasatospora cinereorecta",Kitasatospora
+14852,,"DSM 41652, ATCC 51235, IFO 14768, JCM 8799, NBRC 14768, BCRC 16813, CGMCC 4.1614, IAM 15158, KACC 20229, KCTC 9898, VKM Ac-2515",0,"Kitasatospora cochleata",Kitasatospora
+14854,,"DSM 41680, ATCC 49931, IFO 14836, JCM 7356, NBRC 14836, CGMCC 4.1587, IAM 15159, KACC 20225, KCTC 9746, NRRL B-16505, VKM Ac-2004",1,"Kitasatospora cystarginea",Kitasatospora
+14861,2050-015,"DSM 44786, HKI 0314, NCIMB 13974, JCM 13003, IAM 15269, NBRC 101835",1,"Kitasatospora gansuensis",Kitasatospora
+14855,AM-9660,"DSM 43859, AS 4.1869, IFO 14371, JCM 3339, NBRC 14371, NRRL B-16229, BCRC 13377, CGMCC 4.1869, KACC 20228, KCTC 9745, KCTC 9791, MTCC 1524, VKM Ac-2002",1,"Kitasatospora griseola",Kitasatospora
+15292,,"DSM 40123, AS 4.1849, ATCC 23922, CBS 906.68, IFO 12876, ISP 5123, NBRC 12876, NBRC 3838, NRRL B-3299, RIA 1126, RIA 654, OEU 608, JCM 4138, BCRC 13772, CBS 424.61, CGMCC 4.1849, CGMCC 4.1887, IFO 3932, JCM 4645, NBIMCC 494, NBRC 3932, NCIMB 9837, NRRL ISP-5123, VKM Ac-793",1,"Kitasatospora herbaricolor",Kitasatospora
+169859,RB6PN24,"NBRC 115116, TBRC 14818",1,"Kitasatospora humi",Kitasatospora
+15328,,"DSM 40124, AS 4.1848, ATCC 23924, CBS 908.68, IFO 12878, ISP 5124, NBRC 12878, RIA 1127, OEU 709, JCM 4646, BCRC 13773, CGMCC 4.1848, CGMCC 4.1888, IFO 3868, IMET 42938, NBRC 3868, NCIMB 9718, NRRL B-3301",1,"Kitasatospora indigofera",Kitasatospora
+127834,ST027557(HKI),,0,"Kitasatospora indigofera",Kitasatospora
+164945,,"JCM 4151, IFO 3928, NBRC 3928",0,"Kitasatospora indigofera",Kitasatospora
+161495,,"JCM 14560, IAM 15279, KCTC 19565",1,"Kitasatospora kazusensis",Kitasatospora
+14865,,"DSM 41654, ATCC 51379, IFO 15206, NBRC 15206, JCM 9081, CGMCC 4.1917, IAM 15160, KCTC 9734, VKM Ac-2003",1,"Kitasatospora kifunensis",Kitasatospora
+14866,2122-022,"DSM 44790, HKI 0316, NCIMB 13978, JCM 13007",0,"Kitasatospora kifunensis",Kitasatospora
+162160,,"JCM 18003, FERM P-19712",0,"Kitasatospora kifunensis",Kitasatospora
+14856,"LL 80","DSM 43929, ATCC 49055, IFO 14789, NBRC 14789, NRRL B-16109, JCM 9868, IAM 15162, KACC 20237, KCTC 9733, VKM Ac-2516",1,"Kitasatospora mediocidica",Kitasatospora
+15413,"IPCR 7617","DSM 40222, ATCC 23938, CBS 278.65, CBS 922.68, IFO 12891, ISP 5222, JCM 4062, JCM 4653, NBRC 12891, NRRL B-2923, RIA 1166, BCRC 13799, CGMCC 4.1437, IFM 1195, KCTC 19951, NCIMB 9852, NRRL ISP-5222, VKM Ac-625",1,"Kitasatospora misakiensis",Kitasatospora
+14859,SK-3406,"DSM 44781, CIP 107256, IFO 16453, JCM 10916, KCTC 19933, NBRC 16453, NRRL B-24135, BCRC 16812, IAM 15156",1,"Kitasatospora niigatensis",Kitasatospora
+128548,STI41324(IMET),,0,"Kitasatospora niigatensis",Kitasatospora
+14862,2148-013,"DSM 44787, HKI 0315, NCIMB 13975, JCM 13004, IAM 15272, NBRC 101836",1,"Kitasatospora nipponensis",Kitasatospora
+14853,,"DSM 41656, ATCC 51236, IFO 14769, NBRC 14769, JCM 8800, BCRC 16814, IAM 15161, KACC 20224, KCTC 9899",1,"Kitasatospora paracochleata",Kitasatospora
+14863,2292-041,"DSM 44788, HKI 0190, NCIMB 13976, JCM 13005, IAM 15270, NBRC 101837",1,"Kitasatospora paranensis",Kitasatospora
+128542,ST033058(HKI),,0,"Kitasatospora paranensis",Kitasatospora
+16344,KA-338,"DSM 43860, IFO 14372, JCM 3340, NBRC 14372, NRRL B-16230, BCRC 12447, CCM 4152, KACC 20226, KCTC 9735, KCTC 9792, VKM Ac-2006",1,"Kitasatospora phosalacinea",Kitasatospora
+164557,,"JCM 3344, CGMCC 4.1176, IFO 14362, NBRC 14362, NRRL B-16228",0,"Kitasatospora phosalacinea",Kitasatospora
+161224,,"JCM 12415, IFO 14627, NBRC 14627",0,"Kitasatospora phosalacinea",Kitasatospora
+15487,,"DSM 40341, ATCC 14125, ATCC 25488, CBS 175.61, IFO 13971, JCM 4434, NBRC 13971, RIA 1268, RIA 832, ISP 5341, KCC S-0434, BCRC 12241, CBS 299.65, CBS 916.69, CGMCC 4.1465, IFO 13076, IFO 13877, KCTC 19966, NBRC 13076, NBRC 13877, NRRL B-3291, NRRL B-5753, NRRL ISP-5341, PCM 2371, VKM Ac-996",1,"Kitasatospora aureofaciens",Kitasatospora
+15498,H-5080,"DSM 40283, ATCC 23952, CBS 935.68, IFO 12905, ISP 5283, KCC S-0156, KCC S-0509, NBRC 12905, NRRL B-1817, RIA 1197, JCM 4156, BCRC 12093, CGMCC 4.1767, CGMCC 4.1999, JCM 4665, KCTC 19967, NCIMB 9822, NRRL ISP-5283",1,"Kitasatospora purpeofusca",Kitasatospora
+14857,"F 18-98","DSM 44665, NCIMB 13932, Uni Bonn 18, JCM 12393, BCRC 16368, CIP 108207, IAM 15240, NBRC 100917",1,"Kitasatospora putterlickiae",Kitasatospora
+14869,,"DSM 44943, KCTC 9972, DAUFPE 13817",1,"Kitasatospora recifensis",Kitasatospora
+161494,,"JCM 14559, IAM 15278, KCTC 19566",1,"Kitasatospora saccharophila",Kitasatospora
+134155,VT-36,"MTCC 6546, DSM 44898, JCM 13010",1,"Kitasatospora sampliensis",Kitasatospora
+16345,"KM 6054","DSM 43861, ATCC 33774, IFO 14216, JCM 3304, KCC A-0304, NBRC 14216, BCRC 13404, CGMCC 4.1210, CGMCC 4.1226, CGMCC 4.1247, HUT 6571, IMSNU 21321, KACC 20032, KCTC 9182, KCTC 9793, NCIMB 13310, NRRL B-16185, PCM 2323, VKM Ac-900",1,"Kitasatospora setae",Kitasatospora
+128539,ST033382(HKI),,0,"Kitasatospora setae",Kitasatospora
+128577,ST010055(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128578,ST002355(HKI),,0,"Kitasatospora sp.",Kitasatospora
+163244,,"JCM 21731, IAM 15280",0,"Kitasatospora sp.",Kitasatospora
+128579,ST002356(HKI),,0,"Kitasatospora sp.",Kitasatospora
+160935,,"JCM 10372",0,"Kitasatospora sp.",Kitasatospora
+128580,ST018541(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128549,ST020978(HKI),,0,"Kitasatospora sp.",Kitasatospora
+159504,,"DSM 101779, NCCB 100591",0,"Kitasatospora sp.",Kitasatospora
+128581,ST018542(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128550,ST020984(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128582,ST018432(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128551,ST020985(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128552,ST020996(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128553,ST018431(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128554,ST028804(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128555,ST028807(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128556,ST028813(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128557,ST028822(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128558,ST029985(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128559,ST029963(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128560,ST030048(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128561,ST030107(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128562,ST021793(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128563,ST022715(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128564,ST022716(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128565,ST022727(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128566,ST022730(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128567,ST022735(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128568,ST029974(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128569,ST029979(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128570,ST029995(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128571,ST029996(HKI),,0,"Kitasatospora sp.",Kitasatospora
+132080,Root107,"DSM 102430",0,"Kitasatospora sp.",Kitasatospora
+128572,ST030001(HKI),,0,"Kitasatospora sp.",Kitasatospora
+132081,Root187,"DSM 102431",0,"Kitasatospora sp.",Kitasatospora
+128573,ST030103(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128574,ST022725(HKI),,0,"Kitasatospora sp.",Kitasatospora
+14870,GöM1,"DSM 45065",0,"Kitasatospora sp.",Kitasatospora
+128575,ST028779(HKI),,0,"Kitasatospora sp.",Kitasatospora
+128576,ST018545(HKI),,0,"Kitasatospora sp.",Kitasatospora
+14864,2293-012,"DSM 44789, HKI 0186, NCIMB 13977, JCM 13006, IAM 15271, NBRC 101838",1,"Kitasatospora terrestris",Kitasatospora
+128540,ST033383(HKI),,0,"Kitasatospora terrestris",Kitasatospora
+14867,52108a,"DSM 44826, AS 4.1878, JCM 14111, CGMCC 4.1878",1,"Kitasatospora viridis",Kitasatospora
+16129,"IPCR 51-4","DSM 40575, ATCC 27480, CBS 770.72, IFO 13469, ISP 5575, JCM 4243, JCM 4862, NBRC 13469, RIA 1430, BCRC 11874, CGMCC 4.1424, KCTC 19978, NRRL B-12504, VKM Ac-872",1,"Kitasatospora xanthocidica",Kitasatospora
+4358,,"NCDC 819-56, IFO 13534, DSM 30053, ATCC 13048, CCUG 1429, CECT 684, CIP 60.86, DSM 26516, JCM 1235, KCTC 2190, LMG 2094, NBRC 13534, NCTC 10006, WDCM 00175, CDC 819-56, ACM 4982, BCRC 10370, CGMCC 1.2021, HAMBI 101, HAMBI 1898, HUT 8111, IAM 12348, LMG 2968, NCIMB 10102, PCM 532, VTT E-88325, CCM 7797",1,"Klebsiella aerogenes",Klebsiella
+157340,,"IMI 347353",0,"Klebsiella aerogenes",Klebsiella
+153148,,"CCUG 48581",0,"Klebsiella aerogenes",Klebsiella
+157341,,"IMI 347354",0,"Klebsiella aerogenes",Klebsiella
+144512,,"CCUG 25434",0,"Klebsiella aerogenes",Klebsiella
+144513,,"CCUG 25435",0,"Klebsiella aerogenes",Klebsiella
+144833,,"CCUG 26730",0,"Klebsiella aerogenes",Klebsiella
+163283,,"JCM 24140",0,"Klebsiella aerogenes",Klebsiella
+149647,,"CCUG 38112",0,"Klebsiella aerogenes",Klebsiella
+144072,,"CCUG 22754",0,"Klebsiella aerogenes",Klebsiella
+134449,,"CIP 106875",0,"Klebsiella aerogenes",Klebsiella
+23910,,"DSM 12058, ICB 5240",0,"Klebsiella aerogenes",Klebsiella
+150276,,"CCUG 39470",0,"Klebsiella aerogenes",Klebsiella
+157342,,"IMI 347355",0,"Klebsiella aerogenes",Klebsiella
+139447,"US EPA 202","CIP 104322, ATCC 49701",0,"Klebsiella aerogenes",Klebsiella
+157343,,"IMI 347356",0,"Klebsiella aerogenes",Klebsiella
+157344,,"IMI 362052",0,"Klebsiella aerogenes",Klebsiella
+139664,,"CIP 103659, ATCC 49469",0,"Klebsiella aerogenes",Klebsiella
+154945,,"CCUG 55801",0,"Klebsiella aerogenes",Klebsiella
+139665,,"CIP 106754",0,"Klebsiella aerogenes",Klebsiella
+139666,,"CIP 107050",0,"Klebsiella aerogenes",Klebsiella
+139667,,"CIP 104725",0,"Klebsiella aerogenes",Klebsiella
+162743,,"JCM 20090, IAM 1183",0,"Klebsiella aerogenes",Klebsiella
+100252,SF001184(FSU),,0,"Klebsiella aerogenes",Klebsiella
+139668,,"CIP 105091",0,"Klebsiella aerogenes",Klebsiella
+139669,,"CIP 60.23",0,"Klebsiella aerogenes",Klebsiella
+168676,"200023, SB5857","CIP 111653, CECT 9832, CECT 9838",1,"Klebsiella africana",Klebsiella
+157757,06D021,"DSM 105630, CIP 111401",1,"Klebsiella grimontii",Klebsiella
+138798,,"CIP 53.6, BR 15",0,"Klebsiella grimontii",Klebsiella
+136202,,"CIP 52.234, BR 18",0,"Klebsiella grimontii",Klebsiella
+164411,,"JCM 32905, CNCTC 7650, GDMCC 1.1379",1,"Klebsiella huaxiensis",Klebsiella
+164637,,"JCM 33718, KACC 21384, MCC 2901",1,"Klebsiella indica",Klebsiella
+23002,W14,"DSM 25444, ATCC BAA-2403, CIP 110787, CCUG 66515",1,"Klebsiella michiganensis",Klebsiella
+136235,,"CIP 53.16, BR 32",0,"Klebsiella michiganensis",Klebsiella
+132136,H1g,"DSM 103279",0,"Klebsiella michiganensis",Klebsiella
+156589,,"CCUG 63157 A",0,"Klebsiella michiganensis",Klebsiella
+156590,,"CCUG 63157 B",0,"Klebsiella michiganensis",Klebsiella
+156889,,"CCUG 66352",0,"Klebsiella michiganensis",Klebsiella
+4941,479-2,"DSM 5175, ATCC 13182, IAM 14201, JCM 1665, CCUG 15717, CECT 860, CIP 103434, KACC 11934, LMG 3055, NBRC 102593, NBRC 105695, NCIMB 12259, VTT E-97766, CRBIP28.103",1,"Klebsiella oxytoca",Klebsiella
+134797,Belloni,"CIP 66.7",0,"Klebsiella oxytoca",Klebsiella
+136480,SL911,"CIP 106098",0,"Klebsiella oxytoca",Klebsiella
+137590,,"CIP 79.32",0,"Klebsiella oxytoca",Klebsiella
+151279,,"CCUG 43602",0,"Klebsiella oxytoca",Klebsiella
+136481,SL9111,"CIP 106099",0,"Klebsiella oxytoca",Klebsiella
+130303,BAS-10,"DSM 29614",0,"Klebsiella oxytoca",Klebsiella
+134983,U.910.295092,"CIP 107218",0,"Klebsiella oxytoca",Klebsiella
+144772,,"CCUG 26509",0,"Klebsiella oxytoca",Klebsiella
+135290,"AmMS 101","CIP 103569, ATCC 49131",0,"Klebsiella oxytoca",Klebsiella
+135330,"AmMS 247","CIP 103663, ATCC 49473",0,"Klebsiella oxytoca",Klebsiella
+130956,1028,"DSM 24121",0,"Klebsiella oxytoca",Klebsiella
+156818,,"CCUG 65544",0,"Klebsiella oxytoca",Klebsiella
+144859,,"CCUG 26858",0,"Klebsiella oxytoca",Klebsiella
+142930,,"CCUG 15788",0,"Klebsiella oxytoca",Klebsiella
+155829,,"CCUG 59412",0,"Klebsiella oxytoca",Klebsiella
+143868,,"CCUG 21666",0,"Klebsiella oxytoca",Klebsiella
+141247,,"CCUG 383",0,"Klebsiella oxytoca",Klebsiella
+144225,,"CCUG 23732",0,"Klebsiella oxytoca",Klebsiella
+146943,,"CCUG 32516",0,"Klebsiella oxytoca",Klebsiella
+155992,,"CCUG 59935",0,"Klebsiella oxytoca",Klebsiella
+144234,,"CCUG 23880",0,"Klebsiella oxytoca",Klebsiella
+147262,,"CCUG 33222",0,"Klebsiella oxytoca",Klebsiella
+4942,"LRA 006 01 73","CCUG 29298, DSM 6673, ATCC 43863, CIP 103546",0,"Klebsiella oxytoca",Klebsiella
+139515,"SL 781","CIP 104963",0,"Klebsiella oxytoca",Klebsiella
+4943,M5a1,"DSM 7342, DSM 3539, NCIB 12204",0,"Klebsiella oxytoca",Klebsiella
+134506,KER,"CIP 105873",0,"Klebsiella oxytoca",Klebsiella
+145816,,"CCUG 29683 A",0,"Klebsiella oxytoca",Klebsiella
+4944,TauN1,"DSM 16963",0,"Klebsiella oxytoca",Klebsiella
+173354,U12,CRBIP19.318,0,"Klebsiella oxytoca",Klebsiella
+150581,,"CCUG 41654",0,"Klebsiella oxytoca",Klebsiella
+4945,Colworth2703,"DSM 25736, CIP 110043, NCIMB 12819, WDCM 00096, CECT 8207",0,"Klebsiella oxytoca",Klebsiella
+143417,,"CCUG 19048",0,"Klebsiella oxytoca",Klebsiella
+173355,U10,CRBIP19.319,0,"Klebsiella oxytoca",Klebsiella
+137289,"SL 7811","CIP 105096",0,"Klebsiella oxytoca",Klebsiella
+150684,,"CCUG 41957",0,"Klebsiella oxytoca",Klebsiella
+153718,,"CCUG 50735",0,"Klebsiella oxytoca",Klebsiella
+143547,,"CCUG 20014",0,"Klebsiella oxytoca",Klebsiella
+173356,,"CIP 111713",0,"Klebsiella oxytoca",Klebsiella
+134796,Sobeaut,"CIP 66.6",0,"Klebsiella oxytoca",Klebsiella
+150983,,"CCUG 42935",0,"Klebsiella oxytoca",Klebsiella
+153933,,"CCUG 51683",0,"Klebsiella oxytoca",Klebsiella
+167610,"SB6412, SPARK836C1, SPARK_836_C1","CIP 111696, DSM 109530",1,"Klebsiella pasteurii",Klebsiella
+4951,62-1,"DSM 5758, ATCC 25306, DSM 1470",0,"Klebsiella pneumoniae",Klebsiella
+159285,"BWKH 463","DSM 109389",0,"Klebsiella pneumoniae",Klebsiella
+157931,"Kp-Goe-822579, Kp_Goe_822579","DSM 103701",0,"Klebsiella pneumoniae",Klebsiella
+154229,,"CCUG 52846",0,"Klebsiella pneumoniae",Klebsiella
+159217,"BWKH 502","DSM 109290",0,"Klebsiella pneumoniae",Klebsiella
+4956,GT1,"DSM 12082",0,"Klebsiella pneumoniae",Klebsiella
+173496,"SB20, 04A025","CIP 111841",0,"Klebsiella pneumoniae",Klebsiella
+157936,"Kp-Goe-828304, Kp_Goe_828304","DSM 103706",0,"Klebsiella pneumoniae",Klebsiella
+159249,"BWKH 412","DSM 109324",0,"Klebsiella pneumoniae",Klebsiella
+169369,235-11,"DSM 113479",0,"Klebsiella pneumoniae",Klebsiella
+136452,"CF 2104","CIP 105857",0,"Klebsiella pneumoniae",Klebsiella
+135130,"Mich. 61","CIP 52.219",0,"Klebsiella pneumoniae",Klebsiella
+148449,,"CCUG 35461",0,"Klebsiella pneumoniae",Klebsiella
+159222,"BWKH 511","DSM 109295",0,"Klebsiella pneumoniae",Klebsiella
+159281,"BWKH 459","DSM 109385",0,"Klebsiella pneumoniae",Klebsiella
+136175,SB3245,"CIP 52.214",0,"Klebsiella pneumoniae",Klebsiella
+137392,P20,"CIP 104341",0,"Klebsiella pneumoniae",Klebsiella
+159254,"BWKH 424","DSM 109329",0,"Klebsiella pneumoniae",Klebsiella
+4952,"WS 1758","DSM 6135",0,"Klebsiella pneumoniae",Klebsiella
+136542,41,"CIP 54.128",0,"Klebsiella pneumoniae",Klebsiella
+157932,"Kp-Goe-822917, Kp_Goe_822917","DSM 103702",0,"Klebsiella pneumoniae",Klebsiella
+144525,,"CCUG 25492",0,"Klebsiella pneumoniae",Klebsiella
+159218,"BWKH 504","DSM 109291",0,"Klebsiella pneumoniae",Klebsiella
+131731,789,"DSM 103517",0,"Klebsiella pneumoniae",Klebsiella
+173497,SB1139,"CIP 111853",0,"Klebsiella pneumoniae",Klebsiella
+4948,240,"DSM 2026, ATCC 15380, NCIB 418, NCTC 418, CIP 103733, NCDO 711, NCTC 240",0,"Klebsiella pneumoniae",Klebsiella
+136158,4715/50,"CIP 52.201",0,"Klebsiella pneumoniae",Klebsiella
+157928,"Kp-Goe-62629, Kp_Goe_62629","DSM 103698",0,"Klebsiella pneumoniae",Klebsiella
+159250,"BWKH 413","DSM 109325",0,"Klebsiella pneumoniae",Klebsiella
+144510,,"CCUG 25426",0,"Klebsiella pneumoniae",Klebsiella
+148516,,"CCUG 35581",0,"Klebsiella pneumoniae",Klebsiella
+173493,Caroli,"CIP 78.24",0,"Klebsiella pneumoniae",Klebsiella
+159282,"BWKH 460","DSM 109386",0,"Klebsiella pneumoniae",Klebsiella
+135936,ORI-1,"CIP 106818",0,"Klebsiella pneumoniae",Klebsiella
+138822,"LRA 003 09 73","CIP 103687, ATCC 23357",0,"Klebsiella pneumoniae",Klebsiella
+159246,"BWKH 407","DSM 109321",0,"Klebsiella pneumoniae",Klebsiella
+157933,"Kp-Goe-825795, Kp_Goe_825795","DSM 103703",0,"Klebsiella pneumoniae",Klebsiella
+159278,"BWKH 454","DSM 109373",0,"Klebsiella pneumoniae",Klebsiella
+144655,,"CCUG 26108",0,"Klebsiella pneumoniae",Klebsiella
+155043,,"CCUG 56233",0,"Klebsiella pneumoniae",Klebsiella
+159219,"BWKH 506","DSM 109292",0,"Klebsiella pneumoniae",Klebsiella
+131732,769,"DSM 103518",0,"Klebsiella pneumoniae",Klebsiella
+173498,SB4-2,"CIP 111863",0,"Klebsiella pneumoniae",Klebsiella
+156444,,"CCUG 61815",0,"Klebsiella pneumoniae",Klebsiella
+136161,B7380,"CIP 52.204, ATCC 7380",0,"Klebsiella pneumoniae",Klebsiella
+4949,"H 273","DSM 4270",0,"Klebsiella pneumoniae",Klebsiella
+159251,"BWKH 415","DSM 109326",0,"Klebsiella pneumoniae",Klebsiella
+157929,"Kp-Goe-71070, Kp_Goe_71070","DSM 103699",0,"Klebsiella pneumoniae",Klebsiella
+159283,"BWKH 461","DSM 109387",0,"Klebsiella pneumoniae",Klebsiella
+134765,,"CIP 60.70, NCIMB 10198",0,"Klebsiella pneumoniae",Klebsiella
+151280,,"CCUG 43603",0,"Klebsiella pneumoniae",Klebsiella
+144511,,"CCUG 25431",0,"Klebsiella pneumoniae",Klebsiella
+138846,Korski,"CIP 58.5",0,"Klebsiella pneumoniae",Klebsiella
+159215,"BWKH 500","DSM 109288",0,"Klebsiella pneumoniae",Klebsiella
+154224,,"CCUG 52804",0,"Klebsiella pneumoniae",Klebsiella
+173494,"Kn1 Lyon","CIP 78.25",0,"Klebsiella pneumoniae",Klebsiella
+157934,"Kp-Goe-827024, Kp_Goe_827024","DSM 103704",0,"Klebsiella pneumoniae",Klebsiella
+159247,"BWKH 410","DSM 109322",0,"Klebsiella pneumoniae",Klebsiella
+159220,"BWKH 507","DSM 109293",0,"Klebsiella pneumoniae",Klebsiella
+136294,5657,"CIP 104298",0,"Klebsiella pneumoniae",Klebsiella
+173499,SB617,"CIP 111865, CRBIP28.80",0,"Klebsiella pneumoniae",Klebsiella
+148195,,"CCUG 35020",0,"Klebsiella pneumoniae",Klebsiella
+136163,,"CIP 52.205, NCTC 4140",0,"Klebsiella pneumoniae",Klebsiella
+159279,"BWKH 457","DSM 109383",0,"Klebsiella pneumoniae",Klebsiella
+159252,"BWKH 416","DSM 109327",0,"Klebsiella pneumoniae",Klebsiella
+138771,1056,"CIP 52.207",0,"Klebsiella pneumoniae",Klebsiella
+136491,"M176, 37","CIP 106194",0,"Klebsiella pneumoniae",Klebsiella
+4950,PZH,"DSM 4799, ATCC 25955, PZH 572",0,"Klebsiella pneumoniae",Klebsiella
+148980,,"CCUG 36675",0,"Klebsiella pneumoniae",Klebsiella
+157930,"Kp-Goe-821588, Kp_Goe_821588","DSM 103700",0,"Klebsiella pneumoniae",Klebsiella
+159284,"BWKH 462","DSM 109388",0,"Klebsiella pneumoniae",Klebsiella
+159216,"BWKH 501","DSM 109289",0,"Klebsiella pneumoniae",Klebsiella
+157935,"Kp-Goe-827026, Kp_Goe_827026","DSM 103705",0,"Klebsiella pneumoniae",Klebsiella
+173495,KP21,CRBIP19.50,0,"Klebsiella pneumoniae",Klebsiella
+169368,108453,"DSM 108453",0,"Klebsiella pneumoniae",Klebsiella
+136009,740.84,"CIP 101114",0,"Klebsiella pneumoniae",Klebsiella
+159221,"BWKH 510","DSM 109294",0,"Klebsiella pneumoniae",Klebsiella
+159248,"BWKH 411","DSM 109323",0,"Klebsiella pneumoniae",Klebsiella
+173500,"SB612, 2-3","CIP 111888",0,"Klebsiella pneumoniae",Klebsiella
+136451,"CF 704","CIP 105856",0,"Klebsiella pneumoniae",Klebsiella
+136165,1015,"CIP 52.206",0,"Klebsiella pneumoniae",Klebsiella
+159280,"BWKH 458","DSM 109384",0,"Klebsiella pneumoniae",Klebsiella
+159253,"BWKH 421","DSM 109328",0,"Klebsiella pneumoniae",Klebsiella
+155816,,"CCUG 59358",0,"Klebsiella pneumoniae",Klebsiella
+144835,,"CCUG 26734",0,"Klebsiella pneumoniae",Klebsiella
+159231,"BWKH 387","DSM 109306",0,"Klebsiella pneumoniae",Klebsiella
+159226,"BWKH 518","DSM 109299",0,"Klebsiella pneumoniae",Klebsiella
+136193,1680/49,"CIP 52.229",0,"Klebsiella pneumoniae",Klebsiella
+136186,1754/49,"CIP 52.222",0,"Klebsiella pneumoniae",Klebsiella
+159263,"BWKH 435","DSM 109337",0,"Klebsiella pneumoniae",Klebsiella
+159258,"BWKH 430","DSM 109333",0,"Klebsiella pneumoniae",Klebsiella
+159295,"BWKH 476","DSM 109398",0,"Klebsiella pneumoniae",Klebsiella
+159290,"BWKH 470","DSM 109394",0,"Klebsiella pneumoniae",Klebsiella
+155817,,"CCUG 59359",0,"Klebsiella pneumoniae",Klebsiella
+151873,,"CCUG 45102",0,"Klebsiella pneumoniae",Klebsiella
+142969,,"CCUG 15954",0,"Klebsiella pneumoniae",Klebsiella
+4961,,"DSM 25721, NCCP 13840",0,"Klebsiella pneumoniae",Klebsiella
+135414,"RP 1","CIP 104118",0,"Klebsiella pneumoniae",Klebsiella
+157941,"Kp-Goe-154414, Kp_Goe_154414","DSM 103711",0,"Klebsiella pneumoniae",Klebsiella
+144836,,"CCUG 26735",0,"Klebsiella pneumoniae",Klebsiella
+159227,"BWKH 520","DSM 109300",0,"Klebsiella pneumoniae",Klebsiella
+159286,"BWKH 466","DSM 109390",0,"Klebsiella pneumoniae",Klebsiella
+136187,293/50,"CIP 52.223",0,"Klebsiella pneumoniae",Klebsiella
+137609,"OM1, 700","CIP 80.46",0,"Klebsiella pneumoniae",Klebsiella
+159259,"BWKH 485","DSM 109434",0,"Klebsiella pneumoniae",Klebsiella
+155636,,"CCUG 58545",0,"Klebsiella pneumoniae",Klebsiella
+136621,"NHRI 1001","CIP 107112",0,"Klebsiella pneumoniae",Klebsiella
+156658,,"CCUG 63957",0,"Klebsiella pneumoniae",Klebsiella
+149365,,"CCUG 37597",0,"Klebsiella pneumoniae",Klebsiella
+4957,"10-04-09, B02624","DSM 16609",0,"Klebsiella pneumoniae",Klebsiella
+159291,"BWKH 471","DSM 109395",0,"Klebsiella pneumoniae",Klebsiella
+157937,"Kp-Goe-121641, Kp_Goe_121641","DSM 103707",0,"Klebsiella pneumoniae",Klebsiella
+137700,"624, 12","CIP 80.41",0,"Klebsiella pneumoniae",Klebsiella
+135282,1296,"CIP 100633, ATCC 27799",0,"Klebsiella pneumoniae",Klebsiella
+151876,,"CCUG 45105",0,"Klebsiella pneumoniae",Klebsiella
+159223,"BWKH 514","DSM 109296",0,"Klebsiella pneumoniae",Klebsiella
+139193,"Innsbruck A-1","CIP 104727",0,"Klebsiella pneumoniae",Klebsiella
+136176,390,"CIP 52.215",0,"Klebsiella pneumoniae",Klebsiella
+155806,,"CCUG 59348",0,"Klebsiella pneumoniae",Klebsiella
+145964,,"CCUG 29970",0,"Klebsiella pneumoniae",Klebsiella
+4962,"K6, MCV37","DSM 26371, ATCC 700603, CCUG 45421, LMG 20218, CIP 110855, NCTC 13368",0,"Klebsiella pneumoniae",Klebsiella
+159255,"BWKH 425","DSM 109330",0,"Klebsiella pneumoniae",Klebsiella
+159228,"BWKH 522","DSM 109301",0,"Klebsiella pneumoniae",Klebsiella
+159287,"BWKH 467","DSM 109391",0,"Klebsiella pneumoniae",Klebsiella
+136188,K20,"CIP 52.224",0,"Klebsiella pneumoniae",Klebsiella
+137610,"OM26, 6701","CIP 80.47",0,"Klebsiella pneumoniae",Klebsiella
+159260,"BWKH 432","DSM 109334",0,"Klebsiella pneumoniae",Klebsiella
+155637,,"CCUG 58546",0,"Klebsiella pneumoniae",Klebsiella
+136939,"SB 501, 5710/52","CIP 108293",0,"Klebsiella pneumoniae",Klebsiella
+157938,"Kp-Goe-149473, Kp_Goe_149473","DSM 103708",0,"Klebsiella pneumoniae",Klebsiella
+159292,"BWKH 473","DSM 109396",0,"Klebsiella pneumoniae",Klebsiella
+159224,"BWKH 516","DSM 109297",0,"Klebsiella pneumoniae",Klebsiella
+139204,2918381,"CIP 104771",0,"Klebsiella pneumoniae",Klebsiella
+136179,138,"CIP 52.218",0,"Klebsiella pneumoniae",Klebsiella
+155807,,"CCUG 59349",0,"Klebsiella pneumoniae",Klebsiella
+159256,"BWKH 428","DSM 109331",0,"Klebsiella pneumoniae",Klebsiella
+159229,"BWKH 523","DSM 109302",0,"Klebsiella pneumoniae",Klebsiella
+149272,,"CCUG 37387",0,"Klebsiella pneumoniae",Klebsiella
+136190,1702/49,"CIP 52.225",0,"Klebsiella pneumoniae",Klebsiella
+159288,"BWKH 468","DSM 109392",0,"Klebsiella pneumoniae",Klebsiella
+146278,,"CCUG 30779",0,"Klebsiella pneumoniae",Klebsiella
+137611,703,"CIP 80.48, QM 56",0,"Klebsiella pneumoniae",Klebsiella
+159261,"BWKH 433","DSM 109335",0,"Klebsiella pneumoniae",Klebsiella
+151760,,"CCUG 44810",0,"Klebsiella pneumoniae",Klebsiella
+159293,"BWKH 456","DSM 109374",0,"Klebsiella pneumoniae",Klebsiella
+155638,,"CCUG 58547",0,"Klebsiella pneumoniae",Klebsiella
+139234,,"CIP 53.9, BR 24",0,"Klebsiella pneumoniae",Klebsiella
+156721,,"CCUG 64452",0,"Klebsiella pneumoniae",Klebsiella
+155808,,"CCUG 59350",0,"Klebsiella pneumoniae",Klebsiella
+157939,"Kp-Goe-149832, Kp_Goe_149832","DSM 103709",0,"Klebsiella pneumoniae",Klebsiella
+156866,,"CCUG 66189",0,"Klebsiella pneumoniae",Klebsiella
+144834,,"CCUG 26733",0,"Klebsiella pneumoniae",Klebsiella
+4964,ASR1,"DSM 15998",0,"Klebsiella pneumoniae",Klebsiella
+159225,"BWKH 517","DSM 109298",0,"Klebsiella pneumoniae",Klebsiella
+145009,,"CCUG 27395",0,"Klebsiella pneumoniae",Klebsiella
+136182,2069/49,"CIP 52.220",0,"Klebsiella pneumoniae",Klebsiella
+159230,"BWKH 525","DSM 109303",0,"Klebsiella pneumoniae",Klebsiella
+159257,"BWKH 429","DSM 109332",0,"Klebsiella pneumoniae",Klebsiella
+136191,1996/49,"CIP 52.226",0,"Klebsiella pneumoniae",Klebsiella
+136546,"Kp 4940","CIP 106670",0,"Klebsiella pneumoniae",Klebsiella
+159262,"BWKH 434","DSM 109336",0,"Klebsiella pneumoniae",Klebsiella
+149273,,"CCUG 37388",0,"Klebsiella pneumoniae",Klebsiella
+159294,"BWKH 475","DSM 109397",0,"Klebsiella pneumoniae",Klebsiella
+159289,"BWKH 469","DSM 109393",0,"Klebsiella pneumoniae",Klebsiella
+138008,F1,"CIP 52.144, ATCC 13886, NCTC 5054, CCUG 31616",0,"Klebsiella pneumoniae",Klebsiella
+157940,"Kp-Goe-152021, Kp_Goe_152021","DSM 103710",0,"Klebsiella pneumoniae",Klebsiella
+159267,"BWKH 442","DSM 109341",0,"Klebsiella pneumoniae",Klebsiella
+137160,"C 5046","CIP 52.146, NCTC 5056",0,"Klebsiella pneumoniae",Klebsiella
+159299,"BWKH 480","DSM 109429",0,"Klebsiella pneumoniae",Klebsiella
+139321,75,"CIP 106231",0,"Klebsiella pneumoniae",Klebsiella
+145416,,"CCUG 28420",0,"Klebsiella pneumoniae",Klebsiella
+159236,"BWKH 395","DSM 109311",0,"Klebsiella pneumoniae",Klebsiella
+159268,"BWKH 443","DSM 109363",0,"Klebsiella pneumoniae",Klebsiella
+137232,916,"CIP 52.208",0,"Klebsiella pneumoniae",Klebsiella
+159232,"BWKH 388","DSM 109307",0,"Klebsiella pneumoniae",Klebsiella
+159300,"BWKH 481","DSM 109430",0,"Klebsiella pneumoniae",Klebsiella
+136194,,"CIP 52.231, BR 21",0,"Klebsiella pneumoniae",Klebsiella
+139425,KC100,"CIP 110652, KCTC 2242",0,"Klebsiella pneumoniae",Klebsiella
+159264,"BWKH 439","DSM 109338",0,"Klebsiella pneumoniae",Klebsiella
+137091,313,"CIP 52.216",0,"Klebsiella pneumoniae",Klebsiella
+159296,"BWKH 477","DSM 109426",0,"Klebsiella pneumoniae",Klebsiella
+138125,"87 B-1","CIP 104901",0,"Klebsiella pneumoniae",Klebsiella
+139277,"CF 1304","CIP 105858",0,"Klebsiella pneumoniae",Klebsiella
+154642,,"CCUG 54718",0,"Klebsiella pneumoniae",Klebsiella
+155818,,"CCUG 59360",0,"Klebsiella pneumoniae",Klebsiella
+157025,,"CCUG 68727, NCTC 13442",0,"Klebsiella pneumoniae",Klebsiella
+135415,"RP 10","CIP 104119",0,"Klebsiella pneumoniae",Klebsiella
+159233,"BWKH 390","DSM 109308",0,"Klebsiella pneumoniae",Klebsiella
+136196,,"CIP 52.230, NCTC 9145",0,"Klebsiella pneumoniae",Klebsiella
+159265,"BWKH 440","DSM 109339",0,"Klebsiella pneumoniae",Klebsiella
+137155,"21, 628","CIP 80.44",0,"Klebsiella pneumoniae",Klebsiella
+159297,"BWKH 478","DSM 109427",0,"Klebsiella pneumoniae",Klebsiella
+138181,MCQ-122,"CIP 105166",0,"Klebsiella pneumoniae",Klebsiella
+139285,"TP 01","CIP 105868",0,"Klebsiella pneumoniae",Klebsiella
+164070,,"JCM 31465",0,"Klebsiella pneumoniae",Klebsiella
+132747,pC1,"DSM 15563",0,"Klebsiella pneumoniae",Klebsiella
+157026,,"NCTC 13443, CCUG 68728",0,"Klebsiella pneumoniae",Klebsiella
+4968,,"DSM 681, ATCC 10031, NCIB 9111, NCTC 7427, CCUG 10785, NCDC 401-68, PCI 602, CIP 53.153, NCIMB 9111",0,"Klebsiella pneumoniae",Klebsiella
+135417,"RP 24","CIP 104120",0,"Klebsiella pneumoniae",Klebsiella
+159234,"BWKH 391","DSM 109309",0,"Klebsiella pneumoniae",Klebsiella
+136199,,"CIP 52.232, BR 16",0,"Klebsiella pneumoniae",Klebsiella
+146621,,"CCUG 31617, NCTC 7242",0,"Klebsiella pneumoniae",Klebsiella
+159266,"BWKH 441","DSM 109340",0,"Klebsiella pneumoniae",Klebsiella
+137156,"629, 24","CIP 80.45",0,"Klebsiella pneumoniae",Klebsiella
+159298,"BWKH 479","DSM 109428",0,"Klebsiella pneumoniae",Klebsiella
+155830,,"CCUG 59413",0,"Klebsiella pneumoniae",Klebsiella
+132748,pC4,"DSM 15565",0,"Klebsiella pneumoniae",Klebsiella
+4969,,"CCUG 58866, DSM 789, ATCC 4352, NCIB 10341, WDCM 00192, JCM 20348, CIP 104216, IAM 12015, IFO 13277, NBRC 13277, NCIMB 10341, CECT 8453, NCTC 13635",0,"Klebsiella pneumoniae",Klebsiella
+134420,,"CIP 53.22, BR 38",0,"Klebsiella pneumoniae",Klebsiella
+159235,"BWKH 393","DSM 109310",0,"Klebsiella pneumoniae",Klebsiella
+136200,,"CIP 52.233, BR 17",0,"Klebsiella pneumoniae",Klebsiella
+131036,,"DSM 24075, WB 2",0,"Klebsiella pneumoniae",Klebsiella
+134455,KPLA-1,"CIP 105705",0,"Klebsiella pneumoniae",Klebsiella
+159237,"BWKH 396","DSM 109312",0,"Klebsiella pneumoniae",Klebsiella
+136203,,"CIP 52.235, BR 19",0,"Klebsiella pneumoniae",Klebsiella
+159269,"BWKH 444","DSM 109364",0,"Klebsiella pneumoniae",Klebsiella
+150227,,"CCUG 39327",0,"Klebsiella pneumoniae",Klebsiella
+4946,A,"DSM 1620",0,"Klebsiella pneumoniae",Klebsiella
+159239,"BWKH 398","DSM 109314",0,"Klebsiella pneumoniae",Klebsiella
+157926,"Kp-Goe-33208, Kp_Goe_33208","DSM 103696",0,"Klebsiella pneumoniae",Klebsiella
+136216,,"CIP 53.17, BR 33",0,"Klebsiella pneumoniae",Klebsiella
+134604,MCQ-112,"CIP 106982",0,"Klebsiella pneumoniae",Klebsiella
+159271,"BWKH 446","DSM 109366",0,"Klebsiella pneumoniae",Klebsiella
+144507,,"CCUG 25408",0,"Klebsiella pneumoniae",Klebsiella
+137241,2812/50,"CIP 52.228",0,"Klebsiella pneumoniae",Klebsiella
+135918,"TP 02","CIP 105869",0,"Klebsiella pneumoniae",Klebsiella
+159303,"BWKH 484","DSM 109433",0,"Klebsiella pneumoniae",Klebsiella
+159244,"BWKH 404","DSM 109319",0,"Klebsiella pneumoniae",Klebsiella
+138391,45956,"CIP 106976",0,"Klebsiella pneumoniae",Klebsiella
+136228,,"CIP 53.15, BR 31",0,"Klebsiella pneumoniae",Klebsiella
+153328,,"CCUG 49243",0,"Klebsiella pneumoniae",Klebsiella
+148038,,"CCUG 34718",0,"Klebsiella pneumoniae",Klebsiella
+154869,,"CCUG 55505",0,"Klebsiella pneumoniae",Klebsiella
+159276,"BWKH 452","DSM 109371",0,"Klebsiella pneumoniae",Klebsiella
+156059,,"CCUG 60237",0,"Klebsiella pneumoniae",Klebsiella
+159308,"BWKH 497","DSM 109439",0,"Klebsiella pneumoniae",Klebsiella
+145807,,"CCUG 29646",0,"Klebsiella pneumoniae",Klebsiella
+138583,"NB 37","CIP 104039",0,"Klebsiella pneumoniae",Klebsiella
+159240,"BWKH 399","DSM 109315",0,"Klebsiella pneumoniae",Klebsiella
+100251,ST033303(HKI),,0,"Klebsiella pneumoniae",Klebsiella
+136219,,"CIP 53.8, BR 23",0,"Klebsiella pneumoniae",Klebsiella
+131730,"102027, T2-1-2","DSM 102040",0,"Klebsiella pneumoniae",Klebsiella
+159272,"BWKH 448","DSM 109367",0,"Klebsiella pneumoniae",Klebsiella
+4947,,"DSM 1643, BMTU 5",0,"Klebsiella pneumoniae",Klebsiella
+137246,,"CIP 53.13, BR 28",0,"Klebsiella pneumoniae",Klebsiella
+157927,"Kp-Goe-39795, Kp_Goe_39795","DSM 103697",0,"Klebsiella pneumoniae",Klebsiella
+159304,"BWKH 490","DSM 109435",0,"Klebsiella pneumoniae",Klebsiella
+134621,,"CIP 60.69, NCIMB 10197",0,"Klebsiella pneumoniae",Klebsiella
+138440,"B 5055","CIP 52.145, NCTC 5055",0,"Klebsiella pneumoniae",Klebsiella
+144508,,"CCUG 25414",0,"Klebsiella pneumoniae",Klebsiella
+156089,,"CCUG 60349",0,"Klebsiella pneumoniae",Klebsiella
+173492,"Kp B","CIP 78.23",0,"Klebsiella pneumoniae",Klebsiella
+135814,"625, 5","CIP 80.42",0,"Klebsiella pneumoniae",Klebsiella
+135924,"10, M44","CIP 106167",0,"Klebsiella pneumoniae",Klebsiella
+159241,"BWKH 401","DSM 109316",0,"Klebsiella pneumoniae",Klebsiella
+159245,"BWKH 406","DSM 109320",0,"Klebsiella pneumoniae",Klebsiella
+159273,"BWKH 449","DSM 109368",0,"Klebsiella pneumoniae",Klebsiella
+136231,"AmMS 249","CIP 103623, ATCC 49472",0,"Klebsiella pneumoniae",Klebsiella
+137249,,"CIP 53.14, BR 29",0,"Klebsiella pneumoniae",Klebsiella
+159277,"BWKH 453","DSM 109372",0,"Klebsiella pneumoniae",Klebsiella
+159305,"BWKH 492","DSM 109436",0,"Klebsiella pneumoniae",Klebsiella
+159309,"BWKH 498","DSM 109440",0,"Klebsiella pneumoniae",Klebsiella
+138460,2005/49,"CIP 52.221",0,"Klebsiella pneumoniae",Klebsiella
+138657,,"CIP 53.19, BR 34",0,"Klebsiella pneumoniae",Klebsiella
+141748,,"CCUG 6006",0,"Klebsiella pneumoniae",Klebsiella
+134583,11,"CIP 106641",0,"Klebsiella pneumoniae",Klebsiella
+135867,,"CIP 53.23, BR 39",0,"Klebsiella pneumoniae",Klebsiella
+159301,"BWKH 482","DSM 109431",0,"Klebsiella pneumoniae",Klebsiella
+159242,"BWKH 402","DSM 109317",0,"Klebsiella pneumoniae",Klebsiella
+138362,"SLK 54","CIP 106769",0,"Klebsiella pneumoniae",Klebsiella
+136223,,"CIP 53.11, BR 26",0,"Klebsiella pneumoniae",Klebsiella
+139426,,"CIP 110798, NCTC 11228, ATCC 29665, CCUG 19208, CECT 140, CECT 997, CNCTC 6124, BRL 1003",0,"Klebsiella pneumoniae",Klebsiella
+159274,"BWKH 450","DSM 109369",0,"Klebsiella pneumoniae",Klebsiella
+156033,,"CCUG 60138",0,"Klebsiella pneumoniae",Klebsiella
+137253,,"CIP 53.21, BR 36",0,"Klebsiella pneumoniae",Klebsiella
+134462,RYC492,"CIP 105659, NCTC 50149",0,"Klebsiella pneumoniae",Klebsiella
+159306,"BWKH 494","DSM 109437",0,"Klebsiella pneumoniae",Klebsiella
+144300,,"CCUG 24250",0,"Klebsiella pneumoniae",Klebsiella
+141749,,"CCUG 6007",0,"Klebsiella pneumoniae",Klebsiella
+159238,"BWKH 397","DSM 109313",0,"Klebsiella pneumoniae",Klebsiella
+134586,21,"CIP 106685",0,"Klebsiella pneumoniae",Klebsiella
+136214,"97-52, UA 600","CIP 103522",0,"Klebsiella pneumoniae",Klebsiella
+144504,,"CCUG 25403",0,"Klebsiella pneumoniae",Klebsiella
+147217,,"CCUG 33079",0,"Klebsiella pneumoniae",Klebsiella
+135872,,"CIP 53.25",0,"Klebsiella pneumoniae",Klebsiella
+159270,"BWKH 445","DSM 109365",0,"Klebsiella pneumoniae",Klebsiella
+159243,"BWKH 403","DSM 109318",0,"Klebsiella pneumoniae",Klebsiella
+137234,,"CIP 52.217, BR 13",0,"Klebsiella pneumoniae",Klebsiella
+136224,,"CIP 53.12, BR 27",0,"Klebsiella pneumoniae",Klebsiella
+159302,"BWKH 483","DSM 109432",0,"Klebsiella pneumoniae",Klebsiella
+159275,"BWKH 451","DSM 109370",0,"Klebsiella pneumoniae",Klebsiella
+138364,HM08G,"CIP 106905",0,"Klebsiella pneumoniae",Klebsiella
+159307,"BWKH 496","DSM 109438",0,"Klebsiella pneumoniae",Klebsiella
+153240,,"CCUG 48848",0,"Klebsiella pneumoniae",Klebsiella
+138507,chalazion,"CIP A215",0,"Klebsiella pneumoniae",Klebsiella
+23932,"K. pneumoniae 63","DSM 12059, ICB 6370",0,"Klebsiella pneumoniae",Klebsiella
+131729,T2-1-1,"DSM 102039",0,"Klebsiella pneumoniae",Klebsiella
+141536,,"CCUG 2715",0,"Klebsiella pneumoniae",Klebsiella
+141761,,"CCUG 6507, NCTC 10896",0,"Klebsiella pneumoniae",Klebsiella
+134464,KPZU-12,"CIP 105704",0,"Klebsiella pneumoniae",Klebsiella
+4970,D5050,"DSM 16358, ATCC 11296, NCTC 5050, CCUG 15938, CCM 5972, JCM 1663, BCRC 17592, CCM 5792, CECT 851, CIP 52.211, LMG 3113, LMG 3118, NBRC 105683, VTT E-97790",1,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+145434,,"CCUG 28492",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+137233,"F5052, O30","CIP 52.213, ATCC 11298, NCTC 5052",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+139435,"O45, E5051","CIP 52.212, ATCC 11297, NCTC 5051, CCUG 416",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+147519,,"CCUG 33726",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+148061,,"CCUG 34747",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+150965,,"CCUG 42889",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+149186,,"CCUG 37235",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+151619,,"CCUG 44468",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+139068,511-79,"CIP 79.20",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+149197,,"CCUG 37252",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+139069,531-79,"CIP 79.21",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+152413,,"CCUG 46734",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+149562,,"CCUG 37963",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+152927,,"CCUG 48035",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+150111,,"CCUG 39005",0,"Klebsiella pneumoniae subsp. ozaenae",Klebsiella
+4959,"298-53, 298/53","CCUG 225, NCDC 410-68, DSM 30104, ATCC 13883, IAM 14200, JCM 1662, NCTC 9633, WDCM 00097, BCRC 10692, CECT 143, CIP 82.91, IFO 14940, LMG 2095, NBRC 14940, NCDC 298-53, NCIMB 13883, NCIMB 13281, CCM 7798",1,"Klebsiella pneumoniae",Klebsiella
+162705,,"JCM 20034, ATCC 8308, IAM 1063, IFO 3319, NBRC 3319, NCDC 379-68, NCIMB 8152",0,"Klebsiella pneumoniae subsp. pneumoniae",Klebsiella
+4953,A3,"DSM 9376, ATCC 12657, CDC 383-68, NCIB 8805",0,"Klebsiella pneumoniae subsp. pneumoniae",Klebsiella
+4954,,"DSM 9377, ATCC 13887, CDC 421-68, NCTC 9496, CCUG 31615, CDC 4610-53",0,"Klebsiella pneumoniae subsp. pneumoniae",Klebsiella
+162983,,"JCM 20694, ATCC 15574, CDC 414-68, IAM 12626",0,"Klebsiella pneumoniae subsp. pneumoniae",Klebsiella
+4955,C122,"DSM 11678, ATCC 33495",0,"Klebsiella pneumoniae subsp. pneumoniae",Klebsiella
+130304,"KlpnKS648, KS648","DSM 29417",0,"Klebsiella pneumoniae subsp. pneumoniae",Klebsiella
+4958,"C37, LRA 024 11 73","DSM 30102, ATCC 13882, IFO 13541, NBRC 13541, NCIB 8267, NCTC 8172, CCUG 28450, NCDC 388-68, JCM 20507, IAM 12351, CIP 103582",0,"Klebsiella pneumoniae subsp. pneumoniae",Klebsiella
+4960,,"DSM 30105, ATCC 9997, CIP 104034, NCDC 400-68",0,"Klebsiella pneumoniae subsp. pneumoniae",Klebsiella
+4967,"C 5046, R 70","CCUG 417, DSM 16231, ATCC 13884, NCTC 5046, JCM 1664, BCRC 17593, CCM 5791, CECT 852, CIP 52.210, LMG 3178, LMG 3184, NBRC 105682, NCDC 417-68, VTT E-083057, VTT E-981126",1,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+139275,,"CIP 54.45",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+146619,,"CCUG 31613, NCTC 5047",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+146620,,"CCUG 31614, NCTC 7799",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+135712,33-81,"CIP 81.92",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+137602,"42-79, Krachai","CIP 79.55",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+136494,,"CIP 54.130",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+136543,,"CIP 54.129",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+136545,,"CIP 54.131",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+137612,15-80,"CIP 80.51",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+146618,,"CCUG 31612, ATCC 6908, NCTC 1936",0,"Klebsiella pneumoniae subsp. rhinoscleromatis",Klebsiella
+173514,K50,"CIP 52.200",0,"Klebsiella quasipneumoniae",Klebsiella
+173515,"SB59, 18A069","CIP 111839, CRBIP28.152",0,"Klebsiella quasipneumoniae",Klebsiella
+173516,SB1124,"CIP 111852",0,"Klebsiella quasipneumoniae",Klebsiella
+173517,12A476,"CIP 111862",0,"Klebsiella quasipneumoniae",Klebsiella
+173518,18A451,"CIP 111864",0,"Klebsiella quasipneumoniae",Klebsiella
+173519,"1-1, SB610","CIP 111869",0,"Klebsiella quasipneumoniae",Klebsiella
+173520,"99-1002, SB2478","CIP 111887",0,"Klebsiella quasipneumoniae",Klebsiella
+173521,"SB164, 09A323","CIP 111889",0,"Klebsiella quasipneumoniae",Klebsiella
+130305,"01A030, CRBIP28.95, SB11","DSM 28211, CIP 110771, CCUG 70915, CRBIP28.95, CIP 111866",1,"Klebsiella quasipneumoniae",Klebsiella
+130306,"07A044, CRBIP28.112, SB30","CCUG 70916, DSM 28212, CIP 110770, CRBIP28.112, CIP 111867",1,"Klebsiella quasipneumoniae subsp. similipneumoniae",Klebsiella
+132932,"CW-D 3","DSM 100662, CCTCC AB 206144, KCTC 12878, LMG 24441",0,"Klebsiella quasipneumoniae subsp. similipneumoniae",Klebsiella
+158169,IF3SW-P1,"DSM 104457",0,"Klebsiella quasipneumoniae subsp. similipneumoniae",Klebsiella
+170949,"SB6095, 01-310MBV","CIP 111871",0,"Klebsiella quasivariicola",Klebsiella
+170950,"SB33, 08A119","CIP 111897",0,"Klebsiella quasivariicola",Klebsiella
+131037,J1,"DSM 101559",0,"Klebsiella sp.",Klebsiella
+4940,,"DSM 4798, ATCC 8724, BUCSAV 143, CCM 1901, NCDC 380-68, NCIB 8017, NCIB 8521, NRC 474, NRRL B-199, JCM 20051, CIP 110762, IAM 1102, IFO 3318, NBRC 3318, NCIMB 8017, NCIMB 8521, NCIMB 9901",0,"Klebsiella sp.",Klebsiella
+23933,BRL6-2,"DSM 25465",0,"Klebsiella sp.",Klebsiella
+150416,,"CCUG 39852",0,"Klebsiella sp.",Klebsiella
+156137,,"CCUG 60507, NCTC 9140",0,"Klebsiella sp.",Klebsiella
+156138,,"CCUG 60508, NCTC 9174",0,"Klebsiella sp.",Klebsiella
+156139,,"CCUG 60509",0,"Klebsiella sp.",Klebsiella
+4963,,"DSM 7460",0,"Klebsiella sp.",Klebsiella
+142956,,"CCUG 15901",0,"Klebsiella sp.",Klebsiella
+4965,58,"DSM 21696",0,"Klebsiella sp.",Klebsiella
+152746,,"CCUG 47534",0,"Klebsiella sp.",Klebsiella
+167609,"SB6411, SPARK_775_C1","DSM 109531, CIP 111695",1,"Klebsiella spallanzanii",Klebsiella
+138488,,"CIP 53.27",0,"Klebsiella variicola",Klebsiella
+135990,,"CIP 52.199",0,"Klebsiella variicola",Klebsiella
+133650,LX3,"DSM 16265, JCM 12419, CCUG 57108, CIP 108642, LMG 23571",0,"Klebsiella variicola",Klebsiella
+139091,,"CIP 53.24, BR 40",0,"Klebsiella variicola",Klebsiella
+139097,1756/51,"CIP 53.26",0,"Klebsiella variicola",Klebsiella
+136613,Q067,"CIP 80.49",0,"Klebsiella variicola",Klebsiella
+174287,"CIMB 04-5641",CRBIP17.85,0,"Klebsiella variicola",Klebsiella
+174288,"SB1, 01A065","CIP 111840, CRBIP28.94",0,"Klebsiella variicola",Klebsiella
+174289,SB31,"CIP 111851",0,"Klebsiella variicola",Klebsiella
+174290,"100814, SB5387","CIP 111870",0,"Klebsiella variicola",Klebsiella
+174291,"SB5544, 201283","CIP 111898",0,"Klebsiella variicola",Klebsiella
+168927,"SB5531, 1266 (also designated SB5531), 1266","CIP 111654, CECT 9831",1,"Klebsiella variicola subsp. tropica",Klebsiella
+4966,F2R9,"DSM 15968, ATCC BAA-830, CFNE 2004, CCUG 53906, CIP 108585",1,"Klebsiella variicola",Klebsiella
+24063,"Tü 6233","DSM 44526, CECT 8402, JCM 31698",1,"Klenkia brasiliensis",Klenkia
+160762,,"DSM 45722, YIM M13156, CCTCC AB 2012057",1,"Klenkia marina",Klenkia
+23033,PB34,"DSM 45843, JCM 17785, KCTC 19880",1,"Klenkia soli",Klenkia
+24062,3-wff-81,"DSM 45962, CGMCC 1.12303, NBRC 109416, JCM 31768",1,"Klenkia taihuensis",Klenkia
+23034,"PB 261","DSM 45844, JCM 17786, KCTC 19881",1,"Klenkia terrae",Klenkia
+7332,"44C3, C44","DSM 18031, ATCC BAA-1524, JCM 16542",1,"Klugiella xanthotipulae",Klugiella
+7331,C46,"DSM 18030",0,"Klugiella xanthotipulae",Klugiella
+7333,C45,"DSM 18032",0,"Klugiella xanthotipulae",Klugiella
+7334,C50,"DSM 18051",0,"Klugiella xanthotipulae",Klugiella
+7335,C47,"DSM 18023",0,"Klugiella xanthotipulae",Klugiella
+7336,C48,"DSM 18024",0,"Klugiella xanthotipulae",Klugiella
+7337,C51,"DSM 18025",0,"Klugiella xanthotipulae",Klugiella
+4973,0648-74,"DSM 4611, ATCC 33433, CDC 0648-74, CIP 82.95, GIFU 10603, IAM 14203, NBRC 102466, CCUG 15716, CECT 861, JCM 21070, LMG 7871",1,"Kluyvera ascorbata",Kluyvera
+4974,"2366, No.6(ß)","CCUG 21164, DSM 30109, ATCC 14236, CDC 2567-61, CIP 79.53",0,"Kluyvera ascorbata",Kluyvera
+144666,,"CCUG 26138",0,"Kluyvera ascorbata",Kluyvera
+143742,,"CCUG 21165",0,"Kluyvera ascorbata",Kluyvera
+144670,,"CCUG 26142",0,"Kluyvera ascorbata",Kluyvera
+145958,,"CCUG 29960",0,"Kluyvera ascorbata",Kluyvera
+143743,,"CCUG 21166",0,"Kluyvera ascorbata",Kluyvera
+143744,,"CCUG 21167",0,"Kluyvera ascorbata",Kluyvera
+143774,,"CCUG 21209",0,"Kluyvera ascorbata",Kluyvera
+143775,,"CCUG 21210",0,"Kluyvera ascorbata",Kluyvera
+161872,,"JCM 1681, CDC 0762-75",0,"Kluyvera ascorbata",Kluyvera
+4976,"CL 248/74, 2065-78","DSM 4588, ATCC 33435, CDC 2065-78, CIP 82.96, GIFU 10604, IAM 14204, CCUG 18767, CECT 862, JCM 7580, BCRC 14813, LMG 7859, NBRC 102467, NCTC 12993",1,"Kluyvera cryocrescens",Kluyvera
+4975,3641-88E,"DSM 2660, ATCC 21285",0,"Kluyvera cryocrescens",Kluyvera
+4977,"2367, No.4","DSM 30113, ATCC 14239, CIP 79.54, NCTC 10483",0,"Kluyvera cryocrescens",Kluyvera
+143739,,"CCUG 21160",0,"Kluyvera cryocrescens",Kluyvera
+143740,,"CCUG 21161",0,"Kluyvera cryocrescens",Kluyvera
+143741,,"CCUG 21162",0,"Kluyvera cryocrescens",Kluyvera
+137603,20-79,"CIP 80.2, ATCC 14238, CCUG 21163",0,"Kluyvera cryocrescens",Kluyvera
+145959,,"CCUG 29961",0,"Kluyvera cryocrescens",Kluyvera
+137688,18-79,"CIP 80.1, ATCC 14237, NCTC 10484, NCIMB 9139, CCUG 544",0,"Kluyvera cryocrescens",Kluyvera
+143776,,"CCUG 21211",0,"Kluyvera cryocrescens",Kluyvera
+161875,,"JCM 1682, CDC 1396-73",0,"Kluyvera cryocrescens",Kluyvera
+143777,,"CCUG 21212",0,"Kluyvera cryocrescens",Kluyvera
+130957,"BU 005 128 104 84","DSM 9410",0,"Kluyvera cryocrescens",Kluyvera
+130958,"BU 009 337 286 83","DSM 9411",0,"Kluyvera cryocrescens",Kluyvera
+130959,"BU 010 148 12T","DSM 9412",0,"Kluyvera cryocrescens",Kluyvera
+4979,,"DSM 9409, ATCC 51603, CDC 2891-76, JCM 16938, CCUG 35513, CCM 4865, CIP 106361",1,"Kluyvera georgiana",Kluyvera
+4978,,"DSM 9408, CDC 4246-74, CUETM 4246-74",0,"Kluyvera georgiana",Kluyvera
+4971,E86,"CCUG 14183, CIP 79-27, NCTC 12125, LMG 2785, DSM 4581, ATCC 33110, CIP 79.27, CUETM 77.130, IAM 14238, JCM 1238, BCRC 14808, CCM 3433, CUETM 77-130, HAMBI 1299, HUT 8114, NBRC 102594, NCIMB 13626, VTT E-97862",1,"Kluyvera intermedia",Kluyvera
+130941,S3/1-913,"DSM 9407",0,"Kluyvera intermedia",Kluyvera
+145990,,"CCUG 30100, CCM 3435",0,"Kluyvera intermedia",Kluyvera
+139311,77140,"CIP 105047",0,"Kluyvera intermedia",Kluyvera
+4972,S3/1-49,"DSM 9406, ATCC 51609, CCM 4879, CIP 106360, CDC 9514-94",0,"Kluyvera intermedia",Kluyvera
+145989,,"CCUG 30099, CCM 3434, ATCC 33422",0,"Kluyvera intermedia",Kluyvera
+164732,,"JCM 34132, GDMCC 1.1872, KCTC 82166",1,"Kluyvera sichuanensis",Kluyvera
+23934,"WS 21932","DSM 30112",0,"Kluyvera sp.",Kluyvera
+145898,,"CCUG 29892",0,"Kluyvera sp.",Kluyvera
+145899,,"CCUG 29893",0,"Kluyvera sp.",Kluyvera
+145900,,"CCUG 29894",0,"Kluyvera sp.",Kluyvera
+145901,,"CCUG 29895",0,"Kluyvera sp.",Kluyvera
+145902,,"CCUG 29896",0,"Kluyvera sp.",Kluyvera
+145903,,"CCUG 29897",0,"Kluyvera sp.",Kluyvera
+145904,,"CCUG 29898",0,"Kluyvera sp.",Kluyvera
+145905,,"CCUG 29899",0,"Kluyvera sp.",Kluyvera
+145906,,"CCUG 29900",0,"Kluyvera sp.",Kluyvera
+6271,5317S-21,"DSM 18566, KACC 20583, JCM 16377, NBRC 106306",1,"Knoellia aerolata",Knoellia
+6272,TL1,"DSM 25785, CGMCC 1.10749, KCTC 19810, JCM 18318",1,"Knoellia flava",Knoellia
+133714,DMZ1,"KACC 15114, JCM 17313, NBRC 109775",1,"Knoellia locipacati",Knoellia
+134268,3-M5-R-4,"ATCC BAA-1496, CIP 109413, JCM 15662, KCTC 39578, NCIMB 14307",1,"Knoellia remsis",Knoellia
+173528,3-M5-R-7,"CIP 109414",0,"Knoellia remsis",Knoellia
+6269,2162-038,"DSM 12331, CIP 106775, KCTC 19936, CCUG 47139, HKI 0119, JCM 11536, IAM 15304, NBRC 100350, NCIMB 14353",1,"Knoellia sinensis",Knoellia
+103260,ST033332(HKI),,0,"Knoellia sinensis",Knoellia
+132334,,"DSM 102775, Soil 729",0,"Knoellia sp.",Knoellia
+6270,2163-021,"CCUG 48178, HKI 0120, DSM 12332, CIP 106776, KCTC 19937, JCM 11537, IAM 15305, NBRC 100351",1,"Knoellia subterranea",Knoellia
+103261,ST033333(HKI),,0,"Knoellia subterranea",Knoellia
+7660,,"CCUG 55750, CCM 7384, DSM 17006, CCTCC AA 203006, CIP 107966, KCTC 19010, YIM 70003, JCM 14735, NCIMB 14352",1,"Kocuria aegyptia",Kocuria
+140923,CM1E1,"HAMBI 3625, LMG 28671, CCBAU 101092",1,"Kocuria arsenatis",Kocuria
+7667,S9-65,"DSM 23999, MTCC 10622",1,"Kocuria assamensis",Kocuria
+7665,P30,"DSM 23883, JCM 15914, KCTC 19594",1,"Kocuria atrinae",Kocuria
+7658,,"CCUG 55751, JCM 14118, DSM 16004, CCM 132, NBRC 110786",1,"Kocuria carniphila",Kocuria
+154896,,"CCUG 55574",0,"Kocuria carniphila",Kocuria
+159437,,"DSM 27811, SCSIO 13007, NBRC 109942",1,"Kocuria coralli",Kocuria
+131419,NEAU-ST5-33,"DSM 25872, CGMCC 1.12187, JCM 31770",1,"Kocuria dechangensis",Kocuria
+7662,HO-9041,"DSM 22142, CCTCC AB 206106, KCTC 19306, JCM 15621, NBRC 107626",1,"Kocuria flava",Kocuria
+133498,SJ2,"KCCM 42914, LMG 24672, JCM 18958",1,"Kocuria gwangalliensis",Kocuria
+7659,K07-05,"DSM 44905, JCM 13326, MTCC 7020, CCUG 56039, CIP 109344, NCIMB 14351",1,"Kocuria himachalensis",Kocuria
+24202,"NIO-1021, NIO-201102, NIO-21","DSM 25126, CCTCC AB 2011129, JCM 30546, NCIM 5455",1,"Kocuria indica",Kocuria
+7657,,"DSM 16420, KCTC 9943, KMM 3905, CCUG 51442, JCM 13363, NBRC 110801",1,"Kocuria marina",Kocuria
+130426,T2_13,"DSM 30982",0,"Kocuria marina",Kocuria
+130427,T2_43,"DSM 30996",0,"Kocuria marina",Kocuria
+130428,T2_49,"DSM 30998",0,"Kocuria marina",Kocuria
+154867,,"CCUG 55475",0,"Kocuria marina",Kocuria
+153783,,"CCUG 50966",0,"Kocuria marina",Kocuria
+154026,,"CCUG 52044",0,"Kocuria marina",Kocuria
+148965,,"CCUG 36652",0,"Kocuria marina",Kocuria
+155547,,"CCUG 58089",0,"Kocuria marina",Kocuria
+159453,T_C1,"DSM 110316",0,"Kocuria marina",Kocuria
+133058,FXJ8.095,"DSM 24949, CGMCC 4.6946",1,"Kocuria oceani",Kocuria
+7643,TAGA27,"DSM 11925, CCM 4949, IFO 16318, NBRC 16318, CCUG 52395, CIP 105971, JCM 11652, IAM 15064, LMG 19167",1,"Kocuria palustris",Kocuria
+131071,C12,"DSM 100943",0,"Kocuria palustris",Kocuria
+153426,,"CCUG 49552",0,"Kocuria palustris",Kocuria
+154893,,"CCUG 55564",0,"Kocuria palustris",Kocuria
+24200,,"DSM 15639, YIM 70083",0,"Kocuria palustris",Kocuria
+153857,,"CCUG 51387",0,"Kocuria palustris",Kocuria
+155110,,"CCUG 56502",0,"Kocuria palustris",Kocuria
+159385,Fh040319_C15,"DSM 109540",0,"Kocuria palustris",Kocuria
+155123,,"CCUG 56526",0,"Kocuria palustris",Kocuria
+159386,TO-C11,"DSM 110959",0,"Kocuria palustris",Kocuria
+154292,,"CCUG 52990",0,"Kocuria palustris",Kocuria
+154293,,"CCUG 52991",0,"Kocuria palustris",Kocuria
+154294,,"CCUG 52992",0,"Kocuria palustris",Kocuria
+130423,T2_20,"DSM 30987",0,"Kocuria palustris",Kocuria
+155719,,"CCUG 59135",0,"Kocuria palustris",Kocuria
+155767,,"CCUG 59255",0,"Kocuria palustris",Kocuria
+154353,,"CCUG 53222",0,"Kocuria palustris",Kocuria
+7644,,"DSM 20319, DBM 385, CIP 103412",0,"Kocuria palustris",Kocuria
+7645,"KH 113","DSM 20320",0,"Kocuria palustris",Kocuria
+154692,,"CCUG 54862",0,"Kocuria palustris",Kocuria
+140489,RS-2-3,"NBRC 110990, InaCC A704",1,"Kocuria pelophila",Kocuria
+7650,,"DSM 14382, CIP 107764, MTCC 3702, CCUG 52397, CMS 76or, JCM 12076, IAM 15066, NBRC 103063",1,"Kocuria polaris",Kocuria
+7647,TA68,"DSM 11926, CCM 4950, IFO 16319, NBRC 16319, CCUG 55752, ATCC BAA-50, CIP 105972, JCM 11653, IAM 15065, LMG 19168",1,"Kocuria rhizophila",Kocuria
+103061,"STI05004(IMET), pS4",,0,"Kocuria rhizophila",Kocuria
+7648,,"DSM 46222, ATCC 9341a, IMET 10748, NCIB 9660, PCI 1001/D, CIP 106636, NCIMB 9660",0,"Kocuria rhizophila",Kocuria
+7649,ES-145,"DSM 30763",0,"Kocuria rhizophila",Kocuria
+134482,,"CIP 106519, ATCC 15957, CCRC 11055, CCTM La 2974, CECT 4093, NCIMB 12874",0,"Kocuria rhizophila",Kocuria
+157393,,"IMI 501153",0,"Kocuria rhizophila",Kocuria
+159387,T_C4,"DSM 110319",0,"Kocuria rhizophila",Kocuria
+159388,T_C5,"DSM 110320",0,"Kocuria rhizophila",Kocuria
+159389,T_C7,"DSM 110322",0,"Kocuria rhizophila",Kocuria
+159390,S23/2,"DSM 110885",0,"Kocuria rhizophila",Kocuria
+159391,TO-T1,"DSM 110960",0,"Kocuria rhizophila",Kocuria
+169443,TURIN101221_C9b1,"DSM 113549",0,"Kocuria rhizophila",Kocuria
+130424,G2,"DSM 31022",0,"Kocuria rhizophila",Kocuria
+154534,,"CCUG 54274",0,"Kocuria rhizophila",Kocuria
+7646,,"DSM 348, ATCC 9341, PCI 1001, JCM 20050, BCRC 10449, CCM 552, CECT 241, CIP 53.45, CNCTC 5039, IAM 1099, IFO 12708, LMG 8194, LMG 8764, LMG 8789, LMG 8816, NBRC 103217, NBRC 12708, NBRC 3232, NCIMB 8553, NCTC 8340, IMET 10397, NCDO 758",0,"Kocuria rhizophila",Kocuria
+7641,,"DSM 20447, ATCC 186, CCM 679, NCTC 7523, CCUG 4312, IAM 1315, IFO 3768, JCM 11614, BCRC 11044, CECT 5052, CECT 52, CIP 71.15, IAM 14818, IMSNU 11063, IMSNU 21322, JCM 7236, KCCM 40158, KCTC 3137, KCTC 3199, KCTC 3488, LMG 14224, NBRC 3768, NCFB 975, NCIMB 11696, NRRL B-2977, PCM 548, VKM Ac-2200, VKM B-1236, VKM B-1823, NCDO 975",1,"Kocuria rosea",Kocuria
+153554,,"CCUG 50155 C",0,"Kocuria rosea",Kocuria
+162781,,"JCM 20141, ATCC 9815, BCRC 11577, CCM 691, IAM 1295, IFO 3764, NBRC 3764, NCTC 7738, VKM Ac-2202, VKM B-1864",0,"Kocuria rosea",Kocuria
+162925,,"JCM 20437, ATCC 412, CCM 633, IAM 12147, NCDO 767, NCIMB 8175, NCTC 7517",0,"Kocuria rosea",Kocuria
+162926,,"JCM 20438, ATCC 185, CCM 385, IAM 12148, NCIMB 9149, NCTC 7515",0,"Kocuria rosea",Kocuria
+135377,,"CIP 82.61, ATCC 516, CCM 839",0,"Kocuria rosea",Kocuria
+7639,,"DSM 11630, ATCC 187, CCM 706",0,"Kocuria rosea",Kocuria
+7640,,"DSM 12801, ATCC 49321, JCM 21325, CIP 106741, IAM 14819, IFO 15588, NBRC 15588",0,"Kocuria rosea",Kocuria
+135587,,"CIP 56.93",0,"Kocuria rosea",Kocuria
+103060,ST000650(HKI),,0,"Kocuria rosea",Kocuria
+135657,,"CIP 68.26",0,"Kocuria rosea",Kocuria
+160097,I10A-01275,"DSM 24530",0,"Kocuria rosea",Kocuria
+141150,Hv14b,"DSM 28714, CECT 9229",1,"Kocuria salina",Kocuria
+7666,104,"DSM 24776, JCM 16361, KACC 21128, NBRC 109970",1,"Kocuria salsicia",Kocuria
+162136,,"JCM 17929, MTCC 10969",1,"Kocuria sediminis",Kocuria
+166538,M5W7-7,"KCTC 49195, CGMCC 1.13744",1,"Kocuria soli",Kocuria
+7651,CNJ770,"DSM 17348",0,"Kocuria sp.",Kocuria
+7652,CNJ787,"DSM 17356",0,"Kocuria sp.",Kocuria
+7653,CNJ928,"DSM 17397",0,"Kocuria sp.",Kocuria
+7654,"CNJ 723","DSM 17403",0,"Kocuria sp.",Kocuria
+160559,CC-12508,"DSM 21837",0,"Kocuria sp.",Kocuria
+24201,,"DSM 15640, YIM 10102",0,"Kocuria sp.",Kocuria
+7655,ES2-4a2,"DSM 30590",0,"Kocuria sp.",Kocuria
+160560,,"DSM 25891, YIM M13062",0,"Kocuria sp.",Kocuria
+7656,ES2-5a2,"DSM 30592",0,"Kocuria sp.",Kocuria
+160561,105857,"DSM 105857",0,"Kocuria sp.",Kocuria
+162787,,"JCM 20150, ATCC 19099, CCM 2132, IAM 1392, IFO 15951, NBRC 15951",0,"Kocuria sp.",Kocuria
+162789,,"JCM 20155, ATCC 19100, CCM 2133, IAM 1408",0,"Kocuria sp.",Kocuria
+163150,,"JCM 21349, IAM 14843",0,"Kocuria sp.",Kocuria
+163152,,"JCM 21350, IAM 14844",0,"Kocuria sp.",Kocuria
+169487,,"DSM 101470, CFH P0795",0,"Kocuria sp.",Kocuria
+159438,To-C4,"DSM 110976",0,"Kocuria sp.",Kocuria
+169488,478,"DSM 104134",0,"Kocuria sp.",Kocuria
+130425,UCD-OTCP,"DSM 29243",0,"Kocuria sp.",Kocuria
+158038,E16-1,"DSM 108863",0,"Kocuria sp.",Kocuria
+158039,E17-2,"DSM 108864",0,"Kocuria sp.",Kocuria
+132744,,"DSM 15853, YIM 70106",0,"Kocuria sp.",Kocuria
+103057,ST023624(HKI),,0,"Kocuria sp.",Kocuria
+132745,,"DSM 15854, YIM 70120",0,"Kocuria sp.",Kocuria
+103058,ST000630(HKI),,0,"Kocuria sp.",Kocuria
+103059,ST000703(HKI),,0,"Kocuria sp.",Kocuria
+157065,,"CCUG 69295",0,"Kocuria sp.",Kocuria
+164128,,"JCM 31771, CGMCC 4.7252, KCTC 39547",1,"Kocuria subflava",Kocuria
+7663,HO-9042,"DSM 22143, CCTCC AB 206107, KCTC 19307, JCM 15622, NBRC 107627",1,"Kocuria turfanensis",Kocuria
+160663,473,"DSM 104132",0,"Kocuria tytonicola",Kocuria
+160664,489,"DSM 104133",0,"Kocuria tytonicola",Kocuria
+158467,442,"DSM 104130, LMG 29944",1,"Kocuria tytonis",Kocuria
+158392,"Isolate 36","DSM 101740, LMG 29265",1,"Kocuria uropygialis",Kocuria
+158393,257,"DSM 101741, LMG 29266",1,"Kocuria uropygioeca",Kocuria
+7642,"G 33, G33","DSM 20033, ATCC 15306, CCM 884, NCDO 777, NCTC 7564, JCM 7238, BCRC 12152, CCUG 35392, CCUG 3705, CECT 230, CIP 81.73, GIFU 9844, HAMBI 1951, HAMBI 40, IAM 13594, IFO 15358, LMG 14231, NBRC 15358, NCFB 624, NCFB 777, NCIMB 11697, VKM Ac-2215, VKM B-1232, VKM B-1827, VTT E-97857, NCDO 624",1,"Kocuria varians",Kocuria
+103062,"STI09587(IMET), A-6","IMET 9587",0,"Kocuria varians",Kocuria
+153891,,"CCUG 51540",0,"Kocuria varians",Kocuria
+162783,,"JCM 20145, ATCC 399, CCM 2492, IAM 12080, IAM 1314, IFO 3765, NBRC 3765",0,"Kocuria varians",Kocuria
+162924,,"JCM 20436, ATCC 383, CCM 2490, IAM 12146",0,"Kocuria varians",Kocuria
+149539,,"CCUG 37929",0,"Kocuria varians",Kocuria
+146338,,"CCUG 30959",0,"Kocuria varians",Kocuria
+6331,"Pl vt1","DSM 14601, CIP 109120, JCM 12632",1,"Kofleria flava",Kofleria
+6332,"Pl vt10","DSM 14602",0,"Kofleria flava",Kofleria
+6333,"Pl vt11","DSM 14620",0,"Kofleria flava",Kofleria
+6334,"Pl vt4","DSM 14659",0,"Kofleria flava",Kofleria
+6335,"Pl vt6","DSM 53743",0,"Kofleria flava",Kofleria
+6336,"Pl vt7","DSM 53744",0,"Kofleria flava",Kofleria
+6337,"Pl vt8","DSM 53745",0,"Kofleria flava",Kofleria
+164870,,"JCM 39120",1,"Koleobacter methoxysyntrophicus",Koleobacter
+159749,WE7,"CGMCC 1.15338, JCM 31140",1,"Komagataeibacter cocois",Komagataeibacter
+167388,"MSKU 9","TBRC 9844, NBRC 113802, MSKU 9",1,"Komagataeibacter diospyri",Komagataeibacter
+83,21,"DSM 6160, ATCC 51845, BCC 36446, JCM 16935, BCRC 17053, LMG 18724, LMG 18890",1,"Komagataeibacter europaeus",Komagataeibacter
+84,28,"DSM 6161",0,"Komagataeibacter europaeus",Komagataeibacter
+138718,,"CIP 107101",0,"Komagataeibacter europaeus",Komagataeibacter
+22893,"type 1, JK2, JK2, type 1","DSM 13109, ZIM B021 (type 1), ZIM B021, ZIM B021, type 1",0,"Komagataeibacter europaeus",Komagataeibacter
+22894,"type 2, JK2, JK2, type 2","DSM 13110, ZIM B021 (type 2), ZIM B021, ZIM B021, type 2",0,"Komagataeibacter europaeus",Komagataeibacter
+22895,V3,"DSM 13112, ZIM B028",0,"Komagataeibacter europaeus",Komagataeibacter
+85,,"DSM 5602, ATCC 35959, BCC 6318, CCUG 18123, LMG 1527, NBRC 14820, NCIMB 8746, JCM 7643, BCRC 14157, CGMCC 1.1811, CIP 103110, IFO 14820, VTT E-97829",1,"Komagataeibacter hansenii",Komagataeibacter
+134216,RG3,"LMG 23726, MTCC 6913",1,"Komagataeibacter kombuchae",Komagataeibacter
+23507,"336, BU 336","DSM 46602, ATCC 23769, CCM 1808, IMET 10313, NCIB 8246, RIA 813",0,"Komagataeibacter hansenii",Komagataeibacter
+92,TF2,"DSM 11804, BCC 36457, JCM 16936, LMG 18909, BCC 36447, BCRC 17055, CIP 105780, ZIM B073",1,"Komagataeibacter intermedius",Komagataeibacter
+138240,TSN3,"CIP 105782, ZIM B051",0,"Komagataeibacter intermedius",Komagataeibacter
+22896,JK3,"DSM 13111, ZIM B022, CIP 105781",0,"Komagataeibacter intermedius",Komagataeibacter
+45,G5-1,"DSM 24098, JCM 25156, LMG 26206, NRIC 0798, BCRC 80743",1,"Komagataeibacter kakiaceti",Komagataeibacter
+163335,,"JCM 25160",0,"Komagataeibacter kakiaceti",Komagataeibacter
+133875,,"NBRC 3288, Kondo 51, LMG 1693",1,"Komagataeibacter medellinensis",Komagataeibacter
+167418,"AV382, ZIM B1054","LMG 31303, CCM 8958",1,"Komagataeibacter melaceti",Komagataeibacter
+167417,"AV436, ZIM B1056","LMG 31304, CCM 8959",1,"Komagataeibacter melomenusus",Komagataeibacter
+137389,,"CIP 109787, LMG 1536, JCM 25120, BCC 36443, NRIC 0616",1,"Komagataeibacter nataicola",Komagataeibacter
+91,,"DSM 11826, JCM 16937, LMG 18849, NCIMB 13557, LTH 2460, BCC 36445, BCRC 17057, CIP 105763",1,"Komagataeibacter oboediens",Komagataeibacter
+94,,"DSM 16663, BCC 36452, JCM 17122, LMG 22126, DST GL02, CIP 109761",1,"Komagataeibacter rhaeticus",Komagataeibacter
+134628,,"CIP 109786, LMG 1582, JCM 25121, BCC 36444, CECT 7869, NCCB 29003, NRIC 0614",1,"Komagataeibacter saccharivorans",Komagataeibacter
+163327,,"JCM 25122, LMG 1584",0,"Komagataeibacter saccharivorans",Komagataeibacter
+95,,"DSM 15973, BCC 7227, JCM 9730, LMG 18788, BPR 2001, ATCC 700178, BCRC 80162, CECT 7291, CIP 106078",1,"Komagataeibacter sucrofermentans",Komagataeibacter
+93,,"DSM 16373, BCC 36451, JCM 17123, LMG 22125, DST GL01, CIP 109760",1,"Komagataeibacter swingsii",Komagataeibacter
+88,,"DSM 6513, ATCC 23767, BCC 7226, JCM 7644, LMG 1515, NBRC 15237, NCIMB 11664, BCRC 12952, CCM 3611, CCUG 37299, CECT 7351, CIP 103107, IFO 15237, NCTC 4112, VTT E-97831",1,"Komagataeibacter xylinus",Komagataeibacter
+86,,"DSM 2325, ATCC 11142, NCIB 5346, JCM 21166, CECT 473, IAM 14352, LMD 75.1, LMG 1518, LMG 1538, NCIMB 5346, NCTC 5346",0,"Komagataeibacter xylinus",Komagataeibacter
+87,"B 4168","DSM 2004, ATCC 23768, NCIB 7029, JCM 21169, IAM 14356, NCIMB 7029, NCTC 7029",0,"Komagataeibacter xylinus",Komagataeibacter
+89,"Blackley strain G2, BU 335","DSM 46604, ATCC 10245, CCM 2360, CIP 109889, IFO 3173, IMET 10315, LBG 4113, NBRC 3173, NCIB 8034, NRC 6018",0,"Komagataeibacter xylinus",Komagataeibacter
+90,"East Africa","DSM 46605, ATCC 14851, IMET 10316, NCIB 8132",0,"Komagataeibacter xylinus",Komagataeibacter
+165557,,"JCM 7664, IFO 13693, NBRC 13693",0,"Komagataeibacter xylinus",Komagataeibacter
+160880,,"JCM 10150",0,"Acetobacter xylinum subsp. nonacetoxidans",Acetobacter
+23505,,"DSM 46590, IMET 10141",0,"Komagataeibacter xylinus",Komagataeibacter
+23506,,"DSM 46591, IMET 10142",0,"Komagataeibacter xylinus",Komagataeibacter
+23508,"BU 134","DSM 46603, ATCC 10821, CCM 1796, IMET 10314, LMD 22.3, NCIB 1375, NCTC 1375, RIA 812, Delft 183",0,"Komagataeibacter xylinus",Komagataeibacter
+166805,"YSTF- M3","NBRC 114499, KACC 21639",1,"Kordia aestuariivivens",Kordia
+133649,OT-1,"KCTC 8814P, NBRC 1000336",1,"Kordia algicida",Kordia
+134041,,"KCTC 32292, NBRC 109401, IMCC 3317",1,"Kordia antarctica",Kordia
+134074,CC-AMZ-301,"JCM 18556, BCRC 80464",1,"Kordia aquimaris",Kordia
+167997,SSK3-3,"CECT 8368, KCTC 32426",1,"Kordia jejudonensis",Kordia
+5720,,"DSM 25731, KACC 14311, IMCC 1412",1,"Kordia periserrulae",Kordia
+162092,,"JCM 17733",0,"Kordia sp.",Kordia
+140820,,"KCTC 42872, MCCC 1A01772, LMG 29123, SC 2",1,"Kordia ulvae",Kordia
+168869,JS14SB-1,"KCTC 42140, MCCC 1A00726",1,"Kordia zhangzhouensis",Kordia
+158674,ZO2-23,"KCTC 52268, JCM 31799",1,"Kordia zosterae",Kordia
+133812,101-1,"KACC 16184, JCM 17742",1,"Kordiimonas aestuarii",Kordiimonas
+133810,,"KCCM 42940, JCM 16665, MEBiC 06554",1,"Kordiimonas aquimaris",Kordiimonas
+17858,GW14-5,"DSM 19435, CIP 109032, JCM 12864, KCCM 42021",1,"Kordiimonas gwangyangensis",Kordiimonas
+17859,S3-22,"DSM 23258, CGMCC 1.9109, JCM 16261",1,"Kordiimonas lacus",Kordiimonas
+170677,5E331,"KCTC 92199, MCCC 1H00515",1,"Kordiimonas laminariae",Kordiimonas
+140838,M41,"CGMCC 1.15304, JCM 30877",1,"Kordiimonas lipolytica",Kordiimonas
+170678,A6E486,"KCTC 82758, MCCC 1H00470",1,"Kordiimonas marina",Kordiimonas
+158811,N18,"MCCC 1K03436, KCTC 62164",1,"Kordiimonas pumila",Kordiimonas
+167091,N39,"KCTC 42590, MCCC 1H00112",1,"Kordiimonas sediminis",Kordiimonas
+24775,Ellin345,"DSM 22529",0,"Korobacter versatilis",Korobacter
+4383,Ah-143,"DSM 25165, KCTC 22375, LMG 26131, NCIMB 14469, CCUG 66539, CIP 110809",1,"Kosakonia arachidis",Kosakonia
+4376,"888-76, KSK 246, UM-79, KSK246, U11-79","DSM 18146, CIP 107300, JCM 10956, LMG 23569, CCUG 45998",1,"Kosakonia cowanii",Kosakonia
+156570,,"CCUG 62758",0,"Kosakonia cowanii",Kosakonia
+169529,CLA-AP-13,"DSM 111930",0,"Kosakonia cowanii",Kosakonia
+161521,,"JCM 14683",0,"Kosakonia cowanii",Kosakonia
+133472,,"LMG 24251, CGMCC 1.7012, Ola 51",1,"Kosakonia oryzae",Kosakonia
+140802,REICA_082,"LMG 26432, NCCB 100390",1,"Kosakonia oryzendophytica",Kosakonia
+140801,REICA_142,"LMG 26429, NCCB 100393",1,"Kosakonia oryziphila",Kosakonia
+139561,,"CIP 110597, DSM 27151",1,"Kosakonia pseudosacchari",Kosakonia
+164525,"GDMCC1.1570, WCHEs120001","JCM 33347, GDMCC 1.1570, NCTC 14272",1,"Kosakonia quasisacchari",Kosakonia
+4370,D5/23,"CCUG 50898, DSM 16656, CIP 108468, LMG 23767",1,"Kosakonia radicincitans",Kosakonia
+130318,SP1,"DSM 100203, CGMCC 1.12102, LMG 26783, CIP 110705",1,"Kosakonia sacchari",Kosakonia
+17072,S304,"DSM 22549, JCM 15790, NBRC 109616",1,"Kosmotoga arenicorallina",Kosmotoga
+17071,,"DSM 21960, ATCC BAA-1733, TBF 19.5.1",1,"Kosmotoga olearia",Kosmotoga
+131351,SLHLJ1,"DSM 26965, JCM 19180, MCCC 1A00641, UBOCC 3254",1,"Kosmotoga pacifica",Kosmotoga
+17073,2SM-2,"DSM 22460, ACCC 00496",1,"Kosmotoga shengliensis",Kosmotoga
+162663,,"JCM 19913",0,"Kouleothrix aurantiaca",Kouleothrix
+162664,,"JCM 19914",0,"Kouleothrix aurantiaca",Kouleothrix
+162665,,"JCM 19915",0,"Kouleothrix aurantiaca",Kouleothrix
+162666,,"JCM 19916",0,"Kouleothrix aurantiaca",Kouleothrix
+162667,,"JCM 19917",0,"Kouleothrix aurantiaca",Kouleothrix
+58,YO-3,"DSM 14400, IFO 16664, JCM 11301, NBRC 16664, NRIC 0488, CCUG 48823, CCM 7137, NCIMB 14242",1,"Kozakia baliensis",Kozakia
+163328,,"JCM 25123, NRIC 0485",0,"Kozakia baliensis",Kozakia
+163329,,"JCM 25124, NRIC 0486",0,"Kozakia baliensis",Kozakia
+163330,,"JCM 25125, NRIC 0487",0,"Kozakia baliensis",Kozakia
+8041,3-54(41),"DSM 45162, JCM 13252, MTCC 8094, BCRC 16961",1,"Krasilnikovia cinnamomea",Krasilnikovia
+12605,,"DSM 21481, CCTCC AA 208024, JCM 16551, CC 0387",1,"Krasilnikoviella flava",Krasilnikoviella
+133327,T6220-5-2b,"JCM 28789, NCIMB 15040, DSM 111259",1,"Krasilnikoviella muralis",Krasilnikoviella
+11068,,"DSM 15500, CCRC 16317, CCTCC AA 001020, YIM 31075, JCM 14306, BCRC 16317, KCTC 19025, NBRC 103561",1,"Kribbella alba",Kribbella
+24247,,"DSM 26744, JCM 30547, NRRL B-24917, BC 640",1,"Kribbella albertanoniae",Kribbella
+11079,,"DSM 18824, JCM 14599, HKI 0478, CIP 109731, NBRC 104151",1,"Kribbella aluminosa",Kribbella
+11083,,"DSM 24683, NBRC 107914, XMU 198",1,"Kribbella amoyensis",Kribbella
+11069,,"DSM 15501, CCRC 16318, CCTCC AA 00102, JCM 13523, NBRC 101882, YIM 31530, BCRC 16318, CCTCC AA 001021, KCTC 19026, CIP 108764",1,"Kribbella antibiotica",Kribbella
+166299,,"DSM 29426, NRRL B-65062, YM 53",1,"Kribbella capetownensis",Kribbella
+11081,,"DSM 19601, JCM 14968, BC 631, NBRC 105864",1,"Kribbella catacumbae",Kribbella
+133358,SL15-1,"CGMCC 1.15906, KCTC 39825",1,"Kribbella deserti",Kribbella
+23163,,"DSM 23718, JCM 30548, NRRL B-24812, PIP 118",1,"Kribbella endophytica",Kribbella
+11076,65-N86,"DSM 17836, IFO 14399, JCM 10339, KCTC 9580, NBRC 14399, KACC 20248, CIP 107494, IMSNU 22160, NCIMB 13631, NRRL B-16234",1,"Kribbella flavida",Kribbella
+11078,,"DSM 17941, KCTC 19134, CCUG 52477, Gsoil 001, JCM 16928, NBRC 107353",1,"Kribbella ginsengisoli",Kribbella
+105464,STI07182(IMET),"ISP 5064, IMET 7182",0,"Kribbella ginsengisoli",Kribbella
+105465,STI07258(IMET),"IMET 07328, IFO 3385",0,"Kribbella ginsengisoli",Kribbella
+11080,S1.4T,"DSM 19227, JCM 15572, NRRL B-24553, NBRC 105866",1,"Kribbella hippodromi",Kribbella
+132194,,"DSM 28967, JCM 31976, NRRL B-59155, BC 637",1,"Kribbella italica",Kribbella
+11073,HD9,"DSM 17305, CIP 108509, JCM 12204, KACC 20266, NBRC 101070",1,"Kribbella jejuensis",Kribbella
+105460,SF001928(FSU),,0,"Kribbella jejuensis",Kribbella
+105461,SF004544(FSU),,0,"Kribbella jejuensis",Kribbella
+105462,SF006216(FSU),,0,"Kribbella jejuensis",Kribbella
+105456,SF001414(FSU),,0,"Kribbella jejuensis",Kribbella
+105457,SF001447(FSU),,0,"Kribbella jejuensis",Kribbella
+105458,SF001472(FSU),"NRRL 1989",0,"Kribbella jejuensis",Kribbella
+105459,SF001927(FSU),,0,"Kribbella jejuensis",Kribbella
+157980,"NEAU-THZ 27","DSM 105535, CGMCC 4.7504, NEAU THZ 27",1,"Kribbella jiaozuonensis",Kribbella
+11074,"Q 41, Q41","DSM 17344, CIP 109290, NBRC 101884, NRRL B-24425, JCM 14304, BCRC 16842",1,"Kribbella karoonensis",Kribbella
+11077,"LM 161","DSM 17837, IMSNU 50530, JCM 10977, KACC 20250, CIP 108301, NBRC 101069",1,"Kribbella koreensis",Kribbella
+11071,LU14,"DSM 16683, CIP 109212, LMG 22957, NBRC 101883, JCM 14303, BCRC 16829, NCIMB 14381",1,"Kribbella lupini",Kribbella
+168619,"XMU 706","MCCC 1K00429, KCTC 29676",1,"Kribbella mirabilis",Kribbella
+158430,NEAU-SW521,"DSM 105770, CGMCC 4.7465",1,"Kribbella monticola",Kribbella
+132535,,"DSM 23717, NRRL B-24813, PIP 158",1,"Kribbella pittospori",Kribbella
+158359,YPL1,"DSM 29424, NRRL B-65063",1,"Kribbella podocarpi",Kribbella
+163767,,"JCM 30343, CGMCC 4.7215",1,"Kribbella qitaiheensis",Kribbella
+11082,,"DSM 19602, JCM 14969, BC 633, NBRC 105865",1,"Kribbella sancticallisti",Kribbella
+11070,"C-49,009","DSM 15626, ATCC 39419, KCTC 9609, JCM 10340, CIP 107493, IMSNU 22170, IMSNU 22181, KACC 20249, NBRC 100341",1,"Kribbella sandramycini",Kribbella
+24246,,"DSM 45490, CCUG 61792, UTMC 693",1,"Kribbella shirazensis",Kribbella
+140362,FSN23,"DSM 27082, KCTC 29220",1,"Kribbella sindirgiensis",Kribbella
+11072,DSA1,"DSM 17294, CIP 108508, JCM 12205, KACC 20196, NBRC 101071",1,"Kribbella solani",Kribbella
+140329,FMN22,"DSM 27132, KCTC 29219",1,"Kribbella soli",Kribbella
+105455,ST033408(HKI),,0,"Kribbella sp.",Kribbella
+166300,,"DSM 29425, NRRL B-59161, YM 55",1,"Kribbella speibonae",Kribbella
+11075,HMC25,"DSM 17345, CIP 109291, NBRC 101885, NRRL B-24426, JCM 14305, BCRC 16843",1,"Kribbella swartbergensis",Kribbella
+105463,,,0,"Kribbella swartbergensis",Kribbella
+164414,16K104,"JCM 32914, KCTC 49224",1,"Kribbella turkmenica",Kribbella
+11067,,"DSM 15499, CCRC 16316, CCTCC AA 001019, YIM 30006, JCM 14307, BCRC 16316, KCTC 19024, NBRC 103562",1,"Kribbella yunnanensis",Kribbella
+6308,N113,"DSM 19080, CIP 109429, JCM 13585, KCTC 19143, CCUG 57109, NBRC 106261, NCIMB 14449, KCTC 6466",1,"Kribbia dieselivorans",Kribbia
+5738,,"DSM 19886, KCTC 22188, KMM 3665, JCM 11734, CECT 7617",1,"Kriegella aquimaris",Kriegella
+5737,"M-3Alg 65","DSM 15364, KMM 3942",0,"Kriegella aquimaris",Kriegella
+169731,"Hel_I_53, Hel1_53","DSM 29410",0,"Dokdonia sp.",Dokdonia
+169732,"Hel_I-5, Hel1-5","DSM 29411",0,"Dokdonia sp.",Dokdonia
+16787,"JFMB-ATE, thermophiler Actinomycet","DSM 45196, CCUG 59226, NRRL B-24804",1,"Kroppenstedtia eburnea",Kroppenstedtia
+154623,,"CCUG 54615",0,"Kroppenstedtia eburnea",Kroppenstedtia
+134014,GD02,"CGMCC 1.12404, KCTC 29149",1,"Kroppenstedtia guangzhouensis",Kroppenstedtia
+132400,"165-08, W9323","DSM 45752, CCUG 68107",1,"Kroppenstedtia pulmonis",Kroppenstedtia
+132399,X0209,"DSM 45749, CCUG 38657",1,"Kroppenstedtia sanguinis",Kroppenstedtia
+156984,,"CCUG 68108",0,"Kroppenstedtia sanguinis",Kroppenstedtia
+160782,,"DSM 45905, SCSIO 15060",0,"Kroppenstedtia sp.",Kroppenstedtia
+17649,SOSP1-21,"DSM 44963",1,"Ktedonobacter racemifer",Ktedonobacter
+160330,"ID150029, SOSP1-30","DSM 111112, BCRC 81205, CGMCC 1.17733",1,"Ktedonobacter robiniae",Ktedonobacter
+168165,"SOSP1-1, ID150044","BCRC 81203, CGMCC 1.17205, DSM 112756",1,"Ktedonospora formicarum",Ktedonospora
+159311,SCAWS-G2,"DSM 105258, CGMCC 1.16132",1,"Ktedonosporobacter rubrisoli",Ktedonosporobacter
+11950,"S8, K3","DSM 20636, ATCC 43195, NCIB 9758, JCM 6105, CIP 103250, IFO 15534, LMG 17316, NBRC 15534, NCIMB 9758",1,"Kurthia gibsonii",Kurthia
+149394,,"CCUG 37641, NCIMB 9758",0,"Kurthia gibsonii",Kurthia
+11951,31,"DSM 20640, NCIB 10495",0,"Kurthia gibsonii",Kurthia
+100612,STI07368(IMET),,0,"Kurthia gibsonii",Kurthia
+165344,,"JCM 6106",0,"Kurthia gibsonii",Kurthia
+165345,,"JCM 6107",0,"Kurthia gibsonii",Kurthia
+165346,,"JCM 6108",0,"Kurthia gibsonii",Kurthia
+132162,,"DSM 103359, ACCC 06121, JCM 19187, LAM 0618",1,"Kurthia huakuii",Kurthia
+23194,JC30,"DSM 24639, CSUR P141",1,"Kurthia massiliensis",Kurthia
+23195,JC31,"DSM 24640",0,"Kurthia massiliensis",Kurthia
+168679,10y-14,"CFCC 11600, KCTC 33522",1,"Kurthia populi",Kurthia
+130537,JC8E,"DSM 24641, CSUR P138",1,"Kurthia senegalensis",Kurthia
+130538,JC8J,"DSM 24642",0,"Kurthia senegalensis",Kurthia
+11952,13-2,"DSM 4747, ATCC 49154, CCM 3477, VKM V-1549, JCM 8563, BCRC 17017, CIP 103418, LMG 17317, NBRC 101530, NCIMB 13254, NRRL B-41083, VKM B-1549",1,"Kurthia sibirica",Kurthia
+160806,Dielmo,"DSM 24643",0,"Kurthia sp.",Kurthia
+160807,,"DSM 27598, YIM 101350",0,"Kurthia sp.",Kurthia
+169691,,"DSM 27610, YIM 101304",0,"Kurthia sp.",Kurthia
+11954,"F 64/100, EF 64/100","DSM 20580, ATCC 33403, NCIB 9878, NCTC 10597, CCUG 38890, JCM 6101, CIP 103249, LMG 17318, NBRC 101529, NCIMB 9878, VKM B-1568",1,"Kurthia zopfii",Kurthia
+165342,,"JCM 6102",0,"Kurthia zopfii",Kurthia
+165343,,"JCM 6103",0,"Kurthia zopfii",Kurthia
+11953,,"DSM 20487, ATCC 6900, NCTC 405",0,"Kurthia zopfii",Kurthia
+138961,,"CIP 76.21",0,"Kurthia zopfii",Kurthia
+136946,,"CIP 55.79, NCIMB 8603",0,"Kurthia zopfii",Kurthia
+141215,,"CCUG 220, ATCC 10538, NCTC 404",0,"Kurthia zopfii",Kurthia
+6084,A10,"DSM 21353, CCM 7415, CECT 7220, JCM 18992, JCM 15469",1,"Kushneria aurantia",Kushneria
+6083,Mw2a,"DSM 23439, CECT 7193, CIP 109711, JCM 18993, CCM 7396",1,"Kushneria avicenniae",Kushneria
+159725,EAod7,"CECT 9075, LMG 29858",1,"Kushneria endophytica",Kushneria
+132885,CG2.1,"DSM 14324, CECT 5902, CIP 109528, LMG 23625, JCM 19369",1,"Kushneria indalinina",Kushneria
+140736,X49,"KACC 14623, JCM 16805",1,"Kushneria konosiri",Kushneria
+6082,SW32,"DSM 15357, CIP 107103, JCM 10873, KCCM 80003, CGMCC 1.3499",1,"Kushneria marisflavi",Kushneria
+162301,,"JCM 18802, KCTC 42082, LMG 28525, NCCP 934",1,"Kushneria pakistanensis",Kushneria
+167427,YCWA18,"CGMCC 1.9149, NCCB 100306",1,"Kushneria phosphatilytica",Kushneria
+159726,EAod3,"CECT 9073, LMG 29856",1,"Kushneria phyllosphaerae",Kushneria
+6085,Z35,"DSM 23229, CCTCC AB 209027, NRRL B-59197",1,"Kushneria sinocarnis",Kushneria
+155497,,"CCUG 57890",0,"Kushneria sp.",Kushneria
+13293,MCRL-048,"DSM 43870, ATCC 25243, IFO 13901, NBRC 13901, JCM 3240, BCRC 13345, CGMCC 4.1347, CGMCC 4.1497, IFM 1281, IMSNU 20234, KCCM 40283, KCTC 9237, NRRL B-24060",1,"Kutzneria albida",Kutzneria
+13296,"A-T 1846","DSM 45791, BCC 29373, NBRC 107931",1,"Kutzneria buriramensis",Kutzneria
+132279,,"DSM 102124, BCC 72675, NBRC 110610, SMC 256",1,"Kutzneria chonburiensis",Kutzneria
+13295,"S2-28, S<SUB>2</SUB>-28","DSM 43851, ATCC 27102, CBS 803.70, IFO 13989, JCM 3157, NBRC 13989, BCRC 13322, IMSNU 20330, KCCM 40278, KCTC 9437, NRRL B-24061",1,"Kutzneria kofuensis",Kutzneria
+145982,,"CCUG 30082",0,"Kutzneria kofuensis",Kutzneria
+13294,"MCRL 0044, TA 597","DSM 43850, ATCC 25242, NIHJ 523, JCM 3282, BCRC 13303, CECT 3305, CGMCC 4.1348, HUT 6593, IFM 1282, IFO 15561, IMSNU 21323, KCTC 9436, KCTC 9661, NBRC 15561, NRRL B-24059, VKM Ac-1297",1,"Kutzneria viridogrisea",Kutzneria
+128707,ST033406(HKI),,0,"Kutzneria viridogrisea",Kutzneria
+158437,EA-1,"DSM 106492, CCOS 1194",1,"Kyrpidia spormannii",Kyrpidia
+159656,"FAVT 5","DSM 109470",0,"Kyrpidia spormannii",Kyrpidia
+159657,COOX1,"DSM 109471",0,"Kyrpidia spormannii",Kyrpidia
+436,T2,"DSM 2912, IFO 15312, NBRC 15312",1,"Kyrpidia tusciae",Kyrpidia
+3930,"02-St-019/1, 02-St-19/1","DSM 22179, CCM 7639, CCUG 57578, JCM 17971",1,"Kytococcus aerolatus",Kytococcus
+3929,K8356/99,"DSM 13884, CCM 4918, CCUG 52422, JCM 12136, Muenster 2000, BCRC 17473, CIP 107681, IFM 10530",1,"Kytococcus schroeteri",Kytococcus
+156294,,"CCUG 61087",0,"Kytococcus schroeteri",Kytococcus
+156696,,"CCUG 64182",0,"Kytococcus schroeteri",Kytococcus
+154312,,"CCUG 53030",0,"Kytococcus schroeteri",Kytococcus
+154318,,"CCUG 53051",0,"Kytococcus schroeteri",Kytococcus
+136966,"ROG 140","CIP 108677",0,"Kytococcus schroeteri",Kytococcus
+152479,,"CCUG 46902",0,"Kytococcus schroeteri",Kytococcus
+155967,,"CCUG 59814",0,"Kytococcus schroeteri",Kytococcus
+154731,,"CCUG 55005",0,"Kytococcus schroeteri",Kytococcus
+155040,,"CCUG 56218",0,"Kytococcus schroeteri",Kytococcus
+3928,"541, 54","CCUG 33030, DSM 20547, ATCC 14392, CCM 314, JCM 11482, BCRC 17469, CECT 4619, CIP 81.72, IAM 13003, IFO 15357, IMSNU 21324, LMG 14228, NBRC 15357, NCIMB 13236, NCIMB 14423, NCMB 555, NCTC 11040, VKM Ac-2222, VKM B-1316, VKM B-1824, NCIMB 555",1,"Kytococcus sedentarius",Kytococcus
+137347,"PM 450","CIP 82.62, ATCC 27574, CCM 2697",0,"Kytococcus sedentarius",Kytococcus
+156446,,"CCUG 61828",0,"Kytococcus sedentarius",Kytococcus
+154013,,"CCUG 51978 A",0,"Kytococcus sedentarius",Kytococcus
+3927,"DM 51","DSM 20317, CCM 2699, CCUG 33031, LMG 14230",0,"Kytococcus sedentarius",Kytococcus
+157028,,"CCUG 68742",0,"Kytococcus sedentarius",Kytococcus
+103216,"ST002378(HKI), F071, BI 09898, P117, DoHKI57",,0,"Kytococcus sp.",Kytococcus
+154679,,"CCUG 54824",0,"Kytococcus sp.",Kytococcus
+168265,"NCIB 8752","NBRC 14815, NCIMB 8752, LMG 1529, IFO 14815",1,"Komagataeibacter maltaceti",Komagataeibacter
+168257,"T5K1, ZIM B1029","LMG 30150, CCM 8723",1,"Komagataeibacter pomaceti",Komagataeibacter
+140169,,"DSM 101194, CCY 0001",0,"Kamptonema formosum",Kamptonema
+132164,1GB,"DSM 102253, KCTC 32430, NBRC 109676",1,"Klebsiella electrica",Klebsiella
+5102,,"DSM 7464, CCM 4873, JCM 6096, NIH 90-72, ATCC 31898, CCUG 26769, CIP 103364, CIP 103576, NBRC 105727, CCUG 26625",1,"Klebsiella ornithinolytica",Klebsiella
+141747,,"CCUG 6005",0,"Klebsiella ornithinolytica",Klebsiella
+136222,"LRA 061 11 91","CIP 103576, ATCC 31898",0,"Klebsiella ornithinolytica",Klebsiella
+155042,,"CCUG 56221",0,"Klebsiella ornithinolytica",Klebsiella
+138818,,"CIP 53.20, BR 35",0,"Klebsiella ornithinolytica",Klebsiella
+165549,,"JCM 7522",0,"Klebsiella ornithinolytica",Klebsiella
+154225,,"CCUG 52805",0,"Klebsiella ornithinolytica",Klebsiella
+165550,,"JCM 7523",0,"Klebsiella ornithinolytica",Klebsiella
+139187,,"CIP 53.7, BR 22",0,"Klebsiella ornithinolytica",Klebsiella
+154513,,"CCUG 53980",0,"Klebsiella ornithinolytica",Klebsiella
+5097,"CRCC 13986, V-236, 4245-72","CCUG 15718, DSM 3069, ATCC 33531, CDC 4245-72, IAM 14202, IFO 14939, JCM 7251, NBRC 14939, BCRC 13986, CECT 843, CIP 100751, NCIMB 11885, NCTC 12998, VTT E-981077, CRBIP28.102",1,"Klebsiella planticola",Klebsiella
+154664,,"CCUG 54768, NCTC 9528",0,"Klebsiella planticola",Klebsiella
+138244,P11,"CIP 105788",0,"Klebsiella planticola",Klebsiella
+138245,P33,"CIP 105789",0,"Klebsiella planticola",Klebsiella
+162725,,"JCM 20069, ATCC 8329, CDC 1758-51, IAM 1133, IFO 3317, NBRC 3317, NCIMB 8153",0,"Klebsiella planticola",Klebsiella
+5096,78-120,"DSM 2688, ATCC 33558, CIP 81.36, CCUG 15719, CUETM 78-120",0,"Klebsiella planticola",Klebsiella
+143675,,"CCUG 20939",0,"Klebsiella planticola",Klebsiella
+5098,,"DSM 4617, ATCC 15050",0,"Klebsiella planticola",Klebsiella
+156560,,"CCUG 62696 Q",0,"Klebsiella planticola",Klebsiella
+143748,,"CCUG 21173",0,"Klebsiella planticola",Klebsiella
+143749,,"CCUG 21174",0,"Klebsiella planticola",Klebsiella
+143750,,"CCUG 21175",0,"Klebsiella planticola",Klebsiella
+143751,,"CCUG 21176",0,"Klebsiella planticola",Klebsiella
+143772,,"CCUG 21207",0,"Klebsiella planticola",Klebsiella
+143773,,"CCUG 21208",0,"Klebsiella planticola",Klebsiella
+139235,,"CIP 53.10, BR 25",0,"Klebsiella planticola",Klebsiella
+5099,"84, L84","DSM 2687, ATCC 33257, CIP 80.07, CCUG 12372 Bb, CIP 80-07, JCM 1687, CUETM 77.176, BCRC 14805, CCUG 12372, CECT 4519, CIP 80.7, CUETM 77-176, IFO 14941, LMG 3222, NBRC 14941, NCTC 13038, NCIMB 12053",1,"Klebsiella terrigena",Klebsiella
+23930,"WS 10199","DSM 30103",0,"Klebsiella terrigena",Klebsiella
+147343,,"CCUG 33400 A",0,"Klebsiella terrigena",Klebsiella
+147344,,"CCUG 33401 A",0,"Klebsiella terrigena",Klebsiella
+143677,,"CCUG 20941",0,"Klebsiella terrigena",Klebsiella
+148291,,"CCUG 35167",0,"Klebsiella terrigena",Klebsiella
+143678,,"CCUG 20942",0,"Klebsiella terrigena",Klebsiella
+5100,T56,"DSM 7331",0,"Klebsiella terrigena",Klebsiella
+5101,T64,"DSM 7333",0,"Klebsiella terrigena",Klebsiella
+145955,,"CCUG 29957",0,"Klebsiella terrigena",Klebsiella
+149300,,"CCUG 37449",0,"Klebsiella terrigena",Klebsiella
+154410,,"CCUG 53452",0,"Klebsiella terrigena",Klebsiella
+152415,,"CCUG 46739",0,"Klebsiella terrigena",Klebsiella
+103565,"STH00245(ZIMET), I-449","HKI 0245",0,"Kineosporia rhizophila",Kineosporia
+15644,Bl-567201,"DSM 40239, AS 4.1850, ATCC 11989, CBS 238.61, CBS 653.72, IFO 13352, ISP 5239, JCM 4155, NBRC 13352, NCIB 8954, NRRL B-1679, RIA 1313, BCRC 12668, IFM 1200, IMET 42943, JCM 4853, KCTC 1086, LMG 5989, NCIMB 8954, VKM Ac-1013",0,"Kitasatospora viridifaciens",Kitasatospora
+165500,,"JCM 7249, ATCC 49232, IAM 13638, IFO 14835, NBRC 14835, NRRL B-16503",0,"Kitasatosporia grisea",Kitasatosporia
+15952,,"DSM 41643, ATCC 49231, IAM 13637, IFO 14834, JCM 7250, NBRC 14834, NRRL B-16504",0,"Kitasatospora papulosa",Kitasatospora

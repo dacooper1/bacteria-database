@@ -1,0 +1,1006 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+132478,L81,"DSM 29592, JCM 30920",1,"Vallitalea guaymasensis",Vallitalea
+132372,SW014,"DSM 25033, KCTC 42425, MCCC 1K00500, CAIM 1920, JCM 17855",1,"Veronia pacifica",Veronia
+157681,42Xb2,"DSM 24592, CAIM 600, CECT 7578",0,"Veronia nyctiphanis",Veronia
+131373,"DD 39","DSM 15938, JCM 11692, MTCC 4321, CGMCC 1.7263, CIP 107768",1,"Vreelandella glaciei",Vreelandella
+138529,,"CIP 107768",0,"Vreelandella glaciei",Vreelandella
+140407,RHS90,"DSM 25632, CIP 110370, UBOCC 3186",0,"Vreelandella lionensis",Vreelandella
+160209,QX-1,"DSM 112092, MCCC 1A17875, KCTC 82198, NBRC 114670",0,"Vreelandella maris",Vreelandella
+160639,QX-2,"DSM 112091, MCCC 1A17876, KCTC 82199",0,"Vreelandella sedimenti",Vreelandella
+158125,P2426,"DSM 103116, Marseille-P2426",0,"Vreelandella massiliensis",Vreelandella
+131374,NEAU-ST10-25,"DSM 25869, CGMCC 1.12286",0,"Vreelandella zhaodongensis",Vreelandella
+17223,,"DSM 7482, ATCC 33539, CCUG 13626, KCTC 12323, LMG 7892, CDC 2588-80, CIP 102761, NCIMB 2184",1,"Vibrio damselae",Vibrio
+160412,110634,"DSM 110634",0,"Vibrio damselae",Vibrio
+137420,C-41,"CIP 104416, JCM 8969",0,"Vibrio damselae",Vibrio
+143435,,"CCUG 19117, ATCC 35083",0,"Vibrio damselae",Vibrio
+142842,,"CCUG 15267, CCM 4549",0,"Vibrio damselae",Vibrio
+136606,C-3,"CIP 104415, JCM 8967",0,"Vibrio damselae",Vibrio
+138580,,"CIP 100540",0,"Vibrio damselae",Vibrio
+160410,110632,"DSM 110632",0,"Vibrio damselae",Vibrio
+160411,110633,"DSM 110633",0,"Vibrio damselae",Vibrio
+17241,,"DSM 11403, ATCC 33508, NCIMB 701, CCUG 20305, JCM 15095, BCRC 12910, CAIM 910, CCM 3575, CECT 4059, CGMCC 1.2322, CIP 103310, LMG 11651, LMG 6460, NCCB 77008",1,"Vibrio costicola",Vibrio
+134498,,"CIP 63.39, CCM 2811, NCIMB 1001",0,"Vibrio costicola",Vibrio
+143576,,"CCUG 20306",0,"Vibrio costicola",Vibrio
+159898,,"DSM 103714, Marseille P3275, CECT 9677, CSUR P3275",1,"Vaginimicrobium propionicum",Vaginimicrobium
+133628,AC-1,"KCTC 13418, LMG 24798",1,"Vagococcus acidifermentans",Vagococcus
+169946,BWB3-3,"CCM 9080, KCTC 43277",1,"Vagococcus allomyrinae",Vagococcus
+157225,SS1994,"CCUG 70831, LMG 30164",1,"Vagococcus bubulae",Vagococcus
+5267,,"DSM 17031, ATCC BAA-640, CCUG 46823, CIP 108561, CDC SS1714, CCM 8414",1,"Vagococcus carniphilus",Vagococcus
+166761,"also known as KACC 21344, or JCM 33682, HDW17A","KCTC 43112, KACC 21344, JCM 33682",1,"Vagococcus coleopterorum",Vagococcus
+5268,PPC9,"DSM 21480, CCUG 51432, NRRL B-41357, CIP 109559, CCM 8415",1,"Vagococcus elongatus",Vagococcus
+24001,VOSTP2,"DSM 24756, CCM 7946",1,"Vagococcus entomophilus",Vagococcus
+5265,M2661/98/1,"DSM 15697, ATCC BAA-289, CCUG 41755, CIP 106499, CCM 8413",1,"Vagococcus fessus",Vagococcus
+150814,,"CCUG 42419 B",0,"Vagococcus fessus",Vagococcus
+5262,M-29c,"DSM 5731, ATCC 49515, NCDO 2497, CCUG 32704, CIP 102976, LMG 9464",1,"Vagococcus fluvialis",Vagococcus
+150044,,"CCUG 38909",0,"Vagococcus fluvialis",Vagococcus
+150045,,"CCUG 38910",0,"Vagococcus fluvialis",Vagococcus
+147041,,,0,"Vagococcus fluvialis",Vagococcus
+150962,,"CCUG 42871",0,"Vagococcus fluvialis",Vagococcus
+147339,,"CCUG 33393",0,"Vagococcus fluvialis",Vagococcus
+5263,M-128f,"DSM 5732, NCDO 2499",0,"Vagococcus fluvialis",Vagococcus
+5264,ENDO-EH,"DSM 21402",0,"Vagococcus fluvialis",Vagococcus
+137500,,"CIP 65.27",0,"Vagococcus fluvialis",Vagococcus
+137806,,"CIP 102977, DSM 18578",0,"Avibacterium volantium",Avibacterium
+133339,C25,"KEMB 562-002, JCM 31581",1,"Vagococcus humatus",Vagococcus
+166679,"or JCM 33683, also known as KACC 21345, HDW17B","KCTC 43113, JCM 33683, KACC 21345",1,"Vagococcus hydrophili",Vagococcus
+170475,STAA11,"DSM 115183, CCUG 76697",1,"Vagococcus intermedius",Vagococcus
+170474,G314F,"DSM 112651, CCM 9164",1,"Vagococcus luciliae",Vagococcus
+5266,M1134/97/1,"DSM 15741, ATCC 70083, CCM 4937, CCUG 39187, CIP 106118, ATCC 700839",1,"Vagococcus lutrae",Vagococcus
+140716,D7T301,"KCTC 21069, JCM 31178",1,"Vagococcus martis",Vagococcus
+133543,"CD276, CD 276","LMG 24833, CIP 109914, CCM 8416",1,"Vagococcus penaei",Vagococcus
+170476,PNs007,"CCUG 76696, DSM 115185",1,"Vagococcus proximus",Vagococcus
+5261,OS1-68,"DSM 6633, ATCC 51200, NCFB 2777, CCUG 33394, LMG 11491, CCM 4305, CIP 104684, NCIMB 13133",1,"Vagococcus salmoninarum",Vagococcus
+167346,2B-2,"BCRC 81132, NBRC 113536",1,"Vagococcus silagei",Vagococcus
+140286,CG-21,"DSM 21459",1,"Vagococcus teuberi",Vagococcus
+157226,SS1995,"CCUG 70832, LMG 30165",1,"Vagococcus vulneris",Vagococcus
+164576,,"JCM 33477, CGMCC 1.6436, GDMCC 1.1588",1,"Vagococcus xieshaowenii",Vagococcus
+166364,,"DSM 45377, KCTC 49228, CGMCC 1.13844, YIM 75000",1,"Vallicoccus soli",Vallicoccus
+24770,"Ra 1766F, Ra1766G1","DSM 24848, JCM 17997",1,"Vallitalea guaymasensis",Vallitalea
+170417,SH18-1,"DSM 114058, NBRC 115488",1,"Vallitalea longa",Vallitalea
+166431,S15,"CGMCC 1.5231, KCTC 15675",1,"Vallitalea okinawensis",Vallitalea
+24771,FatNI3,"DSM 25904, JCM 18391",1,"Vallitalea pronyensis",Vallitalea
+169128,"NCIB 11383","ATCC 29753, NCIMB 11383",1,"Vampirovibrio chlorellavorus",Vampirovibrio
+168275,"NML 03-0146","LMG 31935, NCTC 14450",1,"Vandammella animalimorsus",Vandammella
+130614,M-M22,"DSM 29440, CCUG 62794, KCTC 32083",1,"Vannielia litorea",Vannielia
+132591,,"DSM 27023, CCUG 31793, JCM 19104",1,"Varibaculum anthropi",Varibaculum
+151526,,"CCUG 44221",0,"Varibaculum anthropi",Varibaculum
+151885,,"CCUG 45114",0,"Varibaculum anthropi",Varibaculum
+156351,,"CCUG 61255",0,"Varibaculum anthropi",Varibaculum
+210,R12359,"DSM 15806, CCUG 44998, CIP 107344",1,"Varibaculum cambriense",Varibaculum
+151827,,"CCUG 44992",0,"Varibaculum cambriense",Varibaculum
+151882,,"CCUG 45111",0,"Varibaculum cambriense",Varibaculum
+151883,,"CCUG 45112",0,"Varibaculum cambriense",Varibaculum
+151884,,"CCUG 45113",0,"Varibaculum cambriense",Varibaculum
+143685,,"CCUG 20976",0,"Varibaculum cambriense",Varibaculum
+149327,,"CCUG 37510",0,"Varibaculum cambriense",Varibaculum
+143686,,"CCUG 20977",0,"Varibaculum cambriense",Varibaculum
+147803,,"CCUG 34258",0,"Varibaculum cambriense",Varibaculum
+152496,,"CCUG 46939",0,"Varibaculum cambriense",Varibaculum
+153984,,"CCUG 51839",0,"Varibaculum cambriense",Varibaculum
+151832,,"CCUG 45001",0,"Varibaculum sp.",Varibaculum
+151886,,"CCUG 45115",0,"Varibaculum sp.",Varibaculum
+132592,HallR11881,"DSM 27024, CCUG 44993, JCM 19105, CCUG 45271",0,"Varibaculum sp.",Varibaculum
+132593,,"DSM 103074, CSUR P2802, Marseille-P2802",0,"Varibaculum massiliense",Varibaculum
+166990,,"Marseille-­P3369, CECT 9674, CSUR P3369",1,"Varibaculum timonense",Varibaculum
+166981,,"CSUR P5644, CECT 9906, Marseille-­P5644",1,"Varibaculum vaginae",Varibaculum
+130225,GJW-30,"DSM 29671, CECT 8514, KCTC 32391, LMG 28093",1,"Variibacter gotjawalensis",Variibacter
+169769,MD1,"DSM 110715, JCM 39125",1,"Variimorphobacter saccharofermentans",Variimorphobacter
+170907,502,"DSM 106862, CGMCC 1.16560",1,"Variovorax beijingensis",Variovorax
+3017,BAM-48,"DSM 21722, KCTC 22010, NBRC 103145, JCM 18805, NCIMB 14573, BAM 48",1,"Variovorax boronicumulans",Variovorax
+158134,6cA_C34,"DSM 103999",0,"Variovorax boronicumulans",Variovorax
+160665,ACN3,"DSM 105153",0,"Variovorax boronicumulans",Variovorax
+100653,SF002666(FSU),,0,"Variovorax boronicumulans",Variovorax
+22978,2C1-b,"DSM 27259, JCM 17804, KCTC 12768",1,"Variovorax defluvii",Variovorax
+3015,DS-43,"DSM 18312, CIP 108838, KCTC 12544, CCUG 64011",1,"Variovorax dokdonensis",Variovorax
+3018,,"DSM 25185, CCUG 52469, KCTC 12583, LMG 23392, Gsoil 3165",1,"Variovorax ginsengisoli",Variovorax
+131560,"JM-310, JM 310","DSM 100435, CCM 8614, CIP 110912, LMG 28869",1,"Variovorax gossypii",Variovorax
+130263,GXGD002,"DSM 27352, ACCC 05911",1,"Variovorax guangxiensis",Variovorax
+140831,,"KACC 18501, NBRC 111520, UC 38",1,"Variovorax humicola",Variovorax
+3008,"351, B13-0-1 D, B13-0-1D","DSM 30034, ATCC 17713, DSM 66, IFO 15149, NBRC 15149, CCUG 1777, LMG 1797, JCM 20526, IAM 12373, IAM 13535, ICPB 3985, JCM 20895, CIP 103459, NCIMB 11964",1,"Variovorax paradoxus",Variovorax
+3003,444,"DSM 1070, ICPB 2921-444, CCUG 15918, JCM 20898, IAM 13538",0,"Variovorax paradoxus",Variovorax
+3004,,"DSM 1071, ICPB 2922-447, JCM 20899, IAM 13539",0,"Variovorax paradoxus",Variovorax
+3005,,"DSM 1072, ICPB 2923-449",0,"Variovorax paradoxus",Variovorax
+3006,"JMP116, pJP1","DSM 4065",0,"Variovorax paradoxus",Variovorax
+3007,R1L1,"DSM 16541",0,"Variovorax paradoxus",Variovorax
+3009,"180, P2-106-S (3)","CCUG 1778, LMG 1796, DSM 30162, ATCC 17549, DSM 67, IFO 15150, NBRC 15150, NCIB 11474, JCM 20527, IAM 12374, NCIMB 11474",0,"Variovorax paradoxus",Variovorax
+163007,,"JCM 20910, ATCC 17716, IAM 13550, LMG 3574",0,"Variovorax paradoxus",Variovorax
+3010,B4,"DSM 21786",0,"Variovorax paradoxus",Variovorax
+163008,,"JCM 20911, ATCC 17718, IAM 13551, LMG 3576",0,"Variovorax paradoxus",Variovorax
+169152,IDSBO-4,"DSM 113672",0,"Variovorax paradoxus",Variovorax
+22977,BF3,"DSM 9258",0,"Variovorax paradoxus",Variovorax
+156597,,"CCUG 63252",0,"Variovorax paradoxus",Variovorax
+156689,,"CCUG 64149",0,"Variovorax paradoxus",Variovorax
+144086,,"CCUG 22893, ATCC 17719, LMG 3577, JCM 20912, IAM 13552",0,"Variovorax paradoxus",Variovorax
+156834,,"CCUG 65978",0,"Variovorax paradoxus",Variovorax
+156843,,"CCUG 66021",0,"Variovorax paradoxus",Variovorax
+100654,SF004496(FSU),,0,"Variovorax paradoxus",Variovorax
+3000,"12-6-2, 350","DSM 645, ATCC 17712, CCUG 15916, LMG 3572",0,"Variovorax paradoxus",Variovorax
+154267,,"CCUG 52932",0,"Variovorax paradoxus",Variovorax
+3001,"14-O-1, 353","CCUG 15917, DSM 646, ATCC 17715, JCM 20896, IAM 13536, LMG 3573",0,"Variovorax paradoxus",Variovorax
+3002,"3-20-2, 360","DSM 647, ATCC 17722, JCM 20897, IAM 13537, LMG 3575",0,"Variovorax paradoxus",Variovorax
+168330,,"KACC 18900, UCM-G28, NBRC112307",1,"Variovorax rhizosphaerae",Variovorax
+167756,,"KACC 18901, UCM-G35, NBRC 112308",1,"Variovorax robiniae",Variovorax
+3016,GH9-3,"DSM 18216, KACC 11579, CIP 110194",1,"Variovorax soli",Variovorax
+100655,SF005835(FSU),,0,"Variovorax soli",Variovorax
+132043,Leaf220,"DSM 102763",0,"Variovorax sp.",Variovorax
+3011,S13,"DSM 7516",0,"Variovorax sp.",Variovorax
+3012,"5AS 1","DSM 10064",0,"Variovorax sp.",Variovorax
+157988,6d-C36,"DSM 105526",0,"Variovorax sp.",Variovorax
+3013,d5I,"DSM 11402",0,"Variovorax sp.",Variovorax
+3014,d5IVc,"DSM 11512",0,"Variovorax sp.",Variovorax
+130262,,"DSM 24153, BC 114",0,"Variovorax sp.",Variovorax
+161802,,"JCM 16519",0,"Variovorax sp.",Variovorax
+139469,,"CIP 108393",0,"Variovorax sp.",Variovorax
+160858,,"JCM 10066",0,"Variovorax sp.",Variovorax
+132038,Root318D1,"DSM 102555",0,"Variovorax sp.",Variovorax
+132039,Root411,"DSM 102556",0,"Variovorax sp.",Variovorax
+132040,Root434,"DSM 102557",0,"Variovorax sp.",Variovorax
+161370,,"JCM 13502, ATCC BAA-1268",0,"Variovorax sp.",Variovorax
+132041,Root473,"DSM 102558",0,"Variovorax sp.",Variovorax
+132042,Leaf267,"DSM 102762",0,"Variovorax sp.",Variovorax
+168346,,"UCM-2, KACC 18899, NBRC 112306",1,"Variovorax ureilyticus",Variovorax
+132624,,"DSM 101688, JCM 31027, TC 8",1,"Varunaivibrio sulfuroxidans",Varunaivibrio
+169758,CLA-SR-113,"DSM 110088",0,"Veillonella agrestimuris",Veillonella
+17169,KON,"DSM 20739, ATCC 17744, CCUG 56974, KCTC 3696, NCTC 11830, CIP 107996, AIP 10216",1,"Veillonella atypica",Veillonella
+17168,"UW 221","DSM 1399, ATCC 14894",0,"Veillonella atypica",Veillonella
+155865,,"CCUG 59486",0,"Veillonella atypica",Veillonella
+150399,,"CCUG 39829",0,"Veillonella atypica",Veillonella
+156790,,"CCUG 65231",0,"Veillonella atypica",Veillonella
+17170,PV1,"CCUG 54949, CIP 108004, DSM 20738, ATCC 33540, AIP 10220",1,"Veillonella caviae",Veillonella
+17171,HV-1,"DSM 20734, ATCC 17747, CCUG 56973, KCTC 3697, NCTC 12020, JCM 6511, CIP 107994, AIP 10217",1,"Veillonella criceti",Veillonella
+17179,"RBV106, RBV 106","JCM 15641, DSM 19009, CCUG 54362, CIP 109448, KCTC 15017",1,"Veillonella denticariosi",Veillonella
+17180,RBV81,"DSM 19010, CCUG 54361, CIP 109449",0,"Veillonella denticariosi",Veillonella
+17172,ERN,"CCUG 54948, NCTC 11831, DSM 20735, ATCC 17748, CIP 108002, AIP 10221",1,"Veillonella dispar",Veillonella
+169866,"NSJ 78","CGMCC 1.32854, KCTC 25159",1,"Veillonella hominis",Veillonella
+158785,"TSD-88, T11011-4","JCM 31738, ATCC TSD-88",1,"Veillonella infantium",Veillonella
+169756,"S17, Trib-3-CC-2C","DSM 105313",0,"Veillonella intestinalis",Veillonella
+169757,Cla-AV-13,"DSM 110113",0,"Veillonella intestinalis",Veillonella
+17181,lac18,"DSM 19857, CCUG 55454, CIP 109767, JCM 15053",1,"Veillonella magna",Veillonella
+160667,Cla-CZ-101,"DSM 109050",0,"Veillonella magna",Veillonella
+17177,,"DSM 17217, CCUG 48299, CIP 107992, ADV 281.99, AIP 299.01, KCTC 15018",1,"Veillonella montpellierensis",Veillonella
+136920,,"CIP 107993, ADV 2216-03, AIP 163-03",0,"Veillonella montpellierensis",Veillonella
+157169,,"CCUG 70009",0,"Veillonella montpellierensis",Veillonella
+164698,,"JCM 33966, CCUG 74597",1,"Veillonella nakazawae",Veillonella
+154367,,"CCUG 53264",0,"Veillonella parvula",Veillonella
+151668,,"CCUG 44569",0,"Veillonella parvula",Veillonella
+152536,,"CCUG 47017",0,"Veillonella parvula",Veillonella
+151692,,"CCUG 44653",0,"Veillonella parvula",Veillonella
+148397,,"CCUG 35361",0,"Veillonella parvula",Veillonella
+155853,,"CCUG 59474",0,"Veillonella parvula",Veillonella
+17173,259,"DSM 2007, ATCC 17745, NCTC 11809, CCUG 5122",0,"Veillonella parvula",Veillonella
+149717,,"CCUG 38273",0,"Veillonella parvula",Veillonella
+150437,,"CCUG 39926",0,"Veillonella parvula",Veillonella
+153139,,"CCUG 48555",0,"Veillonella parvula",Veillonella
+152147,,"CCUG 45896",0,"Veillonella parvula",Veillonella
+152417,,"CCUG 46743",0,"Veillonella parvula",Veillonella
+147840,,"CCUG 34345",0,"Veillonella parvula",Veillonella
+137490,315A,"CIP 60.1",0,"Veillonella parvula",Veillonella
+144925,,"CCUG 27108",0,"Veillonella parvula",Veillonella
+154016,,"CCUG 51983",0,"Veillonella parvula",Veillonella
+17174,Te3,"CCUG 5123, ATCC 17742, DSM 2008, ATCC 10790, JCM 12972, NCTC 11810",1,"Veillonella parvula",Veillonella
+17175,RV-12x,"DSM 20736, ATCC 17746, CCUG 56038, NCTC 12019, JCM 6512, CIP 108003, AIP 10219",1,"Veillonella ratti",Veillonella
+17176,"HV 19","DSM 20737, ATCC 17743, NCTC 12018",1,"Veillonella rodentium",Veillonella
+17178,CF100,"DSM 18960, CCUG 54233, KCTC 5967, JCM 15642",1,"Veillonella rogosae",Veillonella
+136700,"strain 22/08/02-B-4313, AIP269.02","CIP 107810, CCUG 65427, DSM 111052, LMG 28162, ADV 4313.2",1,"Veillonella seminalis",Veillonella
+142567,,"CCUG 13080",0,"Veillonella sp.",Veillonella
+147523,,"CCUG 33734 B",0,"Veillonella sp.",Veillonella
+132910,B16,"DSM 104750, ATCC BAA-2400, JCM 17976",1,"Veillonella tobetsuensis",Veillonella
+159488,WCA-693-APC-MOT-I,"DSM 107250, JCM 34420",1,"Velocimicrobium porci",Velocimicrobium
+170616,ASxL5,"NCCB 100775, NCTC 14397",1,"Venatoribacter cucullus",Venatoribacter
+132082,"CP B.2, CP.B2","DSM 18763, JCM 14244",1,"Venenivibrio stagnispumantis",Venenivibrio
+141060,CV58,"NCIMB 15011, DSM 100910",1,"Ventosimonas gracilis",Ventosimonas
+169767,CLA-AA-M16,"DSM 112226",0,"Vermiculatibacterium agrestimuris",Vermiculatibacterium
+170919,"US 223414","BLCC-M30, ULC 455",1,"Vermifilum auridolium",Vermifilum
+170915,"US 223412","BLCC-M29, ULC 454",1,"Vermifilum ionodolium",Vermifilum
+3024,At4,"DSM 21361, LMG 25313",1,"Verminephrobacter aporrectodeae",Verminephrobacter
+3025,AC9,"DSM 21895, LMG 25312",0,"Verminephrobacter aporrectodeae subsp. caliginosae",Verminephrobacter
+3022,EF01-2,"DSM 19249, ATCC BAA-1489",1,"Verminephrobacter eiseniae",Verminephrobacter
+100568,STI10743(IMET),,0,"Verminephrobacter eiseniae",Verminephrobacter
+100569,STH00436(ZIMET),"HKI 0436",0,"Verminephrobacter eiseniae",Verminephrobacter
+3023,EF05-2,"DSM 19250",0,"Verminephrobacter eiseniae",Verminephrobacter
+100570,STH00439(ZIMET),"HKI 0439",0,"Verminephrobacter eiseniae",Verminephrobacter
+100571,STH00433(ZIMET),"HKI 0433",0,"Verminephrobacter eiseniae",Verminephrobacter
+100572,STH00434(ZIMET),"HKI 0434",0,"Verminephrobacter eiseniae",Verminephrobacter
+100573,STH00432(ZIMET),"HKI 0432",0,"Verminephrobacter eiseniae",Verminephrobacter
+100574,"STI11389(IMET), SA159",,0,"Verminephrobacter eiseniae",Verminephrobacter
+100575,STH00435(ZIMET),"HKI 0435",0,"Verminephrobacter eiseniae",Verminephrobacter
+100576,STI10760(IMET),"SG 511",0,"Verminephrobacter eiseniae",Verminephrobacter
+100577,STH00437(ZIMET),"HKI 0437",0,"Verminephrobacter eiseniae",Verminephrobacter
+100578,STH00438(ZIMET),"HKI 0438",0,"Verminephrobacter eiseniae",Verminephrobacter
+17210,,"DSM 4136, ATCC 43997, IFAM 1439, JCM 18804",1,"Verrucomicrobium spinosum",Verrucomicrobium
+152223,,"CCUG 46164",0,"Verrucomicrobium spinosum",Verrucomicrobium
+141169,"A-T 7972","BCC 50981, TBRC 6031, NBRC 112512, DSM 114116",1,"Micromonospora grosourdyae",Micromonospora
+132025,NEAU-QY3,"DSM 101530, CGMCC 4.7312, JCM 32497",1,"Micromonospora sonchi",Micromonospora
+169683,I03A-05285,"DSM 45592",0,"Micromonospora sp.",Micromonospora
+130146,XH089,"DSM 27279, JCM 19223, CIP 111718",1,"Verticiella sediminum",Verticiella
+166546,MM50,"DSM 111893, JCM 34012",1,"Vescimonas coprocola",Vescimonas
+169268,MM35,"DSM 111899, JCM 34016",1,"Vescimonas fastidiosa",Vescimonas
+130520,E127/08,"DSM 27238, CCUG 64585",1,"Vespertiliibacter pulmonis",Vespertiliibacter
+156727,,"CCUG 64587",0,"Vespertiliibacter pulmonis",Vespertiliibacter
+156728,,"CCUG 64588",0,"Vespertiliibacter sp.",Vespertiliibacter
+156729,,"CCUG 64589",0,"Vespertiliibacter sp.",Vespertiliibacter
+17291,FG1,"DSM 14438, ATCC 700797, CCRC 17041, KCTC 12701, CCUG 43576, CAIM 906, BCRC (formerly BCRC) 17041, LMG 19650, CIP 108258",1,"Vibrio aerogenes",Vibrio
+24662,M61,"DSM 28877, CAIM 1862, CECT 7559, KCTC 23861",0,"Vibrio aestivus",Vibrio
+17318,,"DSM 19606, ATCC 35048, CAIM 592, CCUG 28583, CECT 625, CIP 102971, LMG 7909, NBRC 15629, NCMB 2236",1,"Vibrio aestuarianus",Vibrio
+136835,02/041,"CIP 109791, LMG 24517",0,"Vibrio aestuarianus subsp. francensis",Vibrio
+167152,,"LMG 31436, DSM 109723",1,"Vibrio aestuarianus subsp. cardii",Vibrio
+166662,SM6,"KCTC 82076, MCCC 1K04327",1,"Vibrio agarilyticus",Vibrio
+17281,"289A, 289","DSM 13756, CECT 5085, KCTC 12700, CCUG 50739, CIP 107301, KCTC 12947",1,"Vibrio agarivorans",Vibrio
+17280,351A,"DSM 13755, CECT 5084",0,"Vibrio agarivorans",Vibrio
+166140,E4404,"MCCC 1H00197, KCTC 52890",1,"Vibrio albus",Vibrio
+17369,S277,"DSM 24595, CAIM 1831",1,"Vibrio alfacsensis",Vibrio
+131255,R707,"DSM 24671, CAIM 1835",0,"Vibrio alfacsensis",Vibrio
+167141,SM1977,"MCCC 1K04351, KCTC 72847",1,"Vibrio algicola",Vibrio
+17256,"118, XII-53","DSM 2171, ATCC 17749, CCM 2578, CIP 103336, CCUG 13445, NCTC 12160, NCIMB 1903",1,"Vibrio alginolyticus",Vibrio
+150902,,"CCUG 42671",0,"Vibrio alginolyticus",Vibrio
+152985,,"CCUG 48197",0,"Vibrio alginolyticus",Vibrio
+152986,,"CCUG 48198",0,"Vibrio alginolyticus",Vibrio
+141270,,"CCUG 525",0,"Vibrio alginolyticus",Vibrio
+149725,,"CCUG 38284",0,"Vibrio alginolyticus",Vibrio
+150451,,"CCUG 39965",0,"Vibrio alginolyticus",Vibrio
+149734,,"CCUG 38294",0,"Vibrio alginolyticus",Vibrio
+171022,RA12,"CIP 110008",0,"Vibrio alginolyticus",Vibrio
+130751,RA12,"DSM 22754",0,"Vibrio alginolyticus",Vibrio
+150548,,"CCUG 41565",0,"Vibrio alginolyticus",Vibrio
+151015,,"CCUG 43041",0,"Vibrio alginolyticus",Vibrio
+137011,,"CIP 109819",0,"Vibrio alginolyticus",Vibrio
+153471,,"CCUG 49700",0,"Vibrio alginolyticus",Vibrio
+147557,,"CCUG 33798",0,"Vibrio alginolyticus",Vibrio
+149783,,"CCUG 38395",0,"Vibrio alginolyticus",Vibrio
+150549,,"CCUG 41566",0,"Vibrio alginolyticus",Vibrio
+149784,,"CCUG 38396",0,"Vibrio alginolyticus",Vibrio
+150603,,"CCUG 41723",0,"Vibrio alginolyticus",Vibrio
+151079,,"CCUG 43223",0,"Vibrio alginolyticus",Vibrio
+137132,,"CIP 73.29",0,"Vibrio alginolyticus",Vibrio
+143367,,"CCUG 18743",0,"Vibrio alginolyticus",Vibrio
+144157,,"CCUG 23236",0,"Vibrio alginolyticus",Vibrio
+149785,,"CCUG 38397",0,"Vibrio alginolyticus",Vibrio
+135713,"31-77, Ifaty 1","CIP 82.1",0,"Vibrio alginolyticus",Vibrio
+144193,,"CCUG 23442",0,"Vibrio alginolyticus",Vibrio
+149796,,"CCUG 38423, CECT 609",0,"Vibrio alginolyticus",Vibrio
+136746,,"CIP 79.52",0,"Vibrio alginolyticus",Vibrio
+152450,,"CCUG 46835",0,"Vibrio alginolyticus",Vibrio
+150845,,"CCUG 42553",0,"Vibrio alginolyticus",Vibrio
+141641,,"CCUG 4223, NCTC 10675",0,"Vibrio alginolyticus",Vibrio
+138677,"711-85, 2405","CIP 101859",0,"Vibrio alginolyticus",Vibrio
+144592,,"CCUG 25846",0,"Vibrio alginolyticus",Vibrio
+150846,,"CCUG 42554",0,"Vibrio alginolyticus",Vibrio
+142603,,"CCUG 13236",0,"Vibrio alginolyticus",Vibrio
+138680,"48806, 899-85","CIP 101948",0,"Vibrio alginolyticus",Vibrio
+144645,,"CCUG 26043",0,"Vibrio alginolyticus",Vibrio
+143019,,"CCUG 16316, ATCC 33838",0,"Vibrio alginolyticus",Vibrio
+135778,,"CIP 71.3",0,"Vibrio alginolyticus",Vibrio
+150095,,"CCUG 38982",0,"Vibrio alginolyticus",Vibrio
+142840,,"CCUG 15265",0,"Vibrio alginolyticus",Vibrio
+150847,,"CCUG 42555",0,"Vibrio alginolyticus",Vibrio
+148056,,"CCUG 34740",0,"Vibrio alginolyticus",Vibrio
+143020,,"CCUG 16317",0,"Vibrio alginolyticus",Vibrio
+152506,,"CCUG 46967",0,"Vibrio alginolyticus",Vibrio
+150851,,"CCUG 42565",0,"Vibrio alginolyticus",Vibrio
+148073,,"CCUG 34774",0,"Vibrio alginolyticus",Vibrio
+150852,,"CCUG 42566",0,"Vibrio alginolyticus",Vibrio
+149831,,"CCUG 38503",0,"Vibrio alginolyticus",Vibrio
+134826,,"CIP 71.4",0,"Vibrio alginolyticus",Vibrio
+150828,,"CCUG 42502",0,"Vibrio alginolyticus",Vibrio
+152983,,"CCUG 48195",0,"Vibrio alginolyticus",Vibrio
+152508,,"CCUG 46970",0,"Vibrio alginolyticus",Vibrio
+150901,,"CCUG 42670",0,"Vibrio alginolyticus",Vibrio
+149855,,"CCUG 38563",0,"Vibrio alginolyticus",Vibrio
+152984,,"CCUG 48196",0,"Vibrio alginolyticus",Vibrio
+150831,,"CCUG 42512",0,"Vibrio alginolyticus",Vibrio
+143701,,"CCUG 21068",0,"Vibrio alginolyticus",Vibrio
+147009,,"CCUG 32638",0,"Vibrio alginolyticus",Vibrio
+149856,,"CCUG 38564",0,"Vibrio alginolyticus",Vibrio
+137830,659.84,"CIP 101068",0,"Vibrio alginolyticus",Vibrio
+149931,,"CCUG 38708",0,"Vibrio alginolyticus",Vibrio
+164427,,"JCM 32963, MCCC 1K03520",0,"Vibrio alginolyticus",Vibrio
+149946,,"CCUG 38738",0,"Vibrio alginolyticus",Vibrio
+150835,,"CCUG 42532",0,"Vibrio alginolyticus",Vibrio
+149947,,"CCUG 38739",0,"Vibrio alginolyticus",Vibrio
+150836,,"CCUG 42533 A",0,"Vibrio alginolyticus",Vibrio
+157896,V2,"DSM 104621",0,"Vibrio alginolyticus",Vibrio
+149978,,"CCUG 38786",0,"Vibrio alginolyticus",Vibrio
+150837,,"CCUG 42533 B",0,"Vibrio alginolyticus",Vibrio
+142537,,"CCUG 12868",0,"Vibrio alginolyticus",Vibrio
+149979,,"CCUG 38787",0,"Vibrio alginolyticus",Vibrio
+154510,,"CCUG 53968",0,"Vibrio alginolyticus",Vibrio
+150843,,"CCUG 42551",0,"Vibrio alginolyticus",Vibrio
+150844,,"CCUG 42552",0,"Vibrio alginolyticus",Vibrio
+132596,SA2,"DSM 29824, NBRC 111146",1,"Vibrio algivorus",Vibrio
+170642,ZSDE26,"MCCC 1K06290, KCTC 82890",1,"Vibrio amylolyticus",Vibrio
+139783,CA-1004,"DSM 103759, JCM 31643",1,"Vibrio aphrogenes",Vibrio
+164332,,"JCM 32691, KCTC 62617, MCCC 1K03516, BEI 207",1,"Vibrio aquaticus",Vibrio
+170904,THAF100,"DSM 109633, LMG 31434, CIP 111709",1,"Vibrio aquimaris",Vibrio
+17346,J74,"DSM 22054, JCM 14949, KCTC 22122, CCUG 57111",1,"Vibrio areninigrae",Vibrio
+17360,"Vb 11.8","DSM 26480, CECT 7226, LMG 23865",1,"Vibrio artabrorum",Vibrio
+131566,C7,"DSM 101557, CAIM 1900, JCM 19233, LMG 28701",1,"Vibrio astriarenae",Vibrio
+17361,"Vb 11.11","DSM 26479, CECT 7223, LMG 24300",1,"Vibrio atlanticus",Vibrio
+137566,,"CIP 107716",0,"Vibrio atlanticus",Vibrio
+17355,,"DSM 25292, CGMCC 1.8461, LMG 24781, HHS 02",1,"Vibrio atypicus",Vibrio
+17349,LC2-005,"DSM 23306, KCTC 22352, NBRC 104587",1,"Vibrio azureus",Vibrio
+168719,3062,"CAIM 1921, LMG 29358, CECT 9090",1,"Vibrio barjaei",Vibrio
+168849,605,"CECT 8855, CAIM 1904",1,"Vibrio bivalvicida",Vibrio
+17305,NN4/l-abH/1.3,"DSM 17184, CAIM 495, CIP 108395, KCTC 1212, LMG 20546, CCUG 48644",1,"Vibrio brasiliensis",Vibrio
+17348,"RD 15.11","DSM 23390, CECT 7222, LMG 23858, CIP 110040",1,"Vibrio breoganii",Vibrio
+17319,,"DSM 19270, ATCC 25920, CCM 2582, CCUG 4979, CECT 523, CIP 75.1, LMG 11216, NBRC 15631, NCIMB 1894, NCTC 11317, JCM 1054, BCRC 12909, CAIM 315, CAIM 519, IFO 15631, KCTC 2716, NCCB 73002, NCIMB 1994",1,"Vibrio campbellii",Vibrio
+143021,,"CCUG 16330, ATCC 25921",0,"Vibrio campbellii",Vibrio
+135172,,"CIP 70.67",0,"Vibrio campbellii",Vibrio
+17367,N384,"DSM 23640, ATCC BAA-2122",1,"Vibrio caribbeanicus",Vibrio
+17353,"WS 4539, TF11-505","DSM 22364, LMG 25240, CIP 110169",1,"Vibrio casei",Vibrio
+17354,"WS 4540, TF23-213","DSM 22378, LMG 25241",0,"Vibrio casei",Vibrio
+17356,"Rd 8.15","DSM 26172, CECT 7224, LMG 23850",1,"Vibrio celticus",Vibrio
+17300,R-3712,"CIP 108276, DSM 17138, CAIM 431, CCUG 48643, LMG 21353",1,"Vibrio chagasii",Vibrio
+164526,,"JCM 33348, MTCC 12900",1,"Vibrio chemaguriensis",Vibrio
+130763,"strain 3, J4308, 3","CCUG 9118 A, DSM 100200, ATCC 14035, CCUG 9118, CIP 62.13, NCTC 8021, CECT 514",1,"Vibrio cholerae",Vibrio
+150838,,"CCUG 42534",0,"Vibrio cholerae",Vibrio
+147381,,"CCUG 33493",0,"Vibrio cholerae",Vibrio
+152588,,"CCUG 47153",0,"Vibrio cholerae",Vibrio
+150508,,"CCUG 41448",0,"Vibrio cholerae",Vibrio
+142947,,"CCUG 15858",0,"Vibrio cholerae",Vibrio
+151014,,"CCUG 43040",0,"Vibrio cholerae",Vibrio
+151700,,"CCUG 44668",0,"Vibrio cholerae",Vibrio
+143054,,"CCUG 16570",0,"Vibrio cholerae",Vibrio
+142575,,"CCUG 13118",0,"Vibrio cholerae",Vibrio
+143055,,"CCUG 16571",0,"Vibrio cholerae",Vibrio
+142576,,"CCUG 13119",0,"Vibrio cholerae",Vibrio
+141524,,"CCUG 2569",0,"Vibrio cholerae",Vibrio
+134769,O1,"CIP 62.14",0,"Vibrio cholerae",Vibrio
+151016,,"CCUG 43042",0,"Vibrio cholerae",Vibrio
+152715,,"CCUG 47460",0,"Vibrio cholerae",Vibrio
+137123,,"CIP 68.10",0,"Vibrio cholerae",Vibrio
+155197,,"CCUG 56875",0,"Vibrio cholerae",Vibrio
+143277,,"CCUG 18208 A",0,"Vibrio cholerae",Vibrio
+142577,,"CCUG 13120",0,"Vibrio cholerae",Vibrio
+141525,,"CCUG 2572",0,"Vibrio cholerae",Vibrio
+134770,O14,"CIP 62.16",0,"Vibrio cholerae",Vibrio
+147699,,"CCUG 34033",0,"Vibrio cholerae",Vibrio
+152716,,"CCUG 47461",0,"Vibrio cholerae",Vibrio
+139519,N16961,"CIP 106855, ATCC 39315",0,"Vibrio cholerae",Vibrio
+155407,,"CCUG 57635",0,"Vibrio cholerae",Vibrio
+141526,,"CCUG 2573",0,"Vibrio cholerae",Vibrio
+142578,,"CCUG 13121",0,"Vibrio cholerae",Vibrio
+153518,,"CCUG 50018",0,"Vibrio cholerae",Vibrio
+148949,,"CCUG 36627",0,"Vibrio cholerae",Vibrio
+143427,,"CCUG 19100",0,"Vibrio cholerae",Vibrio
+131086,"VL 3029","DSM 101014, NCTC 11348, WDCM 00136, CCUG 67718, CIP 111241",0,"Vibrio cholerae",Vibrio
+141628,,"CCUG 4070",0,"Vibrio cholerae",Vibrio
+134771,O9,"CIP 62.15",0,"Vibrio cholerae",Vibrio
+148001,,"CCUG 34649",0,"Vibrio cholerae",Vibrio
+155559,,"CCUG 58152",0,"Vibrio cholerae",Vibrio
+150672,,"CCUG 41930",0,"Vibrio cholerae",Vibrio
+142579,,"CCUG 13122",0,"Vibrio cholerae",Vibrio
+135756,4Z,"CIP 55.91, ATCC 11623, NCTC 8367",0,"Vibrio cholerae",Vibrio
+138905,HK1,"CIP 63.32",0,"Vibrio cholerae",Vibrio
+153801,,"CCUG 50999",0,"Vibrio cholerae",Vibrio
+143577,,"CCUG 20308, ATCC 2587",0,"Vibrio cholerae",Vibrio
+143428,,"CCUG 19101",0,"Vibrio cholerae",Vibrio
+142580,,"CCUG 13123",0,"Vibrio cholerae",Vibrio
+136888,MDO19,"CIP 104151",0,"Vibrio cholerae",Vibrio
+139031,"940041, 569B","CIP 105882",0,"Vibrio cholerae",Vibrio
+142581,,"CCUG 13124",0,"Vibrio cholerae",Vibrio
+150832,,"CCUG 42513",0,"Vibrio cholerae",Vibrio
+150854,,"CCUG 42568",0,"Vibrio cholerae",Vibrio
+134437,"N16961 Smr","CIP 106851",0,"Vibrio cholerae",Vibrio
+134871,"B2 (Berne 2)","CIP A256",0,"Vibrio cholerae",Vibrio
+136572,182,"CIP 106971",0,"Vibrio cholerae",Vibrio
+156054,,"CCUG 60231",0,"Vibrio cholerae",Vibrio
+143552,,"CCUG 20048",0,"Vibrio cholerae",Vibrio
+142582,,"CCUG 13125",0,"Vibrio cholerae",Vibrio
+141976,,"CCUG 9195",0,"Vibrio cholerae",Vibrio
+146832,,"CCUG 32198",0,"Vibrio cholerae",Vibrio
+150833,,"CCUG 42514",0,"Vibrio cholerae",Vibrio
+149332,,"CCUG 37531",0,"Vibrio cholerae",Vibrio
+134439,2830,"CIP 106970",0,"Vibrio cholerae",Vibrio
+150362,,"CCUG 39732",0,"Vibrio cholerae",Vibrio
+136573,2829,"CIP 106969",0,"Vibrio cholerae",Vibrio
+151964,,"CCUG 45388",0,"Vibrio cholerae",Vibrio
+141977,,"CCUG 9196",0,"Vibrio cholerae",Vibrio
+150363,,"CCUG 39733",0,"Vibrio cholerae",Vibrio
+134443,AI1853,"CIP 104152",0,"Vibrio cholerae",Vibrio
+149707,,"CCUG 38251",0,"Vibrio cholerae",Vibrio
+136586,723,"CIP 106920",0,"Vibrio cholerae",Vibrio
+151966,,"CCUG 45390",0,"Vibrio cholerae",Vibrio
+154463,,"CCUG 53724",0,"Vibrio cholerae",Vibrio
+143854,,"CCUG 21589",0,"Vibrio cholerae",Vibrio
+141978,,"CCUG 9197",0,"Vibrio cholerae",Vibrio
+147329,,"CCUG 33379",0,"Vibrio cholerae",Vibrio
+134445,AE17504,"CIP 104153",0,"Vibrio cholerae",Vibrio
+139458,,"CIP 63.40, ATCC 14730, NCTC 4711",0,"Vibrio cholerae",Vibrio
+154464,,"CCUG 53725",0,"Vibrio cholerae",Vibrio
+143874,,"CCUG 21688",0,"Vibrio cholerae",Vibrio
+141979,,"CCUG 9198",0,"Vibrio cholerae",Vibrio
+151968,,"CCUG 45392",0,"Vibrio cholerae",Vibrio
+151680,,"CCUG 44618",0,"Vibrio cholerae",Vibrio
+141274,,"CCUG 537, ATCC 14733, NCTC 8042, CIP 63.42, WDCM 00203, WDCM 00191",0,"Vibrio cholerae",Vibrio
+154509,,"CCUG 53967",0,"Vibrio cholerae",Vibrio
+143875,,"CCUG 21691",0,"Vibrio cholerae",Vibrio
+154009,,"CCUG 51963",0,"Vibrio cholerae",Vibrio
+143444,,"CCUG 19153",0,"Vibrio cholerae",Vibrio
+141971,,"CCUG 9122, ATCC 15748, NCTC 3661",0,"Vibrio cholerae",Vibrio
+134434,35A3,"CIP A269",0,"Vibrio cholerae",Vibrio
+151310,,"CCUG 43715",0,"Vibrio cholerae",Vibrio
+136198,"Makassar 757","CIP 66.2",0,"Vibrio cholerae",Vibrio
+137778,254,"CIP 106972",0,"Vibrio cholerae",Vibrio
+143471,,"CCUG 19445",0,"Vibrio cholerae",Vibrio
+141974,,"CCUG 9193",0,"Vibrio cholerae",Vibrio
+134436,Eu5,"CIP 56.38",0,"Vibrio cholerae",Vibrio
+151339,,"CCUG 43794",0,"Vibrio cholerae",Vibrio
+143551,,"CCUG 20047",0,"Vibrio cholerae",Vibrio
+141975,,"CCUG 9194",0,"Vibrio cholerae",Vibrio
+148028,,"CCUG 34707, ATCC 51394",0,"Vibrio cholerae",Vibrio
+135777,,"CIP 69.41, ATCC 14547, NCIMB 41, CCUG 48664, LMG 4406, KCTC 12321",0,"Vibrio cholerae",Vibrio
+137402,335,"CIP 106974",0,"Vibrio cholerae",Vibrio
+143429,,"CCUG 19102",0,"Vibrio cholerae",Vibrio
+148029,,"CCUG 34708",0,"Vibrio cholerae",Vibrio
+150696,,"CCUG 41979",0,"Vibrio cholerae",Vibrio
+156860,,"CCUG 66155",0,"Vibrio cholerae",Vibrio
+141968,,"CCUG 9119, ATCC 14034, NCTC 7254",0,"Vibrio cholerae",Vibrio
+142768,,"CCUG 14542",0,"Vibrio cholerae",Vibrio
+151285,,"CCUG 43612",0,"Vibrio cholerae",Vibrio
+135898,AC7535,"CIP 104154",0,"Vibrio cholerae",Vibrio
+153915,,"CCUG 51600",0,"Vibrio cholerae",Vibrio
+141969,,"CCUG 9120, NCTC 7270",0,"Vibrio cholerae",Vibrio
+150821,,"CCUG 42464",0,"Vibrio cholerae",Vibrio
+151286,,"CCUG 43617",0,"Vibrio cholerae",Vibrio
+139869,A1552,"DSM 106276",0,"Vibrio cholerae",Vibrio
+143443,,"CCUG 19149",0,"Vibrio cholerae",Vibrio
+141970,,"CCUG 9121, NCTC 8041",0,"Vibrio cholerae",Vibrio
+134413,"Ez 5cp","CIP 56.39",0,"Vibrio cholerae",Vibrio
+151288,,"CCUG 43628",0,"Vibrio cholerae",Vibrio
+152507,,"CCUG 46968",0,"Vibrio cholerae",Vibrio
+150118,,"CCUG 39021",0,"Vibrio cholerae-like",Vibrio
+133177,2756-81,"LMG 29267, CIP 111013",1,"Vibrio cidicii",Vibrio
+17320,,"DSM 19608, ATCC 35912, CCUG 19115B, NCTC 12012, CIP 104173, CCUG 19115, LMG 7891",1,"Vibrio cincinnatiensis",Vibrio
+145960,,"CCUG 29962",0,"Vibrio cincinnatiensis",Vibrio
+17341,GHG2-1,"DSM 19668, LMG 23416, NBRC 102076, CCUG 56972, CIP 109637",1,"Vibrio comitans",Vibrio
+17336,,"DSM 19607, ATCC BAA-450, CAIM 616, CCUG 48437, LMG 20984",1,"Vibrio coralliilyticus",Vibrio
+172654,YB,"CIP 107925",1,"Vibrio coralliilyticus",Vibrio
+158432,corallo1,"DSM 27495, CIP 110630",1,"Vibrio coralliirubri",Vibrio
+132167,"C 16.17","DSM 102805, CECT 7227, LMG 27474, CIP 110813, LMG 27475",1,"Vibrio cortegadensis",Vibrio
+17308,,"DSM 17220, CIP 108327, LMG 22240, CCUG 56778, Le Roux LGP 7, LGP 7",1,"Vibrio crassostreae",Vibrio
+136940,,"CIP 108328, LMG 22241, LGP 8",0,"Vibrio crassostreae",Vibrio
+136941,,"CIP 108329, LMG 22248, LGP 15",0,"Vibrio crassostreae",Vibrio
+136942,,"CIP 108330, LMG 22249, LGP 107",0,"Vibrio crassostreae",Vibrio
+130766,H1(3),"DSM 27145, CAIM 1437",1,"Vibrio crosai",Vibrio
+130762,P-2P44,"DSM 14264, ATCC 700982, CIP 106644, CCUG 56965, LMG 21359, KCTC 12925, NCIMB 13790",1,"Vibrio cyclitrophicus",Vibrio
+17257,"NSl, NS1","DSM 2604, ATCC 33466, IAM 14402, CCUG 19114, JCM 21185, CIP 103191, LMG 7893, NBRC 103148, NCIMB 2169",1,"Vibrio diazotrophicus",Vibrio
+17258,Plll,"DSM 2605",0,"Vibrio diazotrophicus",Vibrio
+17259,1103,"DSM 2606",0,"Vibrio diazotrophicus",Vibrio
+159312,"NFH.MBO10, NFH.MB010","DSM 107264, LMG 30656",1,"Vibrio echinoideorum",Vibrio
+163185,,"JCM 21434, ATCC BAA-319, IAM 14957, NBRC 103149",0,"Vibrio equitatus",Vibrio
+17311,HDS1-1,"DSM 17533, IAM 15061, LMG 19970, CCUG 56779, NBRC 102218, JCM 21522, CIP 108520",1,"Vibrio ezurae",Vibrio
+163218,,"JCM 21523, IAM 15062",0,"Vibrio ezurae",Vibrio
+163219,,"JCM 21524, IAM 15063, LMG 19979",0,"Vibrio ezurae",Vibrio
+170641,IRLE0018,"NCTC 14661, NRRL B-65642",1,"Vibrio floridensis",Vibrio
+17321,"VL 5125, 5125","DSM 19283, ATCC 33809, CCM 3689, CCTM La 3552, CCUG 13622, CDC 9555-78, IAM 14403, JCM 3752, LMG 7894, NCIMB 2249, NCTC 11327, WDCM 00137, JCM 1281, BCRC 12830, CAIM 593, CCUG 15268, CCUG 20252, CDC 9555-18, CECT 4217, CGMCC 1.1608, CIP 103355, KCTC 2473, NBRC 103150, NRIC 0818",1,"Vibrio fluvialis",Vibrio
+143570,,"CCUG 20259",0,"Vibrio fluvialis",Vibrio
+143571,,"CCUG 20267, ATCC 33812, NCTC 11328, JCM 1282, CCM 3696, CGMCC 1.1611, JCM 3753, LMG 11655",0,"Vibrio fluvialis",Vibrio
+143572,,"CCUG 20268",0,"Vibrio fluvialis",Vibrio
+155176,,"CCUG 56799",0,"Vibrio fluvialis",Vibrio
+143573,,"CCUG 20271",0,"Vibrio fluvialis",Vibrio
+164795,,"JCM 3733",0,"Vibrio fluvialis",Vibrio
+164796,,"JCM 3734",0,"Vibrio fluvialis",Vibrio
+164797,,"JCM 3735",0,"Vibrio fluvialis",Vibrio
+139228,40,"CIP 103174",0,"Vibrio fluvialis",Vibrio
+164798,,"JCM 3736",0,"Vibrio fluvialis",Vibrio
+135171,,"CIP 70.66",0,"Vibrio fluvialis",Vibrio
+164799,,"JCM 3737",0,"Vibrio fluvialis",Vibrio
+164800,,"JCM 3738",0,"Vibrio fluvialis",Vibrio
+151010,,"CCUG 43034",0,"Vibrio fluvialis",Vibrio
+164801,,"JCM 3739",0,"Vibrio fluvialis",Vibrio
+164802,,"JCM 3740",0,"Vibrio fluvialis",Vibrio
+135265,40,"CIP 108463, VKM B-1485, ATCC 35843",0,"Vibrio fluvialis",Vibrio
+164803,,"JCM 3741",0,"Vibrio fluvialis",Vibrio
+164804,,"JCM 3742",0,"Vibrio fluvialis",Vibrio
+143567,,"CCUG 20253",0,"Vibrio fluvialis",Vibrio
+143568,,"CCUG 20254",0,"Vibrio fluvialis",Vibrio
+148146,,"CCUG 34900",0,"Vibrio fluvialis",Vibrio
+143569,,"CCUG 20257",0,"Vibrio fluvialis",Vibrio
+148147,,"CCUG 34901",0,"Vibrio fluvialis",Vibrio
+164805,,"JCM 3743",0,"Vibrio fluvialis",Vibrio
+164806,,"JCM 3744",0,"Vibrio fluvialis",Vibrio
+164807,,"JCM 3745",0,"Vibrio fluvialis",Vibrio
+164808,,"JCM 3746",0,"Vibrio fluvialis",Vibrio
+142667,,"CCUG 13623",0,"Vibrio fluvialis",Vibrio
+164809,,"JCM 3747",0,"Vibrio fluvialis",Vibrio
+153879,,"CCUG 51484",0,"Vibrio fluvialis",Vibrio
+164810,,"JCM 3748",0,"Vibrio fluvialis",Vibrio
+164811,,"JCM 3749",0,"Vibrio fluvialis",Vibrio
+150827,,"CCUG 42499",0,"Vibrio fluvialis",Vibrio
+164812,,"JCM 3750",0,"Vibrio fluvialis",Vibrio
+142843,,"CCUG 15268",0,"Vibrio fluvialis",Vibrio
+164813,,"JCM 3751",0,"Vibrio fluvialis",Vibrio
+17337,,"DSM 19133, CAIM 629, CIP 108196, LMG 21557, CCUG 56780",1,"Vibrio fortis",Vibrio
+131142,AN60,"DSM 26067, JCM 18510",0,"Vibrio fortis",Vibrio
+158354,FJ201301,"DSM 104687, CGMCC 1.16099",1,"Vibrio fujianensis",Vibrio
+17288,"91 19-82, B3215","NCTC 13120, CIP 102972, KCTC 2731, DSM 19622, ATCC 35016, CCUG 37301, CDC B3215, LMG 7910, CCUG 15269",1,"Vibrio furnissii",Vibrio
+149227,,"CCUG 37302, ATCC 33813, LMG 11757",0,"Vibrio furnissii",Vibrio
+17287,"2510/74, VL 6966, TRURO 2510/74 VL 6966","DSM 14383, NCTC 11218, WDCM 00186, CCUG 37458, CIP 111066",0,"Vibrio furnissii",Vibrio
+132360,S2757,"DSM 100497, LMG 28895",1,"Vibrio galatheae",Vibrio
+17347,"VB 8.9","DSM 23502, CECT 7244, LMG 24045",1,"Vibrio gallaecicus",Vibrio
+17299,"HT2-1, HT 2-1","DSM 16639, CIP 107863, LMG 21878, CCUG 56967, LMG 21330",1,"Vibrio gallicus",Vibrio
+138533,"HT 3-3","CIP 107867",0,"Vibrio gallicus",Vibrio
+134674,"HT 1-12","CIP 107865",0,"Vibrio gallicus",Vibrio
+138532,"HT 2-6","CIP 107866",0,"Vibrio gallicus",Vibrio
+134673,"HT 1-3","CIP 107864, LMG 21329",0,"Vibrio gallicus",Vibrio
+139784,SZDIS-1,"DSM 104291, CGMCC 1.15236",1,"Vibrio gangliei",Vibrio
+17322,PB1,"DSM 21264, ATCC 29988, CIP 103173, JCM 21187, NBRC 103151, CCUG 57114, IAM 14404, NCIMB 2250, CCUG 20307",1,"Vibrio gazogenes",Vibrio
+170643,ZSDZ34,"MCCC 1K06292, KCTC 82888",1,"Vibrio gelatinilyticus",Vibrio
+17313,,"DSM 18531, CIP 108656, LMG 22741, CCUG 56969, LGP 13",1,"Vibrio gigantis",Vibrio
+135267,,"CIP 108655, LGP 16",0,"Vibrio gigantis",Vibrio
+17310,A431,"DSM 21474, ATCC 700680, CAIM 283, CIP 106283, IAM 14596, JCM 21271, LMG 18542, NBRC 102217, NCIMB 13540",1,"Vibrio halioticoli",Vibrio
+131111,HE1-1,"DSM 17532",0,"Vibrio halioticoli",Vibrio
+139338,A10l3,"CIP 106285, IAM 14598, JCM 21273, LMG 19701",0,"Vibrio halioticoli",Vibrio
+139339,A11l2,"CIP 106286, IAM 14599, JCM 21274",0,"Vibrio halioticoli",Vibrio
+137320,A611,"CIP 106284, IAM 14597, JCM 21272, ATCC 700681, LMG 19700",0,"Vibrio halioticoli",Vibrio
+130765,,"DSM 100627, CGMCC 1.7062, CIP 110023, JCM 15146, CN 83",1,"Vibrio hangzhouensis",Vibrio
+169122,168GH5-2-16,"KACC 19277, LMG 30079",1,"Vibrio hannami",Vibrio
+17263,,"DSM 19623, ATCC 14126, CCUG 28584, CECT 525, LMG 4044, NBRC 15634, NCMB 1280, JCM 33361, CIP 103192, IFO 15634, NCCB 80033, NCIMB 1280, NCTC 12970",1,"Vibrio harveyi",Vibrio
+17262,"334, Ei2","DSM 6904, ATCC 33867",0,"Vibrio harveyi",Vibrio
+138097,,"CIP 104774, JCM 9677",0,"Vibrio harveyi",Vibrio
+17264,1116b,"DSM 23069, ATCC 35084, CCUG 19116, LMG 7890, CIP 104172",0,"Vibrio harveyi",Vibrio
+148390,,"CCUG 35340",0,"Vibrio harveyi",Vibrio
+100261,"STI09615(IMET), 828-20",,0,"Vibrio harveyi",Vibrio
+100262,"STI09617(IMET), 828-43",,0,"Vibrio harveyi",Vibrio
+156594,,"CCUG 63236",0,"Vibrio harveyi",Vibrio
+139509,120A,"CIP 105614",0,"Vibrio harveyi",Vibrio
+144145,,"CCUG 23159",0,"Vibrio harveyi",Vibrio
+17260,M17-LP,"DSM 2332",0,"Vibrio harveyi",Vibrio
+17338,1P,"CCUG 56970, DSM 19134, CAIM 693, CIP 108391, LMG 20362",1,"Vibrio hepatarius",Vibrio
+17352,BFLP-4,"DSM 22717, LMG 25354",1,"Vibrio hippocampi",Vibrio
+17298,"TW 79","CCUG 56966, CAIM 525, DSM 16580, LMG 13240, VIB 213, CIP 108392",1,"Vibrio hispanicus",Vibrio
+169141,090810a,"LMG 28466, NBRC 110663",1,"Vibrio hyugaensis",Vibrio
+17289,F-2,"DSM 14397, CECT 5675, IFO 15847, NBRC 15847, CCUG 57206, NCIMB 13441, LMG 19664, CIP 104815, ATCC 700023",1,"Vibrio ichthyoenteri",Vibrio
+163688,,"JCM 30011, KCTC 32233",1,"Vibrio injensis",Vibrio
+170639,YLB-11,"KCTC 72604, MCCC 1A17441",1,"Vibrio intestinalis",Vibrio
+17343,RW14,"DSM 19661, LMG 23434, NBRC 102082, CCUG 56971, CIP 109635",1,"Vibrio inusitatus",Vibrio
+162436,,"JCM 19231, LMG 28703",1,"Vibrio ishigakensis",Vibrio
+162445,,"JCM 19241",0,"Vibrio ishigakensis",Vibrio
+162437,,"JCM 19232",0,"Vibrio ishigakensis",Vibrio
+164053,,"JCM 31412, ATCC TSD-62, LMG 29636",1,"Vibrio japonicus",Vibrio
+23341,,"DSM 27061, JCM 16453, LMG 25398, TCFB 0772",1,"Vibrio jasicida",Vibrio
+130768,BFLP-10,"DSM 23440, CECT 7692",0,"Vibrio jasicida",Vibrio
+161784,,"JCM 16454",0,"Vibrio jasicida",Vibrio
+161785,,"JCM 16455",0,"Vibrio jasicida",Vibrio
+17302,,"DSM 17181, CAIM 485, CIP 108275, LMG 20539, CCUG 56968",1,"Vibrio kanaloae",Vibrio
+17282,40M4,"DSM 13757, CECT 5110, KCTC 23148, CIP 107166",1,"Vibrio lentus",Vibrio
+17283,30M16,"DSM 13758, CECT 5111",0,"Vibrio lentus",Vibrio
+17284,30M21,"DSM 13759, CECT 5293",0,"Vibrio lentus",Vibrio
+17312,"MANO22D, Mano22 deep","DSM 17657, CAIM 315, CIP 109585, KCTC 12520",1,"Vibrio litoralis",Vibrio
+130767,,"DSM 100340, CAIM 1897, LMG 28124",1,"Vibrio madracius",Vibrio
+17344,MSSRF38,"DSM 19641, LMG 24290",1,"Vibrio mangrovi",Vibrio
+17358,WH134,"DSM 23086, CGMCC 1.8994, LMG 25284",1,"Vibrio marisflavi",Vibrio
+17362,R-40493,"DSM 26148, CAIM 1455, LMG 25439",1,"Vibrio maritimus",Vibrio
+162444,,"JCM 19240",0,"Vibrio maritimus",Vibrio
+17285,50,"DSM 19502, ATCC 43341, CCUG 19040, CECT 621, CIP 103203, LMG 11258, NCTC 11946",1,"Vibrio mediterranei",Vibrio
+17286,AK1,"DSM 13774, ATCC BAA-91, CIP 107136, LMG 19703",0,"Vibrio mediterranei",Vibrio
+132931,OP3H,"DSM 104290, CIP 110643, LMG 27764",1,"Vibrio metoecus",Vibrio
+17323,"M 34","CCUG 7490, NCTC 262, ATCC 700040, CIP 69.14, JCM 21189, DSM 19132, CAIM 317, ICPB 3551, LMG 11664, NCTC 8443, GIFU 3198, IAM 14406, NBRC 103153",1,"Vibrio metschnikovii",Vibrio
+146118,,"CCUG 30403",0,"Vibrio metschnikovii",Vibrio
+146119,,"CCUG 30404",0,"Vibrio metschnikovii",Vibrio
+146120,,"CCUG 30405",0,"Vibrio metschnikovii",Vibrio
+146121,,"CCUG 30406",0,"Vibrio metschnikovii",Vibrio
+134479,,"CIP 80.50, CCUG 45384",0,"Vibrio metschnikovii",Vibrio
+146122,,"CCUG 30407",0,"Vibrio metschnikovii",Vibrio
+146123,,"CCUG 30408",0,"Vibrio metschnikovii",Vibrio
+146124,,"CCUG 30409",0,"Vibrio metschnikovii",Vibrio
+146125,,"CCUG 30410",0,"Vibrio metschnikovii",Vibrio
+162695,,"JCM 20020, IAM 1039",0,"Vibrio metschnikovii",Vibrio
+146126,,"CCUG 30412",0,"Vibrio metschnikovii",Vibrio
+146520,,"CCUG 31367, ATCC 7708",0,"Vibrio metschnikovii",Vibrio
+146521,,"CCUG 31368",0,"Vibrio metschnikovii",Vibrio
+134812,,"CIP 69.15, NCTC 8563",0,"Vibrio metschnikovii",Vibrio
+135457,"MV 2484","CIP 104262, ICPB 4076, NCTC 11170, CCUG 7491",0,"Vibrio metschnikovii",Vibrio
+153485,,"CCUG 49718",0,"Vibrio metschnikovii",Vibrio
+137363,,"CIP A267",0,"Vibrio metschnikovii",Vibrio
+146055,,"CCUG 30276",0,"Vibrio metschnikovii",Vibrio
+131484,"CulC12 3(4)","DSM 100338, CAIM 1540, CECT 8828",1,"Vibrio mexicanus",Vibrio
+17324,1721-77,"DSM 19130, ATCC 33653, CCM 4552, CCUG 13624, CDC 1721-77, LMG 7896, NCTC 11435, CIP 101888",1,"Vibrio mimicus",Vibrio
+142589,,"CCUG 13171",0,"Vibrio mimicus",Vibrio
+142590,,"CCUG 13172",0,"Vibrio mimicus",Vibrio
+142591,,"CCUG 13173",0,"Vibrio mimicus",Vibrio
+142592,,"CCUG 13174 A",0,"Vibrio mimicus",Vibrio
+142593,,"CCUG 13174 B",0,"Vibrio mimicus",Vibrio
+142594,,"CCUG 13174 C",0,"Vibrio mimicus",Vibrio
+142595,,"CCUG 13175",0,"Vibrio mimicus",Vibrio
+142596,,"CCUG 13176",0,"Vibrio mimicus",Vibrio
+148142,,"CCUG 34896",0,"Vibrio mimicus",Vibrio
+136567,"161, 269-80","CIP 106921, ATCC 33654",0,"Vibrio mimicus",Vibrio
+148143,,"CCUG 34897",0,"Vibrio mimicus",Vibrio
+151360,,"CCUG 43851 A",0,"Vibrio mimicus",Vibrio
+148144,,"CCUG 34898",0,"Vibrio mimicus",Vibrio
+151361,,"CCUG 43851 B",0,"Vibrio mimicus",Vibrio
+148145,,"CCUG 34899",0,"Vibrio mimicus",Vibrio
+138390,284,"CIP 106975",0,"Vibrio mimicus",Vibrio
+152949,,"CCUG 48106",0,"Vibrio mimicus",Vibrio
+150319,,"CCUG 39638",0,"Vibrio mimicus",Vibrio
+142587,,"CCUG 13169",0,"Vibrio mimicus",Vibrio
+142588,,"CCUG 13170",0,"Vibrio mimicus",Vibrio
+17331,165,"NCIMB 13275, DSM 19137, ATCC 51288, CAIM 528, CCUG 38424, CECT 632, LMG 19157, CIP 103929",1,"Vibrio mytili",Vibrio
+17265,111,"DSM 759, ATCC 14048, NCMB 857, CIP 103193, CCUG 4980, LMG 10935, NCIMB 857",1,"Vibrio natriegens",Vibrio
+143022,,"CCUG 16372, ATCC 33788",0,"Vibrio natriegens",Vibrio
+143023,,"CCUG 16373, ATCC 33897",0,"Vibrio natriegens",Vibrio
+143024,,"CCUG 16374, ATCC 33898",0,"Vibrio natriegens",Vibrio
+17316,1397-6,"DSM 21557, ATCC 51183, CAIM 609, CCUG 28805, CIP 103381, LMG 15976",1,"Vibrio navarrensis",Vibrio
+17315,CH-291,"DSM 15800",0,"Vibrio navarrensis",Vibrio
+145544,,"CCUG 28804",0,"Vibrio navarrensis",Vibrio
+136884,NC470,"CIP 110538",1,"Vibrio neocaledonicus",Vibrio
+17309,"HDD 3-1, HDD3-1","DSM 17531, IAM 15060, LMG 19973, JCM 21521, CIP 108521",1,"Vibrio neonatus",Vibrio
+163217,,"JCM 21520, IAM 15059",0,"Vibrio neonatus",Vibrio
+17306,,"DSM 17183, CAIM 532, CIP 108274, KCTC 12702, LMG 20536, KCTC 12123, INCO 17",1,"Vibrio neptunius",Vibrio
+17325,,"DSM 19584, ATCC 25917, CCUG 28585, CECT 595, CIP 75.05, LMG 3895, NCMB 1897, CIP 103194, JCM 21190, BCRC 12914, CAIM 322, IAM 14407, IFO 15637, JCM 1141, KCTC 12677, KCTC 2722, NBRC 15637, NCCB 73020, NCIMB 1897",1,"Beneckea nereis",Beneckea
+17326,164,"DSM 21607, ATCC 27043, CAIM 323, CCUG 16376, CCUG 28586, CIP 103195, LMG 3896, NCIMB 1904",1,"Beneckea nigripulchritudo",Beneckea
+143025,,"CCUG 16378, ATCC 33900",0,"Beneckea nigripulchritudo",Beneckea
+143026,,"CCUG 16382, ATCC 33902",0,"Beneckea nigripulchritudo",Beneckea
+143027,,"CCUG 16383, ATCC 33903",0,"Beneckea nigripulchritudo",Beneckea
+167720,NFV-1,"BCRC 81211, JCM 33628",1,"Vibrio nitrifigilis",Vibrio
+163785,,"JCM 30409, KEMB 2255-005",1,"Vibrio oceanisediminis",Vibrio
+130769,IGJ1.11,"DSM 25438, CECT 8064",1,"Vibrio olivae",Vibrio
+17327,"Dom F3 kid","DSM 19621, ATCC 33509, CCRC 12916, CCUG 38425, CECT 582, CIP 103205, NCIMB 2167",1,"Vibrio ordalii",Vibrio
+17328,717,"DSM 19136, ATCC 33934, CAIM 332, LMG 7897, CCUG 16389, CIP 102891, NCIMB 2195, KCTC 12680",1,"Vibrio orientalis",Vibrio
+170083,OG9-811,"KCTC 72623, GDMCC 1.2610",1,"Vibrio ostreae",Vibrio
+24664,PP-203,"DSM 21433, CECT 7398",1,"Vibrio ostreicida",Vibrio
+159591,UCD-KL16,"DSM 107812",0,"Vibrio ostreicida",Vibrio
+24665,PP-200,"DSM 21434",0,"Vibrio ostreicida",Vibrio
+164331,,"JCM 32690, KCTC 62616, MCCC 1K03515, BEI 176",1,"Vibrio ouci",Vibrio
+17350,DY05,"DSM 23055, ACM 5300, JCM 16517, LMG 25443",1,"Vibrio owensii",Vibrio
+17261,74,"DSM 2165, ATCC 25919, CCM 2580",0,"Vibrio owensii",Vibrio
+17351,R-40496,"DSM 25291, CAIM 1816, LMG 25430",0,"Vibrio owensii",Vibrio
+17339,"STD3 1057","DSM 19139, CAIM 530, CIP 108197, LMG 19999",1,"Vibrio pacinii",Vibrio
+140734,EAod9,"CECT 9027, LMG 29724",1,"Vibrio palustris",Vibrio
+131434,LBS2,"DSM 27724, JCM 19500, LMG 27902",1,"Vibrio panuliri",Vibrio
+166800,EDC-­792,"DSM 112460, CCUG 75319",1,"Vibrio paracholerae",Vibrio
+17267,"113, EB 101","DSM 10027, ATCC 17802, CIP 75.2, NCMB 1902, NCTC 10903, WDCM 00037, JCM 32818, BCRC 10806, CAIM 320, CCUG 14474, CCUG 15657, CCUG 4224, CECT 511, CECT 589, IFO 12711, LMG 2850, NBRC 12711, NCCB 77010, NCCB 77018, NCIMB 1902, NRRL B-4167, CCTM 2011",1,"Vibrio parahaemolyticus",Vibrio
+152525,,"CCUG 47003",0,"Vibrio parahaemolyticus",Vibrio
+152526,,"CCUG 47004",0,"Vibrio parahaemolyticus",Vibrio
+24659,"VL 1225","DSM 27657, CIP 111237, NCTC 11344, WDCM 00138, CCUG 67711, CECT 8264",0,"Vibrio parahaemolyticus",Vibrio
+152576,,"CCUG 47109",0,"Vibrio parahaemolyticus",Vibrio
+148148,,"CCUG 34902",0,"Vibrio parahaemolyticus",Vibrio
+17266,MIII-2-5,"DSM 2172, CCM 5940, CCUG 4990",0,"Vibrio parahaemolyticus",Vibrio
+136696,1192-70,"CIP 71.2",0,"Vibrio parahaemolyticus",Vibrio
+148149,,"CCUG 34903",0,"Vibrio parahaemolyticus",Vibrio
+150025,,"CCUG 38871",0,"Vibrio parahaemolyticus",Vibrio
+17268,"Truro 70","DSM 11058, ATCC 43996, NCTC 10884",0,"Vibrio parahaemolyticus",Vibrio
+17269,P-5,"DSM 15416",0,"Vibrio parahaemolyticus",Vibrio
+136769,BB22,"CIP 105615",0,"Vibrio parahaemolyticus",Vibrio
+143434,,"CCUG 19113, ATCC 27969",0,"Vibrio parahaemolyticus",Vibrio
+148052,,"CCUG 34734",0,"Vibrio parahaemolyticus",Vibrio
+142841,,"CCUG 15266",0,"Vibrio parahaemolyticus",Vibrio
+145649,,"CCUG 29132",0,"Vibrio parahaemolyticus",Vibrio
+148074,,"CCUG 34775",0,"Vibrio parahaemolyticus",Vibrio
+142844,,"CCUG 15269 A",0,"Vibrio parahaemolyticus",Vibrio
+131028,"Truro 69/61527","DSM 101031, CCUG 67717, NCTC 10885, WDCM 00185, CIP 111065, CECT 9114",0,"Vibrio parahaemolyticus",Vibrio
+150094,,"CCUG 38981",0,"Vibrio parahaemolyticus",Vibrio
+17270,"VL 2074","DSM 15477, NCTC 11347",0,"Vibrio parahaemolyticus",Vibrio
+17271,,"DSM 25722, NCCP 13713",0,"Vibrio parahaemolyticus",Vibrio
+149171,,"CCUG 36990",0,"Vibrio parahaemolyticus",Vibrio
+136886,,"CIP 78.26",0,"Vibrio parahaemolyticus",Vibrio
+139051,R777,"CIP 73.30",0,"Vibrio parahaemolyticus",Vibrio
+149696,,"CCUG 38226",0,"Vibrio parahaemolyticus",Vibrio
+151965,,"CCUG 45389",0,"Vibrio parahaemolyticus",Vibrio
+150944,,"CCUG 42817",0,"Vibrio parahaemolyticus",Vibrio
+135235,1132-70,"CIP 71.1",0,"Vibrio parahaemolyticus",Vibrio
+151967,,"CCUG 45391",0,"Vibrio parahaemolyticus",Vibrio
+135236,AH25712,"CIP 104156",0,"Vibrio parahaemolyticus",Vibrio
+152075,,"CCUG 45701",0,"Vibrio parahaemolyticus",Vibrio
+139487,,"CIP 110006, RIMD 2210633",0,"Vibrio parahaemolyticus",Vibrio
+141329,,"CCUG 885 C, NCTC 10441",0,"Vibrio parahaemolyticus",Vibrio
+144085,,"CCUG 22891",0,"Vibrio parahaemolyticus",Vibrio
+139488,"64 T","CIP 70.64",0,"Vibrio parahaemolyticus",Vibrio
+151146,,"CCUG 43362",0,"Vibrio parahaemolyticus",Vibrio
+139557,"64 S","CIP 70.63",0,"Vibrio parahaemolyticus",Vibrio
+151147,,"CCUG 43363",0,"Vibrio parahaemolyticus",Vibrio
+139660,"R622, Fofama","CIP 109835, CIP 200570",0,"Vibrio parahaemolyticus",Vibrio
+149797,,"CCUG 38426, CECT 612",0,"Vibrio parahaemolyticus",Vibrio
+150695,,"CCUG 41978",0,"Vibrio parahaemolyticus",Vibrio
+151148,,"CCUG 43364",0,"Vibrio parahaemolyticus",Vibrio
+153868,,"CCUG 51447",0,"Vibrio parahaemolyticus",Vibrio
+141703,,"CCUG 4991, CCM 5937",0,"Vibrio parahaemolyticus",Vibrio
+151149,,"CCUG 43365",0,"Vibrio parahaemolyticus",Vibrio
+170645,DBSS07,"MCCC 1K06284, KCTC 82896",1,"Vibrio paucivorans",Vibrio
+17334,,"DSM 19585, ATCC 700783, CIP 105190",1,"Vibrio pectenicida",Vibrio
+138189,A496,"CIP 105229",0,"Vibrio pectenicida",Vibrio
+163106,,"JCM 21192, ATCC 33504, CECT 4194, IAM 14409, JCM 1147, LMG 10941, NCIMB 2253",0,"Listonella pelagia",Listonella
+17290,KH-1,"DSM 14398, IFO 15640, JCM 9123, NBRC 15640, ATCC 51841, CAIM 285, CIP 104417, LMG 19663, LMG 19518",1,"Vibrio penaeicida",Vibrio
+165997,,"JCM 9125",0,"Vibrio penaeicida",Vibrio
+165996,,"JCM 9124",0,"Vibrio penaeicida",Vibrio
+148373,,"CCUG 35308",0,"Vibrio phenon",Vibrio
+17364,MSSRF60,"DSM 21026, CAIM 1392, LMG 24470",1,"Vibrio plantisponsor",Vibrio
+17365,"MSSRF 62","DSM 21027",0,"Vibrio plantisponsor",Vibrio
+17366,MSSRF64,"DSM 21028",0,"Vibrio plantisponsor",Vibrio
+17301,,"DSM 17180, CAIM 578, CIP 108273, LMG 20537",1,"Vibrio pomeroyi",Vibrio
+17295,369,"DSM 16217, CECT 5869, CCUG 50742, CIP 108539",1,"Vibrio ponticus",Vibrio
+17296,,"DSM 16218, CECT 5870, DCR DCr35, DCR 35",0,"Vibrio ponticus",Vibrio
+162442,,"JCM 19238",0,"Vibrio ponticus",Vibrio
+17340,MSSRF30,"DSM 19223, LMG 24061",1,"Vibrio porteresiae",Vibrio
+17275,,"DSM 30189, ATCC 15338, CIP 73.06, IFO 13287, NBRC 13287, NCMB 1326, CCUG 20302, LMG 3772, CIP 710, JCM 21193, CCEB 710, CGMCC 1.8871, IAM 14410, NCIMB 1326, CIP 102892",1,"Vibrio proteolyticus",Vibrio
+170646,ZSDZ65,"KCTC 82893, MCCC 1K06289",1,"Vibrio qingdaonensis",Vibrio
+24661,M62,"DSM 28518, CAIM 1863, CECT 7734, KCTC 23833",1,"Vibrio quintilis",Vibrio
+17342,RW22,"DSM 19662, LMG 23674, NBRC 102084, CIP 109638",1,"Vibrio rarus",Vibrio
+132212,DCr-1-4-2,"DSM 103032, CECT 8603, KCTC 42287",1,"Vibrio renipiscarius",Vibrio
+17314,MSSRF3,"DSM 18581, LMG 23790",1,"Vibrio rhizosphaerae",Vibrio
+130764,MSSRF7,"DSM 18601",0,"Vibrio rhizosphaerae",Vibrio
+17307,"R-14939, RFT 16","DSM 17186, CAIM 577, LMG 21460, CIP 107930, KCTC 12125",1,"Vibrio rotiferianus",Vibrio
+17293,VR1,"DSM 16370, CCRC 17186, JCM 11486, BCRC 17186, CIP 107960",1,"Vibrio ruber",Vibrio
+17292,"514-01, VG","DSM 14379",0,"Vibrio ruber",Vibrio
+17294,MSSRF10,"DSM 18600",0,"Vibrio ruber",Vibrio
+17335,,"DSM 19141, CAIM 598, CIP 109752, FERM P-14531, LMG 20038",1,"Vibrio rumoiensis",Vibrio
+168762,LC2-047,"NBRC 104589, KCTC 22354",1,"Vibrio sagamiensis",Vibrio
+17357,LC1-908,"DSM 25651, KCTC 22355, NBRC 104590",0,"Vibrio sagamiensis",Vibrio
+162450,,"JCM 19265, CGMCC 1.12427",1,"Vibrio salilacus",Vibrio
+170640,DNF-1,"BCRC 81209, JCM 33626",1,"Vibrio salinus",Vibrio
+17333,,"DSM 19140, CAIM 75",1,"Vibrio scophthalmi",Vibrio
+173609,A089,"CIP 105211, CECT 4638",1,"Vibrio scophthalmi",Vibrio
+17274,,"DSM 21333, CAIM 797, CECT 7298",1,"Vibrio sinaloensis",Vibrio
+17345,,"DSM 21326, CAIM 648",0,"Vibrio sinaloensis",Vibrio
+132092,T47,"DSM 101073",0,"Vibrio sinaloensis",Vibrio
+17273,,"DSM 21327, CAIM 695",0,"Vibrio sinaloensis",Vibrio
+164333,,"JCM 32692, KCTC 62618",1,"Vibrio sinensis",Vibrio
+170644,S4M6,"MCCC 1K06167, KCTC 92312",1,"Vibrio sinus",Vibrio
+132001,PP5(1),"DSM 102190, CAIM 1076, CECT 9100",1,"Vibrio sonorensis",Vibrio
+162439,,"JCM 19235",0,"Vibrio sp.",Vibrio
+154359,,"CCUG 53234",0,"Vibrio sp.",Vibrio
+162440,,"JCM 19236",0,"Vibrio sp.",Vibrio
+162441,,"JCM 19237",0,"Vibrio sp.",Vibrio
+157897,SW9,"DSM 24596, CAIM 722",0,"Vibrio eleionomae",Vibrio
+157899,P095,"DSM 108851",0,"Vibrio sp.",Vibrio
+157900,R5,"DSM 108852",0,"Vibrio sp.",Vibrio
+157901,P101TypB,"DSM 108853",0,"Vibrio sp.",Vibrio
+130757,"CH 1356","DSM 12900",0,"Vibrio sp.",Vibrio
+162394,,"JCM 19061",0,"Vibrio sp.",Vibrio
+159163,IC18_D5,"DSM 107313",0,"Vibrio sp.",Vibrio
+130758,"CH 1357","DSM 12901",0,"Vibrio sp.",Vibrio
+162396,,"JCM 19063",0,"Vibrio sp.",Vibrio
+159164,"PO47 TypC","DSM 110182",0,"Vibrio sp.",Vibrio
+130759,"CH 1380","DSM 12903",0,"Vibrio sp.",Vibrio
+162397,,"JCM 19064",0,"Vibrio sp.",Vibrio
+130760,"CH 1381","DSM 12904",0,"Vibrio sp.",Vibrio
+130761,"B-11245, VNB-15","DSM 26054",0,"Vibrio sp.",Vibrio
+162438,,"JCM 19234",0,"Vibrio sp.",Vibrio
+152510,,"CCUG 46976",0,"Vibrio sp.",Vibrio
+161493,,"JCM 14512",0,"Vibrio sp.",Vibrio
+157902,60.18M,"DSM 108965",0,"Vibrio sp.",Vibrio
+157903,65.7M,"DSM 108966",0,"Vibrio sp.",Vibrio
+164794,,"JCM 3732",0,"Vibrio sp.",Vibrio
+17272,,"DSM 12610, HALO 156",0,"Vibrio sp.",Vibrio
+146611,,"CCUG 31602",0,"Vibrio sp.",Vibrio
+146612,,"CCUG 31603",0,"Vibrio sp.",Vibrio
+163170,,"JCM 21396, IAM 14914",0,"Vibrio sp.",Vibrio
+169333,10N.261.49.E11,"DSM 113773",0,"Vibrio sp.",Vibrio
+163171,,"JCM 21397, IAM 14915",0,"Vibrio sp.",Vibrio
+169334,10N.261.55.A7,"DSM 113774",0,"Vibrio sp.",Vibrio
+156335,,"CCUG 61202",0,"Vibrio sp.",Vibrio
+163172,,"JCM 21398, IAM 14916",0,"Vibrio sp.",Vibrio
+156336,,"CCUG 61203",0,"Vibrio sp.",Vibrio
+143824,,"CCUG 21293",0,"Vibrio sp.",Vibrio
+163173,,"JCM 21399, IAM 14917",0,"Vibrio sp.",Vibrio
+161917,,"JCM 17072",0,"Vibrio sp.",Vibrio
+162070,,"JCM 17658, FERM P-14737",0,"Vibrio sp.",Vibrio
+161027,,"JCM 10713",0,"Vibrio sp.",Vibrio
+130752,"CH 1278","DSM 12895",0,"Vibrio sp.",Vibrio
+161082,,"JCM 10883",0,"Vibrio sp.",Vibrio
+130753,"CH 1285","DSM 12896",0,"Vibrio sp.",Vibrio
+162331,,"JCM 18904",0,"Vibrio sp.",Vibrio
+161083,,"JCM 10884",0,"Vibrio sp.",Vibrio
+130754,"CH 1287","DSM 12897",0,"Vibrio sp.",Vibrio
+162332,,"JCM 18905",0,"Vibrio sp.",Vibrio
+152425,,"CCUG 46764",0,"Vibrio sp.",Vibrio
+130755,"CH 1326","DSM 12898",0,"Vibrio sp.",Vibrio
+162385,,"JCM 19052",0,"Vibrio sp.",Vibrio
+130756,"CH 1327","DSM 12899",0,"Vibrio sp.",Vibrio
+162386,,"JCM 19053",0,"Vibrio sp.",Vibrio
+140735,SMJ21,"CECT 9026, LMG 29723",1,"Vibrio spartinae",Vibrio
+17329,,"DSM 19640, ATCC 33125, CECT 528, LMG 4042, NCCB 53037, NCIMB 1, CIP 102893, KCTC 12679",1,"Vibrio splendidus",Vibrio
+136687,,"CIP 107715",0,"Vibrio splendidus",Vibrio
+24663,AlyHP32,"DSM 26178, CECT 8714, KCTC 32085",0,"Vibrio splendidus",Vibrio
+143574,,"CCUG 20272, ATCC 33869",0,"Vibrio splendidus",Vibrio
+143575,,"CCUG 20273, ATCC 33870",0,"Vibrio splendidus",Vibrio
+163107,,"JCM 21194, ATCC 25914, CCUG 20279, IAM 14411, LMD 76.35, LMG 10952, NCIMB 2251",0,"Vibrio splendidus",Vibrio
+169552,10N.222.46.C2,"DSM 113771",0,"Vibrio splendidus",Vibrio
+169553,10N.222.46.B6,"DSM 113772",0,"Vibrio splendidus",Vibrio
+169554,10N.286.45.B3,"DSM 113775",0,"Vibrio splendidus",Vibrio
+169555,10N.261.48.B5,"DSM 113776",0,"Vibrio splendidus",Vibrio
+169556,10N.286.45.A10,"DSM 113777",0,"Vibrio splendidus",Vibrio
+169557,10N.261.52.F2,"DSM 113778",0,"Vibrio splendidus",Vibrio
+17359,KTW-12,"DSM 25940, BCRC 8010, LMG 25357",1,"Vibrio stylophorae",Vibrio
+17297,G3-29,"DSM 16383, IAM 15009, LMG 21323, CCUG 48665, JCM 21480, CIP 108261, NBRC 103154",1,"Vibrio superstes",Vibrio
+163204,,"JCM 21478, IAM 15007, LMG 21319",0,"Vibrio superstes",Vibrio
+163205,,"JCM 21479, IAM 15008, LMG 21320",0,"Vibrio superstes",Vibrio
+170638,K08M4,"CECT 30086, DSM 109818",1,"Vibrio syngnathi",Vibrio
+158992,C4III282,"DSM 106943, CAIM 1928, JCM 33434",1,"Vibrio taketomensis",Vibrio
+158991,C4III291,"DSM 106942, CAIM 1929",0,"Vibrio taketomensis",Vibrio
+17332,B1090,"DSM 21475, ATCC 700075, CECT 4600, CIP 104856, LMG 19706",1,"Vibrio tapetis",Vibrio
+169018,HH6087,"CECT 8161, CAIM 1874",1,"Vibrio tapetis subsp. britannicus",Vibrio
+168042,QL-9,"LMG 28759, CECT 8851",1,"Vibrio tapetis subsp. quintayensis",Vibrio
+170082,2521-89,"DSM 112461, CCUG 75318",1,"Vibrio tarriae",Vibrio
+17303,"A 45, D39","DSM 17182, CAIM 634, CCUG 48666, CIP 108272, LMG 20012",1,"Vibrio tasmaniensis",Vibrio
+132189,MD16,"DSM 102810, CECT 8203, KCTC 32373",1,"Vibrio thalassae",Vibrio
+24660,"Vb 10.8","DSM 28519, CAIM 1869, CECT 7225",1,"Vibrio toranzoniae",Vibrio
+132206,AM2,"DSM 101558, LMG 25401, JCM 16456, JCM 16459",1,"Vibrio tritonius",Vibrio
+161786,,"JCM 16457, LMG 25404",0,"Vibrio tritonius",Vibrio
+161787,,"JCM 16458, LMG 25403",0,"Vibrio tritonius",Vibrio
+17330,,"DSM 19142, ATCC 19109, CAIM 313, CCUG 19118, CECT 4196, CIP 102760, LMG 10936, NBRC 15644, NCIMB 1340, CCUG 38428",1,"Vibrio tubiashii",Vibrio
+132509,PP-638,"DSM 27349, CECT 8136",1,"Vibrio europaeus",Vibrio
+144860,,"CCUG 26869",0,"Vibrio turbotae",Vibrio
+168408,188UL20-2,"LMG 32202, KACC 22258",1,"Vibrio ulleungensis",Vibrio
+17363,R-40492,"DSM 26147, CAIM 1454, LMG 25438",1,"Vibrio variabilis",Vibrio
+162443,,"JCM 19239",0,"Vibrio variabilis",Vibrio
+164334,,"JCM 32693, KCTC 62620",1,"Vibrio viridaestus",Vibrio
+17276,324,"DSM 10143, ATCC 27562, WDCM 00139, JCM 3725, BCRC 12905, CAIM 610, CCUG 13448, CCUG 16394, CDC 9107-79, CECT 529, CGMCC 1.3751, CIP 75.4, IFO 15645, KCTC 2959, LMG 13545, LMG 7898, NBRC 15645, NCIMB 2046, NRIC 0817, NCTC 13647",1,"Vibrio vulnificus",Vibrio
+164788,,"JCM 3726",0,"Vibrio vulnificus",Vibrio
+164789,,"JCM 3727",0,"Vibrio vulnificus",Vibrio
+152670,,"CCUG 47319",0,"Vibrio vulnificus",Vibrio
+142949,,"CCUG 15885 A, ATCC 33814",0,"Vibrio vulnificus",Vibrio
+164790,,"JCM 3728",0,"Vibrio vulnificus",Vibrio
+152671,,"CCUG 47321",0,"Vibrio vulnificus",Vibrio
+142950,,"CCUG 15886, ATCC 33815",0,"Vibrio vulnificus",Vibrio
+164791,,"JCM 3729",0,"Vibrio vulnificus",Vibrio
+142951,,"CCUG 15887 A, ATCC 33816",0,"Vibrio vulnificus",Vibrio
+164792,,"JCM 3730",0,"Vibrio vulnificus",Vibrio
+164793,,"JCM 3731",0,"Vibrio vulnificus",Vibrio
+150235,,"CCUG 39349",0,"Vibrio vulnificus",Vibrio
+17277,"H 1828/94","DSM 11507",0,"Vibrio vulnificus",Vibrio
+153100,,"CCUG 48492",0,"Vibrio vulnificus",Vibrio
+143028,,"CCUG 16395",0,"Vibrio vulnificus",Vibrio
+137008,CMCP6,"CIP 109784",0,"Vibrio vulnificus",Vibrio
+149735,,"CCUG 38297",0,"Vibrio vulnificus",Vibrio
+135710,693-80,"CIP 81.90",0,"Vibrio vulnificus",Vibrio
+150671,,"CCUG 41928",0,"Vibrio vulnificus",Vibrio
+152470,,"CCUG 46876",0,"Vibrio vulnificus",Vibrio
+139679,YJ016,"CIP 109783",0,"Vibrio vulnificus",Vibrio
+149798,,"CCUG 38429, CECT 897",0,"Vibrio tubiashii",Vibrio
+152471,,"CCUG 46877",0,"Vibrio vulnificus",Vibrio
+149799,,"CCUG 38430, CECT 4601",0,"Vibrio vulnificus",Vibrio
+149800,,"CCUG 38431, CECT 4606",0,"Vibrio vulnificus",Vibrio
+136180,,"CIP 103196, ATCC 33147, NCIMB 2136",0,"Vibrio vulnificus",Vibrio
+149840,,"CCUG 38521",0,"Vibrio vulnificus",Vibrio
+17368,G21,"DSM 22851, CGMCC 1.10228",1,"Vibrio xiamenensis",Vibrio
+17304,"STD3-1071, R-15052, R129","DSM 17185, CAIM 467, CIP 108271, KCTC 12703, LMG 21346, KCTC 12122",1,"Vibrio xuii",Vibrio
+157898,E414,"DSM 24901, CCTCC AB 2011110, NBRC 108723, CECT 30271CECT 30271CECT 30271CECT 30271CECT 30271, CIP 110336",1,"Vibrio zhanjiangensis",Vibrio
+138799,,"CIP 110336",0,"Vibrio zhanjiangensis",Vibrio
+166477,HBUAS61001,"GDMCC 1.1416, KCTC 62784",1,"Vibrio zhugei",Vibrio
+140386,E20121,"DSM 25602, CCTCC AB 2011174",1,"Vibrio zhuhaiensis",Vibrio
+140385,E20124,"DSM 25601",0,"Vibrio zhuhaiensis",Vibrio
+140387,E20122,"DSM 25603",0,"Vibrio zhuhaiensis",Vibrio
+167148,ZWAL4003,"KCTC 72971, MCCC 1A17474",1,"Vibrio ziniensis",Vibrio
+132582,Ac_5_C6,"DSM 29464, LMG 29035",1,"Vicinamibacter silvestris",Vicinamibacter
+158595,ANORD5,"NCIMB 15042, MTCC 12686, DSM 103558, CECT 30270",1,"Vicingus serpentipes",Vicingus
+158898,BBE-744-WT-12,"DSM 107290, JCM 34375",1,"Victivallis lenta",Victivallis
+17370,Cello,"DSM 14823, ATCC BAA-548, CCUG 54625",1,"Victivallis vadensis",Victivallis
+159431,COR2-253-APC-1A,"DSM 107450",0,"Victivallis vadensis",Victivallis
+168402,"CC- CFT640","JCM 33507, BCRC 81219",1,"Vineibacter terrae",Vineibacter
+132833,MerV,"DSM 28994",0,"Virgibacillus ainsalahensis",Virgibacillus
+22931,J18,"DSM 26676, JCM 16994, KACC 14624",1,"Virgibacillus alimentarius",Virgibacillus
+1487,,"DSM 19574, JCM 14839, HAL Hal1, HAL 1",1,"Virgibacillus arcticus",Virgibacillus
+1491,ISL-24,"DSM 23507, CCUG 56754, KCTC 13259, ISL -24",1,"Virgibacillus byunsanensis",Virgibacillus
+1496,IDS-20,"DSM 25790, CCUG 59308, KCTC 13727",1,"Virgibacillus alimentarius",Virgibacillus
+1482,mccs2332,"DSM 14868, JCM 16508, LMG 20964, KCTC 3819, CIP 108266",1,"Virgibacillus carmonensis",Virgibacillus
+134251,NTU-101,"BCRC 17637, CGMCC 1.6496",1,"Virgibacillus chiguensis",Virgibacillus
+157160,,"CCUG 69891",1,"Virgibacillus dakarensis",Virgibacillus
+1484,DSW-10,"DSM 16826, CIP 109001, KCTC 3933",1,"Virgibacillus dokdonensis",Virgibacillus
+132443,S1-20,"DSM 29015, LMG 28381",1,"Virgibacillus flavescens",Virgibacillus
+1475,,"DSM 10037, ATCC 49067, JCM 12304, CGMCC 1.8915, IAM 14938, KCTC 3790, LMG 9818, NBRC 102361",1,"Virgibacillus halodenitrificans",Virgibacillus
+1483,5B73C,"DSM 21623, IAM 15308, JCM 21758, KCTC 13935, CIP 109671",1,"Virgibacillus halophilus",Virgibacillus
+136929,,"CIP 108069, YIM 70118",0,"Virgibacillus halophilus",Virgibacillus
+23745,"G 6065, WS 4627","DSM 25060, LMG 26644",1,"Virgibacillus halotolerans",Virgibacillus
+156928,,"CCUG 67108",0,"Virgibacillus halotolerans",Virgibacillus
+158739,P2-C2,"CGMCC 1.16138, NBRC 113014",1,"Virgibacillus indicus",Virgibacillus
+133313,NS3012,"KEMB 9001-125, JCM 16522, DSM 107337, NRIC 0768",1,"Virgibacillus jeotgali",Virgibacillus
+140872,KN3-8-4,"JCM 30071, LMG 28282, TISTR 2279, PCU 345",1,"Virgibacillus kapii",Virgibacillus
+1488,YIM-kkny16,"DSM 17056, CGMCC 1.6298, JCM 16510",1,"Virgibacillus kekensis",Virgibacillus
+164235,,"JCM 32284, KACC 19404",1,"Virgibacillus kimchii",Virgibacillus
+1495,,"DSM 21085, KCTC 13228, JSM 089168",1,"Virgibacillus litoralis",Virgibacillus
+1477,123,"DSM 12325, ATCC 700626, CECT 5066, CIP 105609",1,"Virgibacillus marismortui",Virgibacillus
+132494,Vm-5,"DSM 28587, CSUR P971",0,"Virgibacillus massiliensis",Virgibacillus
+130205,FarD,"DSM 25609, CCUG 62224",1,"Virgibacillus natechei",Virgibacillus
+157194,,"CSUR P3835, CCUG 70388",1,"Virgibacillus ndiopensis",Virgibacillus
+1481,mccs2660,"DSM 14866, JCM 16509, LMG 19488, KCTC 3820, CIP 108265",1,"Virgibacillus necropolis",Virgibacillus
+132191,MY11,"DSM 102958, CGMCC 1.12754, LMG 28105, MCCC 1A09973, JCM 19775",1,"Virgibacillus oceani",Virgibacillus
+1485,"E30 8, E<SUB>3</SUB><SUB>0</SUB> 8","DSM 18098, JCM 30551, LMG 23503, CECT 7163",1,"Virgibacillus olivae",Virgibacillus
+1474,"B 21, 3028","DSM 26, ATCC 14576, CCM 2049, LMG 7129, NCIB 8775, NCTC 8162, CCUG 7424, CIP 51.24, IAM 11061, CN 3028, NRS B21, JCM 20334, BCRC 14681, CCEB 635, CECT 42, NBRC 102447, NCAIM B.01092, NCFB 1765, NCIMB 8775, NRRL NRS-1321, OUT 8418, PCM 454, VKM B-1244, VKM B-507, NCDO 1765, NRRL: NRS-1321",1,"Virgibacillus pantothenticus",Virgibacillus
+1470,,"DSM 490, LMG 12366, NCTC 8122, CN 3019",0,"Virgibacillus pantothenticus",Virgibacillus
+1471,,"DSM 491, LMG 12367, NCTC 8124, CN 3023",0,"Virgibacillus pantothenticus",Virgibacillus
+1472,,"DSM 2235, LMG 12368, NCTC 8123, CN 3020",0,"Virgibacillus pantothenticus",Virgibacillus
+1473,,"DSM 2240, LMG 17367, CN 3026",0,"Virgibacillus pantothenticus",Virgibacillus
+164103,,"JCM 31625",0,"Virgibacillus pantothenticus",Virgibacillus
+164105,,"JCM 31627",0,"Virgibacillus pantothenticus",Virgibacillus
+136127,683-86,"CIP 102702",0,"Virgibacillus pantothenticus",Virgibacillus
+158787,LM2416,"KCTC 33927, JCM 32144",1,"Virgibacillus phasianinus",Virgibacillus
+159776,P3-H5,"CGMCC 1.16139, NBRC 113015",1,"Virgibacillus profundi",Virgibacillus
+1480,"BO413, F 2737/77, F2737/77, B0413","DSM 13055, LMG 12370, CIP 106304",1,"Virgibacillus proomii",Virgibacillus
+1478,,"DSM 2241, LMG 17368, CN 3027",0,"Virgibacillus proomii",Virgibacillus
+1479,,"DSM 2242, LMG 17369, CN 3043",0,"Virgibacillus proomii",Virgibacillus
+135038,,"CIP 108076, YIM KN16",1,"Virgibacillus qinghaiensis",Virgibacillus
+1486,"SA-Vb 1","DSM 18441, JCM 12946",1,"Virgibacillus salarius",Virgibacillus
+1476,C-20Mo,"DSM 11483, ATCC 700290, CCM 4646, JCM 30552, CCUG 52350, CIP 105608, KACC 10867, KACC 14582, KCTC 3704, KCTC 3844, LMG 21520",1,"Virgibacillus salexigens",Virgibacillus
+1490,"XH 22, XH-22, XH22","DSM 21756, CCM 7562, CECT 7439",1,"Virgibacillus salinus",Virgibacillus
+1489,,"DSM 19797, CCTCC AA 207023, KCTC 13193, YIM kkny3",1,"Virgibacillus sediminis",Virgibacillus
+161588,,"JCM 15395, PCU 312, TISTR 1957",1,"Virgibacillus siamensis",Virgibacillus
+1494,CC-YMP-6,"DSM 22952, CCM 7714, CCUG 58580, CIP 110293",1,"Virgibacillus soli",Virgibacillus
+139897,BH187,"DSM 16820",0,"Virgibacillus sp.",Virgibacillus
+159461,"SOKA - CSH10","DSM 23427",0,"Virgibacillus sp.",Virgibacillus
+139898,2-9-3,"DSM 18395",0,"Virgibacillus sp.",Virgibacillus
+159462,,"DSM 24521, YIM 93625",0,"Virgibacillus sp.",Virgibacillus
+152530,,"CCUG 47010",0,"Virgibacillus sp.",Virgibacillus
+154993,,"CCUG 56001",0,"Virgibacillus sp.",Virgibacillus
+160584,,"DSM 24808, KCTC 13797, NCCP 134",0,"Virgibacillus sp.",Virgibacillus
+160585,SK1-1-8,"DSM 24890",0,"Virgibacillus sp.",Virgibacillus
+158050,BH258,"DSM 19925",0,"Virgibacillus sp.",Virgibacillus
+160586,SKW19,"DSM 24891",0,"Virgibacillus sp.",Virgibacillus
+130204,,"DSM 21084, KCTC 13227, JSM 079157",0,"Virgibacillus zhanjiangensis",Virgibacillus
+158051,,"DSM 21082, JSM 078061",0,"Virgibacillus sp.",Virgibacillus
+160587,SK32,"DSM 24892",0,"Virgibacillus sp.",Virgibacillus
+160588,SK39,"DSM 24893",0,"Virgibacillus sp.",Virgibacillus
+160589,,"DSM 28951, JSM 103043",0,"Virgibacillus sp.",Virgibacillus
+160590,C4,"DSM 101802",0,"Virgibacillus sp.",Virgibacillus
+153008,,"CCUG 48257",0,"Virgibacillus sp.",Virgibacillus
+153496,,"CCUG 49754",0,"Virgibacillus sp.",Virgibacillus
+139895,,"DSM 15861, YIM KN3",0,"Virgibacillus sp.",Virgibacillus
+159459,CM-4,"DSM 21450",0,"Virgibacillus sp.",Virgibacillus
+139896,,"DSM 15864, YIM KN 16",0,"Virgibacillus sp.",Virgibacillus
+159460,K167,"DSM 23194",0,"Virgibacillus sp.",Virgibacillus
+1493,H57B72,"DSM 22441, CGMCC 1.7734",1,"Virgibacillus subterraneus",Virgibacillus
+1492,SL6-1,"DSM 19031, KCTC 13128, CIP 108067, YIM 70112",1,"Virgibacillus xinjiangensis",Virgibacillus
+136928,,"CIP 108068, YIM 70113",0,"Virgibacillus xinjiangensis",Virgibacillus
+167093,IR20-55,"NBRC 105644, KCTC 19809",1,"Virgisporangium aliadipatigenens",Virgisporangium
+8036,"Yu 438-5","DSM 44794, CCUG 46559, CIP 107212, IFO 16421, JCM 11002, KCTC 13916, NBRC 16421, BCRC 16331, CGMCC 4.5555",1,"Virgisporangium aurantiacum",Virgisporangium
+168802,MM04-1133,"VTCC 910008, NBRC 112733",1,"Virgisporangium myanmarense",Virgisporangium
+8035,Yu-655-43,"DSM 44793, CCUG 46558, CIP 107213, IFO 16418, JCM 11001, KCTC 13915, NBRC 16418, BCRC 16330, CGMCC 4.5561, ATCC BAA-484",1,"Virgisporangium ochraceum",Virgisporangium
+571,R-17170,"DSM 16319, LMG 22166",1,"Viridibacillus arenosi",Viridibacillus
+570,R-16993,"DSM 16317, LMG 22165",1,"Viridibacillus arvi",Viridibacillus
+139886,433-D9,"DSM 16704",0,"Viridibacillus arvi",Viridibacillus
+569,,"DSM 15031, JCM 11077, NRRL BD-87, CIP 107432",1,"Viridibacillus neidei",Viridibacillus
+162288,,"JCM 18715, KACC 16899",1,"Viridibacterium curvum",Viridibacterium
+158706,MYP2-2,"KCTC 62141, NBRC 113025",1,"Aequorivita todarodis",Aequorivita
+140283,MCy10943,"DSM 102952, NCCB 100600",1,"Vitiosangium cumulatum",Vitiosangium
+140282,MCy10944,"DSM 102953, NCCB 100601",1,"Vitiosangium subalbum",Vitiosangium
+168223,"SYSU XM001","CGMCC 1.16661, KCTC 62915",1,"Vitreimonas flagellata",Vitreimonas
+168261,"B23SS, no culture available","ATCC 43189",1,"Vitreoscilla beggiatoides",Vitreoscilla
+168171,L1401-2,"ATCC 43190",1,"Vitreoscilla filiformis",Vitreoscilla
+157748,,"DSM 100958, SN 4",1,"Vitreoscilla massiliensis",Vitreoscilla
+10506,,"DSM 513, ATCC 15218, SAG 1488-6",1,"Vitreoscilla stercoraria",Vitreoscilla
+130824,JC141,"DSM 100317, KCTC 32041, LMG 27066",1,"Vogesella alkaliphila",Vogesella
+131464,"BRCR 80887, Npb-02","DSM 100847, KCTC 42195, LMG 28419",1,"Vogesella amnigena",Vogesella
+170540,DC21W,"KCTC 92556, GDMCC 1.3220",1,"Vogesella aquatica",Vogesella
+140141,TTM-24,"DSM 105718, BCRC 80912, KCTC 42742, LMG 29003",1,"Vogesella facilis",Vogesella
+131263,Npb-07,"DSM 100851, BCRC 80377, KCTC 23713, LMG 26669",1,"Vogesella fluminis",Vogesella
+10507,"Ml, M1","DSM 3303, ATCC 19706, CIP 103306, IMET 10724, LMG 6867, NCIMB 9441",1,"Vogesella indigofera",Vogesella
+10509,GR13,"DSM 23218, BCRC 17836, LMG 24504",1,"Vogesella lacus",Vogesella
+170541,LYT5W,"KCTC 92549, GDMCC 1.3213",1,"Vogesella margarita",Vogesella
+10510,389,"DSM 21247, LMG 25302",1,"Vogesella mureinivorans",Vogesella
+131563,L3B39,"DSM 28780, LMG 28272",1,"Vogesella oryzae",Vogesella
+131564,L3D16,"DSM 28781",0,"Vogesella oryzae",Vogesella
+131565,L1E9,"DSM 28782",0,"Vogesella oryzae",Vogesella
+10508,DS-28,"DSM 22765, BCRC 17730, LMG 24214",1,"Vogesella perlucida",Vogesella
+167654,YM-1,"CGMCC 1.17135, NBRC 113779",1,"Vogesella urethralis",Vogesella
+11750,146/s8/89,"DSM 15535, CCUG 47537, CIP 108408",1,"Volucribacter amazonae",Volucribacter
+152749,,,0,"Volucribacter amazonae",Volucribacter
+11749,Gerl.236/81,"DSM 15534, CCUG 47536, Him 698-7/8, CIP 108407",1,"Volucribacter psittacicida",Volucribacter
+152748,,,0,"Volucribacter psittacicida",Volucribacter
+1402,BR,"DSM 14931, JCM 12998",1,"Vulcanibacillus modesticaldus",Vulcanibacillus
+168034,R-5-52-3,"KCTC 72061, CGMCC 1.16678",1,"Vulcaniibacterium gelatinicum",Vulcaniibacterium
+24686,,"DSM 25623, CCTCC AB 2011152, YIM 77520, JCM 17893",1,"Vulcaniibacterium tengchongense",Vulcaniibacterium
+24685,,"DSM 25896, CCTCC AB 2012064, KCTC 32020, YIM 77875",1,"Vulcaniibacterium thermophilum",Vulcaniibacterium
+17021,IC-017,"DSM 14429, JCM 11212, NBRC 100878",1,"Vulcanisaeta distributa",Vulcanisaeta
+161135,,"JCM 11214",0,"Vulcanisaeta distributa",Vulcanisaeta
+161136,,"JCM 11215, NBRC 100880",0,"Vulcanisaeta distributa",Vulcanisaeta
+161137,,"JCM 11216, NBRC 100881",0,"Vulcanisaeta distributa",Vulcanisaeta
+161138,,"JCM 11217, NBRC 100882",0,"Vulcanisaeta distributa",Vulcanisaeta
+161139,,"JCM 11218",0,"Vulcanisaeta distributa",Vulcanisaeta
+161483,,"JCM 14459",0,"Vulcanisaeta distributa",Vulcanisaeta
+161484,,"JCM 14460",0,"Vulcanisaeta distributa",Vulcanisaeta
+161485,,"JCM 14461",0,"Vulcanisaeta distributa",Vulcanisaeta
+161486,,"JCM 14462",0,"Vulcanisaeta distributa",Vulcanisaeta
+161487,,"JCM 14463",0,"Vulcanisaeta distributa",Vulcanisaeta
+161488,,"JCM 14464",0,"Vulcanisaeta distributa",Vulcanisaeta
+161489,,"JCM 14465",0,"Vulcanisaeta distributa",Vulcanisaeta
+161134,,"JCM 11213",0,"Vulcanisaeta distributa",Vulcanisaeta
+161482,,"JCM 14458",0,"Vulcanisaeta distributa",Vulcanisaeta
+17022,IC-059,"DSM 14430, JCM 11219, NBRC 100879",1,"Vulcanisaeta souniana",Vulcanisaeta
+161490,,"JCM 14466",0,"Vulcanisaeta souniana",Vulcanisaeta
+161491,,"JCM 14467",0,"Vulcanisaeta sp.",Vulcanisaeta
+161735,,"JCM 16159",0,"Vulcanisaeta sp.",Vulcanisaeta
+161736,,"JCM 16161",0,"Actinomadura glauciflava",Actinomadura
+161984,,"JCM 17228, ATCC BAA-2415",1,"Vulcanisaeta thermophila",Vulcanisaeta
+16734,TR,"DSM 14978, JCM 11956, VKM B-2292",1,"Vulcanithermus mediatlanticus",Vulcanithermus
+130837,B00001,"DSM 27710, NBRC 109945",1,"Vulgatibacter incomptus",Vulgatibacter

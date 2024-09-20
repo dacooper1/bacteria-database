@@ -1,0 +1,2535 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+136689,90A,"CIP 107749, CCUG 51326",0,"Rhizobium massiliense",Rhizobium
+159621,W35,"DSM 106757, NBRC 111963",1,"Rubrivivax pictus",Rubrivivax
+166171,KYPY4,"BCRC 81010, KCTC 52441",1,"Rubrivivax rivuli",Rubrivivax
+157161,,"CCUG 69892",1,"Robertmurraya dakarensis",Robertmurraya
+133457,ZLC-26,"CCTCC AB 207172, NRRL B-51302",1,"Robertmurraya korlensis",Robertmurraya
+156836,,"CCUG 65980",0,"Robertmurraya korlensis",Robertmurraya
+157037,,"CCUG 69026",0,"Robertmurraya korlensis",Robertmurraya
+154716,,"CCUG 54922",0,"Rummeliibacillus pycnus",Rummeliibacillus
+153259,,"CCUG 48951",0,"Robertmurraya siralis",Robertmurraya
+156726,,"CCUG 64538",0,"Robertmurraya siralis",Robertmurraya
+153859,,"CCUG 51395",0,"Robertmurraya siralis",Robertmurraya
+152292,,"CCUG 46358",0,"Robertmurraya siralis",Robertmurraya
+164475,XXST-01,"JCM 33181, MCCC 1A14143",1,"Robertmurraya yapensis",Robertmurraya
+13606,3C231,"DSM 30140, ATCC 10319, JCM 20681, IAM 12610, NBRC 100381, VKM B-1965",0,"Rhizobium lupini",Rhizobium
+23844,15C,"DSM 27522",1,"Rhabdochlamydia porcellionis",Rhabdochlamydia
+100557,"ST033496(HKI), GT20051121",,0,"Ruminiclostridium papyrosolvens",Ruminiclostridium
+100558,"ST033497(HKI), GT20051122","HKI 0511",0,"Ruminiclostridium papyrosolvens",Ruminiclostridium
+10845,,"DSM 43950, ATCC 25694, ATCC 25734, IMET 7466, NCTC 4219",0,"Rhodococcus hoagii",Rhodococcus
+10846,VII,"DSM 44426",0,"Rhodococcus hoagii",Rhodococcus
+10847,"Gdf C58, Gdf R76, Gordon N4219, R76","DSM 46064, IMET 7468, Tsukamura PO11",0,"Rhodococcus hoagii",Rhodococcus
+10848,,"DSM 46101, IAM 12443, IMET 7755, JCM 1315, AJ 1378, CNF 001",0,"Rhodococcus hoagii",Rhodococcus
+10841,,"DSM 1990, SC 372-837",0,"Rhodococcus hoagii",Rhodococcus
+157816,"PAM1126, 103S","DSM 104936",0,"Rhodococcus hoagii",Rhodococcus
+10843,C7,"DSM 20307, ATCC 25729, ATCC 6939, CCUG 892, CIP 54.72, DSM 43349, HAMBI 2061, JCM 1311, JCM 3209, LMG 18452, NBRC 101255, NBRC 14956, NCTC 1621, NRRL B-16538, VKM Ac-953, WDCM 00028, ACM 4987, BCRC 12859, CCM 3429, CCUG 20987, CCUG 23606, CECT 555, CGMCC 4.1824, IAM 12426, IFM 0162, IFO 14956, IMET 7467, IMSNU 22213, KACC 20051, KCTC 9082, LMG 5358, NBIMCC 1230, NCAIM B.02034, NCIMB 12828, PCM 559",0,"Rhodococcus equi",Rhodococcus
+140197,,"DSM 101275, CCY 0369",0,"Raphidiopsis sp.",Raphidiopsis
+3248,"20B, URRIELLA NHT 117","DSM 23381, CSUR P99, DSM 233381",1,"Rickettsiella massiliensis",Rickettsiella
+134177,UST030701-097,"NRRL B-41220, JCM 13334, CIP 109252, DSM 113472",1,"Roseivirga halotolerans",Roseivirga
+141117,A4,"KCTC 42507, CGMCC 1.15111",1,"Roseivirga thermotolerans",Roseivirga
+10571,N935,"DSM 43979, ATCC 33610, JCM 6048, CIP 104182",0,"Rhodococcus obuensis",Rhodococcus
+10572,E6324,"DSM 44019, ATCC 33609, JCM 6047, CIP 104183, NCIMB 13125, NRRL B-16936",0,"Rhodococcus chubuensis",Rhodococcus
+3031,KIN192,"DSM 25082, CCUG 53117, CECT 7319",1,"Roseateles asaccharophilus",Roseateles
+160293,DAIF2,"DSM 112015",0,"Roseateles sp.",Roseateles
+156315,,"CCUG 61128",0,"Roseibium aggregatum",Roseibium
+164010,,"JCM 31309, KCTC 42849",1,"Roseibium callyspongiae",Roseibium
+164030,,"JCM 31348",0,"Roseibium sp.",Roseibium
+131442,GT-12,"DSM 23456",0,"Roseibium sp.",Roseibium
+1534,,"DSM 7260, NRRL NRS-1691",0,"Rummeliibacillus pycnus",Rummeliibacillus
+100901,STI07753(IMET),"JCM 6048, IMET 7753",0,"Rhodococcus obuensis",Rhodococcus
+166379,HWN-4,"LMG 28685, KTCC 42483",1,"Roseateles chitinivorans",Roseateles
+134139,3001,"IAM 14711, ATCC BAA-476, JCM 21276, NBRC 102408, CIP 108954",1,"Roseateles chitosanitabidus",Roseateles
+158764,HZ7,"JCM 31671, CCTCC AB 2014353",1,"Roseateles noduli",Roseateles
+140540,CHU3,"KCTC 42519, CICC 24092, DSM 109232",1,"Roseateles oligotrophus",Roseateles
+17932,2C20,"DSM 16998, HAMBI 2767, KCTC 42569, VYH 193597",1,"Roseateles toxinivorans",Roseateles
+166109,YLY04,"MCCC 1H00334, KCTC 62452",1,"Roseovarius dicentrarchi",Roseovarius
+134272,,"CECT 7234, CCUG 52769",1,"Roseateles puraquae",Roseateles
+154215,,"CCUG 52770",0,"Roseateles puraquae",Roseateles
+154216,,"CCUG 52771",0,"Roseateles puraquae",Roseateles
+155896,,"CCUG 59591",0,"Roseateles puraquae",Roseateles
+2981,,"DSM 654, ATCC 15946, CFBP 2433, CIP 59.18, HAMBI 373, IAM 14368, JCM 15912, LMG 2256, NCCB 46053, VKM B-902, CCUG 32988, BUCSAV 293, CCM 1980, CCUG 15839, IAM 1504, JCM 21181, LMG 7831, NBRC 103037, NCDO 1936, NCIMB 8570, NRRL B-1492, JCM 13309",1,"Roseateles saccharophilus",Roseateles
+154179,,"CCUG 52671",0,"Roseateles saccharophilus",Roseateles
+154186,,"CCUG 52681 A",0,"Roseateles saccharophilus",Roseateles
+141299,,"CCUG 778",0,"Roseateles saccharophilus",Roseateles
+150679,,"CCUG 41950 A",0,"Roseateles saccharophilus",Roseateles
+155650,,"CCUG 58645",0,"Roseateles saccharophilus",Roseateles
+154148,,"CCUG 52554 B",0,"Roseateles saccharophilus",Roseateles
+154164,,"CCUG 52623",0,"Roseateles saccharophilus",Roseateles
+154176,,"CCUG 52667",0,"Roseateles saccharophilus",Roseateles
+154177,,"CCUG 52669",0,"Roseateles saccharophilus",Roseateles
+155456,,"CCUG 57806",0,"Roseateles sp.",Roseateles
+156214,,"CCUG 60741",0,"Roseateles sp.",Roseateles
+132312,Root405,"DSM 102492",0,"Roseateles sp.",Roseateles
+132313,Stev42,"DSM 103055",0,"Roseateles sp.",Roseateles
+132551,,"DSM 100773, NCCB 100574, MSR MSr9521, MSR 9521",1,"Racemicystis crocea",Racemicystis
+133077,37,"DSM 103165, NCCB 100606, MSR MSr11462, MSR 11462",1,"Racemicystis persica",Racemicystis
+164588,,"JCM 33497, CICC 24779",1,"Radiobacillus deserti",Radiobacillus
+166374,SAP-19,"KACC 21744, NBRC 114407",1,"Rahnella aceris",Rahnella
+5093,133,"DSM 4594, ATCC 33071, CIP 78.65, CUETM 75.115, NRLL B-24920, CCUG 14185, CIP 78-65, JCM 1683, BCRC 14814, CUETM 77-115, LMG 2794, LMG 7880, NBRC 105701, NCIMB 13365, CUETM 75-115",1,"Rahnella aquatilis",Rahnella
+154261,,"CCUG 52909",0,"Rahnella aquatilis",Rahnella
+138396,"C610, O115","CIP 107083, NCPPB 3128, DSM 7187",0,"Rahnella aquatilis",Rahnella
+150783,,"CCUG 42311",0,"Rahnella aquatilis",Rahnella
+152922,,"CCUG 48020",0,"Rahnella aquatilis",Rahnella
+171071,4301-95,"CIP 105589",0,"Rahnella aquatilis",Rahnella
+5094,0115,"DSM 14986, CCUG 41878",0,"Rahnella aquatilis",Rahnella
+152923,,"CCUG 48021",0,"Rahnella aquatilis",Rahnella
+23939,"WS 10126","DSM 30076",0,"Rahnella aquatilis",Rahnella
+152924,,"CCUG 48022",0,"Rahnella aquatilis",Rahnella
+145924,,"CCUG 29918 B",0,"Rahnella aquatilis",Rahnella
+152925,,"CCUG 48023",0,"Rahnella aquatilis",Rahnella
+137662,,"CIP 103904",0,"Rahnella aquatilis",Rahnella
+145993,,"CCUG 30106, CCM 4086",0,"Rahnella aquatilis",Rahnella
+141685,,"CCUG 4757",0,"Rahnella aquatilis",Rahnella
+143779,,"CCUG 21214",0,"Rahnella aquatilis",Rahnella
+168288,H11b,"DSM 112610, LMG 32256",1,"Rahnella bonaserana",Rahnella
+132221,A3P9,"DSM 27398, CIP 111495, LMG 27718, FRB 226",1,"Rahnella bruchi",Rahnella
+167184,Lac-M11,"KACC 21743, NBRC 114406",1,"Rahnella contaminans",Rahnella
+168272,"FRB 231","LMG 32255, DSM 112612",1,"Rahnella ecdela",Rahnella
+5095,"WS 21410","DSM 30078, CIP 110143, LMG 2640, WS 21410",1,"Rahnella inusitata",Rahnella
+167207,SAP-17,"KCTC 72960, NBRC 114723, CCM 9079, DSM 114429",1,"Rahnella laticis",Rahnella
+168273,FC061912-K,"DSM 112611, LMG 32259",1,"Rahnella rivi",Rahnella
+132594,Leaf51,"DSM 102721",0,"Rahnella sp.",Rahnella
+162098,,"JCM 17749",0,"Rahnella sp.",Rahnella
+143778,,"CCUG 21213",0,"Rahnella sp.",Rahnella
+139619,,"CIP 105588, LMG 27711",1,"Rahnella variigena",Rahnella
+158185,O238,"DSM 108139",0,"Rahnella variigena",Rahnella
+132220,WW3,"DSM 27397, CIP 111496, LMG 27717, FRB 225",1,"Rahnella victoriana",Rahnella
+132222,ALN24,"DSM 27399, CIP 111497, LMG 27719, FRB 227",1,"Rahnella woolbedingensis",Rahnella
+158700,SPSPC-11,"CECT 9012, LMG 29233",1,"Raineya orbicola",Raineya
+133021,LZ-22,"DSM 100494, ATCC TSD-18, JCM 30886",1,"Raineyella antarctica",Raineyella
+159696,CBA3103,"DSM 110288, KACC 21446",1,"Raineyella fluvialis",Raineyella
+2089,,"DSM 17714, CCM 7174, CCUG 46789, CIP 108091, LMG 21421",1,"Ralstonia insidiosa",Ralstonia
+149956,,"CCUG 38754, LMG 18101",0,"Ralstonia insidiosa",Ralstonia
+152251,,"CCUG 46212",0,"Ralstonia insidiosa",Ralstonia
+135388,,"CIP 104062, ATCC 49129",0,"Ralstonia insidiosa",Ralstonia
+150903,,"CCUG 42677",0,"Ralstonia insidiosa",Ralstonia
+152252,,"CCUG 46213",0,"Ralstonia insidiosa",Ralstonia
+155484,,"CCUG 57845",0,"Ralstonia insidiosa",Ralstonia
+154008,,"CCUG 51942",0,"Ralstonia insidiosa",Ralstonia
+154791,,"CCUG 55194",0,"Ralstonia insidiosa",Ralstonia
+152304,,"CCUG 46387",0,"Ralstonia insidiosa",Ralstonia
+152305,,"CCUG 46388",0,"Ralstonia insidiosa",Ralstonia
+154110,,"CCUG 52392",0,"Ralstonia insidiosa",Ralstonia
+150082,,"CCUG 38964",0,"Ralstonia insidiosa",Ralstonia
+152306,,"CCUG 46389",0,"Ralstonia insidiosa",Ralstonia
+155994,,"CCUG 59950",0,"Ralstonia insidiosa",Ralstonia
+152607,,"CCUG 47187",0,"Ralstonia insidiosa",Ralstonia
+152703,,"CCUG 47416",0,"Ralstonia insidiosa",Ralstonia
+152706,,"CCUG 47426",0,"Ralstonia insidiosa",Ralstonia
+2088,,"DSM 17512, LMG 6866, JCM 11284, ATCC BAA-716, CCUG 38408, CCUG 45027, CIP 107281, NCIMB 10805",1,"Ralstonia mannitolilytica",Ralstonia
+155210,,"CCUG 56927",0,"Ralstonia mannitolilytica",Ralstonia
+155265,,"CCUG 57139",0,"Ralstonia mannitolilytica",Ralstonia
+149952,,"CCUG 38747, LMG 18110",0,"Ralstonia mannitolilytica",Ralstonia
+141488,,"CCUG 2343, NCTC 10893",0,"Ralstonia mannitolilytica",Ralstonia
+145529,,"CCUG 28769, LMG 16236",0,"Ralstonia mannitolilytica",Ralstonia
+155307,,"CCUG 57273",0,"Ralstonia mannitolilytica",Ralstonia
+149955,,"CCUG 38751, LMG 18098",0,"Ralstonia mannitolilytica",Ralstonia
+149957,,"CCUG 38755, LMG 18102",0,"Ralstonia mannitolilytica",Ralstonia
+149958,,"CCUG 38756, LMG 18103",0,"Ralstonia mannitolilytica",Ralstonia
+149959,,"CCUG 38757, CEP 0115, LMG 18104",0,"Ralstonia mannitolilytica",Ralstonia
+149960,,"CCUG 38758, CEP 0478, LMG 18105",0,"Ralstonia mannitolilytica",Ralstonia
+152896,,"CCUG 47934",0,"Ralstonia mannitolilytica",Ralstonia
+146859,,"CCUG 32284",0,"Ralstonia mannitolilytica",Ralstonia
+149966,,"CCUG 38765, NCTC 10895, LMG 18097",0,"Ralstonia mannitolilytica",Ralstonia
+143960,,"CCUG 22079, LMG 8322",0,"Ralstonia mannitolilytica",Ralstonia
+149380,,"CCUG 37615",0,"Ralstonia mannitolilytica",Ralstonia
+144044,,"CCUG 22525",0,"Ralstonia mannitolilytica",Ralstonia
+153231,,"CCUG 48819",0,"Ralstonia mannitolilytica",Ralstonia
+2085,"K-288, K 288","DSM 6297, ATCC 27511, CIP 73.23, JCM 5969, NCTC 11149, CCUG 3318, LMG 5942, BCRC 14820, CECT 330, CGMCC 1.1807, IAM 13530, ICPB 3981, NBRC 102503, NCIMB 13142, VTT E-981068",1,"Ralstonia pickettii",Ralstonia
+150574,,"CCUG 41639",0,"Ralstonia pickettii",Ralstonia
+156558,,"CCUG 62660",0,"Ralstonia pickettii",Ralstonia
+141404,,"CCUG 1467",0,"Ralstonia pickettii",Ralstonia
+152062,,"CCUG 45668",0,"Ralstonia pickettii",Ralstonia
+149792,,"CCUG 38409, LMG 7140",0,"Ralstonia pickettii",Ralstonia
+141427,,"CCUG 1742",0,"Ralstonia pickettii",Ralstonia
+142020,,"CCUG 9984",0,"Ralstonia pickettii",Ralstonia
+147997,,"CCUG 34642",0,"Ralstonia pickettii",Ralstonia
+142063,,"CCUG 10219",0,"Ralstonia pickettii",Ralstonia
+141479,,"CCUG 2165, LMG 7008",0,"Ralstonia pickettii",Ralstonia
+143304,,"CCUG 18336",0,"Ralstonia pickettii",Ralstonia
+142314,,"CCUG 11629, LMG 7011",0,"Ralstonia pickettii",Ralstonia
+145460,,"CCUG 28597",0,"Ralstonia pickettii",Ralstonia
+150782,,"CCUG 42308 B",0,"Ralstonia pickettii",Ralstonia
+142399,,"CCUG 12327",0,"Ralstonia pickettii",Ralstonia
+156734,,"CCUG 64635",0,"Ralstonia pickettii",Ralstonia
+149953,,"CCUG 38749, LMG 18088",0,"Ralstonia pickettii",Ralstonia
+142411,,"CCUG 12413",0,"Ralstonia pickettii",Ralstonia
+143390,,"CCUG 18841, CCM 2846, LMG 6871",0,"Ralstonia pickettii",Ralstonia
+142433,,"CCUG 12490",0,"Ralstonia pickettii",Ralstonia
+142872,,"CCUG 15448",0,"Ralstonia pickettii",Ralstonia
+134624,Jammet,"CIP 74.22, LMG 7160",0,"Ralstonia pickettii",Ralstonia
+142889,,"CCUG 15607",0,"Ralstonia pickettii",Ralstonia
+143031,,"CCUG 16426",0,"Ralstonia pickettii",Ralstonia
+134834,"K 300","CIP 73.24, LMG 7159, CCUG 38410",0,"Ralstonia pickettii",Ralstonia
+150487,,"CCUG 41417",0,"Ralstonia pickettii",Ralstonia
+141942,,"CCUG 8527",0,"Ralstonia pickettii",Ralstonia
+143155,,"CCUG 17515",0,"Ralstonia pickettii",Ralstonia
+134906,,"CIP 102737",0,"Ralstonia pickettii",Ralstonia
+136115,605-86,"CIP 102614",0,"Ralstonia pickettii",Ralstonia
+149965,,"CCUG 38764, LMG 18096",0,"Ralstonia pickettii",Ralstonia
+142688,,"CCUG 13925",0,"Ralstonia pickettii",Ralstonia
+141585,,"CCUG 3324",0,"Ralstonia pickettii",Ralstonia
+141588,,"CCUG 3339",0,"Ralstonia pickettii",Ralstonia
+151359,,"CCUG 43847",0,"Ralstonia pickettii",Ralstonia
+145004,,"CCUG 27371",0,"Ralstonia pickettii",Ralstonia
+142866,,"CCUG 15418",0,"Ralstonia pickettii",Ralstonia
+142871,,"CCUG 15447",0,"Ralstonia pickettii",Ralstonia
+138027,524.86,"CIP 102543",0,"Ralstonia pickettii",Ralstonia
+146323,,"CCUG 30895",0,"Ralstonia pickettii",Ralstonia
+153704,,"CCUG 50693",0,"Ralstonia pickettii",Ralstonia
+138706,,"CIP 102242",0,"Ralstonia pickettii",Ralstonia
+142434,,"CCUG 12491, LMG 7014",0,"Ralstonia pickettii",Ralstonia
+145693,,"CCUG 29272",0,"Ralstonia pickettii",Ralstonia
+155402,,"CCUG 57614",0,"Ralstonia pickettii",Ralstonia
+142435,,"CCUG 12492, LMG 7015",0,"Ralstonia pickettii",Ralstonia
+143662,,"CCUG 20865",0,"Ralstonia pickettii",Ralstonia
+138749,752.86,"CIP 102735",0,"Ralstonia pickettii",Ralstonia
+142436,,"CCUG 12493",0,"Ralstonia pickettii",Ralstonia
+142437,,"CCUG 12494",0,"Ralstonia pickettii",Ralstonia
+142492,,"CCUG 12664 B",0,"Ralstonia pickettii",Ralstonia
+149961,,"CCUG 38760, LMG 18092",0,"Ralstonia pickettii",Ralstonia
+141579,,"CCUG 3314",0,"Ralstonia pickettii",Ralstonia
+143695,,"CCUG 21039",0,"Ralstonia pickettii",Ralstonia
+149962,,"CCUG 38761, LMG 18093",0,"Ralstonia pickettii",Ralstonia
+141580,,"CCUG 3316",0,"Ralstonia pickettii",Ralstonia
+149963,,"CCUG 38762, LMG 18094",0,"Ralstonia pickettii",Ralstonia
+141581,,"CCUG 3317, LMG 7003",0,"Ralstonia pickettii",Ralstonia
+142612,,"CCUG 13311",0,"Ralstonia pickettii",Ralstonia
+149008,,"CCUG 36717",0,"Ralstonia pickettii",Ralstonia
+149964,,"CCUG 38763, LMG 18095",0,"Ralstonia pickettii",Ralstonia
+141582,,"CCUG 3319, LMG 7004",0,"Ralstonia pickettii",Ralstonia
+167662,"UQRS 461","LMG 9673, NCPPB 1029, NCPPB 10229",1,"Ralstonia pseudosolanacearum",Ralstonia
+2083,"60-1, K60","DSM 9544, ATCC 11696, ICMP 5712, ICPB PS 256, LMG 2299, NCPPB 325, CCUG 14272, JCM 10489, LMG 17137, UQRS 426, CIP 104762, NRRL B-3212",1,"Ralstonia solanacearum",Ralstonia
+157441,,"IMI 376391",0,"Ralstonia solanacearum",Ralstonia
+157442,,"IMI 376392",0,"Ralstonia solanacearum",Ralstonia
+157443,,"IMI 378158",0,"Ralstonia solanacearum",Ralstonia
+157488,,"IMI 347547",0,"Ralstonia solanacearum",Ralstonia
+157489,,"IMI 347614",0,"Ralstonia solanacearum",Ralstonia
+157490,,"IMI 370182",0,"Ralstonia solanacearum",Ralstonia
+157491,,"IMI 370183",0,"Ralstonia solanacearum",Ralstonia
+157492,,"IMI 370184",0,"Ralstonia solanacearum",Ralstonia
+157493,,"IMI 377847",0,"Ralstonia solanacearum",Ralstonia
+157494,,"IMI 389097",0,"Ralstonia solanacearum",Ralstonia
+2082,"B 1728, F74","DSM 1993, NCPPB 1485",0,"Ralstonia solanacearum",Ralstonia
+157495,,"IMI 389098",0,"Ralstonia solanacearum",Ralstonia
+157496,,"IMI 389099",0,"Ralstonia solanacearum",Ralstonia
+2084,,"DSM 50905, ATCC 15369, ICPB PS 138",0,"Ralstonia solanacearum",Ralstonia
+157497,,"IMI 389100",0,"Ralstonia solanacearum",Ralstonia
+141481,,"CCUG 2176, ATCC 10692",0,"Ralstonia solanacearum",Ralstonia
+157498,,"IMI 346333",0,"Ralstonia solanacearum",Ralstonia
+157499,,"IMI 347541",0,"Ralstonia solanacearum",Ralstonia
+157500,,"IMI 347545",0,"Ralstonia solanacearum",Ralstonia
+157501,,"IMI 347834",0,"Ralstonia solanacearum",Ralstonia
+157502,,"IMI 347623",0,"Ralstonia solanacearum",Ralstonia
+157503,,"IMI 346334",0,"Ralstonia solanacearum",Ralstonia
+157504,,"IMI 347651",0,"Ralstonia solanacearum",Ralstonia
+131004,IVIA-1602.1,"DSM 100387",0,"Ralstonia solanacearum",Ralstonia
+157505,,"IMI 347656",0,"Ralstonia solanacearum",Ralstonia
+157506,,"IMI 347587",0,"Ralstonia solanacearum",Ralstonia
+157507,,"IMI 347590",0,"Ralstonia solanacearum",Ralstonia
+142729,,"CCUG 14273, NCPPB 253, LMG 2297",0,"Ralstonia solanacearum",Ralstonia
+157508,,"IMI 347661",0,"Ralstonia solanacearum",Ralstonia
+142730,,"CCUG 14274, NCPPB 339, LMG 2300",0,"Ralstonia solanacearum",Ralstonia
+157509,,"IMI 347662",0,"Ralstonia solanacearum",Ralstonia
+142731,,"CCUG 14275, NCPPB 446, LMG 2301",0,"Ralstonia solanacearum",Ralstonia
+157985,PBA,"DSM 106616",0,"Ralstonia sp.",Ralstonia
+160886,,"JCM 10171",0,"Ralstonia sp.",Ralstonia
+141998,,"CCUG 9674, LMG 5123",0,"Ralstonia sp.",Ralstonia
+130233,H1,"DSM 23642",0,"Ralstonia sp.",Ralstonia
+141999,,"CCUG 9675",0,"Ralstonia sp.",Ralstonia
+149949,,"CCUG 38743, LMG 18090",0,"Ralstonia sp.",Ralstonia
+149950,,"CCUG 38744, LMG 18091",0,"Ralstonia sp.",Ralstonia
+2087,EDS1,"DSM 13640",0,"Ralstonia sp.",Ralstonia
+143700,,"CCUG 21064",0,"Ralstonia sp.",Ralstonia
+155556,,"CCUG 58139",0,"Ralstonia sp.",Ralstonia
+164135,,"JCM 31837",0,"Ralstonia sp.",Ralstonia
+141583,,"CCUG 3321, LMG 7056",0,"Ralstonia sp.",Ralstonia
+155614,,"CCUG 58376",0,"Ralstonia sp.",Ralstonia
+141584,,"CCUG 3323, LMG 7018",0,"Ralstonia sp.",Ralstonia
+142788,,"CCUG 14812",0,"Ralstonia sp.",Ralstonia
+156030,,"CCUG 60126",0,"Ralstonia sp.",Ralstonia
+143961,,"CCUG 22082, LMG 8323",0,"Ralstonia sp.",Ralstonia
+2086,R001,"CCUG 32781, CIP 108366, DSM 7385, ATCC 49543, LMG 10661, NCPPB 3446",1,"Ralstonia syzygii",Ralstonia
+130238,"R-46908, Cleenwerck R-46908, Subandiyah 17","DSM 27477, UQRS 627, LMG 27706, CFBP 8346",1,"Ralstonia syzygii subsp. celebesensis",Ralstonia
+130237,R-46909,"DSM 27481, LMG 27707, UQRS 637",0,"Ralstonia syzygii subsp. celebesensis",Ralstonia
+130234,"R-46900, T18, RUN83","DSM 27478, LMG 27703, PSI 07, UQRS 464, CFBP 7288",1,"Ralstonia syzygii subsp. indonesiensis",Ralstonia
+130235,"R-46902, R221","DSM 27479, LMG 27704, UQRS 533",0,"Ralstonia syzygii subsp. indonesiensis",Ralstonia
+130236,R-46904,"DSM 27480, LMG 27705, UQRS 549",0,"Ralstonia syzygii subsp. indonesiensis",Ralstonia
+170518,56D2,"JCM 35178, CCTCC AB 2021466, GDMCC 1.2886",1,"Ralstonia wenshanensis",Ralstonia
+169994,G-1-2-2,"KACC 21616, NBRC 114389",1,"Ramlibacter agri",Ramlibacter
+170523,GTP1,"KACC 21702, NBRC 114488",1,"Ramlibacter albus",Ramlibacter
+168023,CrO1,"JCM 33302, KACC 19926",1,"Ramlibacter algicola",Ramlibacter
+141112,CJ661,"KACC 19305, JCM 32081",1,"Ramlibacter alkalitolerans",Ramlibacter
+159427,,"DSM 110366, LMG 30558",1,"Ramlibacter aquaticus",Ramlibacter
+170524,AW1,"NBRC 114862, KACC 21544",1,"Ramlibacter aurantiacus",Ramlibacter
+170525,USB13,"NBRC 114839, KACC 21656",1,"Ramlibacter cellulosilyticus",Ramlibacter
+23870,BXN5-27,"DSM 23480, DSM 21137, KCTC 22276, LMG 24525",1,"Ramlibacter ginsenosidimutans",Ramlibacter
+2988,TMB834,"DSM 14656, ATCC BAA-408, LMG 21542, CIP 108694",1,"Ramlibacter henchirensis",Ramlibacter
+166265,18x22-1,"GDMCC 1.1584, KCTC 52922",1,"Ramlibacter humi",Ramlibacter
+170921,RBP-1,,1,"Ramlibacter lithotrophicus",Ramlibacter
+169993,"B 156","KACC 21665, JCM 33920",1,"Ramlibacter montanisoli",Ramlibacter
+141113,G-3-2,"KEMB 9005-573, KACC 19175, JCM 31918",1,"Ramlibacter monticola",Ramlibacter
+170526,XY19,"KACC 22220, LMG 32190",1,"Ramlibacter paludis",Ramlibacter
+167250,MAH-25,"CGMCC1.13660, KACC 19839",1,"Ramlibacter pinisoli",Ramlibacter
+141048,THG-YS3.2.7,"KCTC 52083, CCTCC AB 2015357",1,"Ramlibacter rhizophilus",Ramlibacter
+131279,5-10,"DSM 29042, JCM 19319, KACC 17567, LMG 30470",1,"Ramlibacter solisilvae",Ramlibacter
+2987,TTB310,"DSM 14655, CIP 108695, ATCC BAA-407, LMG 21543",1,"Ramlibacter tataouinensis",Ramlibacter
+166797,H242,"KACC 21667, JCM 33922",1,"Ramlibacter terrae",Ramlibacter
+132164,1GB,"DSM 102253, KCTC 32430, NBRC 109676",1,"Klebsiella electrica",Klebsiella
+5102,,"DSM 7464, CCM 4873, JCM 6096, NIH 90-72, ATCC 31898, CCUG 26769, CIP 103364, CIP 103576, NBRC 105727, CCUG 26625",1,"Klebsiella ornithinolytica",Klebsiella
+155042,,"CCUG 56221",0,"Klebsiella ornithinolytica",Klebsiella
+154225,,"CCUG 52805",0,"Klebsiella ornithinolytica",Klebsiella
+154513,,"CCUG 53980",0,"Klebsiella ornithinolytica",Klebsiella
+138818,,"CIP 53.20, BR 35",0,"Klebsiella ornithinolytica",Klebsiella
+136222,"LRA 061 11 91","CIP 103576, ATCC 31898",0,"Klebsiella ornithinolytica",Klebsiella
+139187,,"CIP 53.7, BR 22",0,"Klebsiella ornithinolytica",Klebsiella
+141747,,"CCUG 6005",0,"Klebsiella ornithinolytica",Klebsiella
+165549,,"JCM 7522",0,"Klebsiella ornithinolytica",Klebsiella
+165550,,"JCM 7523",0,"Klebsiella ornithinolytica",Klebsiella
+5097,"CRCC 13986, V-236, 4245-72","CCUG 15718, DSM 3069, ATCC 33531, CDC 4245-72, IAM 14202, IFO 14939, JCM 7251, NBRC 14939, BCRC 13986, CECT 843, CIP 100751, NCIMB 11885, NCTC 12998, VTT E-981077, CRBIP28.102",1,"Klebsiella planticola",Klebsiella
+138244,P11,"CIP 105788",0,"Klebsiella planticola",Klebsiella
+138245,P33,"CIP 105789",0,"Klebsiella planticola",Klebsiella
+156560,,"CCUG 62696 Q",0,"Klebsiella planticola",Klebsiella
+143675,,"CCUG 20939",0,"Klebsiella planticola",Klebsiella
+154664,,"CCUG 54768, NCTC 9528",0,"Klebsiella planticola",Klebsiella
+162725,,"JCM 20069, ATCC 8329, CDC 1758-51, IAM 1133, IFO 3317, NBRC 3317, NCIMB 8153",0,"Klebsiella planticola",Klebsiella
+143748,,"CCUG 21173",0,"Klebsiella planticola",Klebsiella
+5096,78-120,"DSM 2688, ATCC 33558, CIP 81.36, CCUG 15719, CUETM 78-120",0,"Klebsiella planticola",Klebsiella
+143749,,"CCUG 21174",0,"Klebsiella planticola",Klebsiella
+143750,,"CCUG 21175",0,"Klebsiella planticola",Klebsiella
+5098,,"DSM 4617, ATCC 15050",0,"Klebsiella planticola",Klebsiella
+143751,,"CCUG 21176",0,"Klebsiella planticola",Klebsiella
+139235,,"CIP 53.10, BR 25",0,"Klebsiella planticola",Klebsiella
+143772,,"CCUG 21207",0,"Klebsiella planticola",Klebsiella
+143773,,"CCUG 21208",0,"Klebsiella planticola",Klebsiella
+5099,"84, L84","DSM 2687, ATCC 33257, CIP 80.07, CCUG 12372 Bb, CIP 80-07, JCM 1687, CUETM 77.176, BCRC 14805, CCUG 12372, CECT 4519, CIP 80.7, CUETM 77-176, IFO 14941, LMG 3222, NBRC 14941, NCTC 13038, NCIMB 12053",1,"Klebsiella terrigena",Klebsiella
+147343,,"CCUG 33400 A",0,"Klebsiella terrigena",Klebsiella
+152415,,"CCUG 46739",0,"Klebsiella terrigena",Klebsiella
+147344,,"CCUG 33401 A",0,"Klebsiella terrigena",Klebsiella
+154410,,"CCUG 53452",0,"Klebsiella terrigena",Klebsiella
+148291,,"CCUG 35167",0,"Klebsiella terrigena",Klebsiella
+143677,,"CCUG 20941",0,"Klebsiella terrigena",Klebsiella
+143678,,"CCUG 20942",0,"Klebsiella terrigena",Klebsiella
+23930,"WS 10199","DSM 30103",0,"Klebsiella terrigena",Klebsiella
+145955,,"CCUG 29957",0,"Klebsiella terrigena",Klebsiella
+5100,T56,"DSM 7331",0,"Klebsiella terrigena",Klebsiella
+5101,T64,"DSM 7333",0,"Klebsiella terrigena",Klebsiella
+149300,,"CCUG 37449",0,"Klebsiella terrigena",Klebsiella
+160157,,"DSM 103407, Marseille-P2849",1,"Raoultibacter massiliensis",Raoultibacter
+169862,,"CSUR P3277, CCUG 70680, Marseille P3277",1,"Raoultibacter timonensis",Raoultibacter
+140017,,"DSM 103551, JCM 23209, TISTR 1750, IAM 15448",1,"Rapidithrix thailandica",Rapidithrix
+134259,,,0,"Rapidithrix thailandica",Rapidithrix
+168533,"53C- WASEF, 53C-WASEF","DSM 109123, CIP 111665",1,"Rariglobus hedericola",Rariglobus
+156801,,"CCUG 65426, LMG 28163",1,"Rarimicrobium hominis",Rarimicrobium
+13529,YLM-1,"DSM 4813, ATCC 49628, DSM 46362, IFO 14760, JCM 6097, NBRC 14760, CIP 103380, NCIMB 12724",1,"Rarobacter faecitabidus",Rarobacter
+166030,,"JCM 9460",0,"Rarobacter faecitabidus",Rarobacter
+166031,,"JCM 9461",0,"Rarobacter faecitabidus",Rarobacter
+165341,,"JCM 6100",0,"Rarobacter faecitabidus",Rarobacter
+13528,YLM-39,"DSM 4811, JCM 6099",0,"Rarobacter faecitabidus",Rarobacter
+13530,YLM-11,"DSM 4814, JCM 6098, ATCC 49629, IFO 15233, NBRC 15233",0,"Rarobacter faecitabidus",Rarobacter
+100665,STI09716(IMET),"Agre 1053",0,"Rarobacter faecitabidus",Rarobacter
+13531,YLM-32,"DSM 10596, ATCC 51544, CIP 104132, JCM 6350, IFO 16149, IFO 16558, NBRC 101357, NBRC 16149, NBRC 16558",1,"Rarobacter incanus",Rarobacter
+166032,,"JCM 9462",0,"Rarobacter incanus",Rarobacter
+166033,,"JCM 9463",0,"Rarobacter incanus",Rarobacter
+166034,,"JCM 9464",0,"Rarobacter incanus",Rarobacter
+166035,,"JCM 9465",0,"Rarobacter sp.",Rarobacter
+166036,,"JCM 9467",0,"Rarobacter sp.",Rarobacter
+166037,,"JCM 9468",0,"Rarobacter sp.",Rarobacter
+166038,,"JCM 9469",0,"Rarobacter sp.",Rarobacter
+165434,,"JCM 6860",0,"Rarobacter sp.",Rarobacter
+158399,CA-4,"DSM 104101, ATCC TSD-78",1,"Rathayibacter agropyri",Rathayibacter
+7486,,"DSM 15933, UCM Ac-618, VKM Ac-1799, CIP 108056, JCM 13576",1,"Rathayibacter caricis",Rathayibacter
+7487,,"DSM 15932, UCM Ac-619, VKM Ac-1390, CIP 108055, JCM 13577",1,"Rathayibacter festucae",Rathayibacter
+23105,Klenk-S11g,"DSM 26693",0,"Rathayibacter festucae",Rathayibacter
+7484,"66-807, NCCPB 2253","DSM 7484, ICMP 3496, NCPPB 2253, VKM Ac-1602, CCUG 23897, LMG 3677, JCM 9308, CECT 4208, CFBP 807, CIP 104037, ICPB CI148, PDDCC 3496",1,"Rathayibacter iranicus",Rathayibacter
+158789,DL-329,"VKM Ac-2121, LMG 22542",1,"Rathayibacter oskolensis",Rathayibacter
+7482,CE4,"DSM 7485, ICMP 2574, NCPPB 2980, VKM Ac-1601, JCM 9307, CECT 4210, CFBP 2406, CIP 104036, LMG 7288",1,"Rathayibacter rathayi",Rathayibacter
+136353,81302,"CIP 104863, CCUG 23913, CNPB 1383, ICPB CR101, LMG 3718, NCPPB 797, PDDCC 2579",0,"Rathayibacter rathayi",Rathayibacter
+157510,,"IMI 347337",0,"Rathayibacter rathayi",Rathayibacter
+157511,,"IMI 347338",0,"Rathayibacter rathayi",Rathayibacter
+157512,,"IMI 347339",0,"Rathayibacter rathayi",Rathayibacter
+157513,,"IMI 347340",0,"Rathayibacter rathayi",Rathayibacter
+170304,"ZW T2_19","LMG 32700, DSM 114294",1,"Rathayibacter rubneri",Rathayibacter
+132307,Leaf185,"DSM 102697",0,"Rathayibacter sp.",Rathayibacter
+132308,Leaf299,"DSM 102698",0,"Rathayibacter sp.",Rathayibacter
+169653,T43,"DSM 103182",0,"Rathayibacter sp.",Rathayibacter
+103211,ST002357(HKI),,0,"Rathayibacter sp.",Rathayibacter
+132304,Leaf294,"DSM 102694",0,"Rathayibacter sp.",Rathayibacter
+132305,Leaf296,"DSM 102695",0,"Rathayibacter sp.",Rathayibacter
+132306,Leaf248,"DSM 102696",0,"Rathayibacter sp.",Rathayibacter
+7483,CS14,"DSM 7488, ATCC 49908, ICMP 9525, NCPPB 3552, JCM 9669, CIP 104617, VKM Ac-1600",1,"Rathayibacter toxicus",Rathayibacter
+103209,ST033238(HKI),,0,"Rathayibacter toxicus",Rathayibacter
+103210,ST033239(HKI),,0,"Rathayibacter toxicus",Rathayibacter
+7485,CT102,"CCUG 23914, LMG 3728, CIP 104038, DSM 7486, ATCC 11403, ICMP 2626, NCPPB 1857, VKM Ac-1603, JCM 9309, CFBP 1385, ICPB CT102, PDDCC 2626",1,"Rathayibacter tritici",Rathayibacter
+103214,STI11026(IMET),"NCIB 2198",0,"Rathayibacter tritici subsp. subtilis",Rathayibacter
+103215,STI10881(IMET),"SG 119",0,"Rathayibacter tritici subsp. subtilis",Rathayibacter
+103212,"STI10298(IMET), 168IX",,0,"Rathayibacter tritici subsp. subtilis",Rathayibacter
+103213,STI10299(IMET),,0,"Rathayibacter tritici subsp. subtilis",Rathayibacter
+158539,J77-1,"KEMB 9005-548, KACC 19172, JCM 31920",1,"Ravibacter arvi",Ravibacter
+140272,HM,"DSM 100378, JCM 30982",1,"Rectinema cohabitans",Rectinema
+164315,,"JCM 32656, ATCC TSD-67",1,"Rectinema subterraneum",Rectinema
+24684,,"DSM 25897, CCTCC AB 2012062, YIM 77974",1,"Rehaibacterium terrae",Rehaibacterium
+5470,R3525,"DSM 26134, CIP 107900, JCM 11238, KMM 3525, NBRC 16625, IFO 16625",1,"Reichenbachiella agariperforans",Reichenbachiella
+5471,,"DSM 26133, JCM 16588, KACC 14523, PCP 11",1,"Reichenbachiella faecimaris",Reichenbachiella
+159843,DC003,"KCTC 42867, MCCC 1H00130",1,"Reichenbachiella versicolor",Reichenbachiella
+130500,,"DSM 29881, IMCC 4489, KCCM 42938, KCTC 22813, NBRC 106079",1,"Reinekea aestuarii",Reinekea
+130499,,"DSM 29825, CCUG 52066, CECT 7120, MED 297",1,"Reinekea blandensis",Reinekea
+158528,,"KACC 17315, CECT 8288, HME 8277",1,"Reinekea marina",Reinekea
+11293,"R 59, R59","DSM 15388, CECT 7363, CIP 108810, KMM 3655",1,"Reinekea marinisedimentorum",Reinekea
+166392,SSH23,"KACC 21168, NBRC 113795",1,"Reinekea thalattae",Reinekea
+7774,Lea-1-74,"DSM 20767, ATCC 33209, JCM 11484, CIP 103036, IFO 15589, IMSNU 21308, LMG 10846, NBRC 15589, NCIMB 2235",1,"Renibacterium salmoninarum",Renibacterium
+103217,STI41330(IMET),,0,"Renibacterium sp.",Renibacterium
+103218,"ST005172(HKI), LS1/16",,0,"Renibacterium sp.",Renibacterium
+103219,"ST006479(HKI), 1330",,0,"Renibacterium sp.",Renibacterium
+103220,"ST006727(HKI), Krass.LS1","IMET 40951",0,"Renibacterium sp.",Renibacterium
+103221,"ST005171(HKI), LS13/1",,0,"Renibacterium sp.",Renibacterium
+167496,"150040, ID150040","CGMCC 1.17052, BCRC 81202, DSM 111116",1,"Reticulibacter mediterranei",Reticulibacter
+140732,Seoho-37,"KCTC 52223, JCM 31892",1,"Reyranella aquatilis",Reyranella
+168840,Wo-34,"NBRC 109813, KACC 17605",1,"Reyranella graminifolii",Reyranella
+17881,521,"DSM 23428, CSUR P115",1,"Reyranella massiliensis",Reyranella
+17882,3B26,"DSM 23429, CSUR P117",0,"Reyranella massiliensis",Reyranella
+17883,S181,"DSM 23430, CSUR P116",0,"Reyranella massiliensis",Reyranella
+133909,KIS14-15,"KACC 13034, NBRC 108950",1,"Reyranella soli",Reyranella
+168608,11G32,"NBRC 111476, KACC 18486",1,"Reyranella terrae",Reyranella
+168622,"SYSU G02060","KCTC 72351, CGMCC 1.17070",1,"Rhabdaerophilum calidifontis",Rhabdaerophilum
+141114,,"CGMCC 1.5219, KCTC 15623, DSM 105239, SYSU GA15001",1,"Rhabdanaerobium thermarum",Rhabdanaerobium
+132963,R49,"DSM 105074, JCM 30685, KACC 18395, KEMB 9005-318",1,"Rhabdobacter roseus",Rhabdobacter
+2453,8315-5,"DSM 5261",1,"Rhabdochromatium marinum",Rhabdochromatium
+170674,"2376, IM2376","CGMCC 1.17852, KCTC 92134",1,"Rhabdonatronobacter sediminivivens",Rhabdonatronobacter
+169865,"EGI L10124","CGMCC 1.19113, KCTC 49679",1,"Rhabdothermincola salaria",Rhabdothermincola
+166922,"SYSU G02662","CGMCC 4.7688, KCTC 49500",1,"Rhabdothermincola sediminis",Rhabdothermincola
+16735,2M70-1,"DSM 22268, JCM 15963",1,"Rhabdothermus arcticus",Rhabdothermus
+163784,,"JCM 30404, KACC 18251",1,"Rheinheimera aestuarii",Rheinheimera
+168963,GR5,"LMG 25379, BCRC 80081",1,"Rheinheimera aquatica",Rheinheimera
+2460,SW-353,"DSM 22684, JCM 14331, KCTC 12840, CGMCC 1.10346",1,"Rheinheimera aquimaris",Rheinheimera
+168744,J-MS1,"CECT 8623, KCTC 42112",1,"Rheinheimera arenilitoris",Rheinheimera
+2454,OSBAC1,"DSM 14885, KCTC 12114, LMG 21511, CIP 107787",1,"Rheinheimera baltica",Rheinheimera
+2455,OSBAC5,"DSM 14891",0,"Rheinheimera baltica",Rheinheimera
+2459,K19414,"DSM 18694, LMG 23818",1,"Rheinheimera chironomi",Rheinheimera
+159783,TAPG2,"BCRC 81054, LMG 30056, KCTC 52815",1,"Rheinheimera coerulea",Rheinheimera
+163783,,"JCM 30403, KACC 18254",1,"Rheinheimera gaetbuli",Rheinheimera
+168296,E48,"LMG 27268, KACC 17070",1,"Rheinheimera hassiensis",Rheinheimera
+167761,,"NRIC 0918, KMM 9513",1,"Rheinheimera japonica",Rheinheimera
+133764,LH2-2,"CGMCC 1.7003, NBRC 105632",1,"Rheinheimera longhuensis",Rheinheimera
+168415,YQF-2,"KCTC 72184, MCCC 1K03663",1,"Rheinheimera lutimaris",Rheinheimera
+167095,LHK132,"MCCC 1K03529, KCTC 62580",1,"Rheinheimera mangrovi",Rheinheimera
+170048,MA-13,"JCM 34600, KACC 22113",1,"Rheinheimera maricola",Rheinheimera
+158590,TP462,"KACC 18560, CGMCC 1.15399",1,"Rheinheimera marina",Rheinheimera
+132262,IITR-13,"DSM 29723, MTCC 12064",1,"Rheinheimera mesophila",Rheinheimera
+169052,E49,"KACC 17071, LMG 27269",1,"Rheinheimera muenzenbergensis",Rheinheimera
+140034,"E407-8, E407.8","DSM 22401, CCTCC AB 209089, KACC 14030, CCTCC AB 20908",1,"Rheinheimera nanhaiensis",Rheinheimera
+133601,,,0,"Rheinheimera nanhaiensis",Rheinheimera
+2457,,"DSM 17616, CCUG 46544, IAM 15043, JCM 12090, KMM 1406, NBRC 103167, NRIC 0539, CIP 108198, CGMCC 1.7099",1,"Rheinheimera pacifica",Rheinheimera
+2458,"BA 131, BA131","DSM 18276, CIP 109200, LMG 23581",1,"Arsukibacterium perlucidum",Arsukibacterium
+163799,PKS7,"JCM 30460, KCTC 42365",1,"Rheinheimera pleomorphica",Rheinheimera
+167372,KYPC3,"LMG 29729, BCRC 81008, KCTC 52440",1,"Rheinheimera riviphila",Rheinheimera
+158757,KH87,"ATCC BAA-2715, CIP 111115, DSM 100018",1,"Rheinheimera salexigens",Rheinheimera
+158377,,,0,"Rheinheimera salexigens",Rheinheimera
+168507,YQF-1,"KCTC 72183, MCCC 1K03646",1,"Rheinheimera sediminis",Rheinheimera
+2461,BD-d46,"DSM 19413, KCTC 22077, BCRC 80292",1,"Rheinheimera soli",Rheinheimera
+22959,"NN019760, Ph-Ref-19, Ph-Ret-19","DSM 17860",0,"Hymenobacter arizonensis",Hymenobacter
+22960,Gbf-Ret-3,"DSM 17752",0,"Rheinheimera sp.",Rheinheimera
+140013,BZ19,"DSM 22289",0,"Rheinheimera sp.",Rheinheimera
+161863,,"JCM 16716",0,"Rheinheimera sp.",Rheinheimera
+162031,,"JCM 17508, KCTC 23336",0,"Rheinheimera sp.",Rheinheimera
+164017,,"JCM 31324",0,"Rheinheimera sp.",Rheinheimera
+148962,,"CCUG 36649",0,"Rheinheimera sp.",Rheinheimera
+155776,,"CCUG 59280",0,"Rheinheimera sp.",Rheinheimera
+164314,,"JCM 32650",0,"Rheinheimera sp.",Rheinheimera
+2462,JA3-B52,"DSM 19460, CGMCC 1.6362, JCM 14254",1,"Rheinheimera tangshanensis",Rheinheimera
+2456,A62-14B,"DSM 17496, ATCC BAA-1235",1,"Rheinheimera texasensis",Rheinheimera
+133885,Ruye-90,"LMG 26339, BCRC 80263, KCTC 23315",1,"Rheinheimera tilapiae",Rheinheimera
+162449,,"JCM 19264, CGMCC 1.12461",1,"Arsukibacterium tuosuense",Arsukibacterium
+168610,PLGR-1,"LMG 27607, KCTC 32299, CCTCC AB 2013018",1,"Rhizobacter bergeniae",Rhizobacter
+12715,H6,"DSM 11587, ATCC 43778, ICMP 9400",1,"Rhizobacter dauci",Rhizobacter
+12716,,"DSM 19916, KCTC 12591, LMG 23394, Gsoil 322",1,"Rhizobacter fulvus",Rhizobacter
+168636,NS21,"NBRC 109400, BCC 58006",1,"Piscinibacter gummiphilus",Piscinibacter
+140851,DS48-6-5,"KCTC 42645, NBRC 111169",1,"Rhizobacter profundi",Rhizobacter
+132314,Root29,"DSM 102514",0,"Rhizobacter sp.",Rhizobacter
+132315,Root404,"DSM 102515",0,"Rhizobacter sp.",Rhizobacter
+158116,CL-DNM10,"DSM 19014, KCCM 42128",0,"Rhizobiaceae not further classified",Rhizobiaceae
+160646,,"DSM 28745, CFH S0046",0,"Rhizobiaceae not further classified",Rhizobiaceae
+158112,Matomo55,"DSM 23458",0,"Rhizobiales (not further classified)",Rhizobiales
+170716,1AS11,"DSM 113913, ACCC 62388",1,"Rhizobium acaciae",Rhizobium
+141093,FH13,"CCBAU 101094, HAMBI 3626, LMG 28672",1,"Rhizobium acidisoli",Rhizobium
+169022,1010,"LMG 29296, USDA 7124, CECT 9098, CECT 909",1,"Rhizobium aegyptiacum",Rhizobium
+168943,HBR26,"HAMBI 3550, LMG 29711",1,"Rhizobium aethiopicum",Rhizobium
+13623,161A,"DSM 1111, ATCC 43293, IFAM 1003",1,"Rhizobium aggregatum",Rhizobium
+133420,GBV016,"CFBP 71465, LMG 24466",1,"Rhizobium alamii",Rhizobium
+133176,,"BR 10423, HAMBI 3664",1,"Rhizobium altiplani",Rhizobium
+131315,TNR-22,"DSM 100976, BCRC 80408, KCTC 23919, LMG 26895",1,"Rhizobium alvei",Rhizobium
+167736,,"LMG 27729, CGMCC 1.12621, CCBAU 23252",1,"Rhizobium anhuiense",Rhizobium
+159681,SA-276,"DSM 29780, JCM 31760",1,"Rhizobium aquaticum",Rhizobium
+140533,,"KCTC 52299, MCCC 1K03215, MIM 27",1,"Pararhizobium arenae",Pararhizobium
+167996,"KAs 5-22","KCTC 72768, LMG 28795, MTCC 12115",1,"Rhizobium arsenicireducens",Rhizobium
+170131,23C2,"CCBAU 101087, HAMBI 3541",0,"Rhizobium gallicum",Rhizobium
+132978,"Po 20/26","DSM 100211, LMG 28788",1,"Mycoplana azooxidifex",Mycoplana
+132244,BLR175,"DSM 29287, LMG 28442",1,"Rhizobium bangladeshense",Rhizobium
+132245,BLR195,"DSM 29288, LMG 28443",1,"Rhizobium binae",Rhizobium
+132154,LBP2-1,"DSM 104289, ATCC BAA-2435, CIP 110456, CCGE 524",1,"Rhizobium calliandrae",Rhizobium
+162548,,"JCM 19535, BCRC 80699",1,"Rhizobium capsici",Rhizobium
+168029,,"CCBAU 101002, LMG 26832, HAMBI 3288",1,"Rhizobium cauense",Rhizobium
+13631,,"DSM 18291, ALA 10B2",1,"Rhizobium cellulosilyticum",Rhizobium
+166634,"WYCCWR 11279","HAMBI 3709, LMG 31534",1,"Rhizobium changzhiense",Rhizobium
+166529,C5,"CCTCC AB 2018143, LMG 30777",1,"Rhizobium chutanense",Rhizobium
+170719,13TT,"HAMBI 3740, LMG 32397",1,"Rhizobium croatiense",Rhizobium
+13630,L61,"DSM 17795, JCM 21505, BCRC 80436, CCBAU 10050, IAM 15042, KCTC 12121, NBRC 102495, NCIMB 14499",1,"Rhizobium daejeonense",Rhizobium
+163211,,"JCM 21504, IAM 15041, KCTC 12120, NBRC 102494",0,"Rhizobium daejeonense",Rhizobium
+166117,SPY-1,"ACCC 61627, JCM 33732",1,"Neorhizobium deserti",Neorhizobium
+159896,S-93,"DSM 110498, NBRC 114257, NRIC 988",1,"Rhizobium dioscoreae",Rhizobium
+168808,"PIMAMPIRS I 5, UMR 1450","CNPSo 671, LMG 27578",1,"Rhizobium ecuadorense",Rhizobium
+132925,JC140,"DSM 104972, CCUG 64352, HAMBI 2447, KCTC 32077, MTCC 11723",1,"Pseudorhizobium endolithicum",Pseudorhizobium
+130596,,"DSM 29668, ATCC BAA-2116, CCGE 2052, HAMBI 3153, LMG 26002, CIP 110144",1,"Rhizobium endophyticum",Rhizobium
+141049,"Z87-8, U 10001","UMR 1320, LMG 30030, CNPSo 668",1,"Rhizobium esperanzae",Rhizobium
+13625,,"DSM 11541, ATCC 51251, CFN 42, JCM 21823, CIP 104814, HAMBI 1727, IAM 15379, IFO 15573, LMG 17827, NBRC 15573",1,"Rhizobium etli",Rhizobium
+137722,,"CIP 106475, MIM 2",0,"Rhizobium etli",Rhizobium
+13633,,"DSM 19331, CCBAU 33202, JCM 14381, LMG 23997, JCM 14831",1,"Rhizobium pisi",Rhizobium
+13634,,"DSM 19332, CCBAU 23123, LMG 23998, JCM 14832",0,"Rhizobium pisi",Rhizobium
+172802,LPU83,"CIP 110924",1,"Rhizobium favelukesii",Rhizobium
+133217,LPU83,"CECT 9014, LMG 29160",1,"Rhizobium favelukesii",Rhizobium
+131285,YW14,"DSM 102134, CCTCC AB 2013042, KACC 17222",1,"Pseudorhizobium flavum",Pseudorhizobium
+134045,IPR-Pv81,"CNPSo 122, SEMIA 4080, WDCM 440, PRF 81",1,"Rhizobium freirei",Rhizobium
+133182,ZFJT-2,"CCTCC AB 2013015, KCTC 32301, LMG 27603",1,"Rhizobium gei",Rhizobium
+166106,CL12,"GDMCC 1.1597, KACC 21281",1,"Peteryoungia glycinendophyticum",Peteryoungia
+133733,,"ATCC BAA-2124, CFN 242, HAMBI 3152, CCGE 502, CIP 110149, DAl 4",1,"Rhizobium grahamii",Rhizobium
+13627,I66,"DSM 11917, CCBAU 57015, CIP 105503",1,"Rhizobium hainanense",Rhizobium
+13648,YC6881,"DSM 21600, KACC 13775",1,"Rhizobium halophytocola",Rhizobium
+133097,AB21,"DSM 105041, JCM 17536, KEMC 224-056",0,"Pseudorhizobium halotolerans",Pseudorhizobium
+168931,Xi19,"KCTC 23879, CGMCC 1.12192",1,"Rhizobium helianthi",Rhizobium
+167023,FH14,"LMG 29288, HAMBI 3636",1,"Rhizobium hidalgonense",Rhizobium
+170906,"JKLM 12A2","MCC 3961, KACC 21380, JCM 33658",1,"Rhizobium indicum",Rhizobium
+136926,,"CIP 108029, AS 1.3045, CCBAU 71042",1,"Rhizobium indigoferae",Rhizobium
+140867,shin9-1,"LMG 27163, KCTC 32148",1,"Rhizobium ipomoeae",Rhizobium
+132156,SJP1-2,"DSM 104287, ATCC BAA-2445, CIP 110453, CCGE 525",1,"Rhizobium jaguaris",Rhizobium
+130600,FB206,"DSM 29977, CECT 8280, LMG 27434",1,"Rhizobium laguerreae",Rhizobium
+138443,3Hoq18,"CIP 106959, ATCC 10004, IAM 12609, OUT 30008, IFO 14778, DSM 106839, LMG 14904",1,"Rhizobium leguminosarum",Rhizobium
+13593,3D1K2,"DSM 6040, ATCC 14479",0,"Rhizobium leguminosarum",Rhizobium
+13594,3D1q25a,"DSM 6041, ATCC 14484",0,"Rhizobium leguminosarum",Rhizobium
+13595,"NZ 29","DSM 6042, ATCC 35180, PDDCC 1309",0,"Rhizobium leguminosarum",Rhizobium
+13596,,"DSM 6043, ATCC 35172, PDDCC 5943, NZP 5225",0,"Rhizobium leguminosarum",Rhizobium
+13597,175F1,"DSM 6044, ATCC 35282",0,"Rhizobium leguminosarum",Rhizobium
+13598,92A3,"DSM 6045, ATCC 35643, TAL 634",0,"Rhizobium leguminosarum",Rhizobium
+13599,3HOa1,"DSM 30133, ATCC 11444",0,"Rhizobium leguminosarum",Rhizobium
+13600,3D1k5,"DSM 30138, ATCC 10328",0,"Rhizobium leguminosarum",Rhizobium
+13601,3D1r1,"DSM 30139, ATCC 14481",0,"Rhizobium leguminosarum",Rhizobium
+13602,3D1k22a,"DSM 30141, ATCC 14480, JCM 20684, IAM 12613, NBRC 14784",0,"Rhizobium leguminosarum",Rhizobium
+13603,580,"DSM 30143, DSM 60273",0,"Rhizobium leguminosarum",Rhizobium
+13588,,"DSM 1980, TAL 381",0,"Rhizobium leguminosarum",Rhizobium
+13590,"ANU618, pBR1AN","DSM 5206",0,"Rhizobium leguminosarum",Rhizobium
+13591,"LPR5035, pRtr5a::Tn5","DSM 5207",0,"Rhizobium leguminosarum",Rhizobium
+13592,"RCR 3622","DSM 6039, ATCC 35179, PDDCC 6745",0,"Rhizobium leguminosarum",Rhizobium
+166872,L6-16,"NBRC 109339, BCC 55143",1,"Rhizobium lemnae",Rhizobium
+132243,BLR27,"DSM 29286, LMG 28441",1,"Rhizobium lentis",Rhizobium
+24483,,"DSM 26699, CECT 4844, CENA 183, CFN 299, CNPSo 141, IAM 14230, JCM 21088, LMG 9517, SEMIA 4083, UMR 1026, USDA 9039",0,"Rhizobium leucaenae",Rhizobium
+137407,P1-7,"CIP 109524, CECT 7016, LMG 22705",1,"Rhizobium lusitanum",Rhizobium
+158194,MGL06,"DSM 106576, JCM 30155, MCCC 1A00836",1,"Pseudorhizobium marinum",Pseudorhizobium
+132155,"SJP1-2, NSJP1-1","DSM 104288, ATCC BAA-2446, CIP 110454, CCGE 526",1,"Rhizobium mayense",Rhizobium
+24485,1847,"DSM 28449, ATCC BAA-2123, CCGE 501, CIP 110148, HAMBI 3151",1,"Rhizobium mesoamericanum",Rhizobium
+133473,5LMG24135,"JCM 14777, CCBAU 25010, LMG 24135",1,"Rhizobium mesosinicum",Rhizobium
+161331,,"JCM 13233, CCBAU 41044",0,"Rhizobium mesosinicum",Rhizobium
+131342,ChimEc512,"DSM 26575, CIP 110550",1,"Rhizobium metallidurans",Rhizobium
+134342,,"LMG 24208, HAMBI 2971, CCBAU 41251",1,"Rhizobium miluonense",Rhizobium
+138331,,"CIP 106112, USDA 1844",1,"Rhizobium mongolense",Rhizobium
+24481,,"DSM 21811, CCBAU 7190B, CIP 108030, LMG 21975, AS 1.3401",1,"Rhizobium mongolense subsp. loessense",Rhizobium
+13635,,"DSM 21814, CCBAU 83401, HAMBI 2975, LMG 23946",1,"Rhizobium multihospitium",Rhizobium
+167333,TSY03b,"NBRC 107585, KCTC 23252",1,"Rhizobium naphthalenivorans",Rhizobium
+168993,ZYY136,"ACCC 05753, KCTC 32088",1,"Rhizobium oryzicola",Rhizobium
+133413,N19,"ACCC 19962, KCTC 52413",1,"Allorhizobium oryziradicis",Allorhizobium
+168041,BN-19,"CCBAU 101086, LMG 27895",1,"Rhizobium pakistanense",Rhizobium
+130599,L6-8,"DSM 100301, BCC 55142, NBRC 109338",1,"Rhizobium paknamense",Rhizobium
+164227,,"JCM 32251, KCTC 62017",1,"Rhizobium panacihumi",Rhizobium
+167587,"IPR-Pv 1249, PRF 35","CNPSo 120, LMG 27577",1,"Rhizobium paranaense",Rhizobium
+24484,SL-1,"DSM 26482, ACCC 11238, KCTC 23288",1,"Neorhizobium petrolearium",Neorhizobium
+13609,"3I6c15, 316c15","DSM 30137, ATCC 14482, JCM 20683, NBRC 14785, NRRL L-321, VKM B-1966, IAM 12612, CIP 107329, LMG 8819, ORS 662",1,"Rhizobium phaseoli",Rhizobium
+13607,,"DSM 1979, TAL 1383",0,"Rhizobium phaseoli",Rhizobium
+13608,3I6c14,"DSM 6038, ATCC 14483",0,"Rhizobium phaseoli",Rhizobium
+13636,,"DSM 30132, NCIB 11478, NCIMB 11478, JCM 20680, IAM 12609, NBRC 14778",1,"Rhizobium pisi",Rhizobium
+168740,K-38,"CCTCC AB 2013068, NRRL B-59990, JCM 19159",1,"Rhizobium populi",Rhizobium
+170718,XQZ8,"GDMCC 1.2201, JCM 34442",1,"Rhizobium populisoli",Rhizobium
+140905,PC004,"BCC 73740, NBRC 110722",1,"Rhizobium puerariae",Rhizobium
+162230,,"JCM 18337, ACCC 05747",1,"Rhizobium qilianshanense",Rhizobium
+163046,,"JCM 20988, IAM 13934, NCPPB 1641",0,"Agrobacterium radiobacter",Agrobacterium
+163048,,"JCM 20991, IAM 13940, LMG 332",0,"Agrobacterium radiobacter",Agrobacterium
+13575,"C58, pTi","DSM 5172",0,"Agrobacterium radiobacter",Agrobacterium
+162808,,"JCM 20198, ATCC 4452, IAM 1525, IFO 12667, LMG 181, NBRC 12667",0,"Agrobacterium radiobacter",Agrobacterium
+13578,"pMP90RK, GV3101(pMP90RK)","DSM 12365",0,"Agrobacterium radiobacter",Agrobacterium
+173523,"CIMB 04-5646",CRBIP17.104,0,"Agrobacterium radiobacter",Agrobacterium
+163010,,"JCM 20922, IAM 13573, NCPPB 2659",0,"Agrobacterium radiobacter",Agrobacterium
+173524,"CIMB 05-1182",CRBIP17.18,0,"Agrobacterium radiobacter",Agrobacterium
+163012,,"JCM 20924, IAM 13575, LMG 225, NCPPB 925",0,"Agrobacterium radiobacter",Agrobacterium
+170720,18TT,"LMG 32398, HAMBI 3741",1,"Rhizobium redzepovicii",Rhizobium
+13571,,"DSM 30148, ATCC 11325, IFO 13257, NBRC 13257, NCPPB 2991, CCUG 12534 C, JCM 20919, CFBP 5520, CIP 104328, HAMBI 1816, IAM 13570, ICMP 5794, IMET 11180, KCTC 12403, LMG 150",1,"Rhizobium rhizogenes",Rhizobium
+136344,,"CIP 104786, ATCC 15834, JCM 20920, BCRC 15010, BCRC 15762, CCM 4999, CECT 477, IAM 13571, ICMP 8640, LMG 152, NCAIM B.01337, NCPPB 2629",0,"Rhizobium rhizogenes",Rhizobium
+163078,,"JCM 21076, IAM 14218, ICPB TT133, LMG 341, NCPPB 2303",0,"Rhizobium rhizogenes",Rhizobium
+13535,"TR 102, C0","DSM 13875, ATCC 13332, NCPPB 3068, CIP 104329",0,"Rhizobium rhizogenes",Rhizobium
+13572,38,"DSM 30200, DSM 60572, JCM 20921, IAM 13572",0,"Rhizobium rhizogenes",Rhizobium
+139239,"TR 104, 5","CIP 104330, ATCC 13333, JCM 20990, IAM 13938, ICPB TR104, IFO 13259, KCTC 2780, NBRC 13259, NCPPB 2409",0,"Rhizobium rhizogenes",Rhizobium
+157290,,"IMI 350518",0,"Rhizobium rhizogenes",Rhizobium
+163011,,"JCM 20923, IAM 13574, ICMP 3379, LMG 138, NCPPB 2407",0,"Rhizobium rhizogenes",Rhizobium
+100155,"STI09503(IMET), 496-604b","IMET 9503",0,"Rhizobium rhizogenes subsp. aerata",Rhizobium
+160173,7209-2,"DSM 103161, CGMCC 1.15691",1,"Rhizobium rhizophilum",Rhizobium
+130601,J3-AN59,"DSM 29514, ACCC 05916, KCTC 23652",1,"Rhizobium rhizoryzae",Rhizobium
+13642,W3,"DSM 26376, CCM 7583, MTCC 9454",1,"Rhizobium rosettiformans",Rhizobium
+167241,,"UPM 1133, CECT 9542, LMG 30526",1,"Rhizobium ruizarguesonis",Rhizobium
+160666,B1,"DSM 25108, LMG 24075, ATCC BAA-1503, NRRL B-41997",1,"Rhizobium selenitireducens",Rhizobium
+131307,PTYR-5,"DSM 100675, CCTCC AB 2013016, KCTC 32300, LMG 27604",1,"Rhizobium smilacinae",Rhizobium
+133544,DS-42,"KCTC 12873, JCM 14591",1,"Rhizobium soli",Rhizobium
+132806,Leaf391,"DSM 102703",0,"Rhizobium sp.",Rhizobium
+141824,,"CCUG 7354 A",0,"Rhizobium sp.",Rhizobium
+132807,Leaf386,"DSM 102704",0,"Rhizobium sp.",Rhizobium
+141851,,"CCUG 7777",0,"Rhizobium sp.",Rhizobium
+160163,,"DSM 27231, YIM 101135, BCRC 80642",0,"Rhizobium sp.",Rhizobium
+132808,Leaf384,"DSM 102705",0,"Rhizobium sp.",Rhizobium
+141986,,"CCUG 9501",0,"Rhizobium sp.",Rhizobium
+163528,,"JCM 28634",0,"Rhizobium sp.",Rhizobium
+160166,LNNU114113,"DSM 103960",0,"Rhizobium sp.",Rhizobium
+13616,"Haole Koa","DSM 6052, ATCC 35645, TAL 1145",0,"Rhizobium sp.",Rhizobium
+147531,,"CCUG 33752",0,"Rhizobium sp.",Rhizobium
+132796,Root336D1,"DSM 102523",0,"Rhizobium sp.",Rhizobium
+163083,,"JCM 21087, IAM 14229",0,"Rhizobium sp.",Rhizobium
+163535,,"JCM 28644",0,"Rhizobium sp.",Rhizobium
+132811,Leaf341,"DSM 102708",0,"Rhizobium sp.",Rhizobium
+13617,"B6S3, B<SUB>6</SUB>S<SUB>3</SUB>","DSM 6599",0,"Rhizobium sp.",Rhizobium
+165266,,"JCM 5500",0,"Rhizobium sp.",Rhizobium
+132797,Root482,"DSM 102524",0,"Rhizobium sp.",Rhizobium
+160167,Khangiran2,"DSM 106339",0,"Rhizobium sp.",Rhizobium
+163539,,"JCM 28648",0,"Rhizobium sp.",Rhizobium
+163084,,"JCM 21089, IAM 14231",0,"Rhizobium sp.",Rhizobium
+13618,"M3 A","DSM 10169",0,"Rhizobium sp.",Rhizobium
+132812,Leaf306,"DSM 102709",0,"Rhizobium sp.",Rhizobium
+132798,Root483D2,"DSM 102525",0,"Rhizobium sp.",Rhizobium
+165267,,"JCM 5501",0,"Rhizobium sp.",Rhizobium
+163543,,"JCM 28653",0,"Rhizobium sp.",Rhizobium
+160168,NT-26,"DSM 106348, CFBP 8663",0,"Pseudorhizobium banfieldiae",Pseudorhizobium
+13619,,"DSM 11272, LMG 7854, ORS 1002",0,"Rhizobium sp.",Rhizobium
+132813,Leaf202,"DSM 102710",0,"Rhizobium sp.",Rhizobium
+132799,Root491,"DSM 102526",0,"Rhizobium sp.",Rhizobium
+165268,,"JCM 5502",0,"Rhizobium sp.",Rhizobium
+163544,,"JCM 28659",0,"Rhizobium sp.",Rhizobium
+132814,Leaf155,"DSM 102711",0,"Rhizobium sp.",Rhizobium
+13620,AUEB20,"DSM 11419",0,"Rhizobium sp.",Rhizobium
+141467,,"CCUG 2076, CCM 2187, ATCC 12210",0,"Rhizobium sp.",Rhizobium
+132800,Root564,"DSM 102527",0,"Rhizobium sp.",Rhizobium
+165270,,"JCM 5504",0,"Rhizobium sp.",Rhizobium
+163554,,"JCM 28672",0,"Rhizobium sp.",Rhizobium
+132815,Leaf167,"DSM 102712",0,"Rhizobium sp.",Rhizobium
+13621,PATR,"DSM 11830",0,"Rhizobium sp.",Rhizobium
+142153,,"CCUG 11148",0,"Rhizobium sp.",Rhizobium
+146054,,"CCUG 30275",0,"Rhizobium sp.",Rhizobium
+132816,Leaf68,"DSM 102713",0,"Rhizobium sp.",Rhizobium
+132801,Root651,"DSM 102528",0,"Rhizobium sp.",Rhizobium
+169281,VSW331,"DSM 103072, KCTC 32415, MTCC 11811",0,"Rhizobium sp.",Rhizobium
+13583,4794,"DSM 30204, DSM 60573, ICPB TT 111, JCM 20848, IAM 13155, ICPB TT111, LMG 196",0,"Rhizobium sp.",Rhizobium
+100151,"ST032936(HKI), S019",,0,"Rhizobium sp.",Rhizobium
+141608,,"CCUG 3547",0,"Rhizobium sp.",Rhizobium
+163455,,"JCM 28263",0,"Rhizobium sp.",Rhizobium
+132802,Leaf453,"DSM 102699",0,"Rhizobium sp.",Rhizobium
+100152,"ST022282(HKI), F105, Nü36, P480, DoHKI86, Südafrika108, BI 11498",,0,"Rhizobium sp.",Rhizobium
+159037,,"DSM 29929, EGI 60011",0,"Rhizobium sp.",Rhizobium
+132788,Root73,"DSM 102530",0,"Rhizobium sp.",Rhizobium
+132803,Leaf262,"DSM 102700",0,"Rhizobium sp.",Rhizobium
+100153,"ST032964(HKI), S048",,0,"Rhizobium sp.",Rhizobium
+159038,NT-25,"DSM 106347",0,"Rhizobium sp.",Rhizobium
+132789,Root708,"DSM 102529",0,"Rhizobium sp.",Rhizobium
+132804,Leaf311,"DSM 102701",0,"Rhizobium sp.",Rhizobium
+13610,AM.1,"DSM 1725",0,"Rhizobium sp.",Rhizobium
+141772,,"CCUG 6596",0,"Rhizobium sp.",Rhizobium
+100154,SF005649(FSU),,0,"Rhizobium sp.",Rhizobium
+159039,Q54,"DSM 106353, CCTCC AB 2013039",0,"Rhizobium sp.",Rhizobium
+132790,Root1203,"DSM 102516",0,"Rhizobium sp.",Rhizobium
+163045,,"JCM 20977, IAM 13635, NZP 5067",0,"Rhizobium sp.",Rhizobium
+13611,176A30,"DSM 2729, TAL 169",0,"Rhizobium sp.",Rhizobium
+132805,Leaf321,"DSM 102702",0,"Rhizobium sp.",Rhizobium
+132791,Root1204,"DSM 102517",0,"Rhizobium sp.",Rhizobium
+141782,,"CCUG 6723",0,"Rhizobium sp.",Rhizobium
+141547,,"CCUG 2871",0,"Rhizobium sp.",Rhizobium
+13612,3402,"DSM 2914",0,"Rhizobium sp.",Rhizobium
+164040,,"JCM 31363",0,"Rhizobium sp.",Rhizobium
+132792,Root1240,"DSM 102519",0,"Rhizobium sp.",Rhizobium
+141855,,"CCUG 7807",0,"Rhizobium sp.",Rhizobium
+13613,"16653, 3 C1a1","DSM 6049, ATCC 10316",0,"Rhizobium sp.",Rhizobium
+130595,TCK,"DSM 13828",0,"Rhizobium sp.",Rhizobium
+164041,,"JCM 31364",0,"Rhizobium sp.",Rhizobium
+160164,,"DSM 102088, BGMRC 2050",0,"Rhizobium sp.",Rhizobium
+132793,Root1334,"DSM 102520",0,"Rhizobium sp.",Rhizobium
+163081,,"JCM 21085, IAM 14227",0,"Rhizobium sp.",Rhizobium
+13614,"312b1, 36-1","DSM 6050, ATCC 10317",0,"Rhizobium sp.",Rhizobium
+132809,Leaf383,"DSM 102706",0,"Rhizobium sp.",Rhizobium
+132794,Root149,"DSM 102521",0,"Rhizobium sp.",Rhizobium
+160165,PP-F2F-G48,"DSM 103621",0,"Rhizobium sp.",Rhizobium
+13615,32H1,"DSM 6051, ATCC 33848",0,"Rhizobium sp.",Rhizobium
+163082,,"JCM 21086, IAM 14228",0,"Rhizobium sp.",Rhizobium
+142600,,"CCUG 13203 A",0,"Rhizobium sp.",Rhizobium
+132810,Leaf371,"DSM 102707",0,"Rhizobium sp.",Rhizobium
+132795,Root274,"DSM 102522",0,"Rhizobium sp.",Rhizobium
+168691,CCNWGS0238,"HAMBI 3074, ACCC17498",1,"Rhizobium sphaerophysae",Rhizobium
+162549,,"JCM 19536, BCRC 80698",1,"Rhizobium straminoryzae",Rhizobium
+23224,"JC 85","DSM 24765, KCTC 23614",1,"Rhizobium subbaraonis",Rhizobium
+13628,"IS123, RHIS123","DSM 14623, USDA 4950",1,"Rhizobium sullae",Rhizobium
+13629,A6,"DSM 14624",0,"Rhizobium sullae",Rhizobium
+132917,PL-41,"DSM 105042, CCTCC AB 2011011, NRRL B-59556",1,"Pseudorhizobium tarimense",Pseudorhizobium
+166317,NAU-18,"KCTC 62418, CCTCC AB 2018075",1,"Rhizobium terrae",Rhizobium
+170717,S-51,"NBRC 112711, KACC 19117, KEMB 9005-539",1,"Rhizobium terricola",Rhizobium
+13637,,"DSM 21102, CCBAU 85039, CGMCC 1.7071, LMG 24453",1,"Rhizobium tibeticum",Rhizobium
+13624,,"DSM 11418, ATCC 49672, CIAT 899, HAMBI 1163, JCM 21072, IAM 14206, IFO 15247, LMG 9503, NBRC 15247, OUT 30011, CIP 107331, ORS 1163",1,"Rhizobium tropici",Rhizobium
+13639,,"DSM 25379, CCBAU 85046, LMG 25225, HAMBI 3066",1,"Rhizobium tubonense",Rhizobium
+160804,1019,"DSM 104919, CFBP 8567",1,"Rhizobium tumorigenes",Rhizobium
+160803,1078,"DSM 104880, CFBP 8567",1,"Rhizobium tumorigenes",Rhizobium
+13646,,"DSM 26437, CCBAU 65647, HAMBI 3073, LMG 25295",1,"Rhizobium vallis",Rhizobium
+7573,B-1973,"DSM 7307, ATCC 19584, CECT 908, LMG 16473, NCIMB 9729, NRRL B-1973, JCM 11566, BCRC 14858, CIP 82.105, IAM 14871, KCTC 3388, LMG 17310, MTCC 22, NCFB 2326, PCM 2469, NCDO 2326",1,"Rhizobium viscosum",Rhizobium
+138408,,"CIP 102695, NCDO 2327, NCIMB 10617",0,"Rhizobium viscosum",Rhizobium
+7572,,"DSM 7287, ATCC 19583, NCIMB 9728, NRRL B-1797",0,"Rhizobium viscosum",Rhizobium
+140985,166,"CGMCC 1.15279, DSM 100734",1,"Rhizobium wenxiniae",Rhizobium
+159888,W44,"CCTCC AB 2017179, GDMCC 1.1257, KCTC 62194",1,"Rhizobium wuzhouense",Rhizobium
+137364,,"CIP 108028, CCBAU 71623",1,"Rhizobium yanglingense",Rhizobium
+140545,CRZM18R,"LMG 29735, CECT 9169",1,"Rhizobium zeae",Rhizobium
+24218,K12-0602,"DSM 45988, NBRC 109834",1,"Rhizocola hellebori",Rhizocola
+170310,K14-0274,"TBRC 12948, NBRC 114594",1,"Rhizohabitans arisaemae",Rhizohabitans
+17878,,"DSM 21034, JCM 15089, KCTC 5806, MFC MfC52, MFC 52",1,"Rhizomicrobium electricum",Rhizomicrobium
+17877,A48,"DSM 19867, JCM 14971",1,"Rhizomicrobium palustre",Rhizomicrobium
+17875,RR54,"DSM 19865, JCM 14973",0,"Rhizomicrobium palustre",Rhizomicrobium
+17876,RR25,"DSM 19866, JCM 14972",0,"Rhizomicrobium palustre",Rhizomicrobium
+131278,SP1,"DSM 100912, ATCC 51289, LMG 12581",1,"Rhizorhabdus argentea",Rhizorhabdus
+140624,Ndbn-20,"KACC 18661, CCTCC AB 2016143, DSM 107650",1,"Rhizorhabdus dicambivorans",Rhizorhabdus
+166830,MK52,"KCTC 72877 T, DSM 111424 T",1,"Rhizorhabdus phycosphaerae",Rhizorhabdus
+23281,382,"DSM 25077, LMG 26763",1,"Rhizorhabdus starnbergensis",Rhizorhabdus
+14228,RW1,"DSM 6014, JCM 10273, JCM 15750, CCUG 31198, CIP 107293, KCTC 12908, MTCC 7933, NBRC 100425, NBRC 105917",1,"Rhizorhabdus wittichii",Rhizorhabdus
+14222,"CA1, EY 2404, Ca 1","DSM 7465, ATCC 49355, CIP 105429, ICMP 12535, JCM 8521, LMG 11026, LMG 17323, NBRC 15211, NCPPB 3629, IFO 15211, LMG 15574, LMG 15591, LMG 9830",1,"Rhizorhapis suberifaciens",Rhizorhapis
+165803,,"JCM 8522, ATCC 49356, LMG 11117, NCPPB 3628",0,"Rhizorhapis suberifaciens",Rhizorhapis
+165804,,"JCM 8523, ATCC 49381, KCTC 2842, LMG 9837, NCPPB 3630",0,"Rhizorhapis suberifaciens",Rhizorhapis
+165805,,"JCM 8524, ATCC 49382, IFO 15212, KCTC 2842, LMG 9834, NBRC 15212, NCPPB 3631",0,"Rhizorhapis suberifaciens",Rhizorhapis
+163875,,"JCM 30774, KCTC 42660",1,"Rhodanobacter aciditrophus",Rhodanobacter
+130849,MJ01,"DSM 29349, JCM 16242, KCTC 22449",1,"Rhodanobacter caeni",Rhodanobacter
+161747,,"JCM 16243, KCTC 22460",0,"Rhodanobacter caeni",Rhodanobacter
+17525,2APBS1,"DSM 23569, JCM 17641",1,"Rhodanobacter denitrificans",Rhodanobacter
+17526,116-2,"DSM 24678, JCM 17642",0,"Rhodanobacter denitrificans",Rhodanobacter
+17517,,"DSM 18449, IAM 15025, KCTC 12098, CCUG 51445, LMG 23003, JCM 21488, NBRC 103168, Jip 02, Jip 2, CIP 108727",1,"Rhodanobacter fulvus",Rhodanobacter
+17516,GR177,"DSM 18993, KACC 11762",1,"Rhodanobacter ginsengisoli",Rhodanobacter
+164211,,"JCM 32167, KCTC 62018",1,"Rhodanobacter ginsengiterrae",Rhodanobacter
+17520,,"DSM 21013, KACC 12822, KCTC 22231, LMG 24457, Gsoil 3054",1,"Rhodanobacter ginsenosidimutans",Rhodanobacter
+132171,MO64,"DSM 102797, ICMP 17626, NBRC 105007",0,"Rhodanobacter glycinis",Rhodanobacter
+140469,RS22,"KEMB 9005-480, KACC 19048, NBRC 112473",1,"Rhodanobacter humi",Rhodanobacter
+159720,G-5-5,"KEMB 9005-533, KACC 19113, NBRC 112685",1,"Rhodanobacter hydrolyticus",Rhodanobacter
+162575,,"JCM 19614, KACC 17650",1,"Rhodanobacter koreensis",Rhodanobacter
+167808,RP5557,"LMG 18385",1,"Rhodanobacter lindaniclasticus",Rhodanobacter
+131116,,"DSM 17931, Gsoil 549",0,"Rhodanobacter lindaniclasticus",Rhodanobacter
+131117,Ko01,"DSM 17932",0,"Rhodanobacter lindaniclasticus",Rhodanobacter
+131118,,"DSM 17928, Gsoil 3028",0,"Rhodanobacter lindaniclasticus",Rhodanobacter
+17524,LnR5-47,"DSM 21014, KACC 12826, KCTC 22232, LMG 24460",1,"Rhodanobacter panaciterrae",Rhodanobacter
+140574,CR164,"KACC 18699, NBRC 111845",1,"Rhodanobacter rhizosphaerae",Rhodanobacter
+17523,,"DSM 25158, JCM 16126, KCTC 22620, DCY 45",1,"Rhodanobacter soli",Rhodanobacter
+24862,GR18-2,"DSM 21302, KACC 12916",0,"Rhodanobacter sp.",Rhodanobacter
+132113,Root179,"DSM 102531",0,"Rhodanobacter sp.",Rhodanobacter
+132114,Root480,"DSM 102532",0,"Rhodanobacter sp.",Rhodanobacter
+132115,Root561,"DSM 102533",0,"Rhodanobacter sp.",Rhodanobacter
+132116,Root627,"DSM 102534",0,"Rhodanobacter sp.",Rhodanobacter
+132117,,"DSM 102790, Soil 773",0,"Rhodanobacter sp.",Rhodanobacter
+132118,,"DSM 102791, Soil 772",0,"Rhodanobacter sp.",Rhodanobacter
+166096,B2A1Ga4,UCCCB112,0,"Rhodanobacter sp.",Rhodanobacter
+17522,GR14-4,"DSM 21298, KACC 12918",0,"Rhodanobacter sp.",Rhodanobacter
+24681,R2A46,"DSM 28511",0,"Rhodanobacter sp.",Rhodanobacter
+17515,B39,"DSM 17631, LMG 23181, CIP 109139",1,"Rhodanobacter spathiphylli",Rhodanobacter
+17519,GP18-1,"DSM 19241, KACC 11761",1,"Rhodanobacter terrae",Rhodanobacter
+17518,LCS2,"DSM 18863, KCTC 12771",1,"Rhodanobacter thiooxydans",Rhodanobacter
+17521,GR24-2,"DSM 21300, CCM 7935, KACC 12917",1,"Rhodanobacter umsongensis",Rhodanobacter
+13828,alga-05,"DSM 19920, VKM B-2406",1,"Rhodobaca barguzinensis",Rhodobaca
+13827,,"DSM 18756, ATCC 700920, LBB 1",1,"Rhodobaca bogoriensis",Rhodobaca
+155414,,"CCUG 57662",0,"Rhodobaca sp.",Rhodobaca
+13823,JA296,"DSM 19945, CCUG 55130, JCM 14887",1,"Rhodobacter aestuarii",Rhodobacter
+169063,JA916,"KCTC 15473, LMG 28749",1,"Cereibacter alkalitolerans",Cereibacter
+168420,HSP-20,"BCRC 81193, LMG 31334",1,"Rhodobacter amnigenus",Rhodobacter
+140725,JA912,"KCTC 15475, LMG 28748",1,"Rhodobacter azollae",Rhodobacter
+138210,KA25,"CIP 105439, JCM 9340, IAM 14814, IFO 16436, NBRC 16436",1,"Cereibacter azotoformans",Cereibacter
+135947,,"CIP 104374, ATCC 33485, DSM 2131, LMG 4305, NCIMB 11576, UCCCB1, DSM 26431, IFO 16437, NBRC 16437",1,"Fuscovulum blasticum",Fuscovulum
+13806,,"DSM 1710, ATCC 11166, ATCC 17015, IAM 14232, JCM 21090, NCIB 8254, CCUG 31484, LMG 2962, CCTM 1913, ATH 2.3.1, CGMCC 1.8920, CIP 104408, IFO 16435, NBRC 16435, NCIMB 8254",1,"Rhodobacter capsulatus",Rhodobacter
+146576,,"CCUG 31483, ATCC 23782, LMG 2373",0,"Rhodobacter capsulatus",Rhodobacter
+141549,,"CCUG 2876",0,"Rhodobacter capsulatus",Rhodobacter
+13805,37b4,"DSM 938",0,"Rhodobacter capsulatus",Rhodobacter
+13807,6950,"DSM 152, Pfennig 6950",0,"Rhodobacter capsulatus",Rhodobacter
+13808,"Kb 1","DSM 155",0,"Rhodobacter capsulatus",Rhodobacter
+13809,"Dr 1 G","DSM 156",0,"Rhodobacter capsulatus",Rhodobacter
+13810,"28 G","DSM 157",0,"Rhodobacter capsulatus",Rhodobacter
+168385,"SYSU G03088","KCTC 72354, CGMCC 1.16876, SYSU G03088",1,"Rhodobacter flagellatus",Rhodobacter
+13825,JA192,"DSM 18678, JCM 14543, MTCC 8172, CCUG 53723",1,"Cereibacter johrii",Cereibacter
+140726,JA826,"KCTC 15478, LMG 28758",1,"Rhodobacter lacus",Rhodobacter
+134339,JA276,"JCM 14794, ATCC BAA-1549, CCUG 55129",1,"Rhodobacter maris",Rhodobacter
+132863,D5-41,"DSM 18849",1,"Rhodobacter maritimus",Rhodobacter
+13824,JA194,"DSM 18937, JCM 14598, KCTC 5602, UCCCB23",1,"Rhodobacter megalophilus",Rhodobacter
+134337,JA234,"JCM 14779, CCUG 55049",1,"Cereibacter ovatus",Cereibacter
+168425,CCP-1,"BCRC 81189, LMG 31335",1,"Rhodobacter ruber",Rhodobacter
+136796,,"CIP 107940",1,"Rhodobacter sanguinis",Rhodobacter
+168411,"JA983, Rhodobacter sp. JA983","NBRC 113843, KCTC 15782",1,"Rhodobacter sediminicola",Rhodobacter
+140806,N1,"KEMB 563-471, JCM 31175",1,"Rhodobacter sediminis",Rhodobacter
+13815,"O.U. 001","DSM 5864",0,"Rhodobacter sp.",Rhodobacter
+13819,O.U.5,"DSM 7066",0,"Rhodobacter sp.",Rhodobacter
+13820,O.U.13,"DSM 7376",0,"Rhodobacter sp.",Rhodobacter
+132817,Cr4-37,"DSM 23261",0,"Rhodobacter sp.",Rhodobacter
+132818,Cr5-50,"DSM 23280",0,"Rhodobacter sp.",Rhodobacter
+132819,BF9,"DSM 23281",0,"Rhodobacter sp.",Rhodobacter
+146577,,"CCUG 31485, ATCC 21286, LMG 2823",0,"Cereibacter sphaeroides",Cereibacter
+100607,,,0,"Cereibacter sphaeroides",Cereibacter
+174171,2,"CIP 60.7",0,"Cereibacter sphaeroides",Cereibacter
+166680,CYK-10,"BCRC 81191, LMG 31336",1,"Rhodobacter tardus",Rhodobacter
+13821,"51, BN 714","DSM 11550, ATCC 35703, CIP 103912, IFO 16458, NBRC 16458",1,"Phaeovulum veldkampii",Phaeovulum
+13822,"JA 123, JA123","DSM 18714, CCUG 54311, JCM 14544, CIP 109721",1,"Phaeovulum vinaykumarii",Phaeovulum
+133800,JA737,"KCTC 15167, MTCC 11105, NBRC 108864",1,"Rhodobacter viridis",Rhodobacter
+166318,TJ48,"CCTCC AB 2019120, KCTC 72510",1,"Rhodobacter xinxiangensis",Rhodobacter
+139991,CB-26B,"DSM 22305",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+158113,G8,"DSM 22013",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+158114,"sw 101, sw101","DSM 25595",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+158115,H61,"DSM 25887",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+169575,LSUCC1028,"DSM 112818",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+169576,LSUCC0374,"DSM 112819",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+169577,LSUCC0387,"DSM 112820",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+131149,JC2048,"DSM 15270",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+131150,JC2046,"DSM 15280, KCTC 12046",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+131151,JC2047,"DSM 15291, KCTC 12047",0,"Rhodobacteraceae (not further classified)",Rhodobacteraceae
+167470,B7-4,"LMG 28126, VKM B-2708",1,"Rhodobaculum claviforme",Rhodobaculum
+13872,JA173,"DSM 17935, ATCC BAA-1215, JCM 13532, ATCC BAA-1275, CIP 109649",1,"Rhodobium gokarnense",Rhodobium
+13870,,"DSM 11290, JCM 9337, ATCC 51972, NCIMB 13423",1,"Rhodobium orientis",Rhodobium
+13871,,"DSM 11349, JCM 9338",0,"Rhodobium orientis",Rhodobium
+1798,7050,"DSM 137, ATCC 25092, Pfennig 7050, CIP 103962, LMG 4304, NCIMB 11761",1,"Rhodoblastus acidophilus",Rhodoblastus
+1799,2751,"DSM 142, Pfennig 2751",0,"Rhodoblastus acidophilus",Rhodoblastus
+1800,10050,"DSM 145, Pfennig 10050",0,"Rhodoblastus acidophilus",Rhodoblastus
+1801,RS,"DSM 16996, VKM B-2361",1,"Rhodoblastus sphagnicola",Rhodoblastus
+167770,ISCAR-4553,"ATCC TSD-179, DSM 110790",1,"Rhodocaloribacter litoris",Rhodocaloribacter
+14012,"strain Favinger/Gest","DSM 8284, ATCC 43720, JCM 21060",1,"Rhodocista centenaria",Rhodocista
+13957,"Favinger/Gest strain","DSM 9894, ATCC 43720, JCM 21060, IAM 14193, IFO 16667, NBRC 16667",1,"Rhodocista centenaria",Rhodocista
+137571,3-P,"CIP 108102, JCM 11669, AS 1.2194, CGMCC 1.2194",1,"Rhodocista pekingensis",Rhodocista
+163118,,"JCM 21251, IAM 14575",0,"Rhodocista sp.",Rhodocista
+163119,,"JCM 21252, IAM 14576",0,"Rhodocista sp.",Rhodocista
+147075,,"CCUG 32800",0,"Rhodocista sp.",Rhodocista
+162526,,"JCM 19485, KCTC 29240",1,"Rhodococcus aerolatus",Rhodococcus
+11035,10BC-312,"DSM 44752, NCIMB 13964, JCM 14343, CIP 108427",1,"Rhodococcus aetherivorans",Rhodococcus
+11036,,"DSM 44754, NCIMB 13965, BC Bc663, BC 663",0,"Rhodococcus aetherivorans",Rhodococcus
+132252,,"DSM 102213, CCTCC AB 2014297, KCTC 39118, CFH S0262",1,"Rhodococcus agglutinans",Rhodococcus
+131496,D7-21,"DSM 46727, KCTC 29469",1,"Rhodococcus antrifimi",Rhodococcus
+11048,,"DSM 45380, CCTCC AA 209042, YIM 65754",1,"Rhodococcus artemisiae",Rhodococcus
+11030,A1-22,"DSM 44587, JCM 11411, GTC 1041, BCRC 16819, CCM 8450, CIP 108436, IAM 15238, NBRC 100611, NCIMB 14262",1,"Rhodococcus erythropolis",Rhodococcus
+162300,,"JCM 18801, KCTC 19793, NBRC 107577",0,"Rhodococcus erythropolis",Rhodococcus
+132205,TG9,"DSM 102211, CGMCC 1.12975, KCTC 29673, MCCC 1K00286",1,"Rhodococcus pyridinivorans",Rhodococcus
+133767,,"KCTC 19851, JCM 17578, DSM 46692, MBRL 353",1,"Rhodococcus canchipurensis",Rhodococcus
+160072,C1-24,"DSM 109484, KACC 19964",1,"Rhodococcus cavernicola",Rhodococcus
+23161,"C5, C5(2010)","DSM 45579, CCM 7906, LMG 26203, CCUG 60725",1,"Rhodococcus cerastii",Rhodococcus
+103877,SF000811(FSU),,0,"Rhodococcus cerastrii",Rhodococcus
+11049,,"DSM 45141, CCTCC AB 207160, YIM 65003",1,"Rhodococcus cercidiphylli",Rhodococcus
+10836,"N 744, A-0200, N744, 687","DSM 43347, ATCC 29080, CUB 687, IMET 7375, JCM 3200, NCIB 11211, NCTC 10994, BCRC 13383, CBS 313.75, CCM 2723, CCUG 23572, CECT 5751, CGMCC 4.1813, CIP 104178, IFM 0143, IFM 0164, KCTC 9804, LMG 5357, NBRC 100603, NCIMB 11211, NRRL B-16537, PCM 2174, VKM Ac-571",1,"Rhodococcus coprophilus",Rhodococcus
+159041,BL-253-APC-6A1W,"DSM 106145",0,"Rhodococcus coprophilus",Rhodococcus
+144206,,"CCUG 23605",0,"Rhodococcus coprophilus",Rhodococcus
+145161,,"CCUG 27780",0,"Rhodococcus coprophilus",Rhodococcus
+10835,"N 650","DSM 43339, CIP 104628, CUB 628, CCUG 23605",0,"Rhodococcus coprophilus",Rhodococcus
+10837,34G12,"DSM 43447",0,"Rhodococcus coprophilus",Rhodococcus
+10838,"81NKrauth, 81N<SUB>Krauth</SUB>","DSM 43591",0,"Rhodococcus coprophilus",Rhodococcus
+10839,,"DSM 44751",0,"Rhodococcus coprophilus",Rhodococcus
+10840,"A747 Lacey","DSM 46034, CIP 104657, CUB 415, IMET 7414, IMET 46034",0,"Rhodococcus coprophilus",Rhodococcus
+136330,,"CIP 104639, CCUG 23571",0,"Rhodococcus coprophilus",Rhodococcus
+159040,WB03-B01-AE,"DSM 105337",0,"Rhodococcus coprophilus",Rhodococcus
+10832,,"DSM 20151, ATCC 14898, CIP 104510, NCIB 9433, NCTC 10391, NRRL B-24037, CCUG 37877, IFM 0238, IFO 14404, IMET 7767, JCM 3376, BCRC 13739, CECT 420, JCM 3391, KCTC 9613, KCTC 9820, MTCC 699, NBRC 14404, NCIMB 9433, VKM Ac-870",1,"Rhodococcus corynebacterioides",Rhodococcus
+156273,,"CCUG 60987",0,"Rhodococcus corynebacterioides",Rhodococcus
+155069,,"CCUG 56373",0,"Rhodococcus corynebacterioides",Rhodococcus
+153413,,"CCUG 49507",0,"Rhodococcus corynebacterioides",Rhodococcus
+153481,,"CCUG 49711",0,"Rhodococcus corynebacterioides",Rhodococcus
+154323,,"CCUG 53084",0,"Rhodococcus corynebacterioides",Rhodococcus
+135459,,"CIP 104291, NRRL B-24250",0,"Rhodococcus corynebacterioides",Rhodococcus
+10833,,"DSM 44601, DSM 12676, NRRL B-184",0,"Rhodococcus corynebacterioides",Rhodococcus
+136293,,"CIP 104294, NRRL B-24251",0,"Rhodococcus corynebacterioides",Rhodococcus
+160568,Z1,"DSM 107227, CGMCC 1.13630",0,"Rhodococcus daqingensis",Rhodococcus
+24244,"Ca-11, Ca11","DSM 45893, LMG 27563, CIP 110596",1,"Rhodococcus defluvii",Rhodococcus
+169822,,"LMG 28633, CCM 4446",0,"Rhodococcus erythropolis",Rhodococcus
+159878,JC435,"KCTC 39856, LMG 29881, MCC 3659",1,"Rhodococcus electrodiphilus",Rhodococcus
+137485,16449,"CIP 58.71",0,"Rhodococcus equi",Rhodococcus
+136114,,"CIP 102613",0,"Rhodococcus equi",Rhodococcus
+137593,"Cattin, 219-79","CIP 79.36",0,"Rhodococcus equi",Rhodococcus
+137851,,"CIP 101849",0,"Rhodococcus equi",Rhodococcus
+137971,,"CIP 102374",0,"Rhodococcus equi",Rhodococcus
+134837,304-74,"CIP 74.35",0,"Rhodococcus equi",Rhodococcus
+135024,165-87,"CIP 102900",0,"Rhodococcus equi",Rhodococcus
+135118,787-80,"CIP 104292",0,"Rhodococcus equi",Rhodococcus
+137484,16.111,"CIP 58.70",0,"Rhodococcus equi",Rhodococcus
+138861,6600,"CIP 58.69",0,"Rhodococcus equi",Rhodococcus
+172710,GK1,"CIP 105335",0,"Rhodococcus equi",Rhodococcus
+136089,"3158, 413-86","CIP 102409",0,"Rhodococcus equi",Rhodococcus
+10866,"A-0201, N11","DSM 43066, ATCC 25544, ATCC 4277, CBS 266.39, CCM 277, CIP 104179, DSM 763, IFO 15567, JCM 3201, NBRC 15567, NCIB 11148, NCIB 9158, NRRL B-16025, BCRC 10909, CCT 1878, CCUG 23603, CECT 3013, CGMCC 1.2362, CGMCC 4.1814, CIP 104662, DSM 743, HAMBI 1953, IAM 12122, IFM 0165, IMET 7462, IMSNU 20115, JCM 20419, KCTC 1062, LMG 5359, NBIMCC 1360, NCIMB 11148, NCIMB 9158, NCTC 13021, NRRL B-1532, PCM 2150, VKM Ac-1337, VKM Ac-858",1,"Rhodococcus erythropolis",Rhodococcus
+10872,,"DSM 43574, CBS 611.67, SN 6400",0,"Rhodococcus erythropolis",Rhodococcus
+137854,"IFP 192 P","CIP 101879",0,"Rhodococcus erythropolis",Rhodococcus
+10873,TTD-1,"DSM 43933",0,"Rhodococcus erythropolis",Rhodococcus
+10874,N63,"DSM 43958",0,"Rhodococcus erythropolis",Rhodococcus
+154681,,"CCUG 54830",0,"Rhodococcus erythropolis",Rhodococcus
+10861,EK2,"DSM 12788",0,"Rhodococcus erythropolis",Rhodococcus
+166075,,"JCM 9804",0,"Rhodococcus erythropolis",Rhodococcus
+10862,EK5,"DSM 12789",0,"Rhodococcus erythropolis",Rhodococcus
+166076,,"JCM 9805",0,"Rhodococcus erythropolis",Rhodococcus
+162788,,"JCM 20154, IAM 1400",0,"Rhodococcus erythropolis",Rhodococcus
+138041,,"CIP 102573",0,"Rhodococcus erythropolis",Rhodococcus
+151111,,"CCUG 43294",0,"Rhodococcus erythropolis",Rhodococcus
+10876,N60,"DSM 43957",0,"Rhodococcus erythropolis",Rhodococcus
+10863,,"DSM 20665, ATCC 27854, JCM 11573, CCM 2769, KCTC 3483, LMG 16262",0,"Nocardia calcarea",Nocardia
+134648,"TA 57","CIP 107391",0,"Rhodococcus erythropolis",Rhodococcus
+162791,,"JCM 20161, CIP 104648, IAM 1428, IFO 12540, NBRC 12540",0,"Rhodococcus erythropolis",Rhodococcus
+138089,,"CIP 104646, ATCC 21035, IFO 12320",0,"Rhodococcus erythropolis",Rhodococcus
+10864,T-16,"DSM 43135, LBG A 3116, NCIB 9409, ETH 31549, JCM 3192, IMET 7471, NCIMB 9409",0,"Rhodococcus erythropolis",Rhodococcus
+157817,BG43,"DSM 46869",0,"Rhodococcus erythropolis",Rhodococcus
+130481,,"DSM 26610, NCIMB 8147",0,"Rhodococcus erythropolis",Rhodococcus
+10877,,"DSM 44235",0,"Rhodococcus erythropolis",Rhodococcus
+162792,,"JCM 20165, IAM 1440",0,"Rhodococcus erythropolis",Rhodococcus
+157818,"Stevenage 150518_C15","DSM 107796",0,"Rhodococcus erythropolis",Rhodococcus
+10865,"No 52","DSM 43060, ATCC 11048, CCM 2595, NCIB 8147, NCTC 8036, CCUG 12167, JCM 3132, CECT 3008, CGMCC 4.1491, IFO 13914, IMET 7462, NBRC 13914, NCIMB 8147, NRRL B-1574",0,"Rhodococcus erythropolis",Rhodococcus
+10878,"404-97, H1aT1, PWD28","DSM 44308",0,"Rhodococcus erythropolis",Rhodococcus
+162796,,"JCM 20170, IAM 1452",0,"Rhodococcus erythropolis",Rhodococcus
+10879,MAWF,"DSM 44522",0,"Rhodococcus erythropolis",Rhodococcus
+10867,,"DSM 43188, ATCC 19369, CBS 613.67, CCM 2597, NCIB 8863, JCM 3191, BCRC 13743, IMET 7472, KCTC 9077, MTCC 1548, NBIMCC 1358, NCAIM B.01653, NCIMB 8863",0,"Nocardia calcarea",Nocardia
+10880,DTB,"DSM 44534",0,"Rhodococcus erythropolis",Rhodococcus
+162803,,"JCM 20186, IAM 1503",0,"Rhodococcus erythropolis",Rhodococcus
+146519,,"CCUG 31366",0,"Rhodococcus erythropolis",Rhodococcus
+10868,,"DSM 43200, DSM 314, NCIB 9905",0,"Rhodococcus erythropolis",Rhodococcus
+10914,"81 N Fr","DSM 43590",0,"Rhodococcus erythropolis",Rhodococcus
+10869,"A 20-17, Schering 254","DSM 43288, ATCC 14559",0,"Rhodococcus erythropolis",Rhodococcus
+138358,,"CIP 106505, NRRL B-16531, ATCC 15960, JCM 2893, IAM 1474, CIP 104498",0,"Rhodococcus erythropolis",Rhodococcus
+131916,Stev11,"DSM 103048",0,"Rhodococcus erythropolis",Rhodococcus
+160170,"CCMMB1294, GK12","DSM 102980",0,"Rhodococcus erythropolis",Rhodococcus
+139251,,"CIP 104647, IAM 1414, IFO 12539, JCM 20158, NBRC 12539",0,"Rhodococcus erythropolis",Rhodococcus
+103558,ST033319(HKI),,0,"Rhodococcus erythropolis",Rhodococcus
+151622,,"CCUG 44470",0,"Rhodococcus erythropolis",Rhodococcus
+10851,"huber, 2411","DSM 312, ATCC 15591, CCUG 27198",0,"Rhodococcus erythropolis",Rhodococcus
+10870,"B-286, Schering 270","DSM 43296, ATCC 17895",0,"Rhodococcus erythropolis",Rhodococcus
+152104,,"CCUG 45793",0,"Rhodococcus erythropolis",Rhodococcus
+10871,"B-285, Schering 271","DSM 43297, ATCC 17896",0,"Rhodococcus erythropolis",Rhodococcus
+152657,,"CCUG 47303",0,"Rhodococcus erythropolis",Rhodococcus
+139773,ACN1,"DSM 105063",0,"Rhodococcus erythropolis",Rhodococcus
+137083,,"CIP 104497, ATCC 15963, IAM 1399, IFO 12538, JCM 2892, NBRC 12538",0,"Rhodococcus erythropolis",Rhodococcus
+163709,,"JCM 3011, CGMCC 4.1481, IFM 0020",0,"Rhodococcus erythropolis",Rhodococcus
+10852,B-297,"DSM 313, ATCC 19140",0,"Rhodococcus erythropolis",Rhodococcus
+137086,P-8-1,"CIP 104499, ATCC 15961, IAM 1484, JCM 2894, IFO 12682, NBRC 12682",0,"Rhodococcus erythropolis",Rhodococcus
+10853,,"DSM 743, ATCC 25544, CCM 277, NCIB 9158",0,"Rhodococcus erythropolis",Rhodococcus
+137088,,"CIP 104500, ATCC 15962, IAM 1494, JCM 2895",0,"Rhodococcus erythropolis",Rhodococcus
+10854,B-286,"DSM 772, DSM 43296",0,"Rhodococcus erythropolis",Rhodococcus
+152710,,"CCUG 47441",0,"Rhodococcus erythropolis",Rhodococcus
+10855,HA1,"DSM 6344",0,"Rhodococcus erythropolis",Rhodococcus
+146583,,"CCUG 31495",0,"Rhodococcus erythropolis",Rhodococcus
+10856,CAA2,"DSM 7337",0,"Rhodococcus erythropolis",Rhodococcus
+10857,MPropP3,"DSM 8424",0,"Rhodococcus erythropolis",Rhodococcus
+152741,,"CCUG 47521",0,"Rhodococcus erythropolis",Rhodococcus
+10858,MP50,"DSM 9675",0,"Rhodococcus erythropolis",Rhodococcus
+145711,,"CCUG 29360",0,"Rhodococcus erythropolis",Rhodococcus
+150997,,"CCUG 42976",0,"Rhodococcus erythropolis",Rhodococcus
+10859,C3II,"DSM 9685",0,"Rhodococcus erythropolis",Rhodococcus
+156842,,"CCUG 66020",0,"Rhodococcus erythropolis",Rhodococcus
+10860,K2a,"DSM 11397",0,"Rhodococcus erythropolis",Rhodococcus
+166074,,"JCM 9803",0,"Rhodococcus erythropolis",Rhodococcus
+10883,,"DSM 20669, ATCC 12974, CIP 104713, IFO 12155, JCM 1316, NBRC 12155, NCPPB 3067, CCUG 51073, JCM 10002, BCRC 13609, CFBP 2401, CGMCC 4.1817, CNCTC Cor 66/77, ICMP 5833, ICPB CF122, KCTC 9813, LMG 3623, MTCC 1531, NBRC 100625, NCIMB 13432, NRRL B-16937, VKM Ac-1462, IAM 12427, ICPB CF 122",1,"Rhodococcus fascians",Rhodococcus
+10890,,"DSM 45106, BEM 660",0,"Rhodococcus fascians",Rhodococcus
+137274,56/2a,"CIP 104670, LMG 3618, NCPPB 2553",0,"Rhodococcus fascians",Rhodococcus
+10891,,"DSM 46103, CIP 104629, IMET 7762, VKM Ac-868",0,"Rhodococcus fascians",Rhodococcus
+137275,,"CIP 104671, LMG 3633",0,"Rhodococcus fascians",Rhodococcus
+152269,,"CCUG 46265",0,"Rhodococcus fascians",Rhodococcus
+8455,"TBC 4351/91","DSM 44418",0,"Rhodococcus fascians",Rhodococcus
+152981,,"CCUG 48189",0,"Rhodococcus fascians",Rhodococcus
+136326,,"CIP 104645, IAM 1279, IFO 12077",0,"Rhodococcus fascians",Rhodococcus
+136327,,"CIP 104643, LMG 3626",0,"Rhodococcus fascians",Rhodococcus
+151837,,"CCUG 45011",0,"Rhodococcus fascians",Rhodococcus
+134414,C676,"CIP 104669, LMG 3614, NCPPB 2211",0,"Rhodococcus fascians",Rhodococcus
+10882,"CF 19, CF 107(505)","DSM 20131, ATCC 12975, CIP 104625, NCPPB 3836",0,"Rhodococcus fascians",Rhodococcus
+10884,81N-Sch,"DSM 43586",0,"Rhodococcus fascians",Rhodococcus
+103559,ST033347(HKI),,0,"Rhodococcus fascians",Rhodococcus
+10885,,"DSM 43673, ATCC 35014, AUCNM A-594, JCM 6162, VKM Ac-594, IMV 385, CIP 104187, IFO 15528, LMG 5360, NBRC 15528, NCIMB 11743, NRRL B-16939",0,"Rhodococcus fascians",Rhodococcus
+165353,,"JCM 6165, IMV 27, VKM Ac-1006",0,"Rhodococcus fascians",Rhodococcus
+10886,"N 1026","DSM 43985, IMV 29",0,"Rhodococcus fascians",Rhodococcus
+10887,"N 1062","DSM 43987",0,"Rhodococcus fascians",Rhodococcus
+137089,,"CIP 104504, IMV 187, JCM 6163, VKM Ac-986",0,"Rhodococcus fascians",Rhodococcus
+10888,VI,"DSM 44425",0,"Rhodococcus fascians",Rhodococcus
+137090,,"CIP 104505, IMV 419, JCM 6164, VKM Ac-991",0,"Rhodococcus fascians",Rhodococcus
+10889,B2L3,"DSM 44858",0,"Rhodococcus fascians",Rhodococcus
+154524,,"CCUG 54217",0,"Rhodococcus fascians",Rhodococcus
+158298,M1,"DSM 104003, CGMCC 1.15992",1,"Rhodococcus gannanensis",Rhodococcus
+10991,"544, R 58, R58","DSM 43954, ATCC 25714, IFO 14531, IMET 7543, JCM 7472, NBRC 14531, BCRC 13727, CCM 8449, CGMCC 4.1819, CIP 104174, IAM 15168, IAM 15237, KCTC 9810, NCIMB 12315, NRRL B-16938, PCM 2301",1,"Rhodococcus globerulus",Rhodococcus
+10990,R56,"DSM 43953, ATCC 25711, CIP 104653, IMET 7542",0,"Rhodococcus globerulus",Rhodococcus
+10992,"308-97, PWD8, SbaT1","DSM 44306",0,"Rhodococcus globerulus",Rhodococcus
+10993,MAWB,"DSM 44520",0,"Rhodococcus globerulus",Rhodococcus
+10994,MAWE,"DSM 44521",0,"Rhodococcus globerulus",Rhodococcus
+10995,MAWA,"DSM 44519",0,"Rhodococcus globerulus",Rhodococcus
+24243,"97-406, PWD30","DSM 44310",0,"Rhodococcus globerulus",Rhodococcus
+11033,W4937,"DSM 44689, NCTC 13296, JCM 12658, CIP 108424",1,"Rhodococcus gordoniae",Rhodococcus
+8501,,"DSM 44777, CAD 14",0,"Rhodococcus gordoniae",Rhodococcus
+11032,,"DSM 44690, MTCC 1534, JCM 12759",0,"Rhodococcus gordoniae",Rhodococcus
+10842,,"DSM 20295, ATCC 7005, CCUG 20991, CIP 81.17, JCM 1319, NBRC 103062, NCTC 10673, BCRC 12158, CGMCC 1.1887, IAM 12428",1,"Rhodococcus hoagii",Rhodococcus
+130478,CV1,"DSM 26607",0,"Rhodococcus hoagii",Rhodococcus
+130479,GV1,"DSM 26608",0,"Rhodococcus hoagii",Rhodococcus
+130480,GV2,"DSM 26609",0,"Rhodococcus hoagii",Rhodococcus
+147113,,"CCUG 32889",0,"Rhodococcus hoagii",Rhodococcus
+147172,,"CCUG 32992",0,"Rhodococcus hoagii",Rhodococcus
+165429,,"JCM 6828",0,"Rhodococcus hoagii",Rhodococcus
+152324,,"CCUG 46442",0,"Rhodococcus hoagii",Rhodococcus
+165430,,"JCM 6829",0,"Rhodococcus hoagii",Rhodococcus
+165433,,"JCM 6832",0,"Rhodococcus hoagii",Rhodococcus
+146163,,"CCUG 30487",0,"Rhodococcus hoagii",Rhodococcus
+153177,,"CCUG 48649",0,"Rhodococcus hoagii",Rhodococcus
+145182,,"CCUG 27822, ATCC 33703",0,"Rhodococcus hoagii",Rhodococcus
+145183,,"CCUG 27823, ATCC 33707",0,"Rhodococcus hoagii",Rhodococcus
+161313,,"JCM 1312, ATCC 10146, IAM 12444, IMSNU 20113, KCTC 3134",0,"Rhodococcus hoagii",Rhodococcus
+161314,,"JCM 1313, IAM 12445",0,"Rhodococcus hoagii",Rhodococcus
+149690,,"CCUG 38197",0,"Rhodococcus hoagii",Rhodococcus
+145443,,"CCUG 28565",0,"Rhodococcus hoagii",Rhodococcus
+161315,,"JCM 1314, IAM 12446",0,"Rhodococcus hoagii",Rhodococcus
+10849,RW2/1,"DSM 30791",0,"Rhodococcus hoagii",Rhodococcus
+143270,,"CCUG 18145",0,"Rhodococcus hoagii",Rhodococcus
+153564,,"CCUG 50191 A",0,"Rhodococcus hoagii",Rhodococcus
+143383,,"CCUG 18812",0,"Rhodococcus hoagii",Rhodococcus
+145469,,"CCUG 28631",0,"Rhodococcus hoagii",Rhodococcus
+146579,,"CCUG 31490",0,"Rhodococcus hoagii",Rhodococcus
+154560,,"CCUG 54412",0,"Rhodococcus hoagii",Rhodococcus
+165418,,"JCM 6817",0,"Rhodococcus hoagii",Rhodococcus
+165419,,"JCM 6818",0,"Rhodococcus hoagii",Rhodococcus
+130476,,"DSM 26605, NCIMB 10027",0,"Rhodococcus hoagii",Rhodococcus
+165420,,"JCM 6819, BCRC 13634",0,"Rhodococcus hoagii",Rhodococcus
+130477,VI1,"DSM 26606",0,"Rhodococcus hoagii",Rhodococcus
+165421,,"JCM 6820",0,"Rhodococcus hoagii",Rhodococcus
+141077,,"KACC 18500, NBRC 111581, UC 33",1,"Rhodococcus humicola",Rhodococcus
+11044,"RKJ 300","DSM 45091, CIP 109333, JCM 13270, MTCC 7085, NCIMB 14316",1,"Rhodococcus opacus",Rhodococcus
+11034,,"DSM 44719, CCM 4760, IFO 16295, NBRC 16295, JCM 11615, CIP 107459, KCTC 19938, NCIMB 14263",1,"Rhodococcus jostii",Rhodococcus
+11027,"DNP 505, DNP505","DSM 44498, JCM 10743, KCTC 0569BP, CGMCC 4.1724, CGMCC 4.1822, CIP 106721, NBRC 100607, NCIMB 13709",1,"Rhodococcus koreensis",Rhodococcus
+130486,NEAU-ML12,"DSM 46702, CGMCC 4.7145",0,"Rhodococcus kronopolitis",Rhodococcus
+11041,K07-23,"DSM 44908, JCM 13011, MTCC 6634, CIP 109246, NBRC 103113, NCIMB 14317",1,"Rhodococcus kroppenstedtii",Rhodococcus
+11045,DS472,"DSM 45159, CCTCC AB 206088, CIP 109729, IAM 15415, JCM 23211",1,"Rhodococcus kyotonensis",Rhodococcus
+131497,DW151B,"DSM 45625, MTCC 12279",1,"Rhodococcus lactis",Rhodococcus
+11031,M712,"DSM 44675, AS 4.1720, CIP 107806, JCM 11374, BCRC 16384, CGMCC 4.1720, KCTC 9961, NBRC 100610",1,"Rhodococcus maanshanensis",Rhodococcus
+10892,3438W,"DSM 43752, ATCC 35653, IFO 14363, JCM 6241, NBRC 14363, NCMB 2246, BCRC 13696, CECT 4621, CGMCC 4.1726, CIP 104177, KCTC 9809, NCIMB 2246, NRRL B-16940, VKM Ac-1182",1,"Rhodococcus marinonascens",Rhodococcus
+103561,ST033349(HKI),,0,"Rhodococcus marinonascens",Rhodococcus
+11050,,"DSM 45608, CCTCC AB 2011024, SCSIO 10187",1,"Rhodococcus nanhaiensis",Rhodococcus
+11051,,"DSM 45609, CCTCC AB 2011025, SCSIO 10197",0,"Rhodococcus nanhaiensis",Rhodococcus
+103564,STH00244(ZIMET),"HKI 0244",0,"Couchioplanes caeruleus subsp. azureus",Couchioplanes
+158727,Ktm-20,"KEMB 9005-695, KACC 19390, JCM 32206",1,"Rhodococcus olei",Rhodococcus
+10998,"1b, 18","DSM 43205, ATCC 51881, CIP 104549, DSM 427, JCM 9703, CGMCC 4.1820, IFO 16217, KCTC 9811, LMG 18000, NBRC 100624, NBRC 16217, NCIMB 10810, NCIMB 13353",1,"Rhodococcus opacus",Rhodococcus
+11021,R1L6,"DSM 44855",0,"Rhodococcus opacus",Rhodococcus
+160415,1CP,"DSM 46757, VKM Ac-2638",0,"Rhodococcus opacus",Rhodococcus
+11022,,"DSM 46027, IMET 7365, NCIB 9702",0,"Rhodococcus opacus",Rhodococcus
+10996,,"DSM 1069",0,"Rhodococcus opacus",Rhodococcus
+10997,C125,"DSM 8531",0,"Rhodococcus opacus",Rhodococcus
+10999,,"DSM 43206, ATCC 21499, DSM 441, CIP 104550, NCIMB 11276",0,"Rhodococcus opacus",Rhodococcus
+11000,,"DSM 43250, ATCC 51882",0,"Rhodococcus opacus",Rhodococcus
+173346,"GK 3, GK3","CIP 110889, CCMM B1295",0,"Rhodococcus opacus",Rhodococcus
+11001,,"DSM 43251",0,"Rhodococcus opacus",Rhodococcus
+11002,"Pellegrino 327","DSM 43252, CIP 104626",0,"Rhodococcus opacus",Rhodococcus
+11003,"S676, 225","DSM 43280, ATCC 4275, IMET 7025, KCC A-0009, JCM 3009, IFM 0024",0,"Rhodococcus opacus",Rhodococcus
+11004,691-19,"DSM 43943, IMET 7363",0,"Rhodococcus opacus",Rhodococcus
+11005,,"DSM 44072, CBS 330.61",0,"Rhodococcus opacus",Rhodococcus
+11006,,"DSM 44236",0,"Rhodococcus opacus",Rhodococcus
+11007,MoAcy1,"DSM 44186",0,"Rhodococcus opacus",Rhodococcus
+11008,"Tue Acy 1","DSM 44188",0,"Rhodococcus opacus",Rhodococcus
+136650,R7,"CIP 107348",0,"Rhodococcus opacus",Rhodococcus
+11010,"305-97, L2aT3, PWD5","DSM 44304",0,"Rhodococcus opacus",Rhodococcus
+11011,"307-97, PWD7, S2aT5, S<SUB>2</SUB>aT5","DSM 44305",0,"Rhodococcus opacus",Rhodococcus
+11012,"310-97, L1aT1, PWD10","DSM 44307",0,"Rhodococcus opacus",Rhodococcus
+11013,GW-86a,"DSM 44311",0,"Rhodococcus opacus",Rhodococcus
+103557,ST033313(HKI),,0,"Rhodococcus opacus",Rhodococcus
+11014,Bie-17,"DSM 44312",0,"Rhodococcus opacus",Rhodococcus
+11015,"304-97, H1aT2, PWD4","DSM 44313",0,"Rhodococcus opacus",Rhodococcus
+11016,"315-97, PWD15, S1aT1","DSM 44314",0,"Rhodococcus opacus",Rhodococcus
+11017,"97-319, H3aT3, PWD19","DSM 44315",0,"Rhodococcus opacus",Rhodococcus
+11018,ISO-5,"DSM 44600",0,"Rhodococcus opacus",Rhodococcus
+11019,ROL1,"DSM 44853",0,"Rhodococcus opacus",Rhodococcus
+11020,ROL2,"DSM 44854",0,"Rhodococcus opacus",Rhodococcus
+160315,NEAU-CX67,"DSM 107701, CCTCC AB 2018233",1,"Rhodococcus oryzae",Rhodococcus
+169824,S2-17,"JCM 32046, KACC 19281",1,"Rhodococcus oxybenzonivorans",Rhodococcus
+141076,,"KACC 18499, NBRC 111580, UC 12",1,"Rhodococcus pedocola",Rhodococcus
+11026,"LMAU.R292, HAMBI, MBS 1","DSM 44240, CIP 104964, HAMBI 1752, LMAU R292, JCM 10087",1,"Rhodococcus opacus",Rhodococcus
+103563,ST033351(HKI),,0,"Rhodococcus opacus",Rhodococcus
+11042,G2P,"DSM 44812, CIP 109148, JCM 14914, NRRL B-24323",1,"Rhodococcus phenolicus",Rhodococcus
+170340,"R 79","LMG 32444, CCM 9183, DSM 113102",1,"Rhodococcus pseudokoreensis",Rhodococcus
+140351,cnpma/ant_29,"DSM 104532, CMAA 1533, NRRL B-65465",0,"Rhodococcus psychrotolerans",Rhodococcus
+11029,,"DSM 44555, KCCM 80005, KCTC 0647BP, PDB 9, JCM 10940, BCRC 16332, CGMCC 4.1825, CIP 107477, NBRC 100608",1,"Rhodococcus pyridinivorans",Rhodococcus
+155234,,"CCUG 57013",0,"Rhodococcus pyridinivorans",Rhodococcus
+10963,BM5,"DSM 11511",0,"Rhodococcus pyridinivorans",Rhodococcus
+11028,C42,"DSM 20415, ATCC 21419, CCUG 28095, CIP 107038, NCIMB 11594",0,"Rhodococcus pyridinivorans",Rhodococcus
+11046,djl-6,"DSM 45222, CGMCC 1.6580, KCTC 19205, JCM 15477, CCM 8451",1,"Rhodococcus erythropolis",Rhodococcus
+11047,djl-6-2,"DSM 45257, CCTCC AB 208292, JCM 16906, CCM 8452",0,"Rhodococcus erythropolis",Rhodococcus
+169602,RL1,"DSM 113666",0,"Rhodococcus erythropolis",Rhodococcus
+130487,TUHH-12,"DSM 46766",0,"Rhodococcus erythropolis",Rhodococcus
+24245,NIO-1009,"DSM 45688, NCIM 5452",0,"Rhodococcus erythropolis",Rhodococcus
+10893,"B/O, N 445, A-0203, N445","DSM 43336, ATCC 35071, KCC A-0203, NCIB 11279, JCM 3203, BCRC 13390, CCUG 23604, CECT 5750, CGMCC 4.1816, CIP 104181, IFM 0149, IMSNU 21249, KCTC 9805, LMG 5363, NBRC 100604, NCIMB 11279, NRRL B-16535, PCM 2157, RIA 1613, VKM Ac-1187",1,"Rhodococcus rhodnii",Rhodococcus
+103560,ST033348(HKI),,0,"Rhodococcus rhodnii",Rhodococcus
+10894,"A1, N 443","DSM 43337, CIP 104627",0,"Rhodococcus rhodnii",Rhodococcus
+10895,"A/O, Gdf N444, Hill A/O, N 444","DSM 43959, CIP 104654, IMET 7464",0,"Rhodococcus rhodnii",Rhodococcus
+10896,"B/I, Gdf N446, Hill B/I, N 446, B/l","DSM 43960, CIP 104655, IMET 7465",0,"Rhodococcus rhodnii",Rhodococcus
+10908,"372, KMRh","DSM 43241, ATCC 13808, CIP 104376, IMET 7374, KCC A-0202, NCIB 11147, NCTC 10210, CCUG 47165, NRRL B-16536, JCM 3202, BCRC 16333, CECT 5749, CGMCC 1.2348, CGMCC 4.1815, HAMBI 1959, IAM 15167, IFM 0163, IFO 16069, KCTC 9086, LMG 5365, MTCC 265, NBRC 16069, NCIMB 11147, NRRL B-2149, VKM Ac-1227, VKM Ac-1338",1,"Rhodococcus rhodochrous",Rhodococcus
+10916,"N 1030","DSM 43986, IMV 347",0,"Rhodococcus rhodochrous",Rhodococcus
+10917,N27H,"DSM 46022, CCM 278, IMET 7285, NCIB 9160, CIP 104624, NCIMB 9160",0,"Rhodococcus rhodochrous",Rhodococcus
+163232,1652,"JCM 2157, ATCC 999, CIP 104495, IAM 12126, NCIMB 9948, VKM Ac-780",0,"Rhodococcus rhodochrous",Rhodococcus
+10918,"Gdf N31, Gordon W21, N31, Overbeck","DSM 46023, IMET 7287",0,"Rhodococcus rhodochrous",Rhodococcus
+10919,"40019, Breed He-11, Gdf R10","DSM 46044, ATCC 14341, IMET 7441, Tsukamura 40019",0,"Rhodococcus rhodochrous",Rhodococcus
+169282,G38GP,"DSM 111905",0,"Rhodococcus rhodochrous",Rhodococcus
+103565,"STH00245(ZIMET), I-449","HKI 0245",0,"Kineosporia rhizophila",Kineosporia
+145853,,"CCUG 29792",0,"Rhodococcus rhodochrous",Rhodococcus
+10560,,"DSM 43240, NCTC 8139, CIP 104649",0,"Rhodococcus rhodochrous",Rhodococcus
+131010,PY11,"DSM 101666",0,"Rhodococcus rhodochrous",Rhodococcus
+10897,,"DSM 363, ATCC 4276, DSM 43202, JCM 20420, IAM 12123, ICPB 4414, LMG 4067",0,"Rhodococcus rhodochrous",Rhodococcus
+10898,An117,"DSM 6263, IMET 7497",0,"Rhodococcus rhodochrous",Rhodococcus
+139137,,"CIP 104496, ATCC 4004, IAM 12127, JCM 2158",0,"Rhodococcus rhodochrous",Rhodococcus
+139161,,"CIP 82.104, ATCC 184, NCTC 2682, NCTC 7510",0,"Rhodococcus rhodochrous",Rhodococcus
+10900,S5,"DSM 6697",0,"Rhodococcus rhodochrous",Rhodococcus
+10901,OR,"DSM 11097",0,"Rhodococcus rhodochrous",Rhodococcus
+136316,,"CIP 104635, PCM 909",0,"Rhodococcus rhodochrous",Rhodococcus
+131917,"RPK 1","DSM 103064",0,"Rhodococcus rhodochrous",Rhodococcus
+10904,,"DSM 43269, ATCC 4273, CBS 197.57, CCM 3245, CIP 104623, IFO 3338, NBRC 3338, NCIB 9259, CCUG 18001, JCM 3010, BCRC 11075, CECT 3046, CECT 3091, CGMCC 4.1480, IAM 12121, ICPB 4421, IFM 0025, IMET 7018, LMG 4077, NCCB 91001, NCIMB 9259, RIA 628, VKM Ac-860",0,"Rhodococcus rhodochrous",Rhodococcus
+10905,,"DSM 43198, NCIB 9701, CIP 104622, IMET 7278, NCIMB 9701",0,"Rhodococcus rhodochrous",Rhodococcus
+136329,N454,"CIP 104638, PCM 2216",0,"Rhodococcus rhodochrous",Rhodococcus
+10875,N56,"DSM 43956",0,"Rhodococcus rhodochrous",Rhodococcus
+144204,,"CCUG 23576, ATCC 25721",0,"Rhodococcus rhodochrous",Rhodococcus
+10909,,"DSM 43273, ATCC 9356, NRRL B-1306",0,"Rhodococcus rhodochrous",Rhodococcus
+10844,N814,"DSM 43969",0,"Rhodococcus rhodochrous",Rhodococcus
+10910,,"DSM 43274, ATCC 271, JCM 2156, BCRC 13391, CIP 104186, IAM 12125, IMSNU 22207, KCTC 3490",0,"Rhodococcus rhodochrous",Rhodococcus
+10913,"N31 R312, W 21","DSM 43334",0,"Rhodococcus rhodochrous",Rhodococcus
+10927,"M-1, N361, A-0205","CCUG 51069, DSM 43338, IFO 15591, KCC A-0205, NBRC 15591, JCM 3205, BCRC 13379, CGMCC 4.1821, CIP 104180, IFM 0148, KCTC 9806, LMG 5366, VKM Ac-1021",1,"Rhodococcus ruber",Rhodococcus
+10956,C208,"DSM 45332",0,"Rhodococcus ruber",Rhodococcus
+10925,"Pellegrino 327","DSM 43232, SN 5101",0,"Rhodococcus ruber",Rhodococcus
+10926,N324,"DSM 43335, ATCC 15998, CCUG 23602, CIP 104641, NCIMB 11149",0,"Rhodococcus ruber",Rhodococcus
+10928,"Pellegrino 330","DSM 43560, SN 5102",0,"Rhodococcus ruber",Rhodococcus
+10929,,"DSM 43561, SN 5108",0,"Rhodococcus ruber",Rhodococcus
+130482,A5,"DSM 46851, CECT 8556",0,"Rhodococcus ruber",Rhodococcus
+10930,,"DSM 43562, SN 5109",0,"Rhodococcus ruber",Rhodococcus
+130483,EE1,"DSM 46852, CECT 8555",0,"Rhodococcus ruber",Rhodococcus
+10931,,"DSM 43563, SN 5110",0,"Rhodococcus ruber",Rhodococcus
+130484,EE6,"DSM 46853, CECT 8612",0,"Rhodococcus ruber",Rhodococcus
+10932,,"DSM 43564, SN 5202",0,"Rhodococcus ruber",Rhodococcus
+10933,,"DSM 43565, SN 5203",0,"Rhodococcus ruber",Rhodococcus
+10934,,"DSM 43566, SN 5204",0,"Rhodococcus ruber",Rhodococcus
+10935,,"DSM 43567, SN 5205",0,"Rhodococcus ruber",Rhodococcus
+136328,,"CIP 104637, CCUG 23577, PCM 2171",0,"Rhodococcus ruber",Rhodococcus
+10936,,"DSM 43571, CBS 245.53, SN 6000",0,"Rhodococcus ruber",Rhodococcus
+10937,"81 N grün","DSM 43588",0,"Rhodococcus ruber",Rhodococcus
+10938,"81 N Mo","DSM 43589",0,"Rhodococcus ruber",Rhodococcus
+136331,,"CIP 104640, CCUG 20988",0,"Rhodococcus ruber",Rhodococcus
+10939,"NI, N<SUB>I</SUB>","DSM 43594",0,"Rhodococcus ruber",Rhodococcus
+10940,"NIIa, N<SUB>I</SUB><SUB>I</SUB><SUB>a</SUB>","DSM 43595",0,"Rhodococcus ruber",Rhodococcus
+151928,,"CCUG 45236",0,"Rhodococcus ruber",Rhodococcus
+10941,N453,"DSM 43961",0,"Rhodococcus ruber",Rhodococcus
+10942,219,"DSM 44190",0,"Rhodococcus ruber",Rhodococcus
+10943,"S679, ES3-T, FH2170","DSM 44319, ATCC 31190, FERM P-3374",0,"Rhodococcus ruber",Rhodococcus
+10944,"CD4=CD+1-4II, CD4=CD<SUP>+</SUP><SUB>1</SUB>-4II","DSM 44394",0,"Rhodococcus ruber",Rhodococcus
+103875,ST004516(HKI),,0,"Rhodococcus ruber",Rhodococcus
+10945,CD4,"DSM 44495",0,"Rhodococcus ruber",Rhodococcus
+10946,"SM 1790, TB1","DSM 44539",0,"Rhodococcus ruber",Rhodococcus
+10947,"EH1, SM1789","DSM 44540",0,"Rhodococcus ruber",Rhodococcus
+10949,"ES 1-T","DSM 44755, ATCC 31191, FERM P-2882",0,"Rhodococcus ruber",Rhodococcus
+10950,,"DSM 44758",0,"Rhodococcus ruber",Rhodococcus
+10951,"373, N 123","DSM 46008, CBS 334.51, CCM 198, IMET 7148, IMET 7302, IMET 7326",0,"Rhodococcus ruber",Rhodococcus
+10952,"906B, Casenuovo, Inst. Sup, Gdf N325, Casenuovo, Inst. Sup","DSM 46025, CIP 104636, IMET 7308, PCM 2166",0,"Rhodococcus ruber",Rhodococcus
+10921,An213,"DSM 6264, IMET 7643",0,"Rhodococcus ruber",Rhodococcus
+10953,"McClung M-122","DSM 46043, CIP 104660, IMET 7437, Tsukamura 23022",0,"Rhodococcus ruber",Rhodococcus
+10922,Sm-1,"DSM 7511, ATCC 51239",0,"Rhodococcus ruber",Rhodococcus
+10954,B113,"DSM 46646, IMET 7358",0,"Rhodococcus ruber",Rhodococcus
+10923,Wrink,"DSM 7512",0,"Rhodococcus ruber",Rhodococcus
+10955,Chol-4,"DSM 45280",0,"Rhodococcus ruber",Rhodococcus
+10924,Propb,"DSM 8425",0,"Rhodococcus ruber",Rhodococcus
+130488,DSD51W,"DSM 46662, JCM 19627, KACC 17838, KCTC 29259",1,"Rhodococcus soli",Rhodococcus
+133063,H004,"DSM 102881, NCAIM B.02632",1,"Rhodococcus sovatensis",Rhodococcus
+103647,ST030086(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103679,ST000655(HKI),,0,"Rhodococcus sp.",Rhodococcus
+159043,UKMP-5T,"DSM 45341",0,"Rhodococcus sp.",Rhodococcus
+103711,ST000860(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103743,ST002197(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10975,8574,"DSM 43945",0,"Rhodococcus sp.",Rhodococcus
+103776,ST002861(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103808,ST009184(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103584,"STI07711(IMET), H15-11",,0,"Rhodococcus sp.",Rhodococcus
+103840,ST021802(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103616,"ST017752(HKI), BI 11593",,0,"Rhodococcus sp.",Rhodococcus
+103872,ST002926(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103648,ST029971(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103680,ST000658(HKI),,0,"Rhodococcus sp.",Rhodococcus
+144207,,"CCUG 23607, ATCC 15504",0,"Rhodococcus sp.",Rhodococcus
+159044,10M2,"DSM 45368",0,"Rhodococcus sp.",Rhodococcus
+103712,ST000862(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103744,ST002198(HKI),,0,"Rhodococcus sp.",Rhodococcus
+131922,Leaf233,"DSM 102718",0,"Rhodococcus sp.",Rhodococcus
+103806,ST002712(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103582,"STI07705(IMET), 788-22",,0,"Rhodococcus sp.",Rhodococcus
+103838,ST018520(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103614,ST031461(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103870,ST001833(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157847,UKMP-7T,"DSM 45342",0,"Rhodococcus sp.",Rhodococcus
+103646,ST030109(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103678,ST000651(HKI),,0,"Rhodococcus sp.",Rhodococcus
+165555,,"JCM 7553, IAM 13988, IFO 14894, NBRC 14894",0,"Rhodococcus sp.",Rhodococcus
+103710,ST000859(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103742,ST002196(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10974,"GN rough, N914","DSM 43977",0,"Rhodococcus sp.",Rhodococcus
+103774,ST002713(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103775,ST002714(HKI),,0,"Rhodococcus sp.",Rhodococcus
+131923,Leaf225,"DSM 102719",0,"Rhodococcus sp.",Rhodococcus
+103807,ST009190(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103583,"STI07710(IMET), H15-10",,0,"Rhodococcus sp.",Rhodococcus
+103839,ST021794(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103615,"ST017678(HKI), BI 08828, CIBAID40628",,0,"Rhodococcus sp.",Rhodococcus
+103871,ST001834(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10912,"A-11, Schering 281","DSM 43302, ATCC 19148",0,"Rhodococcus sp.",Rhodococcus
+103782,ST002158(HKI),,0,"Rhodococcus sp.",Rhodococcus
+159046,UKMP-1T,"DSM 45369",0,"Rhodococcus sp.",Rhodococcus
+103814,ST002177(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103714,ST000868(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103590,ST027907(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103746,ST002200(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103846,ST000865(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10978,"462, R49","DSM 43952, ATCC 25705",0,"Rhodococcus sp.",Rhodococcus
+157823,SC-94,"DSM 1422",0,"Rhodococcus sp.",Rhodococcus
+103779,ST000502(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103622,ST029521(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103811,"ST020169(HKI), BI 09760",,0,"Rhodococcus sp.",Rhodococcus
+103654,"ST023583(HKI), ST 02686 !falschBayer",,0,"Rhodococcus sp.",Rhodococcus
+103587,ST027894(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103686,ST000706(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103843,ST009196(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103718,ST000887(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157820,SC-18,"DSM 1419",0,"Rhodococcus sp.",Rhodococcus
+10948,"H8, SM1788","DSM 44541",0,"Rhodococcus sp.",Rhodococcus
+103619,ST028489(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103750,ST002207(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103651,ST021782(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10982,N967,"DSM 43983",0,"Rhodococcus sp.",Rhodococcus
+103683,ST001835(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103783,ST000707(HKI),,0,"Rhodococcus sp.",Rhodococcus
+159047,,"DSM 45409, JSM 099017",0,"Rhodococcus sp.",Rhodococcus
+103815,ST030111(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103715,ST000870(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103591,ST027911(HKI),,0,"Rhodococcus sp.",Rhodococcus
+23159,BCP1,"DSM 44980",0,"Rhodococcus sp.",Rhodococcus
+103847,ST000866(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103747,ST002202(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10979,"8773, N937","DSM 43980",0,"Rhodococcus sp.",Rhodococcus
+103780,ST000581(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10976,11161,"DSM 43946",0,"Rhodococcus sp.",Rhodococcus
+103812,"ST020175(HKI), BI 09766",,0,"Rhodococcus sp.",Rhodococcus
+103777,ST000473(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103588,ST027896(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103809,ST009189(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103844,ST000671(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103585,"STI07714(IMET), 551-58",,0,"Rhodococcus sp.",Rhodococcus
+157821,SC-65,"DSM 1420",0,"Rhodococcus sp.",Rhodococcus
+103841,ST002673(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103620,ST028498(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103617,"ST017765(HKI), CIBAID40800, BI 09182",,0,"Rhodococcus sp.",Rhodococcus
+103652,ST022724(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103873,ST028490(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103684,ST000668(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103649,ST030115(HKI),,0,"Rhodococcus sp.",Rhodococcus
+159048,,"DSM 45411, YIM 49028",0,"Rhodococcus sp.",Rhodococcus
+103681,ST000661(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103716,ST000871(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10911,,"DSM 43278, ATCC 14350, NCTC 2565",0,"Rhodococcus sp.",Rhodococcus
+103748,ST002205(HKI),,0,"Rhodococcus sp.",Rhodococcus
+159045,UKMP-2T,"DSM 45371",0,"Rhodococcus sp.",Rhodococcus
+10980,"9138, N938","DSM 43981",0,"Rhodococcus sp.",Rhodococcus
+103713,ST000864(HKI),,0,"Rhodococcus sp.",Rhodococcus
+155231,,"CCUG 57009",0,"Rhodococcus sp.",Rhodococcus
+103745,ST002199(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103781,ST002159(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10977,11998,"DSM 43947",0,"Rhodococcus sp.",Rhodococcus
+103813,"ST020433(HKI), BI 09834",,0,"Rhodococcus sp.",Rhodococcus
+161167,,"JCM 11554",0,"Rhodococcus sp.",Rhodococcus
+103589,ST027900(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103778,ST000495(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103845,ST000821(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103810,ST029522(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157822,SC-89,"DSM 1421",0,"Rhodococcus sp.",Rhodococcus
+103586,ST027885(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103621,ST028499(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103842,ST002885(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103653,ST026477(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157819,SC-17,"DSM 1418",0,"Rhodococcus sp.",Rhodococcus
+103685,ST000705(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103618,ST017811(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10915,R73,"DSM 43955",0,"Rhodococcus sp.",Rhodococcus
+103874,ST028491(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103717,ST000879(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103650,ST021714(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103749,ST002206(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103682,ST001831(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10981,N958,"DSM 43982",0,"Rhodococcus sp.",Rhodococcus
+103692,ST028781(HKI),,0,"Rhodococcus sp.",Rhodococcus
+165357,,"JCM 6198",0,"Rhodococcus sp.",Rhodococcus
+166060,,"JCM 9789",0,"Rhodococcus sp.",Rhodococcus
+103689,ST002661(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103724,ST000899(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103721,ST000892(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103756,ST020239(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103753,ST002211(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10989,"OCT 10","DSM 45596",0,"Rhodococcus sp.",Rhodococcus
+10985,,"DSM 44836, KCTC 19019, YIM 70035",0,"Rhodococcus sp.",Rhodococcus
+103789,"ST020202(HKI), BI 09793",,0,"Rhodococcus sp.",Rhodococcus
+10986,"Gdf N59, Gdf R69, Gordon 1240, N 59","DSM 46085, ATCC 25727, IMET 7544",0,"Rhodococcus sp.",Rhodococcus
+103821,ST002195(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103786,ST002711(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103597,ST027959(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103818,ST002178(HKI),,0,"Rhodococcus sp.",Rhodococcus
+163464,,"JCM 28273",0,"Rhodococcus sp.",Rhodococcus
+103594,ST027949(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103853,ST027936(HKI),,0,"Rhodococcus sp.",Rhodococcus
+163454,,"JCM 28262",0,"Rhodococcus sp.",Rhodococcus
+157830,SC-392,"DSM 1429",0,"Rhodococcus sp.",Rhodococcus
+103850,ST000896(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103629,STI11521(IMET),"NCIMB 9739",0,"Rhodococcus sp.",Rhodococcus
+157827,SC-353,"DSM 1426",0,"Rhodococcus sp.",Rhodococcus
+169285,X156,"DSM 106531",0,"Rhodococcus sp.",Rhodococcus
+103626,ST028729(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103661,ST029982(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103658,ST029915(HKI),,0,"Rhodococcus sp.",Rhodococcus
+165358,,"JCM 6199",0,"Rhodococcus sp.",Rhodococcus
+103690,ST002671(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157824,SC-138,"DSM 1423",0,"Rhodococcus sp.",Rhodococcus
+10920,40020,"DSM 46045, ATCC 14347, IMET 7442, NCTC 2562, Tsukamura 40020",0,"Rhodococcus sp.",Rhodococcus
+103623,ST022417(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103722,ST000893(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103655,ST023616(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103754,"ST011882(HKI), BI 07959",,0,"Rhodococcus sp.",Rhodococcus
+103687,ST022732(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10987,,"DSM 46365, IMET 11519, NCIMB 9737",0,"Rhodococcus sp.",Rhodococcus
+103719,ST000890(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103787,ST018041(HKI),,0,"Rhodococcus sp.",Rhodococcus
+160174,C13,"DSM 46756",0,"Rhodococcus sp.",Rhodococcus
+148311,,"CCUG 35210",0,"Rhodococcus sp.",Rhodococcus
+103751,ST002208(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103819,ST002179(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10983,B4,"DSM 44126",0,"Rhodococcus sp.",Rhodococcus
+103595,ST027950(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103784,ST000708(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103851,ST002185(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103816,ST008986(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157828,SC-358,"DSM 1427",0,"Rhodococcus sp.",Rhodococcus
+103592,ST027928(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103627,ST028740(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103848,ST000885(HKI),,0,"Rhodococcus sp.",Rhodococcus
+169283,NEAU-Alotilan,"DSM 105775",0,"Rhodococcus sp.",Rhodococcus
+157825,SC-335,"DSM 1424",0,"Rhodococcus sp.",Rhodococcus
+103659,ST029967(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103624,ST022420(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103691,ST002664(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103656,ST029050(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103723,ST000897(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103688,STI11519(IMET),"NCIMB 9737",0,"Rhodococcus sp.",Rhodococcus
+103755,"ST020171(HKI), BI 09762",,0,"Rhodococcus sp.",Rhodococcus
+103720,ST000891(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10988,,"DSM 46366, IMET 11521, NCIMB 9739",0,"Rhodococcus sp.",Rhodococcus
+103752,ST002210(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103788,"ST018179(HKI), BI 08169",,0,"Rhodococcus sp.",Rhodococcus
+10984,,"DSM 44237",0,"Rhodococcus sp.",Rhodococcus
+103820,ST002194(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103785,ST002709(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103596,ST027953(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103817,ST002166(HKI),,0,"Rhodococcus sp.",Rhodococcus
+163462,,"JCM 28271",0,"Rhodococcus sp.",Rhodococcus
+103593,ST027942(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103852,ST027898(HKI),,0,"Rhodococcus sp.",Rhodococcus
+163451,,"JCM 28259",0,"Rhodococcus sp.",Rhodococcus
+157829,SC-372,"DSM 1428",0,"Rhodococcus sp.",Rhodococcus
+103849,ST000895(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103628,ST028766(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157826,SC-338,"DSM 1425",0,"Rhodococcus sp.",Rhodococcus
+169284,,"DSM 105961, CFH 90815",0,"Rhodococcus sp.",Rhodococcus
+103625,ST023245(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103660,ST029981(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103657,ST026620(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103695,ST019256(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103730,ST002163(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103727,ST000912(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10962,OP5M,"DSM 11398",0,"Rhodococcus sp.",Rhodococcus
+10957,"AB 3.3","DSM 364, ATCC 17039, DSM 43204",0,"Rhodococcus sp.",Rhodococcus
+103762,ST008995(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103759,"ST020486(HKI), BI 09978",,0,"Rhodococcus sp.",Rhodococcus
+147016,,"CCUG 32652",0,"Rhodococcus sp.",Rhodococcus
+103792,ST002165(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103795,ST002167(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103568,ST021810(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103571,ST002209(HKI),,0,"Rhodococcus sp.",Rhodococcus
+162581,,"JCM 1966",0,"Rhodococcus sp.",Rhodococcus
+103827,ST002183(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103824,ST018521(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103603,ST027973(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103600,ST027964(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103859,"STI07591(IMET), An8",,0,"Rhodococcus sp.",Rhodococcus
+163483,,"JCM 28295",0,"Rhodococcus sp.",Rhodococcus
+157836,T-137,"DSM 1435",0,"Rhodococcus sp.",Rhodococcus
+103856,ST002157(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103635,ST032229(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157833,SC-420,"DSM 1432",0,"Rhodococcus sp.",Rhodococcus
+103632,ST028799(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103664,ST030089(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103693,ST002203(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103696,ST008992(HKI),,0,"Rhodococcus sp.",Rhodococcus
+166062,,"JCM 9791",0,"Rhodococcus sp.",Rhodococcus
+103728,ST002160(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103725,ST000901(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10958,T-191,"DSM 1444",0,"Rhodococcus sp.",Rhodococcus
+103757,ST020240(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103760,"ST020721(HKI), BI 10043",,0,"Rhodococcus sp.",Rhodococcus
+103790,ST002161(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103793,ST002170(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103566,ST020987(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103569,ST022742(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103822,ST002667(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103825,ST018523(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103598,ST027960(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103601,ST027965(HKI),,0,"Rhodococcus sp.",Rhodococcus
+163474,,"JCM 28283",0,"Rhodococcus sp.",Rhodococcus
+163491,,"JCM 28302",0,"Rhodococcus sp.",Rhodococcus
+103854,ST027955(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103857,ST028192(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157831,SC-403,"DSM 1430",0,"Rhodococcus sp.",Rhodococcus
+157834,CHOL-49,"DSM 1433",0,"Rhodococcus sp.",Rhodococcus
+103630,ST028771(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103633,ST028801(HKI),,0,"Rhodococcus sp.",Rhodococcus
+169286,PC20,"DSM 107510",0,"Rhodococcus sp.",Rhodococcus
+103665,"ST019278(HKI), BI 08974",,0,"Rhodococcus sp.",Rhodococcus
+103662,ST030058(HKI),,0,"Rhodococcus sp.",Rhodococcus
+165422,,"JCM 6821",0,"Rhodococcus sp.",Rhodococcus
+103694,ST002204(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103697,ST018518(HKI),,0,"Rhodococcus sp.",Rhodococcus
+166064,,"JCM 9793",0,"Rhodococcus sp.",Rhodococcus
+103729,ST002162(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103726,ST000904(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10959,"MR 22","DSM 3346",0,"Rhodococcus sp.",Rhodococcus
+103758,ST020361(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103761,ST002636(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103791,ST027573(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103794,ST002175(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103567,"ST021074(HKI), BI 10318",,0,"Rhodococcus sp.",Rhodococcus
+103570,"STI07412(IMET), P1",,0,"Rhodococcus sp.",Rhodococcus
+162579,,"JCM 1965",0,"Rhodococcus sp.",Rhodococcus
+103826,ST002190(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103823,ST022058(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103602,ST027972(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103599,ST027963(HKI),,0,"Rhodococcus sp.",Rhodococcus
+163496,,"JCM 28307",0,"Rhodococcus sp.",Rhodococcus
+163476,,"JCM 28285",0,"Rhodococcus sp.",Rhodococcus
+103858,ST032241(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103855,ST027956(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157835,CHOL-150,"DSM 1434",0,"Rhodococcus sp.",Rhodococcus
+157832,SC-407,"DSM 1431",0,"Rhodococcus sp.",Rhodococcus
+103634,ST028820(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103631,ST028772(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103666,ST030131(HKI),,0,"Rhodococcus sp.",Rhodococcus
+169287,3HYL,"DSM 109178",0,"Rhodococcus sp.",Rhodococcus
+165423,,"JCM 6822",0,"Rhodococcus sp.",Rhodococcus
+103663,ST030062(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103698,ST018522(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103765,ST002660(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103768,ST002672(HKI),,0,"Rhodococcus sp.",Rhodococcus
+162148,,"JCM 17957, FERM P-17491",0,"Rhodococcus sp.",Rhodococcus
+103801,"STI07695(IMET), 496-720",,0,"Rhodococcus sp.",Rhodococcus
+103798,ST000734(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103577,ST027619(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103574,ST002214(HKI),,0,"Rhodococcus sp.",Rhodococcus
+162918,,"JCM 20421, ATCC 15906, IAM 12124, RIA 451",0,"Rhodococcus sp.",Rhodococcus
+162798,,"JCM 20173, IAM 1463",0,"Rhodococcus sp.",Rhodococcus
+103833,ST002184(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103830,ST002192(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103609,ST031435(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103606,ST031425(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103865,ST002646(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103862,"STI07712(IMET), 545-57",,0,"Rhodococcus sp.",Rhodococcus
+157842,T-165,"DSM 1441",0,"Rhodococcus sp.",Rhodococcus
+157839,T-161,"DSM 1438",0,"Rhodococcus sp.",Rhodococcus
+103641,ST032271(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103638,ST032259(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103670,"ST018641(HKI), BI 08483",,0,"Rhodococcus sp.",Rhodococcus
+165427,,"JCM 6826",0,"Rhodococcus sp.",Rhodococcus
+103667,ST030149(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103702,ST018527(HKI),,0,"Rhodococcus sp.",Rhodococcus
+165424,,"JCM 6823",0,"Rhodococcus sp.",Rhodococcus
+103734,ST002171(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103699,ST018524(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10966,"Marl, V-49","DSM 43001, ATCC 19070, NCIMB 11997",0,"Rhodococcus sp.",Rhodococcus
+103731,ST002164(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103766,ST002662(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103763,ST009044(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103799,ST020543(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103796,ST009040(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157133,,"CCUG 69687",0,"Rhodococcus sp.",Rhodococcus
+103572,ST002212(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103575,ST026626(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103828,ST002193(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103831,ST002188(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103604,ST028004(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103607,ST031426(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103860,"STI07696(IMET), 496-728",,0,"Rhodococcus sp.",Rhodococcus
+103863,"STI07713(IMET), 545-64",,0,"Rhodococcus sp.",Rhodococcus
+157837,T-138,"DSM 1436",0,"Rhodococcus sp.",Rhodococcus
+157840,T-162,"DSM 1439",0,"Rhodococcus sp.",Rhodococcus
+103636,ST032230(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103639,ST032265(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103668,ST030157(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103671,ST018045(HKI),,0,"Rhodococcus sp.",Rhodococcus
+165425,,"JCM 6824",0,"Rhodococcus sp.",Rhodococcus
+165428,,"JCM 6827",0,"Rhodococcus sp.",Rhodococcus
+103700,ST018525(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103703,ST018529(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103732,ST002168(HKI),,0,"Rhodococcus sp.",Rhodococcus
+130485,UPD710,"DSM 24034",0,"Rhodococcus sp.",Rhodococcus
+10964,,"DSM 16550, NCIMB 13064",0,"Rhodococcus sp.",Rhodococcus
+103735,ST002172(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103764,ST009179(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10967,"2279 No. 12002","DSM 43230, SN 5301",0,"Rhodococcus sp.",Rhodococcus
+103797,"ST017661(HKI), CIBAID40619, BI 08928",,0,"Rhodococcus sp.",Rhodococcus
+103767,ST002663(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103573,ST002213(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103800,"STI07694(IMET), H195-27",,0,"Rhodococcus sp.",Rhodococcus
+103829,ST002189(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103576,ST027579(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103605,ST031422(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103832,ST002187(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103861,"STI07708(IMET), 1085-13",,0,"Rhodococcus sp.",Rhodococcus
+103608,ST031428(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157838,T-139,"DSM 1437",0,"Rhodococcus sp.",Rhodococcus
+103864,ST002186(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103637,ST032238(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157841,T-163,"DSM 1440",0,"Rhodococcus sp.",Rhodococcus
+103669,"STI07363(IMET), 691-019","IMET 7363",0,"Rhodococcus sp.",Rhodococcus
+103640,ST032269(HKI),,0,"Rhodococcus sp.",Rhodococcus
+165426,,"JCM 6825",0,"Rhodococcus sp.",Rhodococcus
+103672,ST000796(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10899,Ch5,"DSM 6427",0,"Rhodococcus sp.",Rhodococcus
+10902,"A-100, Marl","DSM 43002, ATCC 19149",0,"Rhodococcus sp.",Rhodococcus
+103701,ST018526(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103704,ST018530(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103733,ST002169(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103736,ST002173(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10965,2439,"DSM 20165, ATCC 15587",0,"Rhodococcus sp.",Rhodococcus
+10968,"Schering 252","DSM 43287, ATCC 12674, SC 2318",0,"Rhodococcus sp.",Rhodococcus
+103836,ST009038(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103612,ST031448(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103868,ST022055(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157845,T-244,"DSM 1445",0,"Rhodococcus sp.",Rhodococcus
+103644,ST029891(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103676,ST000624(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10906,"S577, 545","DSM 43199, ATCC 14887, ATCC 25715, CCRC 11929, CCUG 17758, KCC A-0223, NCIB 10027, VKM Ac-957, CIP 107070, JCM 3223, BCRC 11929, IFM 0220, IMET 7279, LMG 7335, MTCC 2558, NCIMB 10027",0,"Rhodococcus equi",Rhodococcus
+103708,ST000788(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103740,ST002182(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103673,ST002976(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10972,N869,"DSM 43972",0,"Rhodococcus sp.",Rhodococcus
+10903,"N27, N73","DSM 43008",0,"Rhodococcus sp.",Rhodococcus
+103772,ST002706(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103705,ST018531(HKI),,0,"Rhodococcus sp.",Rhodococcus
+131920,Leaf258,"DSM 102716",0,"Rhodococcus sp.",Rhodococcus
+103737,ST002174(HKI),,0,"Rhodococcus sp.",Rhodococcus
+131921,Leaf7,"DSM 102717",0,"Rhodococcus sp.",Rhodococcus
+10969,"P 66","DSM 43374",0,"Rhodococcus sp.",Rhodococcus
+103805,ST002708(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103769,ST002677(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103581,"STI07701(IMET), 604-83",,0,"Rhodococcus sp.",Rhodococcus
+103802,ST022270(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103837,ST018519(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103578,ST027680(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103613,ST031455(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103834,ST018528(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103869,ST002892(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103610,ST031436(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157846,,"DSM 45151, SCSIO 00026",0,"Rhodococcus sp.",Rhodococcus
+103866,ST027962(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103645,ST030617(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157843,T-166,"DSM 1442",0,"Rhodococcus sp.",Rhodococcus
+103677,ST000628(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103642,ST032274(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10907,"2295 N 12000","DSM 43234, SN 5201",0,"Rhodococcus sp.",Rhodococcus
+103674,ST007459(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103709,ST000804(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103706,ST018533(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103741,ST002191(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103738,ST002176(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10973,"GN smooth, N913","DSM 43976",0,"Rhodococcus sp.",Rhodococcus
+10970,"81 NB","DSM 43585",0,"Rhodococcus sp.",Rhodococcus
+103773,ST002710(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103770,ST002679(HKI),,0,"Rhodococcus sp.",Rhodococcus
+131918,Leaf247,"DSM 102714",0,"Rhodococcus sp.",Rhodococcus
+103803,ST022418(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103579,"STI07644(IMET), 792-109",,0,"Rhodococcus sp.",Rhodococcus
+103835,ST018532(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103611,ST031444(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103867,ST022884(HKI),,0,"Rhodococcus sp.",Rhodococcus
+157844,T-190,"DSM 1443",0,"Rhodococcus sp.",Rhodococcus
+103643,ST032275(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103675,ST000623(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103707,"ST018765(HKI), BI 08556",,0,"Rhodococcus sp.",Rhodococcus
+103739,ST002180(HKI),,0,"Rhodococcus sp.",Rhodococcus
+10971,"WS 1873, B H7/4,WS1873","DSM 43608",0,"Rhodococcus sp.",Rhodococcus
+103771,ST002688(HKI),,0,"Rhodococcus sp.",Rhodococcus
+131919,Leaf278,"DSM 102715",0,"Rhodococcus sp.",Rhodococcus
+103804,ST002181(HKI),,0,"Rhodococcus sp.",Rhodococcus
+103580,"STI07700(IMET), 498-77",,0,"Rhodococcus sp.",Rhodococcus
+160318,C9-5,"DSM 107558, KACC 19822",0,"Rhodococcus spelaei",Rhodococcus
+160436,LHW50502,"DSM 106291, CCTCC AA 2018033",1,"Rhodococcus spongiicola",Rhodococcus
+158522,C9-28,"DSM 107559, KACC 19823",1,"Rhodococcus subtropicus",Rhodococcus
+11039,,"DSM 44892, CCUG 50202, IMMIB RIV-085, JCM 13396, NBRC 103116",1,"Rhodococcus triatomae",Rhodococcus
+11040,,"DSM 44893, CCUG 50203, IMMIB RIV-095, CIP 108552",0,"Rhodococcus triatomae",Rhodococcus
+23160,T8,"DSM 45580, CCM 7905, LMG 26204, CCUG 60724",1,"Rhodococcus trifolii",Rhodococcus
+156206,,,0,"Rhodococcus trifolii",Rhodococcus
+11037,Mb8,"DSM 44783, JCM 11308, NCIMB 13903, CIP 108134, NBRC 100609",1,"Rhodococcus tukisamuensis",Rhodococcus
+11023,N805,"DSM 44107, ATCC 51786, IMRU 878, NCIMB 13082, CCUG 38518, JCM 9689, BCRC 16369, CIP 105033, IMSNU 21173, KCTC 9962, LMG 17999, NBRC 100605, NCTC 13229, VKM Ac-1986",1,"Rhodococcus wratislaviensis",Rhodococcus
+11009,95-546,"DSM 44193, PD 630",0,"Rhodococcus wratislaviensis",Rhodococcus
+160428,LHW51113,"DSM 106204, CCTCC AA 2018034",1,"Rhodococcus xishaensis",Rhodococcus
+169823,FBM22-1,"KCTC 49502, CCTCC AB 2020275",1,"Rhodococcus yananensis",Rhodococcus
+134108,,"CCTCC AA 204007, KCTC 19021, DSM 44837, YIM 70056, JCM 13366, IAM 15239, NBRC 103083, NBRC 103115, CIP 108798",1,"Rhodococcus yunnanensis",Rhodococcus
+11024,T-1,"DSM 44108, ATCC 51349, JCM 9919, CGMCC 4.1818, CIP 104275, KCTC 19218, KCTC 9812, MTCC 2572, NBRC 100606, NCIMB 13393, NRRL B-16942",1,"Rhodococcus zopfii",Rhodococcus
+103562,ST033350(HKI),,0,"Rhodococcus zopfii",Rhodococcus
+11025,"Tue Acy 3","DSM 44189",0,"Rhodococcus zopfii",Rhodococcus
+13927,3760,"DSM 110, Pfennig 3760, JCM 35354",0,"Rhodocyclus gracilis",Rhodocyclus
+13925,6770,"DSM 168, NCIMB 13339, Pfennig 6770",1,"Rhodocyclus purpureus",Rhodocyclus
+13926,2761,"DSM 109, ATCC 25093, Pfennig 2761",1,"Rhodocyclus tenuis",Rhodocyclus
+13928,3761,"DSM 111, Pfennig 3761",0,"Rhizobium aggregatum",Rhizobium
+13929,3661,"DSM 112, Pfennig 3661",0,"Pararhizobium capsulatum",Pararhizobium
+131179,5416T-29,"DSM 22190, KACC 12507",1,"Rhodocytophaga aerolata",Rhodocytophaga
+166362,172606-1,"KCTC 62096, NBRC 114410",1,"Rhodocytophaga rosea",Rhodocytophaga
+23871,Ant.Br,"DSM 24876, ATCC 700587",1,"Rhodoferax antarcticus",Rhodoferax
+162417,,"JCM 19166, KCTC 32394",1,"Rhodoferax aquaticus",Rhodoferax
+166273,GSA243-2,"CGMCC 1.16288, KCTC 62564",1,"Rhodoferax bucti",Rhodoferax
+2989,"FR 2","DSM 10138, ATCC 49787, JCM 7819, CCUG 45364, NBRC 16659, IFO 16659",1,"Rhodoferax fermentans",Rhodoferax
+165624,,"JCM 7820",0,"Rhodoferax fermentans",Rhodoferax
+2990,"Strain B2C","DSM 10139",0,"Rhodoferax fermentans",Rhodoferax
+2991,4,"DSM 13235",0,"Rhodoferax fermentans",Rhodoferax
+164063,,"JCM 31441, KCTC 52288",1,"Rhodoferax koreense",Rhodoferax
+166229,,"KACC 18983, NBRC 112709, IMCC 26218",1,"Rhodoferax lacus",Rhodoferax
+23872,"ED16, ED16I","DSM 22694, ATCC BAA-1852, CCUG 57711",1,"Rhodoferax saidenbachensis",Rhodoferax
+164324,,"JCM 32677, KCTC 62554",1,"Rhodoferax sediminis",Rhodoferax
+169459,MIZ03,"DSM 113266, JCM 34246",0,"Rhodoferax sp.",Rhodoferax
+170832,"SYSU G04325","KCTC 82848, MCCC 1K06127",1,"Rhodoflexus caldus",Rhodoflexus
+7494,,"DSM 15303, CIP 107785, IAM 15170, JCM 12762, MTCC 4657, CMS 81y, NBRC 104579",1,"Rhodoglobus aureus",Rhodoglobus
+7495,LV3,"DSM 21947, ATCC BAA-534, CIP 107482, JCM 12695, NBRC 103084, CGMCC 1.7091, IAM 15169",1,"Rhodoglobus vestalii",Rhodoglobus
+158667,15182,"KCTC 62172, MCCC 1K03442",1,"Rhodohalobacter barkolensis",Rhodohalobacter
+133122,JZ3C29,"MCCC 1H00131, KCTC 52046, JCM 31413",1,"Rhodohalobacter halophilus",Rhodohalobacter
+170153,"8 A47","MCCC 1H00329, KCTC 62603",1,"Rhodohalobacter mucosus",Rhodohalobacter
+13879,120-1,"DSM 23582, ATCC BAA-2115, JCM 16873",1,"Rhodoligotrophos appendicifer",Rhodoligotrophos
+166282,lm1,"CCTCC AB 2019071, KCTC 72156",1,"Rhodoligotrophos defluvii",Rhodoligotrophos
+169109,BUT-3,"CCTCC AB2013083, KACC 17220",1,"Rhodoligotrophos jinshengii",Rhodoligotrophos
+131295,MWH-Ta8,"DSM 23834, LMG 26932",1,"Rhodoluna lacicola",Rhodoluna
+159679,27D-LEPI,"DSM 107804, JCM 32926",1,"Rhodoluna limnophila",Rhodoluna
+159678,"CM 32925, 1B-Mac","DSM 107802, JCM 32925",0,"Rhodoluna limnophila",Rhodoluna
+159680,36A-HellB,"DSM 107805, JCM 32927",0,"Rhodoluna limnophila",Rhodoluna
+164416,,"JCM 32928, DSM 103376",0,"Rhodoluna planktonica",Rhodoluna
+162178,,"JCM 18064",0,"Rhodoluna sp.",Rhodoluna
+167834,"JA980, Rhodomicrobium sp. JA980","MCC 3714, KCTC 15697, NBRC 113803",1,"Rhodomicrobium lacus",Rhodomicrobium
+133915,JA643,"KCTC 15219, NBRC 109057",1,"Rhodomicrobium udaipurense",Rhodomicrobium
+6194,,"DSM 162, ATCC 17100, ATH 3.1.1",1,"Rhodomicrobium vannielii",Rhodomicrobium
+6195,7256,"DSM 166, Pfennig 7256",0,"Rhodomicrobium vannielii",Rhodomicrobium
+130354,BF13,"DSM 23282",0,"Rhodomicrobium vannielii",Rhodomicrobium
+130355,BF1,"DSM 23295",0,"Rhodomicrobium vannielii",Rhodomicrobium
+6192,K-1,"DSM 725",0,"Rhodomicrobium vannielii",Rhodomicrobium
+132820,BF-14,"DSM 23294",0,"Rhodomicrobium vannielii",Rhodomicrobium
+130356,BF16,"DSM 23296",0,"Rhodomicrobium vannielii",Rhodomicrobium
+6193,E.Y.33,"DSM 2342",0,"Rhodomicrobium vannielii",Rhodomicrobium
+3831,"GCM 70","DSM 17997",1,"Rhodonellum ikkaensis",Rhodonellum
+3832,GCM71,"DSM 17998, LMG 23454",1,"Rhodonellum psychrophilum",Rhodonellum
+164090,MA-7-27,"JCM 31537, KACC 18805",1,"Rhodophyticola porphyridii",Rhodophyticola
+59,7950,"DSM 161, ATCC 35887, Pfennig 7950, CIP 107835, LMG 4312",1,"Rhodopila globiformis",Rhodopila
+131384,SM50,"DSM 24084",1,"Rhodopilula apulia",Rhodopilula
+11942,"SH 1","DSM 10527, NCIMB 13988, IFAM 1310",1,"Rhodopirellula baltica",Rhodopirellula
+24315,SH28,"DSM 24038, IFAM 1430, JCM 17613",0,"Rhodopirellula baltica",Rhodopirellula
+24316,SWK14,"DSM 24080, JCM 17622",0,"Rhodopirellula baltica",Rhodopirellula
+24317,WH47,"DSM 24081, JCM 17624",0,"Rhodopirellula baltica",Rhodopirellula
+24318,3ILRT,"DSM 25515",0,"Rhodopirellula baltica",Rhodopirellula
+24319,4ILRT,"DSM 25516",0,"Rhodopirellula baltica",Rhodopirellula
+24320,5ILRT,"DSM 25517",0,"Rhodopirellula baltica",Rhodopirellula
+24321,2ILRT,"DSM 25548",0,"Rhodopirellula baltica",Rhodopirellula
+166393,Poly21,"DSM 102266, LMG 29467, CECT 9847, VKM B-3435",1,"Rhodopirellula heiligendammensis",Rhodopirellula
+131385,K833,"DSM 24040",1,"Rhodopirellula islandica",Rhodopirellula
+130535,,"DSM 25457, LMG 27777, UC 17",1,"Rhodopirellula lusitana",Rhodopirellula
+166394,Pla100,"DSM 102937, LMG 29465",1,"Rhodopirellula pilleata",Rhodopirellula
+130534,LHWP3,"DSM 29889, JCM 17759, KACC 15560",1,"Novipirellula rosea",Novipirellula
+130536,LF2,"DSM 25459, CECT 8075",1,"Rhodopirellula rubra",Rhodopirellula
+166395,CA85,"DSM 109595, LMG 29699, VKM B-3451",1,"Rhodopirellula solitaria",Rhodopirellula
+24322,SM1,"DSM 24050, JCM 17615",1,"Novipirellula maiorica",Novipirellula
+24323,6C,"DSM 24037, JCM 17608",1,"Rhodopirellula europaea",Rhodopirellula
+24326,SM41,"DSM 24067, JCM 17618",1,"Aporhodopirellula sallentina",Aporhodopirellula
+162056,,"JCM 17617",0,"Rhodopirellula philippinensis",Rhodopirellula
+162057,,"JCM 17619",0,"Rhodopilula apulia",Rhodopilula
+162058,,"JCM 17621",0,"Rhodopirellula magna",Rhodopirellula
+162059,,"JCM 17623",0,"Rhodopirellula bahusiensis",Rhodopirellula
+131267,K587,"DSM 24051",0,"Rhodopirellula flandrensis",Rhodopirellula
+131268,CS126,"DSM 24041",0,"Rhodopirellula sp.",Rhodopirellula
+131269,WH49,"DSM 24042",0,"Rhodopirellula syltensis",Rhodopirellula
+131270,SWK13,"DSM 24064",0,"Rhodopirellula magna",Rhodopirellula
+131271,SM23,"DSM 24065",0,"Rhodopirellula sp.",Rhodopirellula
+131272,SM35,"DSM 24066",0,"Rhodopirellula philippinensis",Rhodopirellula
+131273,SWK21,"DSM 24079",0,"Rhodopirellula bahusiensis",Rhodopirellula
+131274,CS14,"DSM 24082",0,"Rhodopirellula clava",Rhodopirellula
+140058,1ILRT,"DSM 25514",0,"Rhodopirellula sp.",Rhodopirellula
+24324,SH398,"DSM 24039, IFAM 3246, JCM 17614",0,"Rhodopirellula sp.",Rhodopirellula
+140059,1MLRT,"DSM 25518",0,"Rhodopirellula sp.",Rhodopirellula
+24325,SWK7,"DSM 24063, JCM 17620",0,"Rhodopirellula gimesia",Rhodopirellula
+140060,4ML30,"DSM 25549",0,"Rhodopirellula sp.",Rhodopirellula
+140061,5IL30,"DSM 25550",0,"Rhodopirellula sp.",Rhodopirellula
+162051,,"JCM 17609",0,"Rhodopirellula clava",Rhodopirellula
+162052,,"JCM 17610",0,"Rhodopirellula sp.",Rhodopirellula
+162053,,"JCM 17611",0,"Rhodopirellula flandrensis",Rhodopirellula
+162054,,"JCM 17612",0,"Rhodopirellula sp.",Rhodopirellula
+162055,,"JCM 17616",0,"Rhodopirellula sp.",Rhodopirellula
+162060,,"JCM 17625",0,"Rhodopirellula syltensis",Rhodopirellula
+158540,TUT3581,"KCTC 15603, NBRC 112816",1,"Rhodoplanes azumiensis",Rhodoplanes
+6189,,"DSM 11907, ATCC 51906, JCM 9224, AS 130, CGMCC 1.5008, IFO 16660, NBRC 16660, NCIMB 13415",1,"Rhodoplanes elegans",Rhodoplanes
+167753,JA793,"NBRC 109406, KCTC 15260",1,"Rhodoplanes oryzae",Rhodoplanes
+6191,JA266,"DSM 19946, JCM 14934, KCTC 5627",1,"Rhodoplanes serenus",Rhodoplanes
+133492,JA415,"KCTC 5711, NBRC 104972",1,"Rhodoplanes pokkaliisoli",Rhodoplanes
+6187,941,"DSM 5909, KCTC 15222, NCIMB 13363, ATCC 49724",1,"Rhodoplanes roseus",Rhodoplanes
+6188,2,"DSM 13233",0,"Rhodoplanes roseus",Rhodoplanes
+6190,"TUT 3530","DSM 18633, NBRC 102049",1,"Rhodoplanes serenus",Rhodoplanes
+1825,TUT3520,"DSM 9987, ATCC 49414, NBRC 104267",1,"Rhodoplanes tepidamans",Rhodoplanes
+139831,"TUT 3521","DSM 18634",0,"Rhodoplanes tepidamans",Rhodoplanes
+158541,TUT3542,"KCTC 15602, NBRC 112815",1,"Rhodoplanes tepidicaeni",Rhodoplanes
+170913,TAU-A01005,"TAU-MAC 1815",1,"Rhodoploca sivoneniae",Rhodoploca
+138540,gc,"CIP 108225, JCM 11668, AS 1.2176, BCRC 80540, CGMCC 1.2176",1,"Rhodopseudomonas faecalis",Rhodopseudomonas
+133647,JA531,"NBRC 107575, KCTC 5841",1,"Rhodopseudomonas harwoodiae",Rhodopseudomonas
+1826,KR-11-67,"DSM 11549, ATCC 51105",1,"Rhodopseudomonas julia",Rhodopseudomonas
+168493,"Pa16, 2.1.6, ATH 2.1.6","ATCC 17001, BCRC 16408, CIP 103513, ATCC 11168, NCIMB 8288, NCIMB 8252, ATH 2.1.6.",1,"Rhodopseudomonas palustris",Rhodopseudomonas
+169288,1850,"DSM 126, Pfennig 1850",0,"Rhodopseudomonas palustris",Rhodopseudomonas
+1819,7850,"DSM 127, Pfennig 7850",0,"Rhodopseudomonas palustris",Rhodopseudomonas
+100656,SF000326(FSU),,0,"Rhodopseudomonas palustris",Rhodopseudomonas
+100657,SF000717(FSU),,0,"Rhodopseudomonas palustris",Rhodopseudomonas
+1821,"Klemme S1, S-1","DSM 131",0,"Rhodopseudomonas palustris",Rhodopseudomonas
+1822,R1,"DSM 8283, ATCC 33872, DSM 5869, JCM 2524, CGMCC 1.2180, IFO 16661, NBRC 16661, CIP 103836",0,"Rhodopseudomonas palustris",Rhodopseudomonas
+133648,JA310,"NBRC 106083, KCTC 5839",1,"Rhodopseudomonas parapalustris",Rhodopseudomonas
+1820,Dr.1,"DSM 130",0,"Rhodopseudomonas parapalustris",Rhodopseudomonas
+133803,JA575,"NBRC 108862, KCTC 15143",1,"Rhodopseudomonas pentothenatexigens",Rhodopseudomonas
+1828,,"DSM 123, NBRC 100419",1,"Rhodopseudomonas pseudopalustris",Rhodopseudomonas
+1827,"R1, Rb","DSM 12706, CIP 106682",1,"Rhodopseudomonas rhenobacensis",Rhodopseudomonas
+139819,UZ-25p,"DSM 18636",0,"Rhodopseudomonas sp.",Rhodopseudomonas
+1823,O.U.11,"DSM 7375",0,"Rhodopseudomonas sp.",Rhodopseudomonas
+156454,,"CCUG 61886",0,"Rhodopseudomonas sp.",Rhodopseudomonas
+161514,,"JCM 14675",0,"Rhodopseudomonas sp.",Rhodopseudomonas
+139818,"TUT 3630","DSM 18635",0,"Rhodopseudomonas sp.",Rhodopseudomonas
+140728,TUT3615,"KCTC 23279, NBRC 107609",1,"Rhodopseudomonas telluris",Rhodopseudomonas
+133804,JA576,"NBRC 108863, KCTC 15144",1,"Rhodopseudomonas thermotolerans",Rhodopseudomonas
+166225,E84,"KCTC 52697, MCCC 1H00231",1,"Rhodosalinus halophilus",Rhodosalinus
+141161,WDN1C137,"KCTC 52478, MCCC 1H00170, DSM 108746",1,"Rhodosalinus sediminis",Rhodosalinus
+168902,8316,"ATCC 700224",1,"Rhodospira trueperi",Rhodospira
+139990,03PA-Blue-76,"DSM 21107, MBIC 07355",0,"Rhodospirillaceae (not further classified)",Rhodospirillaceae
+14005,"S 1, S1","DSM 467, ATCC 11170, NCIB 8255, CCUG 17859, CIP 70.61, LMG 4362, NCIMB 8255, ATH 1.1.1",1,"Rhodospirillum rubrum",Rhodospirillum
+14006,"G 9","DSM 468",0,"Rhodospirillum rubrum",Rhodospirillum
+14007,FR.1,"DSM 1068",0,"Rhodospirillum rubrum",Rhodospirillum
+143232,,"CCUG 17916, ATCC 9791, LMG 2955",0,"Rhodospirillum rubrum",Rhodospirillum
+14008,Ha,"DSM 107",0,"Rhodospirillum rubrum",Rhodospirillum
+143233,,"CCUG 17917, ATCC 17032, LMG 2956",0,"Rhodospirillum rubrum",Rhodospirillum
+14009,1785-1,"DSM 11221, DSM 471",0,"Rhodospirillum rubrum",Rhodospirillum
+14010,1761-1b,"DSM 11222",0,"Rhodospirillum rubrum",Rhodospirillum
+14011,,"DSM 50914, ATCC 27048, ICPB 2204",0,"Rhodospirillum rubrum",Rhodospirillum
+13738,"WS 68","DSM 2132, ATCC 35888",1,"Rhodothalassium salexigens",Rhodothalassium
+168203,"7401, ISCAR-7401","DSM 112103, CIP 111906",1,"Rhodothermus bifroesti",Rhodothermus
+17792,R-10,"DSM 4252, ATCC 43812",1,"Rhodothermus marinus",Rhodothermus
+164442,,"JCM 33045",0,"Rhodothermus marinus",Rhodothermus
+164443,,"JCM 33046",0,"Rhodothermus marinus",Rhodothermus
+17793,R-18,"DSM 4253",0,"Rhodothermus marinus",Rhodothermus
+17794,OKD7,"DSM 12399, JCM 9785, CGMCC 1.3047",0,"Rhodothermus marinus",Rhodothermus
+132821,,"DSM 16675, PRI 493",0,"Rhodothermus marinus",Rhodothermus
+17795,"2037 Souchothèque de Bretagne","DSM 22212, JCM 15944, PRI 2902",1,"Rhodothermus profundi",Rhodothermus
+23442,"AR 3","DSM 18403, JCM 13927",0,"Rhodothermus sp.",Rhodothermus
+131170,4004,"DSM 14422",0,"Rhodothermus sp.",Rhodothermus
+167224,CCP-6,"KCTC 62188, BCRC 81095, LMG 30310",1,"Rhodovarius crocodyli",Rhodovarius
+131146,,"DSM 15909, CCUG 44693, CIP 108310",1,"Rhodovarius lipocyclicus",Rhodovarius
+133040,G2-11,"DSM 21279, KCTC 5708, NBRC 104268",0,"Rhodovastum atsumiense",Rhodovastum
+13958,,"DSM 9154, ATCC 35394",1,"Rhodovibrio salinarum",Rhodovibrio
+13959,DSI,"DSM 9895, ATCC 51195",1,"Rhodovibrio sodomensis",Rhodovibrio
+13739,"BN 721(6II)","DSM 2781, ATCC 35885",1,"Rhodovulum adriaticum",Rhodovulum
+158529,JA924,"LMG 29031, KCTC 15485",1,"Rhodovulum aestuarii",Rhodovulum
+140625,JA877,"LMG 29228, KCTC 42963",1,"Rhodovulum algae",Rhodovulum
+13752,JA738,"DSM 24766, KCTC 15110",1,"Rhodovulum bhavnagarense",Rhodovulum
+13740,KA-65,"DSM 4868",1,"Rhodovulum euryhalinum",Rhodovulum
+13748,JA125,"DSM 18064, CIP 109541, JCM 13589",1,"Rhodovulum imhoffii",Rhodovulum
+13745,N1,"DSM 12328",1,"Rhodovulum iodosum",Rhodovulum
+13750,JA297,"DSM 19783, ATCC BAA-1544, CCUG 55397, JCM 14888",1,"Rhodovulum kholense",Rhodovulum
+133483,JA322,"NBRC 104147, KCTC 5700",1,"Rhodovulum lacipunicei",Rhodovulum
+162433,,"JCM 19220, MTCC 11825",1,"Rhodovulum mangrovi",Rhodovulum
+13747,"3Vi, JA 128","DSM 18063, CCUG 52183, JCM 13300, ATCC BAA-1215, BCRC 80541",1,"Rhodovulum marinum",Rhodovulum
+154059,,,0,"Rhodovulum marinum",Rhodovulum
+168355,JA580,"KCTC 5963, NBRC 107649",1,"Rhodovulum phaeolacus",Rhodovulum
+13746,N2,"DSM 12329",1,"Rhodovulum robiginosum",Rhodovulum
+156611,JA746,"CCUG 63528, KCTC 15180, NBRC 108898",1,"Rhodovulum salis",Rhodovulum
+13751,A-20s,"DSM 21153, VKM B-2489",1,"Rhodovulum steppense",Rhodovulum
+13743,,"DSM 11289, ATCC 51905, JCM 9220, BCRC 80544, IAM 14750, IFO 16662, NBRC 16662",1,"Rhodovulum strictum",Rhodovulum
+13744,,"DSM 11292, JCM 9221",0,"Rhodovulum strictum",Rhodovulum
+13742,W4,"DSM 1374, ATCC 35886, LMG 5202",1,"Rhodovulum sulfidophilum",Rhodovulum
+13741,W12,"DSM 2351",0,"Rhodovulum sulfidophilum",Rhodovulum
+133763,A-36s,"VKM B-2491, ATCC BAA-1573",1,"Rhodovulum tesquicola",Rhodovulum
+167482,JA756,"KCTC 15223, NBRC 109122",1,"Rhodovulum viride",Rhodovulum
+13749,"7Vi, JA 181, JA181","DSM 17937, ATCC BAA-1274, JCM 13531, CIP 109728",1,"Rhodovulum visakhapatnamense",Rhodovulum
+133288,WB-8-2,"CRIRC RAM004, CSUR P2882",1,"Rickettsia amblyommatis",Rickettsia
+133212,NMRCii,"DSM 100172, CDC CRIRC RAS001, ATCC VR-1827",1,"Rickettsia asembonensis",Rickettsia
+167544,IO-1,"CSUR R2, ATCC VR-1593",1,"Rickettsia asiatica",Rickettsia
+166607,2678,"ATCC VR-610",1,"Rickettsia canadensis",Rickettsia
+167592,"Malish 7, NIAID Malish 7, Malish","ATCC VR-613, CRIRC RCO003, CSUR R41",1,"Rickettsia conorii",Rickettsia
+166570,"HLJ-054, 054","CSUR 054, ATCC VR-1524",1,"Rickettsia conorii subsp. heilongjiangensis",Rickettsia
+167404,"Indian Tick Typhus rickettsia, Indian tick typhus","ATCC VR-597, CRIRC RCO005, CSUR R116",1,"Rickettsia conorii subsp. indica",Rickettsia
+167413,"CDC1, ISTT CDC1","CRIRC RCO001, CSUR R119",1,"Rickettsia conorii subsp. israelensis",Rickettsia
+157747,"R153, AUS118","DSM 28985, CSUR R501",1,"Rickettsia fournieri",Rickettsia
+140720,"VR-1664, RGBWI-1, BWI-1","CSUR R172",1,"Rickettsia gravesii",Rickettsia
+168688,RB,"ATCC VR-1472",1,"Rickettsia honei",Rickettsia
+14028,Croatica,"DSM 22243, UTMB 00003",1,"Rickettsia hoogstraalii",Rickettsia
+168207,YH,"ATCC VR-1363",1,"Rickettsia japonica",Rickettsia
+167788,Mtu1,"ATCC VR-1376",1,"Rickettsia massiliae",Rickettsia
+24535,IrR/Munich,"DSM 29017, IrR Munich",0,"Rickettsia monacensis",Rickettsia
+169075,Tick,"ATCC VR-611",1,"Rickettsia montanensis",Rickettsia
+168019,"Breinl, Brein1","ATCC VR-142",1,"Rickettsia prowazekii",Rickettsia
+134245,Khabarovsk,"CSUR R3, ATCC VR-1596",1,"Rickettsia conorii subsp. raoultii",Rickettsia
+168799,2-4-6,"ATCC VR-541, ATCC VR-151",1,"Rickettsia sibirica",Rickettsia
+134183,AT-1,"CSUR R1",1,"Rickettsia tamurae",Rickettsia
+131321,,"DSM 29016, ATCC VR-1814, ISO 7",1,"Rickettsia tamurae subsp. buchneri",Rickettsia
+167215,"Tillamook 23","CRIRC RTI001, CSUR R5043",1,"Rickettsia tillamookensis",Rickettsia
+168249,Wilmington,"ATCC VR-144",1,"Rickettsia typhi",Rickettsia
+5632,,"DSM 15868, ATCC 11845, CCUG 14215, JCM 9532, LMG 11054, MCCM 00568, NCTC 11014, CCUG 21370, CIP 82.28, KCTC 2911, LMG 11606",1,"Riemerella anatipestifera",Riemerella
+144465,,"CCUG 25054, LMG 11060",0,"Riemerella anatipestifera",Riemerella
+144466,,"CCUG 25055",0,"Riemerella anatipestifera",Riemerella
+144698,,"CCUG 26308",0,"Riemerella anatipestifera",Riemerella
+144699,,"CCUG 26309",0,"Riemerella anatipestifera",Riemerella
+144700,,"CCUG 26310",0,"Riemerella anatipestifera",Riemerella
+144701,,"CCUG 26311",0,"Riemerella anatipestifera",Riemerella
+142702,,"CCUG 14216",0,"Riemerella anatipestifera",Riemerella
+144408,,"CCUG 24885",0,"Riemerella anatipestifera",Riemerella
+144449,,"CCUG 25001, LMG 11057",0,"Riemerella anatipestifera",Riemerella
+141370,,"CCUG 1209",0,"Riemerella anatipestifera",Riemerella
+144450,,"CCUG 25002",0,"Riemerella anatipestifera",Riemerella
+144453,,"CCUG 25004",0,"Riemerella anatipestifera",Riemerella
+144454,,"CCUG 25005, LMG 11059",0,"Riemerella anatipestifera",Riemerella
+144455,,"CCUG 25006",0,"Riemerella anatipestifera",Riemerella
+144456,,"CCUG 25007",0,"Riemerella anatipestifera",Riemerella
+144457,,"CCUG 25008",0,"Riemerella anatipestifera",Riemerella
+144458,,"CCUG 25009",0,"Riemerella anatipestifera",Riemerella
+144459,,"CCUG 25011",0,"Riemerella anatipestifera",Riemerella
+144460,,"CCUG 25012",0,"Riemerella anatipestifera",Riemerella
+144461,,"CCUG 25013",0,"Riemerella anatipestifera",Riemerella
+5633,"x183-89, 01024","DSM 16469, CIP 106288, LMG 11607, CCUG 47689, Hinz x183-89, Hinz x 183-89",1,"Riemerella columbina",Riemerella
+152814,,"CCUG 47690, LMG 18232",0,"Riemerella columbina",Riemerella
+5634,"8151, RCP-8151","DSM 24015, LMG 26094",1,"Riemerella columbipharyngis",Riemerella
+5635,"8091, RCP-8091","DSM 24016, LMG 26096",0,"Riemerella columbipharyngis",Riemerella
+152761,,"CCUG 47563 A",0,"Riemerella sp.",Riemerella
+148856,,"CCUG 36372, MCCM 01356",0,"Riemerella sp.",Riemerella
+14034,Q-1,"DSM 15922, ATCC 29728, JCM 2053, NCTC 11190, CCUG 54772, CCM 6143, CCUG 25930",1,"Rikenella microfusus",Rikenella
+143565,,"CCUG 20177, JCM 13451, NCTC 11871",0,"Segatella oulorum",Segatella
+132524,GD1,"DSM 46691, CSUR P1082",1,"Risungbinella massiliensis",Risungbinella
+168616,"MC 210","CCTCC AA 2013021, NRRL B-59118",1,"Risungbinella pyongyangensis",Risungbinella
+17959,"BF49, BF 49","DSM 19570, CIP 109700",1,"Rivibacter subsaxonicus",Rivibacter
+130470,Npb-03,"DSM 29661, BCRC 80376, KCTC 23712, LMG 26668",1,"Rivihabitans pingtungensis",Rivihabitans
+1935,,"DSM 9511, ATCC 23061, CCUG 32772, CFBP 2421, CIP 105771, ICMP 2807, JCM 10487, LMG 2129, NCPPB 934, NRRL B-14296, BCRC 12861, CCUG 41876, KACC 10474, KCTC 2963",1,"Robbsia andropogonis",Robbsia
+143231,,"CCUG 17909, NCPPB 2441, LMG 1279",0,"Robbsia andropogonis",Robbsia
+1936,"PW 102, 0153A2","DSM 9884, ATCC 19311, NCPPB 968, CCUG 17910, LMG 2362, CIP 107021, ICMP 3967, PDDCC 3967",0,"Robbsia andropogonis",Robbsia
+100222,ST033341(HKI),,0,"Robbsia andropogonis",Robbsia
+100223,SF006120(FSU),,0,"Robbsia andropogonis",Robbsia
+100224,SF006047(FSU),,0,"Robbsia andropogonis",Robbsia
+100225,SF001573(FSU),,0,"Robbsia andropogonis",Robbsia
+100226,SF002329(FSU),,0,"Robbsia andropogonis",Robbsia
+147063,,"CCUG 32771, NCPPB 450, LMG 2126",0,"Robbsia andropogonis",Robbsia
+100227,SF002331(FSU),,0,"Robbsia andropogonis",Robbsia
+100228,SF002395(FSU),,0,"Robbsia andropogonis",Robbsia
+100229,SF008705(FSU),,0,"Robbsia andropogonis",Robbsia
+157310,,"IMI 347457",0,"Robbsia andropogonis",Robbsia
+162263,,"JCM 18552, BCRC 80469",1,"Robertkochia marina",Robertkochia
+168485,1368,"MCCC 1H00444, KCTC 82418",1,"Robertkochia sediminum",Robertkochia
+168344,"CL23, CC-AMO-30D","LMG 31418, KCTC 72252",1,"Robertkochia solimangrovi",Robertkochia
+23713,8-4-E13,"DSM 23948, LMG 27602",1,"Robertmurraya andreesenii",Robertmurraya
+1321,,"DSM 22571, CGMCC 1.9126, BR 035",1,"Robertmurraya beringensis",Robertmurraya
+167367,JC247,"KCTC 33627, LMG 28608",1,"Robertmurraya crescens",Robertmurraya
+22923,NB22,"DSM 26768, JCM 17569, KEMB 5401-267",1,"Robertmurraya kyonggiensis",Robertmurraya
+22927,JC6,"DSM 25957, CSUR P151",1,"Robertmurraya massiliosenegalensis",Robertmurraya
+1194,171544,"DSM 13140, CIP 106295, NCIMB 13601, JCM 12213",1,"Robertmurraya siralis",Robertmurraya
+5636,,"DSM 15991, HTCC 2501, KCTC 12146",1,"Robiginitalea biformata",Robiginitalea
+5637,,"DSM 15992, HTCC 2514",0,"Robiginitalea biformata",Robiginitalea
+170805,"2 V75","MCCC 1H00484, KCTC 92035",1,"Robiginitalea marina",Robiginitalea
+5638,YM6-073,"DSM 21019, KCTC 22216, MBIC 06409",1,"Robiginitalea myxolifaciens",Robiginitalea
+167671,O458,"MCCC 1H00190, KCTC 52898",1,"Robiginitalea sediminis",Robiginitalea
+6224,,"DSM 21748, IMCC 3195, KCCM 42687, NBRC 103098",1,"Robiginitomaculum antarcticum",Robiginitomaculum
+134345,PPC31,"CCUG 48729, NRRL B-23985",1,"Robinsoniella peoriensis",Robinsoniella
+156791,,"CCUG 65238",0,"Robinsoniella peoriensis",Robinsoniella
+158143,,"DSM 106044",0,"Robinsoniella peoriensis",Robinsoniella
+154096,,"CCUG 52336",0,"Robinsoniella peoriensis",Robinsoniella
+167714,"1625_19, 1625/19","CCM 9081, DSM 111151",1,"Rodentibacter haemolyticus",Rodentibacter
+140302,"996025094, Ac69","DSM 103978, CCUG 69667",1,"Rodentibacter heidelbergensis",Rodentibacter
+140609,"P309, C57","MCCM 237, RGWyllie C57, HIM 1014-1, CCUG 998, ATCC 12555, DSM 112292",1,"Rodentibacter heylii",Rodentibacter
+140305,Ppn418,"DSM 103979, CCUG 69669",1,"Rodentibacter mrazii",Rodentibacter
+140610,Ac151,"CCUG 69666, DSM 103994",1,"Rodentibacter myodis",Rodentibacter
+11739,"P 421","DSM 21403, ATCC 35149, CCUG 12398, CIP 66.16, JCM 14074, LMG 4224, NCTC 8141, MCCM 00234, BCRC 11902",1,"Rodentibacter pneumotropicus",Rodentibacter
+151847,,"CCUG 45043",0,"Rodentibacter pneumotropicus",Rodentibacter
+150323,,"CCUG 39650",0,"Rodentibacter pneumotropicus",Rodentibacter
+150354,,"CCUG 39714",0,"Rodentibacter pneumotropicus",Rodentibacter
+150355,,"CCUG 39715",0,"Rodentibacter pneumotropicus",Rodentibacter
+151949,,"CCUG 45307",0,"Rodentibacter pneumotropicus",Rodentibacter
+152445,,"CCUG 46803",0,"Rodentibacter pneumotropicus",Rodentibacter
+145258,,"CCUG 27998, CNCTC Papn 1/70",0,"Rodentibacter pneumotropicus",Rodentibacter
+152527,,"CCUG 47007",0,"Rodentibacter pneumotropicus",Rodentibacter
+152528,,"CCUG 47008",0,"Rodentibacter pneumotropicus",Rodentibacter
+146554,,"CCUG 31422",0,"Rodentibacter pneumotropicus",Rodentibacter
+146555,,"CCUG 31423",0,"Rodentibacter pneumotropicus",Rodentibacter
+150797,,"CCUG 42369",0,"Rodentibacter pneumotropicus",Rodentibacter
+137167,"P315, CNP 160","CIP 103828, CCM 5777",0,"Rodentibacter pneumotropicus",Rodentibacter
+145732,,"CCUG 29427",0,"Rodentibacter pneumotropicus",Rodentibacter
+135646,691,"CIP 66.30",0,"Rodentibacter pneumotropicus",Rodentibacter
+148952,,"CCUG 36632",0,"Rodentibacter pneumotropicus",Rodentibacter
+148990,,"CCUG 36687",0,"Rodentibacter pneumotropicus",Rodentibacter
+151135,,"CCUG 43344",0,"Rodentibacter pneumotropicus",Rodentibacter
+142680,,"CCUG 13792",0,"Rodentibacter pneumotropicus",Rodentibacter
+137551,1020.83,"CIP 100630",0,"Rodentibacter pneumotropicus",Rodentibacter
+144747,,"CCUG 26450, MCCM 00004",0,"Rodentibacter pneumotropicus",Rodentibacter
+144748,,"CCUG 26451, MCCM 00003",0,"Rodentibacter pneumotropicus",Rodentibacter
+144749,,"CCUG 26452, MCCM 00001",0,"Rodentibacter pneumotropicus",Rodentibacter
+144750,,"CCUG 26453, MCCM 00252",0,"Rodentibacter pneumotropicus",Rodentibacter
+144751,,"CCUG 26454, MCCM 00253",0,"Rodentibacter pneumotropicus",Rodentibacter
+137840,821-84,"CIP 101195",0,"Rodentibacter pneumotropicus",Rodentibacter
+150130,,"CCUG 39056",0,"Rodentibacter pneumotropicus",Rodentibacter
+145007,,"CCUG 27374",0,"Rodentibacter pneumotropicus",Rodentibacter
+150292,,"CCUG 39527",0,"Rodentibacter pneumotropicus",Rodentibacter
+140304,2325/79,"DSM 103980, CCUG 17206, HPA 41",1,"Rodentibacter rarus",Rodentibacter
+140301,F75,"DSM 103977, CCUG 69665",1,"Rodentibacter ratti",Rodentibacter
+151919,,"CCUG 45202",0,"Rodentibacter sp.",Rodentibacter
+145259,,"CCUG 27999, CNCTC Papn 3/78",0,"Rodentibacter sp.",Rodentibacter
+152347,,"CCUG 46480",0,"Rodentibacter sp.",Rodentibacter
+140303,H1987082031,"DSM 104075, CCUG 69668",1,"Rodentibacter trehalosifermentans",Rodentibacter
+169898,"NSJ 18","CGMCC 1.31399, KCTC 15948",1,"Romboutsia faecis",Romboutsia
+158358,FRIFI,"DSM 28814, KCTC 15553",1,"Romboutsia hominis",Romboutsia
+24303,"CRIB, CRIB5_4","DSM 25109, NIZO 4048",1,"Romboutsia ilealis",Romboutsia
+2614,A25K,"DSM 797, ATCC 25759, BCRC 14536, CCUG 18920, JCM 1404, NCIMB 10637, VTT E-021853, VPI 2751",1,"Romboutsia lituseburensis",Romboutsia
+162572,,"JCM 19607, ACCC 00717",1,"Romboutsia sedimentorum",Romboutsia
+140274,"A6c, LA1","DSM 22025",0,"Romboutsia sp.",Romboutsia
+152993,,"CCUG 48205, CECT 7248",1,"Roseateles aquatilis",Roseateles
+2992,61A,"DSM 11813, CCUG 52219",1,"Roseateles depolymerans",Roseateles
+2993,61B2,"CCUG 52220, DSM 11814",0,"Roseateles depolymerans",Roseateles
+154066,,"CCUG 52221",0,"Roseateles sp.",Roseateles
+134277,,"CECT 7247, CCUG 52222",1,"Roseateles terrae",Roseateles
+132459,Sanger_19,"DSM 102150, JCM 34814",1,"Roseburia amylophila",Roseburia
+167780,GM,"ATCC 33874",1,"Roseburia cecicola",Roseburia
+169886,"NSJ 67","KCTC 25138, CGMCC 1.32843",1,"Roseburia difficilis",Roseburia
+6368,M72/1,"DSM 16840, CIP 109404, JCM 17581, NCIMB 14031",1,"Roseburia faecis",Roseburia
+163989,,"JCM 31261",0,"Roseburia faecis",Roseburia
+6367,A2-183,"DSM 16839, CIP 109406, JCM 17582, NCIMB 14029, BCRC 81266",1,"Roseburia hominis",Roseburia
+164026,,"JCM 31337",0,"Roseburia hominis",Roseburia
+6366,L1-82,"DSM 14610, CIP 107878, JCM 17583, NCIMB 13810, VTT E-052785",1,"Roseburia intestinalis",Roseburia
+163990,,"JCM 31262",0,"Roseburia intestinalis",Roseburia
+6369,A2-194,"DSM 16841, CIP 109405, JCM 17584, NCIMB 14030",1,"Roseburia inulinivorans",Roseburia
+158048,"H1-37, H1_37","DSM 108070",0,"Roseburia inulinivorans",Roseburia
+163988,,"JCM 31260",0,"Roseburia inulinivorans",Roseburia
+159630,MUC/MUC-530-WT-4D,"DSM 107448, JCM 34376",1,"Roseburia porci",Roseburia
+155070,,"CCUG 56376",0,"Roseburia sp.",Roseburia
+160741,1.66,"DSM 26957",0,"Roseburia sp.",Roseburia
+162285,,"JCM 18684",0,"Roseburia sp.",Roseburia
+160742,2.12,"DSM 26958",0,"Roseburia sp.",Roseburia
+169887,BX1005,"CGMCC 1.32828, KCTC 25140",1,"Roseburia zhanii",Roseburia
+130831,Pf56,"DSM 24875, VKM B-2876",1,"Roseiarcus fermentans",Roseiarcus
+13853,EL-50,"DSM 11469, CECT 7235",1,"Roseibaca ekhonensis",Roseibaca
+134327,MN1-741,"MBIC 08315, KCTC 12986, NBRC 103926",1,"Roseibacillus ishigakijimensis",Roseibacillus
+134329,YM26-010,"KCTC 12988, MBIC 08317",1,"Roseibacillus persicicus",Roseibacillus
+134328,YM27-120,"MBIC 08316, KCTC 12987",1,"Roseibacillus ponti",Roseibacillus
+162168,,"JCM 18015, CGMCC 1.10994",1,"Roseibacterium beibuensis",Roseibacterium
+13829,,"DSM 19469, CIP 107377, JCM 11220, OCh 323",1,"Roseibacterium elongatum",Roseibacterium
+167420,KMU-115,"KCCM 90339, NBRC 114190",1,"Roseibacterium persicicum",Roseibacterium
+168546,"SYSU M00256-3","NBRC 112946, CGMCC 1.16156",1,"Roseibium aestuarii",Roseibium
+13834,B1,"DSM 13394, ATCC 25650, IAM 12614, LMG 8171, NCMB 2208, JCM 20685, IFO 16684, LMG 122, NBRC 16684, NCIMB 2208",1,"Roseibium aggregatum",Roseibium
+24511,,"DSM 10149, CHLG 11",0,"Roseibium aggregatum",Roseibium
+13837,5OM6,"DSM 18320, CECT 5095, CIP 108402, CCUG 49435, DSM 18380",1,"Roseibium album",Roseibium
+13836,DFL-11,"DSM 17067, NCIMB 14079",1,"Roseibium alexandrii",Roseibium
+162478,,"JCM 19310, CGMCC 1.12426",1,"Roseibium aquae",Roseibium
+138394,,"CIP 107047, JCM 10543, ATCC BAA-251, IFO 16782, NBRC 16782, Och 254",1,"Roseibium denhamense",Roseibium
+138793,,"CIP 107048, JCM 10544, ATCC BAA-252, IFO 16783, NBRC 16783, Och 368",1,"Roseibium hamelinense",Roseibium
+167474,"CAU 1637","KCTC 82429, MCCC 1K06080",1,"Roseibium limicola",Roseibium
+167295,4C16A,"KACC 22078, GDMCC 1.1932",1,"Roseibium litorale",Roseibium
+13835,"mano 18","DSM 17023, KCTC 12288",1,"Roseibium marinum",Roseibium
+167318,rh46,"KMM 9699, KACC 19711",1,"Roseibium polysiphoniae",Roseibium
+133285,Cs25,"DSM 29163, CECT 8816",1,"Roseibium salinum",Roseibium
+140994,BSS09,"KCTC 52373, MCCC 1K03201",1,"Roseibium sediminis",Roseibium
+24512,YC6927,"DSM 22153, KACC 13772",1,"Roseibium suaedae",Roseibium
+170695,GB24,"GDMCC 1.2169, JCM 34449",1,"Roseicella aerolata",Roseicella
+164421,DB1506,"JCM 32945, KACC 19791",1,"Roseicella frigidaeris",Roseicella
+169119,ZS2-28,"CGMCC 1.8894, LMG 24863",1,"Roseicitreum antarcticum",Roseicitreum
+13753,ML6,"DSM 16097, VKM B-2346",1,"Roseicyclus mahoneyensis",Roseicyclus
+158729,,"MCCC 1K03242, KCTC 52641, CCMM 001",1,"Roseicyclus marinus",Roseicyclus
+2416,HLO8,"DSM 13941, JCM 11240, NBRC 100045",1,"Roseiflexus castenholzii",Roseiflexus
+131371,HF08,"DSM 28824, CICC 10901, KCTC 42261",1,"Roseimarinus sediminis",Roseimarinus
+167709,FF011L,"DSM 29513, LMG 29016",1,"Roseimaritima multifibrata",Roseimaritima
+168139,JC651,"KCTC 72178, NBRC 113926",1,"Roseimaritima sediminicola",Roseimaritima
+131311,,"DSM 25454, LMG 27778, UC 8",1,"Roseimaritima ulvae",Roseimaritima
+23339,DC2a-G7,"DSM 25532, NBRC 108606",1,"Roseimicrobium gellanilyticum",Roseimicrobium
+13755,,"DSM 18423, UNIQEM U251, VKM B-2404, ROS 35",1,"Roseinatronobacter monicus",Roseinatronobacter
+13754,,"DSM 13087, ALG 1",1,"Roseinatronobacter thiooxidans",Roseinatronobacter
+13756,EL-88,"DSM 11466, CECT 7023, NCIMB 14015",1,"Roseisalinus antarcticus",Roseisalinus
+158703,AW1220,"LMG 29977, DSM 104292",1,"Roseisolibacter agri",Roseisolibacter
+133348,MA7-20,"KACC 18807, JCM 31538",1,"Roseitalea porphyridii",Roseitalea
+164246,,"JCM 32374, KCCM 43267, MEBiC 09517",1,"Roseithermus sacchariphilus",Roseithermus
+170672,"MCCB 386","KACC 21531, JCM 33538",1,"Roseitranquillus sediminis",Roseitranquillus
+134138,,"KCTC 12370, LMG 22587, KMM 6058, DSM 102948",1,"Roseivirga echinicomitans",Roseivirga
+132058,,"DSM 102268, KCTC 12282, KMM 6017, LMG 22567, JCM 13514, NCIMB 14502",1,"Roseivirga ehrenbergii",Roseivirga
+133262,SW-152,"JCM 12600, KCTC 12312, CIP 108749",0,"Roseivirga ehrenbergii",Roseivirga
+168037,PSR,"KCTC 42444, MCCC 1K00459",1,"Roseivirga marina",Roseivirga
+140828,GM-5,"KCTC 42718, NBRC 111589",1,"Roseivirga maritima",Roseivirga
+159410,SK-8,"DSM 102187, KCTC 32969, NBRC 110216",1,"Roseivirga misakiensis",Roseivirga
+131264,DY53,"DSM 100771, CGMCC 1.12402, JCM 18885",1,"Roseivirga pacifica",Roseivirga
+133263,D-25,"DSM 101709, KCTC 42709",1,"Roseivirga seohaensis subsp. aquiponti",Roseivirga
+134178,,"NRRL B-41219, JCM 13337, DSM 109152, CIP 109327",1,"Roseivirga spongicola",Roseivirga
+170089,22II-S10s,"LMG 27156, MCCC 1A09150",0,"Roseivivax marinus",Roseivivax
+13757,,"DSM 15395, ATCC 700843, CIP 105983, IFO 16685, JCM 10272, NBRC 16685, OCh 239, BCRC 80020",1,"Roseivivax halodurans",Roseivivax
+13758,,"DSM 15490, ATCC 700842, CIP 105984, IFO 16686, JCM 10271, NBRC 16686, OCh 210, BCRC 80019",1,"Roseivivax halotolerans",Roseivivax
+13759,sw-2,"DSM 22223, BCRC 17966, LMG 25204",1,"Roseivivax isoporae",Roseivivax
+13760,sw-2,"DSM 26432, BCRC 17966, LMG 25204",1,"Roseivivax isoporae",Roseivivax
+168823,CDM-17,"CECT 8625, KCTC 42110",1,"Roseivivax jejudonensis",Roseivivax
+130619,S5-5,"DSM 29430, CCUG 57755, KCTC 22708",1,"Roseivivax lentus",Roseivivax
+131293,ZL136,"DSM 27511, JCM 19386, KCTC 32470",1,"Roseivivax marinus",Roseivivax
+13761,,"DSM 21977, ACCC 10710, KCTC 23444, YIM D21, YIM D21(T)",1,"Roseivivax sediminis",Roseivivax
+140398,P2C13,"DSM 24496",0,"Roseivivax sp.",Roseivivax
+140399,P2C13A,"DSM 24502",0,"Roseivivax sp.",Roseivivax
+168783,"CdVSA 20.1","CECT 8500, LMG 27954",1,"Rosenbergiella australiborealis",Rosenbergiella
+169077,8.8A,"LMG 27955, CECT 8501",1,"Rosenbergiella collisarenosi",Rosenbergiella
+167350,2.1A,"CECT 8502, LMG 27956",1,"Rosenbergiella epipactidis",Rosenbergiella
+170895,FR72,"LMG 32786, NCCB 100898",1,"Rosenbergiella epipactidis subsp. californiensis",Rosenbergiella
+170630,JB07,"LMG 32616, NCCB 100888",1,"Rosenbergiella metrosideri",Rosenbergiella
+23998,8N4,"DSM 24150, LMG 26121",1,"Rosenbergiella nectarea",Rosenbergiella
+23996,10N3,"DSM 24125, LMG 26122",0,"Rosenbergiella nectarea",Rosenbergiella
+23997,9N2,"DSM 24149, LMG 26123",0,"Rosenbergiella nectarea",Rosenbergiella
+170896,B1A,"DSM 111763, NCCB 100810",1,"Rosenbergiella nectarea subsp. apis",Rosenbergiella
+167030,AI77,"DSM 110091, NBRC 114115",1,"Roseobacter cerasinus",Roseobacter
+13763,,"DSM 7001, ATCC 33942, OCh 114, JCM 21267, CIP 104266, IAM 14592, IFO 15277, NBRC 15277, NCIMB 2176",1,"Roseobacter denitrificans",Roseobacter
+170663,YSTF-M11,"NBRC 115155, KACC 21642",1,"Roseobacter insulae",Roseobacter
+13764,,"DSM 6996, ATCC 49566, OCh 149, JCM 21268, CIP 104265, IAM 14593, IFO 15278, NBRC 15278, ATCC 46566",1,"Roseobacter litoralis",Roseobacter
+140322,MM-7,"DSM 106830, NBRC 112431",1,"Roseobacter ponti",Roseobacter
+13765,"R 55","DSM 15398, KMM 3653",0,"Roseobacter sp.",Roseobacter
+168429,NIBR12,"HAMBI 3739, KACC 22094",1,"Roseococcus microcysteis",Roseococcus
+170687,"X ZZS9","JCM 34402, GDMCC 1.2158, KCTC 82435",1,"Roseococcus pinisoli",Roseococcus
+169711,SYP-B2431,"DSM 105250",1,"Roseococcus sp.",Roseococcus
+149058,,"CCUG 36799",0,"Roseococcus sp.",Roseococcus
+61,SHET,"DSM 19979, VKM B-2453",1,"Roseococcus suduntuyensis",Roseococcus
+60,,"DSM 8511, RB 3",1,"Roseococcus thiosulfatophilus",Roseococcus
+132392,R-1,"DSM 26554, NBRC 109410",0,"Roseomonas aceris",Roseomonas
+170689,NAR14,"MCCC 1K07275, KCTC 92174",1,"Roseomonas acroporae",Roseomonas
+164178,,"JCM 32049, KACC 19282",1,"Roseomonas aeriglobus",Roseomonas
+76,5420S-30,"DSM 19363, KACC 12521, UCCCB24, CIP 110193",1,"Roseomonas aerilata",Roseomonas
+140791,HC1,"KACC 19097, JCM 31878",1,"Roseomonas aerofrigidensis",Roseomonas
+133919,7515T-07,"KACC 16529, NBRC 108923",1,"Roseomonas aerophila",Roseomonas
+155360,,"CCUG 57456, KCTC 22692, NBRC 105654",1,"Roseomonas aestuarii",Roseomonas
+164514,,"JCM 33309, KACC 19925",1,"Roseomonas algicola",Roseomonas
+158172,,"DSM 25895, BCRC 80644, JCM 19656, YIM 78007",1,"Roseomonas alkaliterrae",Roseomonas
+72,TR53,"DSM 19438, CECT 7131, JCM 13556, CCM 7358, NCIMB 14503, CIP 109393",1,"Roseomonas aquatica",Roseomonas
+140906,M6-79,"CCTCC AB 2013101, LMG 28251",1,"Roseomonas arctica",Roseomonas
+133171,"MC 3624","CCTCC AB 2014278, LMG 28637",1,"Roseomonas arcticisoli",Roseomonas
+167816,CQN31,"MCCC 1H00309, KCTC 62447",1,"Roseomonas bella",Roseomonas
+138931,E7107,"CIP 104027, ATCC 49957, CCM 4881, CCUG 33006",1,"Roseomonas cervicalis",Roseomonas
+150134,,"CCUG 39066",0,"Roseomonas cervicalis",Roseomonas
+163940,,"JCM 31050, CCTCC AB 2015299",1,"Roseomonas chloroacetimidivorans",Roseomonas
+167422,M0104,"MCCC 1K03632, KCTC 62359, DSM 105333, BGMRC 0066",1,"Roseomonas coralli",Roseomonas
+158692,M3,"KEMB 2255-459, JCM 31275",1,"Roseomonas deserti",Roseomonas
+141094,BUT-5,"CCTCC AB 2013276, KACC 17166",1,"Roseomonas eburnea",Roseomonas
+158530,PN2,"BCC 44864, NBRC 107871",1,"Roseomonas elaeocarpi",Roseomonas
+158696,D3,"KACC 19269, JCM 31968",1,"Roseomonas fluminis",Roseomonas
+170688,S08,"NBRC 112025, DSM 111902",1,"Roseomonas fluvialis",Roseomonas
+133456,"CW67T, CW67","KCTC 22211, JCM 15073",1,"Roseomonas frigidaquae",Roseomonas
+138789,5424,"CIP 104026, ATCC 49956, CCM 4846, CCUG 33005, ATCC G7933",1,"Roseomonas gilardii",Roseomonas
+158100,,"DSM 103800",0,"Roseomonas gilardii",Roseomonas
+135096,,"CIP 108267, ATCC BAA-691, NCTC 13290, CCUG 48655, MDA 5605",1,"Roseomonas gilardii subsp. rosea",Roseomonas
+158324,0113-15,"DSM 102171, CPCC 100847, KCTC 52094, CPCC 100847T",1,"Roseomonas globiformis",Roseomonas
+166833,,"NBRC 113512, KCTC 62852, CPCC 101081",1,"Roseomonas harenae",Roseomonas
+167014,R-­73080,"CECT 30032, LMG 31523",1,"Roseomonas hellenica",Roseomonas
+141000,THG-N2.22,"KACC 18935, CCTCC AB 2016176",1,"Roseomonas hibiscisoli",Roseomonas
+71,TH-G33,"DSM 19439, CGMCC 1.3617, JCM 13283, CIP 109168",1,"Roseomonas lacus",Roseomonas
+155605,,"CCUG 58345",0,"Roseomonas ludipueritiae",Roseomonas
+138528,1461,"CIP 107751, CCUG 51327",1,"Roseomonas massiliensis",Roseomonas
+152800,,"CCUG 47654",0,"Roseomonas massiliensis",Roseomonas
+135097,,"CCUG 48654, CIP 108268, ATCC BAA-692, NCTC 13291, MDA 5527",1,"Roseomonas mucosa",Roseomonas
+152443,,"CCUG 46801",0,"Roseomonas mucosa",Roseomonas
+132061,C3_4,"DSM 103866",0,"Roseomonas mucosa",Roseomonas
+153294,,"CCUG 49016",0,"Roseomonas mucosa",Roseomonas
+153312,,"CCUG 49071",0,"Roseomonas mucosa",Roseomonas
+158101,,"DSM 102829",0,"Roseomonas mucosa",Roseomonas
+158102,,"DSM 102946",0,"Roseomonas mucosa",Roseomonas
+153537,,"CCUG 50112",0,"Roseomonas mucosa",Roseomonas
+159523,"Fh040319- C16","DSM 109730",0,"Roseomonas mucosa",Roseomonas
+70,ES-21,"DSM 30755",0,"Roseomonas mucosa",Roseomonas
+156682,,"CCUG 64115",0,"Roseomonas mucosa",Roseomonas
+158103,,"DSM 103585",0,"Roseomonas mucosa",Roseomonas
+159524,To-C2,"DSM 110975",0,"Roseomonas mucosa",Roseomonas
+158104,,"DSM 103586",0,"Roseomonas mucosa",Roseomonas
+159525,To-C9,"DSM 110979",0,"Roseomonas mucosa",Roseomonas
+158105,,"DSM 103799",0,"Roseomonas mucosa",Roseomonas
+158106,,"DSM 103801",0,"Roseomonas mucosa",Roseomonas
+158107,,"DSM 103802",0,"Roseomonas mucosa",Roseomonas
+158108,,"DSM 105836",0,"Roseomonas mucosa",Roseomonas
+156881,,"CCUG 66284",0,"Roseomonas mucosa",Roseomonas
+154684,,"CCUG 54834 A",0,"Roseomonas mucosa",Roseomonas
+155530,,"CCUG 58021",0,"Roseomonas mucosa",Roseomonas
+157043,,"CCUG 69096",0,"Roseomonas mucosa",Roseomonas
+173308,"CIMB 04-9360",CRBIP17.106,0,"Roseomonas mucosa",Roseomonas
+173309,"CIMB 04-4871",CRBIP17.107,0,"Roseomonas mucosa",Roseomonas
+153163,,"CCUG 48609",0,"Roseomonas mucosa",Roseomonas
+154965,,"CCUG 55887",0,"Roseomonas mucosa",Roseomonas
+167759,PN1,"NBRC 107870, BCC 44863, TBRC 4638",1,"Roseomonas musae",Roseomonas
+133416,G-3-5,"KEMB 9005-416, KACC 18908, JCM 31470",1,"Roseomonas nepalensis",Roseomonas
+167940,ROY-5-3,"CGMCC 1.13459, KCTC 82484",1,"Roseomonas oleicola",Roseomonas
+168241,JC288,"LMG 28711, KCTC 42542",1,"Roseomonas oryzae",Roseomonas
+23504,YC6724,"DSM 21423, KCTC 22478, NBRC 109439",1,"Roseomonas oryzicola",Roseomonas
+77,N75,"DSM 25268, CIP 110074, LMG 25481, UCCCB34",1,"Roseomonas pecuniae",Roseomonas
+78,N75,"DSM 25622, CIP 110074, LMG 25481",1,"Roseomonas pecuniae",Roseomonas
+167807,"SYSU M41301","CGMCC 1.18613, KCTC 72726",1,"Roseomonas ponticola",Roseomonas
+159866,17Sr1-1,"KCTC 52899, NBRC 112872",1,"Roseomonas radiodurans",Roseomonas
+132163,YW11,"DSM 103151, CCTCC AB 2013041, KACC 17225",1,"Roseomonas rhizosphaerae",Roseomonas
+130135,03SU10-P,"DSM 29515, JCM 17520, KCTC 23339",1,"Roseomonas riguiloci",Roseomonas
+69,173/96,"DSM 14916, CIP 107419, UCCCB4",1,"Muricoccus roseus",Muricoccus
+168277,MO17,"NBRC 114495, KACC 19933",1,"Roseomonas rubea",Roseomonas
+133159,S5,"KEMB 563-468, JCM 31177",1,"Roseomonas rubra",Roseomonas
+162197,,"JCM 18210, KACC 16616",1,"Roseomonas sediminicola",Roseomonas
+167254,BU-­1,"KACC 21750, GDMCC 1.1776",1,"Roseomonas selenitidurans",Roseomonas
+167624,5N26,"NBRC 109097, KACC 16376",1,"Roseomonas soli",Roseomonas
+146357,,"CCUG 31017",0,"Roseomonas sp.",Roseomonas
+156353,,"CCUG 61264",0,"Roseomonas sp.",Roseomonas
+150518,,"CCUG 41475",0,"Roseomonas sp.",Roseomonas
+155293,,"CCUG 57235",0,"Roseomonas sp.",Roseomonas
+23502,1BON,"DSM 15495",0,"Roseomonas sp.",Roseomonas
+23503,D,"DSM 19222",0,"Roseomonas sp.",Roseomonas
+74,ES2-7a2a,"DSM 30594",0,"Roseomonas sp.",Roseomonas
+145608,,"CCUG 28975",0,"Roseomonas sp.",Roseomonas
+154041,,"CCUG 52087",0,"Roseomonas sp.",Roseomonas
+154836,,"CCUG 55367",0,"Roseomonas sp.",Roseomonas
+169591,T21,"DSM 103179",0,"Roseomonas sp.",Roseomonas
+150049,,"CCUG 38915",0,"Roseomonas sp.",Roseomonas
+169592,YGD36,"DSM 106206",0,"Roseomonas sp.",Roseomonas
+147180,E7832,"CCUG 33008, ATCC 49959, CIP 104029",0,"Roseomonas sp.",Roseomonas
+163559,,"JCM 28681",0,"Roseomonas sp.",Roseomonas
+147181,F4700,"CCUG 33009, ATCC 49960, CIP 104030, CCM 4882",0,"Roseomonas sp.",Roseomonas
+163560,,"JCM 28683",0,"Roseomonas sp.",Roseomonas
+147182,F4626,"CCUG 33010, ATCC 49961, CIP 104031, CCM 4883",0,"Roseomonas sp.",Roseomonas
+149346,,"CCUG 37549",0,"Roseomonas sp.",Roseomonas
+150309,,"CCUG 39601",0,"Roseomonas sp.",Roseomonas
+75,HS-69,"DSM 19981, JCM 15034, KCTC 22213",1,"Roseomonas stagni",Roseomonas
+140548,S1,"KEMB 563-465, JCM 31176",1,"Roseomonas suffusca",Roseomonas
+136618,D,"CIP 109521",1,"Roseomonas terpenica",Roseomonas
+134265,DS-48,"KCTC 12874, JCM 14592",1,"Roseomonas terrae",Roseomonas
+158546,EM302,"KACC 13942, KCTC 42906, NBRC 111477",1,"Roseomonas terricola",Roseomonas
+161507,,"JCM 14634, BCRC 14133, KCTC 32152",1,"Roseomonas tokyonensis",Roseomonas
+167102,J1A743,"CPCC 101021, KCTC 62043",1,"Roseomonas vastitatis",Roseomonas
+73,,"DSM 19362, CCM 7468, KCTC 22045, CPCC 100056, UCCCB25",1,"Roseomonas vinacea",Roseomonas
+157913,Z23,"DSM 106207, CGMCC 1.16540",1,"Roseomonas wenyumeiae",Roseomonas
+162543,,"JCM 19527, KCTC 32534",1,"Roseomonas wooponensis",Roseomonas
+13962,JA135,"DSM 18985, ATCC BAA-1364, JCM 14191",1,"Roseospira goensis",Roseospira
+13960,CE2105,"DSM 15113",1,"Roseospira marina",Roseospira
+13961,SE3104,"DSM 15114",1,"Roseospira navarrensis",Roseospira
+13963,JA131,"DSM 19947, ATCC BAA-1365, JCM 14190",1,"Roseospira visakhapatnamensis",Roseospira
+13873,930I,"DSM 12498",1,"Roseospirillum parvum",Roseospirillum
+130621,SMK-122,"DSM 29438, CCUG 55325, KCTC 22174",1,"Roseovarius aestuarii",Roseovarius
+133325,GHTF-24,"KCTC 52454, NBRC 112420",1,"Roseovarius aestuariivivens",Roseovarius
+163882,,"JCM 30823, KEMB 3501-068 14",1,"Roseovarius algicolus",Roseovarius
+166221,GCL-8,"MCCC 1A11651, KCTC 52430",1,"Roseovarius amoyensis",Roseovarius
+140093,M-S13-148,"DSM 102249, CCTCC AB 2014072, LMG 28420",1,"Roseovarius antarcticus",Roseovarius
+156748,,"CCUG 64792, KCTC 32014",1,"Roseovarius aquimarinus",Roseovarius
+166686,MK6-18,"CCTCC AB 2018219, KCTC 72187",1,"Roseovarius arcticus",Roseovarius
+141127,R12B,"MCCC 1A09786, KCTC 42506",1,"Roseovarius atlanticus",Roseovarius
+170662,SHN287,"KCTC 15916, VKM B-3404",1,"Roseovarius autotrophicus",Roseovarius
+131289,,"DSM 100674, KCTC 32421, MTCC 11812, SSW 084",1,"Roseovarius azorensis",Roseovarius
+170097,LXJ103,"MCCC 1K06527, JCM 34778, CGMCC 1.19168",1,"Roseovarius carneus",Roseovarius
+133347,,"SAG 6, KACC 18598, JCM 31541",1,"Roseovarius confluentis",Roseovarius
+163871,MME-070,"JCM 30757, KCCM 43142",1,"Roseovarius faecimaris",Roseovarius
+158173,YM-20,"DSM 108670, CECT 8370, KCTC 32428",1,"Roseovarius gaetbuli",Roseovarius
+167054,GH877,"KCTC 72576, CGMCC 1.13971",1,"Roseovarius gahaiensis",Roseovarius
+130623,HJ50,"DSM 29507, KCTC 22224, LMG 24468",1,"Roseovarius halotolerans",Roseovarius
+13773,"2PR52-14, B108","DSM 26383, CCTCC AB 208233, LMG 24622, MCCC 1A01227",1,"Roseovarius indicus",Roseovarius
+135550,,"CIP 109942, CECT 7450",1,"Roseovarius albus",Roseovarius
+24499,GSW-M15,"DSM 28249, CCUG 62218, KCTC 23897",1,"Roseovarius litoreus",Roseovarius
+160702,D1-W8,"DSM 110551, KCTC 32327, CECT 8287",1,"Roseovarius litorisediminis",Roseovarius
+24500,112,"DSM 28463, JCM 17743, KACC 16185",1,"Roseovarius lutimaris",Roseovarius
+130626,H50,"DSM 29327, CGMCC 1.10799, JCM 17553",1,"Roseovarius marisflavi",Roseovarius
+24501,H50,"DSM 24881, CGMCC 1.10799, JCM 17553, DSM 29327",1,"Roseovarius marisflavi",Roseovarius
+13770,,"DSM 17069, NCIMB 14077, DFL 24",1,"Roseovarius mucosus",Roseovarius
+13771,253-13,"DSM 17070",0,"Roseovarius mucosus",Roseovarius
+130624,NH52J,"DSM 29590, CCTCC AB 208317, LMG 24840, MCCC 1A03543",1,"Roseovarius nanhaiticus",Roseovarius
+159704,TFZ,"MCCC 1K03339, KCTC 52967",1,"Roseovarius nitratireducens",Roseovarius
+13768,ISM,"DSM 15170, ATCC BAA-591",1,"Roseovarius nubinhibens",Roseovarius
+130622,81-2,"DSM 29589, CGMCC 1.7083, LMG 24575, MCCC 1A00293",1,"Roseovarius pacificus",Roseovarius
+132781,G5II,"DSM 17271",0,"Roseovarius pelophilus",Roseovarius
+158737,D15,"CECT 9424, LMG 30322",1,"Roseovarius ramblicola",Roseovarius
+158669,N53,"MCCC 1H00200, KCTC 52886",1,"Roseovarius salinarum",Roseovarius
+167558,MA4-5,"NBRC 111226, KCTC 42703",1,"Roseovarius scapharcae",Roseovarius
+130620,EG13,"DSM 23345",0,"Roseovarius sp.",Roseovarius
+24687,EL-257,"DSM 11441",0,"Roseovarius sp.",Roseovarius
+24692,EL-33,"DSM 11491",0,"Roseovarius sp.",Roseovarius
+167665,HN-E21,"MCCC 1K03333, LMG 30456",1,"Roseovarius spongiae",Roseovarius
+168768,LM2,"KCTC 62028, CGMCC 1.16230",1,"Roseovarius tibetensis",Roseovarius
+13766,EL-172,"DSM 11457, JCM 21346, CIP 106398, IAM 14840, IFO 16695, NBRC 16695, CECT 7738",1,"Roseovarius tolerans",Roseovarius
+13767,EL-222,"DSM 11463, CIP 106399",0,"Roseovarius tolerans",Roseovarius
+160494,EL-164,"DSM 108135",0,"Roseovarius tolerans",Roseovarius
+166404,Poly24,"DSM 102938, VKM B-3434, LMG 31347, CECT 9848",1,"Rosistilla carotiformis",Rosistilla
+166405,CA51,"DSM 104080, LMG 29702",1,"Rosistilla oblonga",Rosistilla
+169698,"Mal33, Malle 33","DSM 100539",1,"Rosistilla oblonga",Rosistilla
+167848,EC9,"DSM 29815, LMG 29013",1,"Rosistilla ulvae",Rosistilla
+1225,TF-12,"DSM 16205, JCM 11545, KCCM 41589, CIP 108136",1,"Rossellomorea aquimaris",Rossellomorea
+167886,"EAR8, EAR 8","DSM 103900, CECT 9072",1,"Rossellomorea arthrocnemi",Rossellomorea
+1224,TF-11,"DSM 16204, JCM 11544, KCCM 41588, CIP 108135",1,"Rossellomorea marisflavi",Rossellomorea
+162569,,"JCM 19602, KACC 17217, KCCM 90231",1,"Rossellomorea oryzaecorticis",Rossellomorea
+1258,15-1,"DSM 18898, CIP 108672, HSCC 1663, JCM 11124, NRIC 0531, NRRL B-23890, BCRC 80102, LMG 24742, NBRC 101237",1,"Rossellomorea vietnamensis",Rossellomorea
+7780,"A 1-17B, A1-17B","CCUG 51932, JCM 11412, DSM 14556, GTC 867, CIP 108437, IFM 10514, NCIMB 14248",1,"Rothia aeria",Rothia
+153727,,"CCUG 50760",0,"Rothia aeria",Rothia
+144563,,"CCUG 25688",0,"Rothia aeria",Rothia
+136028,,"CIP 101998",0,"Rothia aeria",Rothia
+132581,140917-MRSA-09,"DSM 102816, CCM 8669, LMG 29446, JCM 31759, CIP 111029",1,"Rothia aerolata",Rothia
+7782,J18,"DSM 15839, AS 4.1721, CCUG 47294, JCM 11375, KCTC 3798, CGMCC 4.1721, CIP 108018, IFM 10891",1,"Rothia amarae",Rothia
+155223,,"CCUG 56976 A",0,"Rothia amarae",Rothia
+156665,,"CCUG 63989",0,"Rothia amarae",Rothia
+152154,,"CCUG 45923",0,"Rothia amarae",Rothia
+131097,SP2-3,"DSM 100609",0,"Rothia amarae",Rothia
+152966,,"CCUG 48145",0,"Rothia amarae",Rothia
+154890,,"CCUG 55552",0,"Rothia amarae",Rothia
+7779,"XDIA, X599","DSM 43762, ATCC 17931, DSM 46363, IFO 12531, JCM 3067, KCC A-0067, NBRC 12531, CCUG 35437, CIP 81.83, NCTC 10917, CDC X599, CCM 7007, IAM 14816, IFM 1284, IMET 11515, IMSNU 21309, KCTC 3204, NRRL B-8017, PCM 2349",1,"Rothia dentocariosa",Rothia
+145458,,"CCUG 28595",0,"Rothia dentocariosa",Rothia
+148200,,"CCUG 35025",0,"Rothia dentocariosa",Rothia
+153570,,"CCUG 50219",0,"Rothia dentocariosa",Rothia
+154483,,"CCUG 53793",0,"Rothia dentocariosa",Rothia
+138734,,"CIP 102480",0,"Rothia dentocariosa",Rothia
+153766,,"CCUG 50895",0,"Rothia dentocariosa",Rothia
+151025,,"CCUG 43070",0,"Rothia dentocariosa",Rothia
+155471,,"CCUG 57823",0,"Rothia dentocariosa",Rothia
+151094,,"CCUG 43254",0,"Rothia dentocariosa",Rothia
+146918,,"CCUG 32449",0,"Rothia dentocariosa",Rothia
+151236,,"CCUG 43520 C",0,"Rothia dentocariosa",Rothia
+145961,,"CCUG 29965",0,"Rothia dentocariosa",Rothia
+103160,STI10083(IMET),,0,"Rothia dentocariosa",Rothia
+145980,,"CCUG 30072",0,"Rothia dentocariosa",Rothia
+103161,SF002737(FSU),,0,"Rothia dentocariosa",Rothia
+103162,SF002748(FSU),,0,"Rothia dentocariosa",Rothia
+155890,,"CCUG 59569",0,"Rothia dentocariosa",Rothia
+150128,,"CCUG 39054",0,"Rothia dentocariosa",Rothia
+154915,,"CCUG 55681",0,"Rothia dentocariosa",Rothia
+153179,,"CCUG 48652, ATCC BAA-907",0,"Rothia dentocariosa",Rothia
+145026,,"CCUG 27465",0,"Rothia dentocariosa",Rothia
+146267,,"CCUG 30754",0,"Rothia dentocariosa",Rothia
+145121,,"CCUG 27698",0,"Rothia dentocariosa",Rothia
+149424,,"CCUG 37703",0,"Rothia dentocariosa",Rothia
+153237,,"CCUG 48843",0,"Rothia dentocariosa",Rothia
+149463,,"CCUG 37790",0,"Rothia dentocariosa",Rothia
+163858,,"JCM 3068, ATCC 14189, IAM 14774, IFM 1285, IFO 12532, NBRC 12532, NCTC 10918, PCM 2348",0,"Rothia dentocariosa",Rothia
+146425,,"CCUG 31109",0,"Rothia dentocariosa",Rothia
+149654,,"CCUG 38132",0,"Rothia dentocariosa",Rothia
+147410,,"CCUG 33543",0,"Rothia dentocariosa",Rothia
+149661,,"CCUG 38139",0,"Rothia dentocariosa",Rothia
+143220,,"CCUG 17835",0,"Rothia dentocariosa",Rothia
+152446,,"CCUG 46804",0,"Rothia dentocariosa",Rothia
+149665,,"CCUG 38143",0,"Rothia dentocariosa",Rothia
+147679,,"CCUG 33996",0,"Rothia dentocariosa",Rothia
+153488,,"CCUG 49729",0,"Rothia dentocariosa",Rothia
+145454,,"CCUG 28582",0,"Rothia dentocariosa",Rothia
+24206,,"DSM 26247, JCM 18541, YIM 67072",1,"Rothia endophytica",Rothia
+158162,TURIN130318_T4,"DSM 107244",0,"Rothia endophytica",Rothia
+7661,,"DSM 18442, CCTCC AB 206069, JCM 31975, KCTC 19172, YIM 90716",1,"Rothia halotolerans",Rothia
+7664,P31,"DSM 23367, JCM 15915, KCTC 19595, CIP 110210",1,"Rothia koreensis",Rothia
+7637,"PM 129","DSM 20032, ATCC 27570, CCM 2690, CCUG 33026, JCM 7237, CIP 81.69, GIFU 9131, IAM 13590, IFO 15354, LMG 14215, NBRC 15354, NCIMB 14427, NCTC 11038, NRRL B-14835, VKM Ac-2190, VKM B-1811",1,"Rothia kristinae",Rothia
+147237,,"CCUG 33141",0,"Rothia kristinae",Rothia
+103063,"STI09591(IMET), N3704","IMET 9591",0,"Rothia kristinae",Rothia
+7636,,"DSM 20027, Back 228c",0,"Rothia kristinae",Rothia
+7638,"AW 204","DSM 20321, ATCC 27572, CCM 2692, JCM 21308, IAM 14775, LMG 14216",0,"Rothia kristinae",Rothia
+152031,,"CCUG 45603",0,"Rothia kristinae",Rothia
+150701,,"CCUG 41986 B",0,"Rothia kristinae",Rothia
+152102,,"CCUG 45788",0,"Rothia kristinae",Rothia
+154278,,"CCUG 52954",0,"Rothia kristinae",Rothia
+152714,,"CCUG 47458",0,"Rothia kristinae",Rothia
+135300,"KH 189","CIP 82.53, ATCC 27571, CCM 2691",0,"Rothia kristinae",Rothia
+154876,,"CCUG 55514",0,"Rothia kristinae",Rothia
+158996,Fh040319-C18,"DSM 109732",0,"Rothia kristinae",Rothia
+151722,,"CCUG 44709",0,"Rothia kristinae",Rothia
+154149,,"CCUG 52569",0,"Rothia kristinae",Rothia
+146264,,"CCUG 30744 B",0,"Rothia kristinae",Rothia
+154961,,"CCUG 55878, ATCC BAA-752",0,"Rothia kristinae",Rothia
+24205,,"DSM 21080, KCTC 19432, JSM 078151",1,"Rothia marina",Rothia
+7777,5762/67,"DSM 20746, ATCC 25296, CCM 2417, NCTC 10663, CCUG 20962, CIP 71.14, JCM 10910, GIFU 9911, GTC 311, IAM 14815, IFM 10890, IFO 15673, IMSNU 22101, NBRC 15673, NCDO 2360, NCIMB 702360, PCM 2415, CCUG 3707",1,"Rothia mucilaginosa",Rothia
+142598,,"CCUG 13185",0,"Rothia mucilaginosa",Rothia
+146997,,"CCUG 32620",0,"Rothia mucilaginosa",Rothia
+145855,,"CCUG 29798",0,"Rothia mucilaginosa",Rothia
+154787,,"CCUG 55182 A",0,"Rothia mucilaginosa",Rothia
+149003,,"CCUG 36703",0,"Rothia mucilaginosa",Rothia
+151112,,"CCUG 43297",0,"Rothia mucilaginosa",Rothia
+137535,,"CIP 71.13",0,"Rothia mucilaginosa",Rothia
+173306,"CIMB 04-9299",CRBIP17.108,0,"Rothia mucilaginosa",Rothia
+173307,"CIMB 04-7239",CRBIP17.109,0,"Rothia mucilaginosa",Rothia
+154842,,"CCUG 55378",0,"Rothia mucilaginosa",Rothia
+147076,,"CCUG 32803",0,"Rothia mucilaginosa",Rothia
+149138,,"CCUG 36920",0,"Rothia mucilaginosa",Rothia
+151307,,"CCUG 43707 B",0,"Rothia mucilaginosa",Rothia
+154851,,"CCUG 55400",0,"Rothia mucilaginosa",Rothia
+149258,,"CCUG 37354",0,"Rothia mucilaginosa",Rothia
+151311,,"CCUG 43722",0,"Rothia mucilaginosa",Rothia
+149262,,"CCUG 37373",0,"Rothia mucilaginosa",Rothia
+153060,,"CCUG 48398",0,"Rothia mucilaginosa",Rothia
+154137,,"CCUG 52532",0,"Rothia mucilaginosa",Rothia
+149296,,"CCUG 37443",0,"Rothia mucilaginosa",Rothia
+153062,,"CCUG 48402",0,"Rothia mucilaginosa",Rothia
+146073,,"CCUG 30339",0,"Rothia mucilaginosa",Rothia
+148049,,"CCUG 34730",0,"Rothia mucilaginosa",Rothia
+151813,,"CCUG 44966",0,"Rothia mucilaginosa",Rothia
+150770,,"CCUG 42258",0,"Rothia mucilaginosa",Rothia
+147187,,"CCUG 33020",0,"Rothia mucilaginosa",Rothia
+152121,,"CCUG 45837",0,"Rothia mucilaginosa",Rothia
+149351,,"CCUG 37563",0,"Rothia mucilaginosa",Rothia
+7778,ES1-209-1,"DSM 30548",0,"Rothia mucilaginosa",Rothia
+142867,,"CCUG 15424 A",0,"Rothia mucilaginosa",Rothia
+150780,,"CCUG 42305",0,"Rothia mucilaginosa",Rothia
+143348,,"CCUG 18678",0,"Rothia mucilaginosa",Rothia
+148213,,"CCUG 35048",0,"Rothia mucilaginosa",Rothia
+152728,,"CCUG 47492",0,"Rothia mucilaginosa",Rothia
+146629,,"CCUG 31653",0,"Rothia mucilaginosa",Rothia
+148524,,"CCUG 35589",0,"Rothia mucilaginosa",Rothia
+150866,,"CCUG 42589",0,"Rothia mucilaginosa",Rothia
+143591,,"CCUG 20499",0,"Rothia mucilaginosa",Rothia
+146642,,"CCUG 31703",0,"Rothia mucilaginosa",Rothia
+148730,,"CCUG 35870",0,"Rothia mucilaginosa",Rothia
+146656,,"CCUG 31734",0,"Rothia mucilaginosa",Rothia
+148762,,"CCUG 35912",0,"Rothia mucilaginosa",Rothia
+146684,,"CCUG 31798",0,"Rothia mucilaginosa",Rothia
+145798,,"CCUG 29631",0,"Rothia mucilaginosa",Rothia
+146805,,"CCUG 32149",0,"Rothia mucilaginosa",Rothia
+144586,,"CCUG 25828",0,"Rothia mucilaginosa",Rothia
+145836,,"CCUG 29746",0,"Rothia mucilaginosa",Rothia
+145126,,"CCUG 27714 B",0,"Rothia mucilaginosa",Rothia
+152422,,"CCUG 46756",0,"Rothia mucilaginosa",Rothia
+146361,,"CCUG 31024 A",0,"Rothia mucilaginosa",Rothia
+149506,,"CCUG 37871",0,"Rothia mucilaginosa",Rothia
+153285,,"CCUG 48997",0,"Rothia mucilaginosa",Rothia
+147391,,"CCUG 33515",0,"Rothia mucilaginosa",Rothia
+146454,,"CCUG 31188",0,"Rothia mucilaginosa",Rothia
+155072,,"CCUG 56385",0,"Rothia mucilaginosa",Rothia
+152008,,"CCUG 45514",0,"Rothia mucilaginosa",Rothia
+146455,,"CCUG 31189",0,"Rothia mucilaginosa",Rothia
+147806,,"CCUG 34263",0,"Rothia mucilaginosa",Rothia
+7775,421/68,"DSM 20445, CCM 2485, JCM 21309, IAM 14776",0,"Rothia mucilaginosa",Rothia
+145444,,"CCUG 28566",0,"Rothia mucilaginosa",Rothia
+154276,,"CCUG 52952",0,"Rothia mucilaginosa",Rothia
+149895,,"CCUG 38635",0,"Rothia mucilaginosa",Rothia
+7776,,"DSM 20446, CCM 2486, JCM 21310, IAM 14777, NCDO 2362, NCIMB 702362",0,"Rothia mucilaginosa",Rothia
+150726,,"CCUG 42088",0,"Rothia mucilaginosa",Rothia
+146575,,"CCUG 31477",0,"Rothia mucilaginosa",Rothia
+7781,"B905/96, SVA B 905/96, B 905","DSM 15694, CCUG 35957, JCM 10909, CIP 106912, IFM 108899",1,"Rothia nasimurium",Rothia
+152237,,"CCUG 46188",0,"Rothia nasimurium",Rothia
+152238,,"CCUG 46189",0,"Rothia nasimurium",Rothia
+152239,,"CCUG 46190",0,"Rothia nasimurium",Rothia
+152284,,"CCUG 46326",0,"Rothia nasimurium",Rothia
+152285,,"CCUG 46327",0,"Rothia nasimurium",Rothia
+152286,,"CCUG 46332",0,"Rothia nasimurium",Rothia
+152287,,"CCUG 46338",0,"Rothia nasimurium",Rothia
+152288,,"CCUG 46342",0,"Rothia nasimurium",Rothia
+152289,,"CCUG 46343",0,"Rothia nasimurium",Rothia
+152354,,"CCUG 46515",0,"Rothia nasimurium",Rothia
+152355,,"CCUG 46516",0,"Rothia nasimurium",Rothia
+152356,,"CCUG 46517",0,"Rothia nasimurium",Rothia
+160019,1a5R-CH16,"DSM 107101",0,"Rothia nasisuis",Rothia
+103140,ST028567(HKI),,0,"Rothia sp.",Rothia
+103141,ST030069(HKI),,0,"Rothia sp.",Rothia
+103142,ST030024(HKI),,0,"Rothia sp.",Rothia
+103143,ST030022(HKI),,0,"Rothia sp.",Rothia
+103144,ST030019(HKI),,0,"Rothia sp.",Rothia
+103145,ST030046(HKI),,0,"Rothia sp.",Rothia
+103146,ST029934(HKI),,0,"Rothia sp.",Rothia
+103147,ST030016(HKI),,0,"Rothia sp.",Rothia
+103148,ST030034(HKI),,0,"Rothia sp.",Rothia
+103149,ST030063(HKI),,0,"Rothia sp.",Rothia
+103150,ST030114(HKI),,0,"Rothia sp.",Rothia
+103151,ST000807(HKI),,0,"Rothia sp.",Rothia
+103152,ST002044(HKI),,0,"Rothia sp.",Rothia
+103153,ST002045(HKI),,0,"Rothia sp.",Rothia
+103154,ST002046(HKI),,0,"Rothia sp.",Rothia
+103155,ST009025(HKI),,0,"Rothia sp.",Rothia
+103156,"STI11489(IMET), 1375-4",,0,"Rothia sp.",Rothia
+103157,ST002041(HKI),,0,"Rothia sp.",Rothia
+103158,ST002042(HKI),,0,"Rothia sp.",Rothia
+103137,ST002043(HKI),,0,"Rothia sp.",Rothia
+103138,ST027933(HKI),,0,"Rothia sp.",Rothia
+103139,ST027939(HKI),,0,"Rothia sp.",Rothia
+103159,ST027063(HKI),,0,"Rothia sp.",Rothia
+160675,E5,"DSM 22568",0,"Rothia sp.",Rothia
+160676,"SB 156","DSM 111809",0,"Rothia sp.",Rothia
+7783,L-143,"DSM 22277, BCRC 17588, LMG 23708, CCUG 55855, JCM 15158",1,"Rothia terrae",Rothia
+151960,,"CCUG 45361",0,"Rothia terrae",Rothia
+154274,,"CCUG 52950",0,"Rothia terrae",Rothia
+153577,,"CCUG 50265",0,"Rothia terrae",Rothia
+153987,,"CCUG 51842 A",0,"Rothia terrae",Rothia
+157156,,"CCUG 69842 A",0,"Rothia terrae",Rothia
+154897,,"CCUG 55579",0,"Rothia terrae",Rothia
+154951,,"CCUG 55841",0,"Rothia terrae",Rothia
+166978,SAP-­1,"CCM 9078, KCTC 72959",1,"Rouxiella aceris",Rouxiella
+131542,323,"DSM 100043, CIP 111153",1,"Rouxiella badensis",Rouxiella
+130319,130333,"DSM 28324, CIP 110714, CCUG 70919",1,"Rouxiella chamberiensis",Rouxiella
+134949,140002,"CIP 110766",0,"Rouxiella chamberiensis",Rouxiella
+136735,140001,"CIP 110765",0,"Rouxiella chamberiensis",Rouxiella
+134950,140004,"CIP 110768",0,"Rouxiella chamberiensis",Rouxiella
+134951,140005,"CIP 110769",0,"Rouxiella chamberiensis",Rouxiella
+157040,,"CCUG 69063",0,"Rouxiella chamberiensis",Rouxiella
+139033,140003,"CIP 110767",0,"Rouxiella chamberiensis",Rouxiella
+157051,,"CCUG 69149",0,"Rouxiella chamberiensis",Rouxiella
+157059,,"CCUG 69255",0,"Rouxiella chamberiensis",Rouxiella
+140277,213,"DSM 103735, CIP 111154",1,"Rouxiella silvae",Rouxiella
+17802,,"DSM 21368, CCTCC AB 208069, KCTC 19413, YIM 93306, JCM 19145, NBRC 109067",1,"Ruania alba",Ruania
+17801,3-6,"DSM 18029, CGMCC 4.3142, JCM 13910, PCM 2644, NBRC 106322, CIP 109565",1,"Ruania albidiflava",Ruania
+166707,RN3S43,"CGMCC 1.18652, KCTC 49471T",1,"Ruania alkalisoli",Ruania
+169792,M4N3S171,"CGMCC 1.19142, KCTC 49727",1,"Ruania halotolerans",Ruania
+166829,"LNNU 22110","KCTC 39807, CGMCC 1.17105, DSM 103393",1,"Ruania rhizosphaerae",Ruania
+169793,LR1S40,"KCTC 49726, CGMCC 1.19028",1,"Ruania suaedae",Ruania
+167557,HY168,"CGMCC 1.16970, JCM 33465",1,"Ruania zhangjianzhongii",Ruania
+13778,5715S-9,"DSM 19297, KACC 12504",1,"Rubellimicrobium aerolatum",Rubellimicrobium
+170655,"SYSU D00286","CGMCC 1.8626, MCCC 1K04981, KCTC 82271",1,"Rubellimicrobium arenae",Rubellimicrobium
+13777,,"DSM 19309, KCTC 22012, MSL 20",1,"Rubellimicrobium mesophilum",Rubellimicrobium
+13779,,"DSM 23580, CCTCC AA 208029, KCTC 23202, YIM 48858",1,"Rubellimicrobium roseum",Rubellimicrobium
+167375,"YIM 131921","CGMCC 1.13958, KCTC 72461, NBRC 114054",1,"Rubellimicrobium rubrum",Rubellimicrobium
+13775,A-col-R2A-4,"CCUG 51818, HAMBI 2468/2, DSM 16685, HAMBI 2468",0,"Rubellimicrobium sp.",Rubellimicrobium
+13776,E-R2A-8a,"DSM 16686, HAMBI 2509, CCUG 51819",0,"Rubellimicrobium sp.",Rubellimicrobium
+13774,"C-lvkR2A-2, C-lvk-R2A-2","DSM 16684, CCUG 51817, HAMBI 2421, CIP 109278",1,"Rubellimicrobium thermophilum",Rubellimicrobium
+160310,Mt6,"DSM 100479",0,"Rubeoparvulum massiliense",Rubeoparvulum
+134365,UTEXL2944,"KCTC 40015, KORDI 51-2",1,"Rubidibacter lacunae",Rubidibacter
+11938,,"DSM 5305, ATCC 49424, IFAM 1448, JCM 21570, NBRC 103401, IAM 15109",1,"Rubinisphaera brasiliensis",Rubinisphaera
+166400,Pan54,"DSM 29369, LMG 29789",1,"Rubinisphaera italica",Rubinisphaera
+170227,ICM_H10,"CECT 30326, LMG 32234",1,"Rubinisphaera margarita",Rubinisphaera
+158400,ResAG-85,"DSM 105129, JCM 32272",1,"Rubneribacter badeniensis",Rubneribacter
+160763,Cla-CZ-151,"DSM 108036",0,"Rubneribacter badeniensis",Rubneribacter
+168998,Green,"LMG 25349, VKM B-2481",1,"Rubribacterium polymorphum",Rubribacterium
+140285,J82,"DSM 103377, CCTCC AB 2016170",1,"Rubricella aquisinus",Rubricella
+167579,SG-29,"NBRC 107124, KCTC 23197",1,"Rubricoccus marinus",Rubricoccus
+13831,,"DSM 15345, CIP 105913, JCM 10189, NBRC 100047, OCh 317, IAM 14838",1,"Rubrimonas cliftonensis",Rubrimonas
+24509,SL014B-28A2,"DSM 22978, CGMCC 1.9170",1,"Rubrimonas shengliensis",Rubrimonas
+166396,"Pla22, Pla 22","DSM 102267, LMG 29691",1,"Rubripirellula amarantea",Rubripirellula
+168188,K22.7,"LMG 29017, DSM 29813",1,"Rubripirellula lacrimiformis",Rubripirellula
+132994,LF1,"DSM 26289, CECT 8602, LMG 27779",1,"Rubripirellula obstinata",Rubripirellula
+166397,Poly59,"DSM 103767, LMG 29696",1,"Rubripirellula reticaptiva",Rubripirellula
+166398,Poly51,"DSM 103356, VKM B-3438",1,"Rubripirellula tenax",Rubripirellula
+168729,MN1-1006,"NBRC 107102, KCTC 23186",1,"Rubritalea halochordaticola",Rubritalea
+17850,Pol012,"DSM 17716, CIP 108984",1,"Rubritalea marina",Rubritalea
+159705,SAORIC-165,"NBRC 110691, KCTC 52460",1,"Rubritalea profundi",Rubritalea
+168598,"MBIC08323, YM29-052","KCTC 22127",1,"Rubritalea sabuli",Rubritalea
+134286,YM21-132,"MBIC 08281, KCTC 12906, NBRC 104204",1,"Rubritalea spongiae",Rubritalea
+17851,"HOact 23","DSM 18772, MBIC 08254, NBRC 103619",1,"Rubritalea squalenifaciens",Rubritalea
+134287,YM27-005,"MBIC 08282, KCTC 12907, NBRC 104205",1,"Rubritalea tangerina",Rubritalea
+62,H-8,"DSM 14296, ATCC BAA-385",1,"Rubritepida flocculans",Rubritepida
+133914,SAORIC-28,"KCTC 23867, NBRC 108816",1,"Rubrivirga marina",Rubrivirga
+140498,SAORIC-476,"NBRC 110607, KACC 18401",1,"Rubrivirga profundi",Rubrivirga
+167641,ICH-3,"BCRC 81155, KCTC 62866, LMG 30930",1,"Rubrivivax albus",Rubrivivax
+137373,JA2,"CIP 109386, JCM 13220, ATCC BAA-35, MTCC 7087",1,"Rubrivivax benzoatilyticus",Rubrivivax
+17933,,"DSM 1709, ATCC 17011, NCIB 8290, JCM 21318, ATCC 11169, CCTM 1912, CCUG 15841, CCUG 21977, CCUG 21990, CIP 107072, IAM 14808, IFO 16663, LMG 4311, LMG 4438, NBRC 16663, NCIMB 8290",1,"Rubrivivax gelatinosus",Rubrivivax
+17934,2150,"DSM 149, Pfennig 2150",0,"Rubrivivax gelatinosus",Rubrivivax
+17935,"Dr 2","DSM 151, CCUG 15842",0,"Rubrivivax gelatinosus",Rubrivivax
+17936,"O.U. 007","DSM 6859",0,"Rubrivivax gelatinosus",Rubrivivax
+24540,,"DSM 27440, CECT 8425, RV 113, JCM 31709",1,"Rubrobacter aplysinae",Rubrobacter
+24537,VF70612_S1,"DSM 24908, CECT 7924, JCM 31710",1,"Rubrobacter bracarensis",Rubrobacter
+24538,VF70612-S4,"DSM 24909",0,"Rubrobacter bracarensis",Rubrobacter
+24539,VF70612-S5,"DSM 24910",0,"Rubrobacter bracarensis",Rubrobacter
+162409,RG-1,"JCM 19154, CECT 8308, DSM 106799",1,"Rubrobacter calidifluminis",Rubrobacter
+162411,,"JCM 19156",0,"Rubrobacter calidifluminis",Rubrobacter
+158426,,"DSM 105148, CGMCC 1.16398, SCSIO 08198, JCM 33406",1,"Rubrobacter indicoceani",Rubrobacter
+167463,,"KCTC 49411, SCSIO 52915, CGMCC 1.13852",1,"Rubrobacter marinus",Rubrobacter
+162410,RG-3,"JCM 19155, CECT 8310, DSM 106800",1,"Rubrobacter naiadicus",Rubrobacter
+162412,,"JCM 19157",0,"Rubrobacter naiadicus",Rubrobacter
+14035,P-1,"DSM 5868, ATCC 51242, DSM 46359, IAM 12072, JCM 2153, BCRC 17324, CIP 106991, IFO 14777, IMET 11468, NBRC 14777, NCIMB 12766, VKM Ac-1989",1,"Rubrobacter radiotolerans",Rubrobacter
+139787,HPK2-2,"DSM 102139, LMG 29988",1,"Rubrobacter spartanus",Rubrobacter
+134093,LS-293,"ATCC BAA-406, BCRC 17173, JCM 12932",1,"Rubrobacter taiwanensis",Rubrobacter
+167460,,"SCSIO 52909, KCTC 49412, CGMCC 1.13853",1,"Rubrobacter tropicus",Rubrobacter
+14036,PRD-1,"DSM 9941, IFO 16129, NBRC 16129, JCM 11954, CIP 105412, NBRC 100952",1,"Rubrobacter xylanophilus",Rubrobacter
+160181,Cla-CZ-49,"DSM 107454",1,"Ructibacterium gallinarum",Ructibacterium
+17624,KIS3-4,"DSM 22992, JCM 15422, KACC 12734",1,"Rudaea cellulosilytica",Rudaea
+22986,HOR6-4,"DSM 19560, KACC 12637",1,"Rudaeicoccus suwonensis",Rudaeicoccus
+133989,5GHs34-4,"KACC 15523, NBRC 108754",1,"Rudaibacter terrae",Rudaibacter
+3834,57155-11,"DSM 19387, KACC 12603, JCM 16390, NBRC 106408",1,"Rudanella lutea",Rudanella
+166319,HX-22-17,"KCTC 72656, CCTCC AB 2019347",1,"Rudanella paleaurantiibacter",Rudanella
+170659,1NDH52C,"KCTC 82664, GDMCC 1.2382",1,"Ruegeria alba",Ruegeria
+156521,,"CCUG 62412, KCTC 23960",1,"Ruegeria arenilitoris",Ruegeria
+13780,"1480, Rüger, Rüger, 1480","DSM 5823, JCM 21234, ATCC 700000, CIP 105975, IAM 14463, IFO 15792, NBRC 15792",1,"Ruegeria atlantica",Ruegeria
+13781,1513,"DSM 5824, JCM 21235, ATCC 700001, IAM 14464, IFO 15793, NBRC 15793",0,"Ruegeria meteori",Ruegeria
+24504,TW15,"DSM 29317, JCM 17315, KACC 15115",1,"Ruegeria conchae",Ruegeria
+135100,5OM10,"CIP 108403, CECT 5091, LMG 29896",1,"Ruegeria denitrificans",Ruegeria
+24502,HD-28,"DSM 28009, CCUG 58878, KCTC 23044",1,"Ruegeria faecimaris",Ruegeria
+167591,"B 1Z28","MCCC 1H00393, KCTC 72686T",1,"Ruegeria haliotis",Ruegeria
+24503,MA1-6,"DSM 27839, CCUG 60744, KCTC 23463",1,"Ruegeria halocynthiae",Ruegeria
+130627,CC-GIMAT-2,"DSM 29341, CCM 7758, CCUG 59209, DSM 104504, DSM 23285, LMG 25539",1,"Ruegeria intermedia",Ruegeria
+132916,CC-GIMAT-2,"DSM 104504, CCM 7758, CCUG 59209, DSM 23285, DSM 29341, LMG 25539",1,"Ruegeria intermedia",Ruegeria
+24505,CC-GIMAT-2,"DSM 23285, CCM 7758, CCUG 59209, DSM 104504, DSM 29341, LMG 25539",1,"Ruegeria intermedia",Ruegeria
+159879,J95,"MCCC 1K03284, DSM 104293",1,"Albibacillus kandeliae",Albibacillus
+13782,ITI-1157,"DSM 11314",1,"Ruegeria lacuscaerulensis",Ruegeria
+130634,R37,"DSM 29947, CECT 7639, KCTC 23353",1,"Ruegeria litorea",Ruegeria
+13788,ZH17,"DSM 24837, CGMCC 1.9108, JCM 16262",1,"Ruegeria marina",Ruegeria
+158547,ZGT118,"JCM 19519, ACCC 19862",1,"Ruegeria marisrubri",Ruegeria
+130635,M17,"DSM 29946, CECT 7615, KCTC 23058",1,"Ruegeria mediterranea",Ruegeria
+169133,MA-E2-3,"CECT 8411, KCTC 32450",1,"Ruegeria meonggei",Ruegeria
+13783,DSS-3,"DSM 15171, ATCC 700808, CECT 7647",1,"Ruegeria pomeroyi",Ruegeria
+13784,DSS-10,"DSM 15172",0,"Ruegeria pomeroyi",Ruegeria
+158548,ZGT108,"JCM 19518, ACCC 19861",1,"Ruegeria profundi",Ruegeria
+167793,"CAU 1488","NBRC 113693, KCTC 62996T",1,"Ruegeria sediminis",Ruegeria
+139879,SOM10,"DSM 16399",0,"Ruegeria sp.",Ruegeria
+164037,,"JCM 31355",0,"Ruegeria sp.",Ruegeria
+164038,,"JCM 31358",0,"Ruegeria sp.",Ruegeria
+169478,THAF57,"DSM 106802",0,"Ruegeria sp.",Ruegeria
+158531,MDT1-10-3,"CGMCC 1.9789, NBRC 109705",1,"Rufibacter glacialis",Rufibacter
+166700,NBS58-1,"MCCC 1K04037T, KACC 21309T",1,"Rufibacter hautae",Rufibacter
+168120,"MCC P1","MCC 2268, CCTCC AB 2013351",1,"Rufibacter immobilis",Rufibacter
+167248,"R-22-1 c-1","CGMCC 1.13570, KCTC 62781",1,"Rufibacter latericius",Rufibacter
+133023,CAI-18b,"DSM 29854, NCAIM B.02614",1,"Rufibacter ruber",Rufibacter
+168126,H359,"CPCC 100615, KCTC 42217",1,"Rufibacter roseus",Rufibacter
+133192,,"CCM 8646, LMG 29438",1,"Rufibacter ruber",Rufibacter
+166441,H-1,"CGMCC 1.16289, NBRC 113030",1,"Rufibacter sediminis",Rufibacter
+163935,,"JCM 31024, KCTC 42815",1,"Rufibacter soli",Rufibacter
+133402,CC-MHH0563,"BCRC 80918, JCM 31066",1,"Ruficoccus amylovorans",Ruficoccus
+170021,LX47W,"KACC 21959, GDMCC 1.1914",1,"Rugamonas apoptosis",Rugamonas
+168051,"F T29W","GDMCC 1.1643, KACC 21316",1,"Rugamonas aquatica",Rugamonas
+170022,LX20W,"GDMCC 1.1911, KACC 21956",1,"Rugamonas brunnea",Rugamonas
+170023,FT3S,"GDMCC 1.1907, KACC 21952",1,"Rugamonas fusca",Rugamonas
+168006,FT103W,"KACC 21477, GDMCC 1.1685",1,"Rugamonas rivuli",Rugamonas
+168844,"MOM 28/2/79","ATCC 43154, CCM 3730",1,"Rugamonas rubra",Rugamonas
+166723,P5900,"CCM 8940, LMG 32105",1,"Rugamonas violacea",Rugamonas
+133073,Ca6,"DSM 103039, ATCC TSD-59",1,"Rugosibacter aromaticivorans",Rugosibacter
+8048,"Delta1, ID 143706","DSM 45227, JCM 18304, NBRC 104874",1,"Rugosimonospora acidiphila",Rugosimonospora
+8049,Delta3,"DSM 45228, JCM 18305, NBRC 104875",1,"Rugosimonospora africana",Rugosimonospora
+2567,Cc,"DSM 1351, ATCC 15832, NCIMB 10669, JCM 1422, LMG 5589, BCRC 14495, KCTC 15225, KCTC 3044, VPI 3359",1,"Ruminiclostridium cellobioparum",Ruminiclostridium
+2767,CT1112,"DSM 5398, ATCC 51846",1,"Ruminiclostridium cellobioparum subsp. termitidis",Ruminiclostridium
+2760,H10,"DSM 5812, ATCC 35319, JCM 6584",1,"Ruminiclostridium cellulolyticum",Ruminiclostridium
+160435,MA18,"DSM 109966, JCM 39124",1,"Ruminiclostridium herbifermentans",Ruminiclostridium
+2803,AD,"DSM 14427, ATCC 700212",1,"Ruminiclostridium hungatei",Ruminiclostridium
+2840,,"DSM 25723, FERM P-9684, JCM 17888, KCTC 15379",1,"Ruminiclostridium josui",Ruminiclostridium
+2622,,"DSM 2782, ATCC 35413, NCIMB 11394",1,"Ruminiclostridium papyrosolvens",Ruminiclostridium
+2848,CDT-1,"DSM 19573, JCM 14807",1,"Ruminiclostridium sufflavum",Ruminiclostridium
+16635,"H 18","DSM 1361, ATCC 29744, VPI 2502 B",1,"Ruminobacter amylophilus",Ruminobacter
+160621,IPLA60002,"DSM 110008, LMG 31505",1,"Ruminococcoides bili",Ruminococcoides
+17682,7,"DSM 20455, ATCC 27210, JCM 14654",1,"Ruminococcus albus",Ruminococcus
+140663,8,,0,"Ruminococcus albus",Ruminococcus
+167856,JE7A12,"NCTC 14479, ATCC TSD-225",1,"Ruminococcus bovis",Ruminococcus
+167797,,"ATCC 27255",1,"Ruminococcus bromii",Ruminococcus
+168683,,"VPI 57-31, ATCC 27760",1,"Ruminococcus callidus",Ruminococcus
+17686,18P13,"DSM 18848, JCM 17042, KCTC 15320",1,"Ruminococcus champanellensis",Ruminococcus
+166624,,"ATCC 19208",1,"Ruminococcus flavefaciens",Ruminococcus
+17683,17,"DSM 25089",0,"Ruminococcus flavefaciens",Ruminococcus
+140664,FD-1,,0,"Ruminococcus flavefaciens",Ruminococcus
+17685,CCRI-16110,"DSM 19829, CCUG 54292, JCM 14987, NML 060141, CIP 109512",1,"Ruminococcus gauvreauii",Ruminococcus
+165414,"CPI C7-9","JCM 6515, ATCC 29149, VPI C7-9, DSM 114966",1,"Mediterraneibacter gnavus",Mediterraneibacter
+147359,,"CCUG 33437",0,"Mediterraneibacter gnavus",Mediterraneibacter
+158092,H2_28,"DSM 108212",0,"Mediterraneibacter gnavus",Mediterraneibacter
+153511,,"CCUG 49994",0,"Mediterraneibacter gnavus",Mediterraneibacter
+155263,,"CCUG 57137 A",0,"Mediterraneibacter gnavus",Mediterraneibacter
+155272,,"CCUG 57161",0,"Mediterraneibacter gnavus",Mediterraneibacter
+155286,,"CCUG 57208",0,"Mediterraneibacter gnavus",Mediterraneibacter
+154597,,"CCUG 54531",0,"Mediterraneibacter gnavus",Mediterraneibacter
+153825,,"CCUG 51289",0,"Mediterraneibacter gnavus",Mediterraneibacter
+151078,,"CCUG 43222",0,"Mediterraneibacter gnavus",Mediterraneibacter
+164044,,"JCM 31371",0,"Mediterraneibacter gnavus",Mediterraneibacter
+157041,,"CCUG 69072",0,"Mediterraneibacter gnavus",Mediterraneibacter
+154076,,"CCUG 52279",0,"Mediterraneibacter gnavus",Mediterraneibacter
+167891,,"ATCC 29176, VPI X6-29",1,"Ruminococcus lactaris",Ruminococcus
+132099,RT94,"DSM 100440",0,"Ruminococcus sp.",Ruminococcus
+158077,Sanger_90,"DSM 102167",0,"Porcipelethomonas ammoniilytica",Porcipelethomonas
+132101,Sanger_15,"DSM 102149",0,"Ruminococcus sp.",Ruminococcus
+158079,H5_33,"DSM 108255",0,"Ruminococcus sp.",Ruminococcus
+132103,Sanger_91,"DSM 102227",0,"Ruminococcus sp.",Ruminococcus
+132104,Sanger_36,"DSM 102803",0,"Ruminococcus sp.",Ruminococcus
+160620,Pei041,"DSM 16767",0,"Ruminococcus sp.",Ruminococcus
+155590,,"CCUG 58285",0,"Ruminococcus sp.",Ruminococcus
+162286,,"JCM 18685",0,"Ruminococcus sp.",Ruminococcus
+165415,,"JCM 6553, ATCC 27756, VPI B2-51",1,"Ruminococcus torques",Ruminococcus
+163987,,"JCM 31259",0,"Ruminococcus torques",Ruminococcus
+18131,1446,"DSM 15030, JCM 11075, NBRC 101231, NRRL NRS-1691, CIP 107434, DSM 7260, KCTC 13923",1,"Rummeliibacillus pycnus",Rummeliibacillus
+18128,"Gibson 10","DSM 2369, NRRL NRS-1693",0,"Rummeliibacillus pycnus",Rummeliibacillus
+18129,"Gibson 13","DSM 2370, NRRL NRS-1694",0,"Rummeliibacillus pycnus",Rummeliibacillus
+18130,"Gibson 14","DSM 2371, NRRL NRS-1695",0,"Rummeliibacillus pycnus",Rummeliibacillus
+18132,KSC-SF6g,"DSM 25578, NBRC 104870, NRRL B-51320, CIP 110061",1,"Rummeliibacillus stabekisii",Rummeliibacillus
+140027,,"DSM 21017, NBRC 12622, ATU B-205-e",0,"Rummeliibacillus stabekisii",Rummeliibacillus
+160669,,"DSM 100504, TMCC 8453",0,"Rummeliibacillus stabekisii",Rummeliibacillus
+162398,,"JCM 19065, KACC 17316, KEMB 9005-003",1,"Rummeliibacillus suwonensis",Rummeliibacillus
+166297,YX9,"KCTC 62875, CCTCC AB 2018214",1,"Runella aurantiaca",Runella
+3818,EMB13,"DSM 17976, KCTC 12614",1,"Runella defluvii",Runella
+3817,EMB111,"DSM 17973, KCTC 12615",1,"Runella limosa",Runella
+133369,HMF3829,"KCTC 42850, CECT 8978",1,"Runella palustris",Runella
+166718,HYN0085,"KACC 19490, NBRC 113116",1,"Runella rosea",Runella
+3815,,"DSM 19594, ATCC 29530, LMG 11500, NCIMB 11436, LSU 4",1,"Runella slithyformis",Runella
+167598,15J11-1,"NBRC 112817, KCTC 52021",1,"Runella soli",Runella
+5521,La1,"DSM 2813, IFO 15147, NBRC 15147",0,"Runella sp.",Runella
+5522,008M,"DSM 2814, NBRC 15129",0,"Runella sp.",Runella
+5520,B23,"DSM 2812",0,"Runella sp.",Runella
+3816,NS12,"DSM 19591, ATCC BAA-293, LMG 21438",1,"Runella zeae",Runella
+169947,"INB8, this study, QCC B60/17","CCUG 70701, LMG 30291",1,"Ruoffia halotolerans",Ruoffia
+158542,J107-1,"KEMB 9005-549, KACC 19167, JCM 31921",1,"Rurimicrobium arvi",Rurimicrobium
+132588,585-1,"DSM 100348, VKM B-2901",1,"Ruthenibacterium lactatiformans",Ruthenibacterium
+159622,WCA3-601-WT-6J,"DSM 105274",0,"Ruthenibacterium lactatiformans",Ruthenibacterium
+14262,UM2,"DSM 24951, CCM 7545, MTCC 9473",1,"Rhizorhabdus histidinilytica",Rhizorhabdus
+68,170/96,"DSM 14915, CIP 107418, CCUG 55703",1,"Roseomonas ludipueritiae",Roseomonas
+13801,B6,"DSM 5887, ATCC 25655, CECT 4357, IAM 12617, JCM 20688, CIP 105976, IFO 15761, LMG 129, LMG 8174, NBRC 15761, NCIMB 2206",1,"Ruegeria gelatinovorans",Ruegeria

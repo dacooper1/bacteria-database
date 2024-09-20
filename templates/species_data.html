@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>{{ bacteria.species }}</h1>
+    <ul class="index" data-columns="2">
+        <!-- <li class="data_img">
+            <img src="{{data['Morphology']['multimedia']['multimedia content']}}"></img> </li> -->
+        
+        <li>Strain Id: {{ bacteria.strain_id }}</li>
+        <li>Description: {{data["General"]["description"]}}</li>
+        <li>Domain: {{ data["Name and taxonomic classification"]["LPSN"]["domain"] }}</li>
+        <li>Phylum: {{ data["Name and taxonomic classification"]["LPSN"]["phylum"] }}</li>
+        <li>Class: {{ data["Name and taxonomic classification"]["LPSN"]["class"] }}</li>
+        <li>Order: {{ data["Name and taxonomic classification"]["LPSN"]["order"] }}</li>
+        <li>Family: {{ data["Name and taxonomic classification"]["LPSN"]["family"] }}</li>
+        <li>Genus: {{ data["Name and taxonomic classification"]["LPSN"]["genus"] }}</li>
+        <li>Species: {{ data["Name and taxonomic classification"]["LPSN"]["species"] }}</li>
+        <li>Culture Medium: {{data["Culture and growth conditions"]["culture medium"]["name"]}}</li>
+        <li>Culture Temp Growth: {{data["Culture and growth conditions"]["culture temp"]["growth"]}} {{data["Culture and growth conditions"]["culture temp"]["type"]}} at {{data["Culture and growth conditions"]["culture temp"]["temperature"]}}&deg;C </li>
+        <li> Keywords:
+            {% for key in data["General"]["keywords"] %}
+            {{ key }},
+        {% endfor %}
+        </li>
+        <li>
+            Gram Strain: 
+            {{data["Morphology"]["cell morphology"]["gram stain"]}}
+        </li>
+        <li>
+            Cell Shape: 
+            {{data["Morphology"]["cell morphology"]["cell shape"]}}
+        </li>
+        <li>
+            Motility: 
+            {{data["Morphology"]["cell morphology"]["motility"]}}
+        </li>
+            Oxygen Tolerance:
+            {{data["Physiology and metabolism"]["oxygen tolerance"]["oxygen tolerance"]}}
+        <li>
+            Safety Information:
+            <ul>
+                <li> Pathogenic to humans: {{data["Safety information"]["risk assessment"][0]["pathogenicity human"]}}</li>
+                <li> Pathogenic to aminals: {{data["Safety information"]["risk assessment"][0]["pathogenicity animal"]}}</li>
+                <li> Bio Safety Level: {{data["Safety information"]["risk assessment"][0]["biosafety level"]}}</li>
+            </ul>
+            <li>
+                Metabolite Production:
+                {% for key in data["metabolite production"] %}
+                <li>testing</li>
+                <ul> 
+                    <li>
+                        Metabolite: {{ key.metabolite }}
+                        Production: {{ key.production }}
+                    </li>
+                </ul>
+                {% endfor %}
+            </li>
+        </li>
+    </ul>
+
+    <button><a href="/index">Go Back</a></button>
+{% endblock %}
+

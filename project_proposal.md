@@ -16,9 +16,11 @@ Use this template to help get you started right away! Once the proposal is compl
 
 | Users | What kind of users will visit your app? In other words, what is the demographic of your users?
 
-- This is made for students primarily studing microbioligy, biology or biochemistry looking to get more information about different bacteria species.
+- This is made for students primarily studying microbiology, biology or biochemistry looking to get more information about different bacteria species.
 
-| Data | What data do you plan on using? How are you planning on collecting your data? You may have not picked your actual API yet, which is fine, just outline what kind of data you would like it to contain. You are welcome to create your own API and populate it with data. If you are using a Python/Flask stack, you are required to create your own API. - I plan to use the BacDive APi to get information of differnt bacteria species and their characteristics.
+| Data | What data do you plan on using? How are you planning on collecting your data? You may have not picked your actual API yet, which is fine, just outline what kind of data you would like it to contain. You are welcome to create your own API and populate it with data. If you are using a Python/Flask stack, you are required to create your own API. 
+
+- I plan to use the BacDive APi to get information of differnt bacteria species and their characteristics.
 
 # Breaking down your project
 

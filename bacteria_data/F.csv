@@ -1,0 +1,1148 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+164161,,"JCM 31945",0,"Ferroacidibacillus organovorans",Ferroacidibacillus
+140832,2W32,"KCTC 42497, CICC 23869",1,"Fodinibius halophilus",Fodinibius
+24787,,"DSM 21986, ACCC 10715, KCTC 23442, YIM D15",1,"Fodinibius roseus",Fodinibius
+140954,KHM44,"KACC 19060, NBRC 112531",1,"Fodinibius salicampi",Fodinibius
+167731,ECH52,"KACC 19126, NBRC 112664",1,"Fodinibius saliphilus",Fodinibius
+24788,,"DSM 21194, ACCC 10714, YIM J21",1,"Fodinibius sediminis",Fodinibius
+158243,,"DSM 21167, YIM J12",0,"Fodinibius sp.",Fodinibius
+140441,FYK2402M11,"DSM 21022, NBRC 102672, NBRC 102677",0,"Flavobacterium degerlachei",Flavobacterium
+154586,,"CCUG 54478",0,"Ferdinandcohnia humi",Ferdinandcohnia
+161766,,"JCM 16349, KCTC 13279",0,"Fictibacillus rigui",Fictibacillus
+170946,"MWH-Creno3D3 t","CIP 111924",1,"Candidatus Flaviluna lacus",Flaviluna
+161601,,"JCM 15520",0,"Fundidesulfovibrio butyratiphilus",Fundidesulfovibrio
+134177,UST030701-097,"NRRL B-41220, JCM 13334, CIP 109252, DSM 113472",1,"Roseivirga halotolerans",Roseivirga
+141117,A4,"KCTC 42507, CGMCC 1.15111",1,"Roseivirga thermotolerans",Roseivirga
+166289,,"DSM 103991, KCTC 52556, SYSU SYW-5",1,"Facilibium subflavum",Facilibium
+138280,,"CIP 105962, CCUG 36813, CCM 4931",1,"Facklamia hominis",Facklamia
+155739,,"CCUG 59179",0,"Facklamia hominis",Facklamia
+145447,,"CCUG 28572 B",0,"Facklamia hominis",Facklamia
+152159,,"CCUG 45932",0,"Facklamia hominis",Facklamia
+145557,,"CCUG 28827",0,"Facklamia hominis",Facklamia
+152426,,"CCUG 46765",0,"Facklamia hominis",Facklamia
+145559,,"CCUG 28829, LMG 14092",0,"Facklamia hominis",Facklamia
+152813,,"CCUG 47680",0,"Facklamia hominis",Facklamia
+145560,,"CCUG 28830",0,"Facklamia hominis",Facklamia
+138278,7949,"CIP 105963, CCUG 32738, LMG 14693",0,"Facklamia hominis",Facklamia
+153445,,"CCUG 49614",0,"Facklamia hominis",Facklamia
+156933,,"CCUG 67153",0,"Facklamia hominis",Facklamia
+137693,164/97,"CCM 4932, CIP 105583, CCUG 37419, ATCC 700631",1,"Facklamia ignava",Facklamia
+151316,,"CCUG 43733",0,"Facklamia ignava",Facklamia
+136524,,"CIP 106447, CCUG 37659",0,"Facklamia ignava",Facklamia
+154522,,"CCUG 54213",0,"Facklamia ignava",Facklamia
+167437,"WS 5301","LMG 31861T, DSM 111018T",1,"Facklamia lactis",Facklamia
+138281,1144-97,"CCM 4946, CIP 105964, CCUG 37842",1,"Facklamia languida",Facklamia
+156707,,"CCUG 64265",0,"Facklamia languida",Facklamia
+149286,,"CCUG 37420",0,"Facklamia languida",Facklamia
+152945,,"CCUG 48092",0,"Facklamia languida",Facklamia
+146334,,"CCUG 30940",0,"Facklamia languida",Facklamia
+138279,,"CIP 105965, CCUG 39606",0,"Facklamia languida",Facklamia
+132842,"strain A/G13/99/2","ATCC BAA-466, DSM 104273, CCUG 42728, CIP 106764",1,"Facklamia miroungae",Facklamia
+156971,,"CCUG 67774",1,"Facklamia porci",Facklamia
+132843,M13582,"DSM 104271, CIP 105940, CCUG 28783 A, ATCC 700629, LMG 18982, Str 2/84",1,"Facklamia sourekii",Facklamia
+156341,,"CCUG 61220",0,"Facklamia sourekii",Facklamia
+156837,,"CCUG 65990",0,"Facklamia sourekii",Facklamia
+138272,,"CIP 105939, CCUG 31976",0,"Facklamia sourekii",Facklamia
+236,KO_PS21,"DSM 30838",0,"Facklamia sp.",Facklamia
+132844,GF112B,"DSM 104272, CCUG 30090, CIP 106117, ATCC 700838, CCM 4934",1,"Facklamia tabacinasalis",Facklamia
+164230,SNUG30370,"JCM 32257, KCTC 15632",1,"Faecalibacillus faecis",Faecalibacillus
+164229,SNUG30099,"JCM 32256, KCTC 15631",1,"Faecalibacillus intestinalis",Faecalibacillus
+164724,,"JCM 34082",0,"Faecalibacillus intestinalis",Faecalibacillus
+167390,ZY171143,"KCTC 62642, CGMCC 1.13663",1,"Faecalibacter bovis",Faecalibacter
+167635,"YIM 102668","KCTC 52109, CCTCC AB 2016016, YIM 102668",1,"Faecalibacter macacae",Faecalibacter
+167849,"WQ 117","KCTC 82394, CCTCC AA 2020027",1,"Faecalibacter rhinopitheci",Faecalibacter
+160407,AF52-21,"DSM 103434, CGMCC 1.5206, JCM 39212",1,"Faecalibacterium butyricigenerans",Faecalibacterium
+17680,A2-165,"DSM 17677, JCM 31915",1,"Faecalibacterium duncaniae",Faecalibacterium
+160404,ic1379,"DSM 23680",1,"Faecalibacterium gallinarum",Faecalibacterium
+159478,APC922/41-1,"DSM 107841, JCM 39210",1,"Faecalibacterium hattorii",Faecalibacterium
+170404,"4 P-15","JCM 39347, CGMCC 1.5250",1,"Faecalibacterium duncaniae",Faecalibacterium
+160406,CM04-06,"DSM 103432, CGMCC 1.5208, JCM 39211",1,"Faecalibacterium longum",Faecalibacterium
+168617,,"NCIMB 13872, ATCC 27768",1,"Faecalibacterium prausnitzii",Faecalibacterium
+159476,APC942/30-2,"DSM 107839",0,"Faecalibacterium prausnitzii",Faecalibacterium
+159477,APC924/119,"DSM 107840, JCM 39209",0,"Faecalibacterium prausnitzii",Faecalibacterium
+159475,APC918/95b,"DSM 107838, JCM 39207",0,"Faecalibacterium prausnitzii",Faecalibacterium
+160405,ic1340,"DSM 26267",0,"Faecalibacterium sp.",Faecalibacterium
+132424,,"DSM 103405, JCM 30274, KCTC 15484, ALO 17",1,"Faecalibaculum rodentium",Faecalibaculum
+169656,CLA-AV-15,"DSM 110083",0,"Faecalibaculum rodentium",Faecalibaculum
+168271,YH-C36a,"NBRC 114768, KCTC 25106",1,"Faecalicatena absiana",Faecalicatena
+158078,H2_18,"DSM 108153, JCM 34816",1,"Faecalicatena acetigenes",Faecalicatena
+5422,"113 VI","DSM 3982, ATCC 25540, CCUG 52236, JCM 6483, VPI 0119",1,"Faecalicatena contorta",Faecalicatena
+158959,H1_38,"DSM 108235",0,"Faecalicatena contorta",Faecalicatena
+158960,H4_43,"DSM 108236",0,"Faecalicatena contorta",Faecalicatena
+163986,,"JCM 31258",0,"Faecalicatena contorta",Faecalicatena
+146517,,"CCUG 31363",0,"Faecalicatena contorta",Faecalicatena
+170410,AGMB00832,"NBRC 114613, KCTC 15946",1,"Faecalicatena faecalis",Faecalicatena
+5426,AzA,"DSM 3598, ATCC 33661, JCM 31501, NCIB 10446, NCIMB 10446, JCM 9983",1,"Faecalicatena fissicatena",Faecalicatena
+2621,,"DSM 1287, ATCC 13619, ATCC 25750, JCM 1429, NCIB 10650, BCRC 14529, LMG 3286, NCCB 73016, NCIMB 10650, VPI 0565",1,"Faecalicatena orotica",Faecalicatena
+158333,"PEH A","DSM 22707",0,"Faecalicatena sp.",Faecalicatena
+158334,Sanger_97,"DSM 102166",0,"Bovifimicola ammoniilytica",Bovifimicola
+130324,"37-2, 37-2a","DSM 26963, LMG 27428",1,"Faecalicoccus acidiformans",Faecalicoccus
+14741,60B,"DSM 20574, ATCC 29734, LMG 17756, NCTC 11087, CCUG 11733, EBF 61/608, JCM 10414, CECT 992, KCTC 3656, NCFB 2494, NCIMB 702494",1,"Faecalicoccus pleomorphus",Faecalicoccus
+130323,20-2,"DSM 26962, LMG 27427",0,"Faecalicoccus pleomorphus",Faecalicoccus
+159077,BSM-380-WT-22F,"DSM 103368",0,"Faecalicoccus pleomorphus",Faecalicoccus
+140268,EGH7,"DSM 103426, JCM 30896",1,"Faecalimonas umbilicata",Faecalimonas
+164043,TSAH33,"JCM 31370, DSM 103427",0,"Faecalimonas umbilicata",Faecalimonas
+164157,,"JCM 31933",0,"Faecalimonas umbilicata",Faecalimonas
+160749,"9/1/43 B FAA","DSM 24431",0,"Faecalimonas umbilicata",Faecalimonas
+5423,,"DSM 3983, ATCC 27803, JCM 10261, VPI 3654, Virginia Polytechnic Institute 3654",1,"Faecalitalea cylindroides",Faecalitalea
+165613,,"JCM 7786, ATCC 27805, VPI 3696",0,"Faecalitalea cylindroides",Faecalitalea
+165614,,"JCM 7788, ATCC 27804, VPI 3651",0,"Faecalitalea cylindroides",Faecalitalea
+132681,WN011,"DSM 22923, JCM 16476",1,"Falcatimonas natans",Falcatimonas
+7586,M597/99/10,"DSM 13988, CCUG 42953, CIP 107054, JCM 11677",1,"Falsarthrobacter nasiphocae",Falsarthrobacter
+166490,"GY 10110","CGMCC 1.13648, NBRC 113502",1,"Falsibacillus albus",Falsibacillus
+1409,"CW 7","DSM 25281, CCTCC AB 207188, KCTC 13200, LMG 24451, CIP 109936, BCRC 80032",1,"Falsibacillus pallidus",Falsibacillus
+166344,,"KCTC 52106, CCTCC AB 2016031, YIM 102744-1",1,"Falsigemmobacter faecalis",Falsigemmobacter
+24339,9_9A1,"DSM 27210, CCUG 64267, LMM 40",1,"Falsiporphyromonas endometrii",Falsiporphyromonas
+168759,W402,"ACCC 05851, KCTC 32408",1,"Falsirhodobacter deserti",Falsirhodobacter
+133888,JA744,"KCTC 32158, NBRC 108897",1,"Falsirhodobacter halotolerans",Falsirhodobacter
+23811,B1315,"DSM 26720, CCM 8460, LMG 27356, CIP 110569",1,"Falsochrobactrum ovis",Falsochrobactrum
+164357,,"JCM 32785, CCTCC AB 2018063",1,"Falsochrobactrum shanghaiense",Falsochrobactrum
+5754,UST040201-002,"DSM 21703, JCM 14605, NRRL B-41860",1,"Fangia hongkongensis",Fangia
+3043,,"DSM 15829, ATCC BAA-55, CCUG 38953, CIP 106431, KCTC 15240",1,"Fannyhessea vaginae",Fannyhessea
+153113,,"CCUG 48515",0,"Fannyhessea vaginae",Fannyhessea
+138349,,"CIP 106430, CCUG 42099",0,"Fannyhessea vaginae",Fannyhessea
+151018,,"CCUG 43049",0,"Fannyhessea vaginae",Fannyhessea
+151419,,"CCUG 44061",0,"Fannyhessea vaginae",Fannyhessea
+151471,,"CCUG 44116",0,"Fannyhessea vaginae",Fannyhessea
+151476,,"CCUG 44125",0,"Fannyhessea vaginae",Fannyhessea
+151540,,"CCUG 44258",0,"Fannyhessea vaginae",Fannyhessea
+150247,,"CCUG 39382",0,"Fannyhessea vaginae",Fannyhessea
+138335,NN037.01,"CIP 106319, CCUG 44156",0,"Fannyhessea vaginae",Fannyhessea
+154797,,"CCUG 55227",0,"Fannyhessea vaginae",Fannyhessea
+167336,"SYSU HZH-2","CGMCC 1.15950, NBRC 112274",1,"Fastidiosibacter lacustris",Fastidiosibacter
+17690,"Karld BL3524N/03","DSM 18896, CCUG 47711, CIP 108292",1,"Fastidiosipila sanguinis",Fastidiosipila
+136927,,"CIP 108045, CCUG 47367",0,"Fastidiosipila sanguinis",Fastidiosipila
+130463,GVCNT2,"DSM 28411, NCIMB 14946",1,"Faucicola mancuniensis",Faucicola
+170698,A52C2,"CECT 8949, LMG 29042, UCCCB 130",1,"Faunimonas pinastri",Faunimonas
+158332,9401234,"DSM 26367, CSUR P127",1,"Fenollaria massiliensis",Fenollaria
+158330,,"DSM 22787, CCUG 55977, WAL 18893, WAL 1855D",0,"Fenollaria sp.",Fenollaria
+169681,GD5,"DSM 101080, Marseille-P2133",0,"Fenollaria timonensis",Fenollaria
+164429,,"JCM 32973, CCTCC AB 2017280",1,"Ferdinandcohnia aciditolerans",Ferdinandcohnia
+141069,IEB3,"JCM 30817, NCIMB 14984",1,"Fermentibacillus polygoni",Fermentibacillus
+140144,ING2-E5B,"DSM 28696, CECT 8609, LMG 28429",1,"Fermentimonas caenicola",Fermentimonas
+170714,CRRU44,"CECT 30117, LMG 31822",1,"Ferranicluibacter rubi",Ferranicluibacter
+169042,CdA-1,"ATCC 700589",1,"Ferribacterium limneticum",Ferribacterium
+159721,An22,"JCM 30584, NBRC 112974, ATCC TSD-51",1,"Ferrigenium kumadai",Ferrigenium
+108,T23,"DSM 19497, ATCC BAA-1647, DSM 11138",1,"Ferrimicrobium acidiphilum",Ferrimicrobium
+107,,,0,"Ferrimicrobium acidiphilum",Ferrimicrobium
+167236,IMCC35002,"KACC 21162, NBRC 113700",1,"Ferrimonas aestuarii",Ferrimonas
+5454,PAT,"DSM 9799, KCTC 23876",1,"Ferrimonas balearica",Ferrimonas
+5456,FUT3661,"DSM 18154, NBRC 101558",1,"Ferrimonas futtsuensis",Ferrimonas
+133991,CJ24,"KACC 17065, JCM 18720",1,"Ferrimonas gelatinilytica",Ferrimonas
+5457,Asr22-7,"DSM 18153, NBRC 101286",1,"Ferrimonas kyonanensis",Ferrimonas
+164654,,"JCM 33793, KCTC 72490",1,"Ferrimonas lipolytica",Ferrimonas
+5455,A4D-4,"DSM 16917, CIP 109004, MBIC 06480",1,"Ferrimonas marina",Ferrimonas
+133937,CBA4601,"KACC 16695, KCTC 32029, JCM 18401",1,"Ferrimonas pelagia",Ferrimonas
+167233,IMCC35001,"NBRC 113699, KACC 21161",1,"Ferrimonas sediminicola",Ferrimonas
+24008,JYr13,"DSM 23317, LMG 25564, JCM 17552",1,"Ferrimonas sediminum",Ferrimonas
+5458,P2S11,"DSM 18821, ATCC BAA-1480",1,"Ferrimonas senticii",Ferrimonas
+24052,OYT1,"DSM 26810, JCM 18545",1,"Ferriphaselus amnicola",Ferriphaselus
+109,Y005,"DSM 19514, ATCC BAA-1645",1,"Ferrithrix thermotolerans",Ferrithrix
+18101,AEDII12DO,"DSM 10642",1,"Ferroglobus placidus",Ferroglobus
+5461,Y,"DSM 12658, JCM 10970",1,"Ferroplasma acidiphilum",Ferroplasma
+24009,BRGM4,"DSM 28986, JCM 30201",0,"Ferroplasma acidiphilum",Ferroplasma
+158602,A15,"KEMB 9005-522, KACC 19102, NBRC 112682",1,"Ferrovibrio soli",Ferrovibrio
+132957,LM-6,"DSM 105077, ACCC 19710, KCTC 42182",0,"Ferrovibrio xuzhouensis",Ferrovibrio
+170204,KIS38-8,"NBRC 113101, KACC 17328",1,"Ferruginibacter albus",Ferruginibacter
+133514,HU1-GD23,"KCTC 22306, LMG 4312, LMG 24312",1,"Ferruginibacter alkalilentus",Ferruginibacter
+133515,HU1-HG42,"KCTC 22305, LMG 24324",1,"Ferruginibacter lapsinanis",Ferruginibacter
+168988,HME8881,"CECT 8366, KCTC 42121",1,"Ferruginibacter paludis",Ferruginibacter
+162494,,"JCM 19431, KCTC 32478",1,"Ferruginibacter profundus",Ferruginibacter
+169093,HME8442,"KACC 17314, CECT 8289",1,"Ferruginibacter yonginensis",Ferruginibacter
+166235,WD2A32,"KCTC 52888, MCCC 1H00201",1,"Ferruginivarius sediminum",Ferruginivarius
+166574,"RG- N- 1a, RG-N-1a","DSM 108317, NCAIM B.02647",1,"Fertoeibacter niger",Fertoeibacter
+23861,AeB,"DSM 25808, JCM 15555, KCTC 5667",1,"Fervidicella metallireducens",Fervidicella
+17820,Kam940,"DSM 19380, JCM 18336, VKM B-2539",1,"Fervidicoccus fontis",Fervidicoccus
+16698,Y170,"DSM 21121, JCM 15106, KCTC 5610",1,"Fervidicola ferrireducens",Fervidicola
+17038,CBS-1,"DSM 17883, JCM 13353",1,"Fervidobacterium changbaicum",Fervidobacterium
+17036,AB39,"DSM 13020, ACM 5017",1,"Fervidobacterium gondwanense",Fervidobacterium
+17034,H21,"DSM 5733, ATCC 49647",1,"Fervidobacterium islandicum",Fervidobacterium
+17033,Rt17-B1,"DSM 5306, ATCC 35602",1,"Fervidobacterium nodosum",Fervidobacterium
+17035,Ven5,"DSM 9078",1,"Fervidobacterium pennivorans",Fervidobacterium
+17039,1445t,"DSM 21630, VKM B-2549",1,"Fervidobacterium riparium",Fervidobacterium
+139867,R8,"DSM 21710",0,"Fervidobacterium sp.",Fervidobacterium
+17037,"Kebo 3","DSM 13770",0,"Fervidobacterium sp.",Fervidobacterium
+133268,FC2004,"JCM 18757, ATCC BAA-2483, ATCC AA-2483",1,"Fervidobacterium thailandense",Fervidobacterium
+3835,,"DSM 22563, CCUG 58136, BUZ 2",1,"Fibrella aestuarina",Fibrella
+170212,HMF5036,"NBRC 115092, KCTC 82476",1,"Fibrella aquatilis",Fibrella
+170213,HMF5405,"KCTC 82478, NBRC 115094",1,"Fibrella forsythiae",Fibrella
+170214,HMF5335,"NBRC 115093, KCTC 82477",1,"Fibrella rubiginis",Fibrella
+3836,,"DSM 22564, CCUG 58137, BUZ 3",1,"Fibrisoma limi",Fibrisoma
+166120,HYT19,"CCTCC AB 2018342, JCM 33105",1,"Fibrisoma montanum",Fibrisoma
+168873,NR9,"ATCC 43854",1,"Fibrobacter intestinalis",Fibrobacter
+139938,"UW S1, UWS1","DSM 104696",0,"Fibrobacter intestinalis",Fibrobacter
+139939,"UW S2, UWS2","DSM 104697",0,"Fibrobacter intestinalis",Fibrobacter
+140659,S85,"ATCC 19169",1,"Fibrobacter succinogenes",Fibrobacter
+168964,HM2,"ATCC 43856",1,"Fibrobacter succinogenes subsp. elongatus",Fibrobacter
+158767,GDSW-R2A3,"VTCC B-910015, CCM 8782",1,"Fictibacillus aquaticus",Fictibacillus
+1237,,"DSM 15822, CIP 108785, JCM 12167, MTCC 4380, Con a/3",1,"Fictibacillus arsenicus",Fictibacillus
+1205,"V2-BIII-A2, V<SUB>2</SUB>-BIII-A<SUB>2</SUB>","DSM 14730, CCM 4982, CIP 108015",1,"Fictibacillus barbaricus",Fictibacillus
+157211,,"CCUG 70593",0,"Fictibacillus barbaricus",Fictibacillus
+154362,,"CCUG 53241",0,"Fictibacillus barbaricus",Fictibacillus
+1206,FR1-162con,"DSM 30726",0,"Fictibacillus barbaricus",Fictibacillus
+154689,,"CCUG 54857",0,"Fictibacillus barbaricus",Fictibacillus
+153009,,"CCUG 48260",0,"Fictibacillus barbaricus",Fictibacillus
+23767,NIO-1003,"DSM 25142, NCIM 5458",1,"Fictibacillus enclensis",Fictibacillus
+1218,R-13853,"DSM 15865, LMG 21880",1,"Fictibacillus gelatini",Fictibacillus
+132548,,"DSM 100124, KCTC 33758, MCC 2765, AS 8",1,"Fictibacillus halophilus",Fictibacillus
+160784,S38,"DSM 104298",0,"Fictibacillus iocasae",Fictibacillus
+1245,ZFHKF-1,"DSM 17262, JCM 13285, CIP 109160, NCIMB 14300",1,"Fictibacillus macauensis",Fictibacillus
+170446,KIGAM418,"JCM 34437, KCTC 43291",1,"Fictibacillus marinisediminis",Fictibacillus
+1304,,"DSM 23009, KCTC 13712, JSM 082006",1,"Fictibacillus nanhaiensis",Fictibacillus
+156873,,"CCUG 66229",0,"Fictibacillus nanhaiensis",Fictibacillus
+23766,Ca7,"DSM 26093, CCM 8426, LMG 27063, CIP 110536",1,"Fictibacillus phosphorivorans",Fictibacillus
+1301,WPCB074,"DSM 24778, CIP 110208, JCM 16348, KCTC 13278, BCRC 80434",1,"Fictibacillus rigui",Fictibacillus
+1285,YC1,"DSM 25243, CGMCC 1.6854, KCTC 13181, JCM 14863, BCRC 80435",1,"Fictibacillus solisalsi",Fictibacillus
+158893,K26-1,"DSM 109520",0,"Fictibacillus sp.",Fictibacillus
+159991,NJ10,"DSM 22833",0,"Fictibacillus sp.",Fictibacillus
+159992,FJAT-26652,"DSM 101720",0,"Fictibacillus sp.",Fictibacillus
+166480,TB-66,"CIP 111629, LMG 30660, CCM 8866, DSM 107336",1,"Filibacter tadaridae",Filibacter
+152856,,"CCUG 47790, ATCC 35896",1,"Filifactor alocis",Filifactor
+155255,,"CCUG 57083",0,"Filifactor alocis",Filifactor
+154153,,"CCUG 52582 B",0,"Filifactor alocis",Filifactor
+155251,,"CCUG 57079",0,"Filifactor sp.",Filifactor
+11842,,"DSM 1645, ATCC 33388, NCTC 11220, CCUG 46385, VPB 3349",1,"Filifactor villosus",Filifactor
+155316,,"CCUG 57309",0,"Filifactor villosus",Filifactor
+140705,CC-YHH650,"BCRC 80935, JCM 31197",1,"Filimonas aquilariae",Filimonas
+133141,1458,"NRRL B-65305, LMG 29039",1,"Arvibacter aurantiibacter",Arvibacter
+167944,TTM-71,"BCRC 81160, LMG 31017, KCTC 62871",1,"Filimonas effusa",Filimonas
+162629,,"JCM 19844, BCRC 81168, KCTC 42060",1,"Filimonas endophytica",Filimonas
+17763,YT21,"DSM 21054, NBRC 104114",1,"Filimonas lacunae",Filimonas
+132574,772,"DSM 100760, CGMCC 1.15290",1,"Filimonas zeae",Filimonas
+1326,"SH 714","DSM 13259, ATCC 700960, JCM 12288, CIP 107088",1,"Filobacillus milosensis",Filobacillus
+160598,,"DSM 25926, YIM 94174",0,"Filobacillus sp.",Filobacillus
+139902,SL2-1,"DSM 19030",0,"Filobacillus sp.",Filobacillus
+158056,,"DSM 19795, JSM 071073",0,"Filobacillus sp.",Filobacillus
+132355,SMR-C,"DSM 100392, JCM 19453",1,"Filobacterium rodentium",Filobacterium
+6177,128,"DSM 5304, ATCC 35158, IFAM 1315",1,"Filomicrobium fusiforme",Filomicrobium
+134360,SLG5B-19,"CGMCC 1.64975, LMG 23927",1,"Filomicrobium insigne",Filomicrobium
+133340,SP5,"LMG 29572, VKM B-3045",1,"Fimbriiglobus ruber",Fimbriiglobus
+161921,,"JCM 17079, KACC 14959",1,"Fimbriimonas ginsengisoli",Fimbriimonas
+17986,2974,"DSM 20470, ATCC 15794, CCUG 17636, NCTC 11804, KCTC 15020, JCM 1766, ATCC 14904, GIFU 7629, KCTC 5154, LMG 22735",1,"Finegoldia magna",Finegoldia
+150764,,"CCUG 42242",0,"Finegoldia magna",Finegoldia
+17984,0168,"DSM 20362",0,"Finegoldia magna",Finegoldia
+17985,4008/2,"DSM 20369",0,"Finegoldia magna",Finegoldia
+17987,,"CCUG 12548, DSM 20472, ATCC 29328, WAL 2508, CIP 103666",0,"Finegoldia magna",Finegoldia
+151525,,"CCUG 44220",0,"Finegoldia magna",Finegoldia
+151539,,"CCUG 44257",0,"Finegoldia magna",Finegoldia
+155663,,"CCUG 58756",0,"Finegoldia magna",Finegoldia
+141695,,"CCUG 4947, ATCC 14955, JCM 6491",0,"Finegoldia magna",Finegoldia
+148257,,"CCUG 35115",0,"Finegoldia magna",Finegoldia
+152382,,"CCUG 46593, CCM 3785",0,"Finegoldia magna",Finegoldia
+155874,,"CCUG 59495",0,"Finegoldia magna",Finegoldia
+142430,,"CCUG 12461",0,"Finegoldia magna",Finegoldia
+155877,,"CCUG 59508",0,"Finegoldia magna",Finegoldia
+142448,,"CCUG 12547, ATCC 14956, JCM 6489, LMG 12226",0,"Finegoldia magna",Finegoldia
+154671,,"CCUG 54800",0,"Finegoldia magna",Finegoldia
+150267,,"CCUG 39439",0,"Finegoldia magna",Finegoldia
+154725,,"CCUG 54993",0,"Finegoldia magna",Finegoldia
+156133,,"CCUG 60493",0,"Finegoldia magna",Finegoldia
+150720,,"CCUG 42050",0,"Finegoldia magna",Finegoldia
+147045,,"CCUG 32733",0,"Finegoldia sp.",Finegoldia
+151527,,"CCUG 44222",0,"Finegoldia sp.",Finegoldia
+151532,,"CCUG 44231",0,"Paraburkholderia graminis",Paraburkholderia
+167962,R2A-3,"GDMCC 1.2523, KCTC 82469",1,"Flagellatimonas centrodinii",Flagellatimonas
+164419,,"JCM 32942, KACC 19790, AST 0115",1,"Flagellimonas algicola",Flagellimonas
+159764,ECD12,"KCTC 52351, JCM 32292",1,"Flagellimonas aquimarina",Flagellimonas
+134211,,"KCCM 42307, JCM 13831, DOKDO 007",1,"Flagellimonas eckloniae",Flagellimonas
+170182,176CP5-­101,"KACC 19892, LMG 31316",1,"Flagellimonas hymeniacidonis",Flagellimonas
+130333,sw169,"DSM 25885, JCM 18379, LMG 26997, KCTC 52762",1,"Flagellimonas pacifica",Flagellimonas
+158246,A9T,"DSM 22639, KCTC 22664",0,"Flagellimonas sp.",Flagellimonas
+163089,,"JCM 21138, ATCC 23126, CIP 104807, IAM 14298, IFO 15941, NBRC 15941, NRRL B-14729",1,"Flammeovirga aprica",Flammeovirga
+5462,DUB4,"DSM 3659, ATCC 23132, NCMB 1411, JCM 21139, IAM 14299, NCIMB 1411",0,"Flammeovirga aprica",Flammeovirga
+131148,,"DSM 28230, CIP 109101, IFO (now NBRC) 15982, JCM 21777, NBRC 15982, ATCC 23161, IAM 15329, IFO 15982, LMG 13024, NCIMB 1413",1,"Flammeovirga arenaria",Flammeovirga
+24011,YS10,"DSM 26273, IAM 15451, JCM 23196, NCIMB 14281",1,"Flammeovirga kamogawensis",Flammeovirga
+156290,,"CCUG 61067",0,"Flammeovirga kamogawensis",Flammeovirga
+24012,WPAGA1,"DSM 24597, CCTCC AB 2010364, LMG 26175, MCCC 1A06425",1,"Flammeovirga pacifica",Flammeovirga
+164470,L12M1,"JCM 33169, KCTC 62750",1,"Flammeovirga pectinis",Flammeovirga
+24010,IR25-3,"DSM 25626, CIP 109099, NBRC 100898",1,"Flammeovirga yaeyamensis",Flammeovirga
+132218,GCR0105,"DSM 103129, JCM 17919, KACC 16454",1,"Flaviaestuariibacter amylovorans",Flaviaestuariibacter
+164473,17J68-12,"JCM 33179, KCTC 62219",1,"Flaviaesturariibacter flavus",Flaviaesturariibacter
+140292,AW305,"DSM 100282, LMG 29416",1,"Flaviaestuariibacter luteus",Flaviaestuariibacter
+140957,HY03,"KCTC 52511, JCM 31723",1,"Flaviaestuariibacter terrae",Flaviaestuariibacter
+158178,2A-7,"DSM 107616, KCTC 42197, NBRC 110145",1,"Flavicella marina",Flavicella
+167632,"ALS 84","MCCC 1K03480, KCTC 62398",1,"Flavicella sediminum",Flavicella
+167868,"SYSU D60017","CGMCC 1.16444, NBRC 112958",1,"Flaviflagellibacter deserti",Flaviflagellibacter
+164501,,"JCM 33282, KCTC 49253",1,"Flaviflexus ciconiae",Flaviflexus
+23525,H5,"DSM 24315, CICC 10486",1,"Flaviflexus huanghaiensis",Flaviflexus
+156900,,"JCM 19016, KCTC 33148, CCUG 66540",1,"Flaviflexus salsibiostraticola",Flaviflexus
+162482,,"JCM 19322, KACC 17467",1,"Flavihumibacter cheonanensis",Flavihumibacter
+170818,RY-1,"GDMCC 1.2775, JCM 34870",1,"Flavihumibacter fluminis",Flavihumibacter
+133534,T41,"CGMCC 1.7723, NBRC 106054",1,"Flavihumibacter petaseus",Flavihumibacter
+164322,,"JCM 32675, CCTCC AB 2018060, KCTC 62290",1,"Flavihumibacter profundi",Flavihumibacter
+170817,"IMCC 34838","NBRC 115293, KACC 21753",1,"Flavihumibacter rivuli",Flavihumibacter
+133189,CJ663,"KACC 18874, JCM 31431",1,"Flavihumibacter sediminis",Flavihumibacter
+164573,R14,"JCM 33473, KACC 21229",1,"Flavihumibacter soli",Flavihumibacter
+162655,,"JCM 19891, KACC 17917",1,"Flavihumibacter solisilvae",Flavihumibacter
+133199,YS-17,"CCTCC AB 2016053, KCTC 52205",1,"Flavihumibacter stibioxidans",Flavihumibacter
+14047,SS-2,"DSM 23189, ATCC 23147, NBRC 102662, NCIMB 1420",1,"Flavilitoribacter nigricans",Flavilitoribacter
+140822,MDM-7,"KCTC 42722, CECT 8899",1,"Flavimaricola marinus",Flavimaricola
+140759,MBLN091,"KCTC 52527, JCM 31731",1,"Flavimarina flava",Flavimarina
+168340,IDSW-73,"KCTC 32466, KMM 6759",1,"Flavimarina pacifica",Flavimarina
+169271,"Hel_I_48, Hel1_48","DSM 29652",0,"Flavimarina sp.",Flavimarina
+14040,1-19,"DSM 19083, CGMCC 1.3457, CIP 109015, JCM 12547",1,"Flavimobilis marinus",Flavimobilis
+14041,KO_PS42,"DSM 30841",0,"Flavimobilis marinus",Flavimobilis
+166553,"GY 10621","KCTC 49515, CGMCC 1.17411",1,"Flavimobilis rhizosphaerae",Flavimobilis
+14043,,"DSM 21574, JCM 14841, KCTC 13155, DCY 22",1,"Flavimobilis soli",Flavimobilis
+159790,RB1R16,"CGMCC 1.16126, NBRC 113112",1,"Flavipsychrobacter stenotrophus",Flavipsychrobacter
+140553,OITF-51,"KCTC 52657, NBRC 112707",1,"Flaviramulus aestuariivivens",Flaviramulus
+162221,,"JCM 18274, KCTC 23924",1,"Flaviramulus aquimarinus",Flaviramulus
+5511,H35,"DSM 18180, CIP 109091",1,"Flaviramulus basaltis",Flaviramulus
+164482,,"JCM 33203, KCTC 62222",1,"Flavisolibacter galbus",Flavisolibacter
+17762,GS643,"DSM 18119, KCTC 12657, Gsoil 643, CIP 109741",1,"Flavisolibacter ginsengisoli",Flavisolibacter
+17761,GS492,"DSM 18136, KCTC 12656, Gsoil 492, CIP 109740",1,"Flavisolibacter ginsengiterrae",Flavisolibacter
+131562,,"DSM 22793, JCM 18197, KACC 14277, KCTC 22818, Gsoil 636",1,"Flavisolibacter ginsenosidimutans",Flavisolibacter
+158640,TX0661,"KACC 19145, KCTC 52779, NBRC 111784",1,"Flavisolibacter metallilatus",Flavisolibacter
+166534,X7X,"KCTC 62326, CGMCC 16451",1,"Flavisolibacter nicotianae",Flavisolibacter
+164187,,"JCM 32074, JCM 17515, KCTC 23328",1,"Flavisolibacter rigui",Flavisolibacter
+158245,,"DSM 22808, Gsoil 439",0,"Flavisolibacter sp.",Flavisolibacter
+162679,,"JCM 19974, KEMB 9004-156",1,"Flavisolibacter swuensis",Flavisolibacter
+140505,LCS9,"KCTC 42070, JCM 19972",1,"Flavisolibacter tropicus",Flavisolibacter
+140550,AQ6-291,"CCTCC AB 2016109, KCTC 52491",1,"Flavitalea antarctica",Flavitalea
+133799,JCN-23,"ACCC 05418, KCTC 23071",1,"Flavitalea gansuensis",Flavitalea
+168235,HY-50R,"NRRL B-59222, CCTCC AB 208255",1,"Flavitalea populi",Flavitalea
+133146,KIS20-3,"KACC 17319, JCM 19937",1,"Flavitalea soli",Flavitalea
+167697,Y03,"MCCC 1H00386, KCTC 72001",1,"Flavivirga algicola",Flavivirga
+133734,JC2681,"KACC 14157, JCM 17112",1,"Flavivirga amylovorans",Flavivirga
+140956,EC2D5,"KCTC 52353, JCM 31796",1,"Flavivirga aquimarina",Flavivirga
+140955,ECD14,"KCTC 52352, JCM 31797",1,"Flavivirga eckloniae",Flavivirga
+133735,JC2682,"KACC 14158, JCM 17113",1,"Flavivirga jejuensis",Flavivirga
+168510,RZ03,"KCTC 62833, MCCC 1K03615",1,"Flavivirga rizhaonensis",Flavivirga
+169578,MAR_2010_119,"DSM 29519",0,"Flavobacteriaceae not further classified",Flavobacteriaceae
+169579,MAR_2010_10,"DSM 29520",0,"Flavobacteriaceae not further classified",Flavobacteriaceae
+169580,MAR_2010_72,"DSM 29523",0,"Flavobacteriaceae not further classified",Flavobacteriaceae
+169581,MAR_2010_118,"DSM 29524",0,"Flavobacteriaceae not further classified",Flavobacteriaceae
+169582,MAR_2010_188,"DSM 29658",0,"Flavobacteriaceae not further classified",Flavobacteriaceae
+169583,Hel1_33_5,"DSM 29895",0,"Flavobacteriaceae not further classified",Flavobacteriaceae
+169050,"NCIB 9891","NCIMB 9891, LMG 8364, ATCC 8366",1,"Flavobacterium acidificum",Flavobacterium
+24021,JJ013,"DSM 25663, JCM 18211, KACC 16594",1,"Flavobacterium aciduliphilum",Flavobacterium
+147361,,"CCUG 33441, NCIMB 11340, ATCC 27383, LMG 8388",1,"Flavobacterium acidurans",Flavobacterium
+168880,"10Alg 130","KMM 6686, KCTC 32467",1,"Flavobacterium ahnfeltiae",Flavobacterium
+166415,SSM4.2,"KCTC 72807, MCCC 1K04370",1,"Flavobacterium ajazii",Flavobacterium
+24024,IK-1,"DSM 25510, ATCC BAA-2412, CIP 110358",1,"Flavobacterium akiainvivens",Flavobacterium
+159806,HYN0059,"KACC 19183, NBRC 112744",1,"Flavobacterium album",Flavobacterium
+133512,,"NBRC 102673, CIP 109574, TC 2",1,"Flavobacterium algicola",Flavobacterium
+167776,XS-5,"KCTC 72459, CGMCC 1.17077",1,"Flavobacterium alkalisoli",Flavobacterium
+158819,HR-AY,"KACC 19407, JCM 32264",1,"Flavobacterium alvei",Flavobacterium
+168232,"SHINM13, Flavobacterium Strains: 1","JCM 34684, NCIMB 15379",1,"Flavobacterium ammonificans",Flavobacterium
+168189,GENT5,"JCM 32249, NCIMB 15380",1,"Flavobacterium ammoniigenes",Flavobacterium
+166172,LLJ-11,"BCRC 81124, LMG 30599, KCTC 62514",1,"Flavobacterium amnicola",Flavobacterium
+168245,I3-3,"KCTC 52884, NBRC 112871",1,"Flavobacterium amnigenum",Flavobacterium
+158535,KYPY10,"BCRC 81006, LMG 29727, KCTC 52443",1,"Flavobacterium amniphilum",Flavobacterium
+133830,MK3,"LMG 26441, NCCB 100384",1,"Myroides anatoliensis",Myroides
+5570,D3,"DSM 22555, CGMCC 1.6859, KCTC 22128, JCM 14864, CIP 109938",1,"Flavobacterium anhuiense",Flavobacterium
+161916,,"JCM 17070, KACC 14973, KCTC 23185",1,"Flavobacterium aquaticum",Flavobacterium
+5557,AT1026,"DSM 19726, CIP 108750, IMSNU 14042, JCM 12383, KCTC 12222, KCTC 23290, KCTC 52532, LMG 25319",1,"Flavobacterium antarcticum",Flavobacterium
+166748,IMCC34762,"NBRC 113425, KACC 19725",1,"Flavobacterium aquariorum",Flavobacterium
+133997,JC164,"KCTC 32196, CGMCC 1.12398, LMG 27251",1,"Flavobacterium aquaticum",Flavobacterium
+5517,"F 36, Taylor F36","DSM 1132, ATCC 11947, CIP 55.141, DSM 30095, NCIB 8694, CCUG 29304, NCIMB 8694, JCM 20475, CCEB 768, CIP 103744, IAM 12316, LMG 2952, LMG 4008, LMG 4427, NBRC 15052, NCMB 644, NCTC 9758, NRRL B-14834, VKM B-1173, IFO 15052",1,"Flavobacterium aquatile",Flavobacterium
+132986,TMd3a3,"DSM 100880, JCM 30987, BCRC 81042",1,"Flavobacterium aquicola",Flavobacterium
+5550,"WB1.1-56, 1.1-56","DSM 18293, CCUG 59847, CIP 109242, KCTC 22840, WB 1.1-56",1,"Flavobacterium aquidurense",Flavobacterium
+164156,,"JCM 31930, KEMB 9005-617",1,"Flavobacterium aquimarinum",Flavobacterium
+5585,LM-19-Fp,"DSM 24704, CCM 7939, CCUG 61031, LMG 26359",1,"Flavobacterium araucananum",Flavobacterium
+156272,,"CCUG 60971, LMG 26331",0,"Flavobacterium araucananum",Flavobacterium
+5584,LM-20-Fp,"DSM 24703",0,"Flavobacterium araucananum",Flavobacterium
+100581,SF000870(FSU),,0,"Flavobacterium araucananum",Flavobacterium
+100582,SF000960(FSU),,0,"Flavobacterium araucananum",Flavobacterium
+133125,SM1502,"KCTC 42668, CCTCC AB 2015346",1,"Flavobacterium arcticum",Flavobacterium
+140760,A2-1,"CCTCC AB 2017157, KCTC 52644",1,"Flavobacterium ardleyense",Flavobacterium
+167866,"PCU 331, S2-3H","KCTC 22507, TISTR 2238, NBRC 109607",1,"Flavobacterium arsenitoxidans",Flavobacterium
+158661,SYP-B1015,"CGMCC 1.16115, KCTC 62025",1,"Flavobacterium artemisiae",Flavobacterium
+158736,TH167,"CGMCC 1.15805, LMG 29719",1,"Flavobacterium aurantiibacter",Flavobacterium
+170787,"IGB 4-14","DSM 103580, LMG 29709",1,"Flavobacterium azooxidireducens",Flavobacterium
+166588,SNL9,"NBRC 113746, KACC 21170",1,"Flavobacterium baculatum",Flavobacterium
+139521,15F3,"CIP 110594, JCM 16466, KACC 14225",1,"Flavobacterium banpakuense",Flavobacterium
+133598,F44-8,"CCTCC AB 209067, LMG 25233, MCCC 1A02877",1,"Flavobacterium beibuense",Flavobacterium
+166945,F-372,"KCTC 82264, JCM 34204",1,"Flavobacterium bernardetii",Flavobacterium
+136420,,"CIP 105534, ATCC 29585, LMG 1342, UASM B-2-25",0,"Flavobacterium bizetiae",Flavobacterium
+136421,,"CIP 105535, ATCC 29586, UASM E-1-25",0,"Flavobacterium bizetiae",Flavobacterium
+168860,RB1N8,"CGMCC 1.23902, NBRC 113662",1,"Flavobacterium bomense",Flavobacterium
+156012,,"CCUG 60095, CECT 7908",1,"Flavobacterium branchiarum",Flavobacterium
+156013,,"CCUG 60096, CECT 7790",1,"Flavobacterium branchiicola",Flavobacterium
+5552,BGD-7721,"DSM 24789, ATCC 35035, CIP 103527, IFO 15030, LMG 13707, NBRC 15030, NCIMB 12904, CCUG 58915",1,"Flavobacterium branchiophilum",Flavobacterium
+136852,FL-15,"CIP 109950",0,"Flavobacterium branchiophilum",Flavobacterium
+140858,TTM-43,"BCRC 80913, KCTC 42744, LMG 29004",1,"Flavobacterium brevivitae",Flavobacterium
+163870,,"JCM 30750, CGMCC 1.15216",1,"Flavobacterium buctense",Flavobacterium
+133522,LM5,"CGMCC 1.7031, NBRC 104239, CIP 110388",1,"Flavobacterium caeni",Flavobacterium
+167668,AT-3-2,"KEMB 9005-738, NBRC 113785, KACC 21176",1,"Flavobacterium caseinilyticum",Flavobacterium
+139659,R2A-7,"CIP 110387, NBRC 104929, CGMCC 1.7270",1,"Flavobacterium cauense",Flavobacterium
+166644,TWA-26,"LMG 31333, BCRC 81200",1,"Flavobacterium celericrescens",Flavobacterium
+167772,AR-3-4,"KEMB 9005-740, KACC 21171, NBRC 113787",1,"Flavobacterium cellulosilyticum",Flavobacterium
+166270,1E403,"KCTC 62960, MCCC 1H00356",1,"Flavobacterium cerinum",Flavobacterium
+134275,454-2,"CECT 7184, CCUG 52969, CIP 109811",1,"Myroides ceti",Myroides
+154285,,"CCUG 52968, CECT 7272",0,"Myroides ceti",Myroides
+154286,,"CCUG 52970, CECT 7271",0,"Myroides ceti",Myroides
+170791,KSM-R2A30,"KCTC 82979, JCM 34998",1,"Flavobacterium channae",Flavobacterium
+5572,NJ-26,"DSM 22462, CGMCC 1.6844, NBRC 103934, CIP 109891, KACC 14365",1,"Flavobacterium cheniae",Flavobacterium
+161915,,"JCM 17069, KACC 14972, KCTC 23184",1,"Flavobacterium cheonanense",Flavobacterium
+166438,,"KACC 19592, NBRC 113424, IMCC 34759",1,"Flavobacterium cheongpyeongense",Flavobacterium
+161911,,"JCM 17064, KACC 14967, KCTC 23180",1,"Flavobacterium cheonhonense",Flavobacterium
+5586,LM-09-Fp,"DSM 24724, CCM 7940, LMG 26360, CCUG 61032",1,"Flavobacterium chilense",Flavobacterium
+100583,SF005735(FSU),,0,"Flavobacterium chilense",Flavobacterium
+100584,SF002617(FSU),,0,"Flavobacterium chilense",Flavobacterium
+100585,SF004360(FSU),,0,"Flavobacterium chilense",Flavobacterium
+100586,SF002147(FSU),,0,"Flavobacterium chilense",Flavobacterium
+159750,P3160,"LMG 30615, CCM 8826",1,"Flavobacterium chryseum",Flavobacterium
+158742,,"KCTC 52573, NBRC 112526, IMCC 26013",1,"Flavobacterium chuncheonense",Flavobacterium
+133489,CJ7,"KACC 13353, JCM 15651, CCUG 58910, CIP 110025, LMG 26729",1,"Flavobacterium chungangense",Flavobacterium
+5582,CS100,"DSM 25688, JCM 17386, KACC 15048, CIP 110379",1,"Flavobacterium chungbukense",Flavobacterium
+161914,ARSA-103,"JCM 17068, CIP 110380, KACC 14971, KCTC 23183",1,"Flavobacterium chungnamense",Flavobacterium
+167700,P5626,"LMG 30617, CCM 8828",1,"Flavobacterium circumlabens",Flavobacterium
+133366,wh15,"CCTCC AB 2015420, JCM 31173",1,"Myroides cloacae",Myroides
+141133,4-T-2,"LMG 28257, CCTCC AB 2014004",1,"Flavobacterium collinsense",Flavobacterium
+156021,,"CCUG 60109, CECT 7796",1,"Flavobacterium collinsii",Flavobacterium
+5551,"1-S-2cl (Anacker 1956)","DSM 18644, ATCC 23463, CIP 103531, JCM 21141, LMG 10406, LMG 13035, NBRC 100251, NCIMB 2248, IAM 14301, NCMB 1038",1,"Flavobacterium columnare",Flavobacterium
+139541,,"CIP 103533, ATCC 49512",0,"Flavobacterium columnare",Flavobacterium
+139542,ALG-00-530,"CIP 110013",0,"Flavobacterium columnare",Flavobacterium
+163130,,"JCM 21326, IAM 14820",0,"Flavobacterium columnare",Flavobacterium
+135758,,"CIP 109951, JIP 14/00",0,"Flavobacterium columnare",Flavobacterium
+139587,,"CIP 103532, ATCC 49513",0,"Flavobacterium columnare",Flavobacterium
+139662,"PH 97028","CIP 109753, JCM 21327, IAM 14821",0,"Flavobacterium columnare",Flavobacterium
+24020,ALG-00-530,"DSM 25092, CECT 7586",0,"Flavobacterium columnare",Flavobacterium
+137085,LSU,"CIP 110012",0,"Flavobacterium columnare",Flavobacterium
+158765,PK15,"KCTC 52562, JCM 32115, CIP 111714",1,"Flavobacterium commune",Flavobacterium
+133726,15C3,"KACC 14224, JCM 16527",1,"Flavobacterium compostarboris",Flavobacterium
+166862,D11R37,"KCTC 82968, MCCC 1K06440",1,"Flavobacterium coralii",Flavobacterium
+170175,AL-­02-36,"CCM 9171, ATCC TSD-246",1,"Flavobacterium covae",Flavobacterium
+133395,LPB0076,"KACC 18706, JCM 31219",1,"Flavobacterium crassostreae",Flavobacterium
+5562,"EMB 47, EMB47","DSM 17960, CIP 109940, KCTC 12611",1,"Flavobacterium croceum",Flavobacterium
+159807,HYN0056,"KACC 19182, NBRC 112743",1,"Flavobacterium crocinum",Flavobacterium
+5565,R2A45-3,"DSM 18830, CIP 109888, KACC 11732",1,"Flavobacterium cucumis",Flavobacterium
+168867,P2683,"CCM 8825, LMG 30614",1,"Flavobacterium cupreum",Flavobacterium
+24023,E89,"DSM 25795, CIP 110384, LMG 26922",1,"Flavobacterium cutihirudinis",Flavobacterium
+100587,SF001207(FSU),,0,"Flavobacterium cutihirudinis",Flavobacterium
+158657,TH021,"LMG 29720, CGMCC 1.16325",1,"Flavobacterium cyanobacteriorum",Flavobacterium
+170792,KSM-R2A25,"JCM 34997, KCTC 82978",1,"Flavobacterium cyclinae",Flavobacterium
+5546,GH1-10,"DSM 17708, CIP 109900, KACC 11422, CIP 110192",1,"Flavobacterium daejeonense",Flavobacterium
+162505,THG-DJ7,"JCM 19455, BCRC 81039, KACC 17651, CIP 111717",1,"Flavobacterium daemonense",Flavobacterium
+5587,"ARSA-19, ARSA-19(T)","DSM 25687, JCM 17065, KACC 14968, KCTC 23179",1,"Flavobacterium dankookense",Flavobacterium
+168256,PLR-18-3,"KACC 19627, NBRC 113347, KEMB 9005-713",1,"Flavobacterium dasani",Flavobacterium
+166966,TCH3-2,"KACC 19054T, JCM 34025 T",1,"Flavobacterium dauae",Flavobacterium
+170176,90-106,"CCM 9172, ATCC TSD-247",1,"Flavobacterium davisii",Flavobacterium
+5567,"EMB 117","CCUG 59869, DSM 17963, CIP 109898, KCTC 12612",1,"Flavobacterium defluvii",Flavobacterium
+5536,R-9106,"DSM 15718, CIP 108386, LMG 21915",1,"Flavobacterium degerlachei",Flavobacterium
+5539,ED5,"DSM 15936, ATCC BAA-842, CIP 109214",1,"Flavobacterium denitrificans",Flavobacterium
+141432,,"CCUG 1818, CCM 1950, LMG 4016",0,"Flavobacterium denitrificans",Flavobacterium
+158744,MVW-23,"BCRC 80978, LMG 29558, KCTC 52234",1,"Flavobacterium dispersum",Flavobacterium
+133629,LW30,"KCTC 22671, CCTCC AB 209201, CIP 110399",1,"Flavobacterium dongtanense",Flavobacterium
+133309,SA31,"KACC 18743, JCM 31221",1,"Flavobacterium eburneum",Flavobacterium
+164245,,"JCM 32372, KCTC 62114",1,"Flavobacterium edaphi",Flavobacterium
+159831,PSI-22,"BCRC 80973, LMG 29553, KCTC 52233",1,"Flavobacterium effusum",Flavobacterium
+131510,522,"DSM 29537, ACCC 19708",1,"Flavobacterium endophyticum",Flavobacterium
+133825,DK69,"CCTCC AB 2011144, KCTC 23775",1,"Flavobacterium enshiense",Flavobacterium
+166763,F-­328,"KCTC 82261, JCM 34201",1,"Flavobacterium erciyesense",Flavobacterium
+168866,WV33,"KCTC 32457, CECT 8384",1,"Flavobacterium faecale",Flavobacterium
+5569,"EMB 34, EMB34","DSM 17961, KCTC 12610, CIP 109743",1,"Flavobacterium filum",Flavobacterium
+140682,CB-3,"KEMB 9005-535, KACC 19112, NBRC 112704",1,"Flavobacterium flaviflagrans",Flavobacterium
+5513,A-34,"DSM 1076, ATCC 27944, IAM 14303, JCM 21143, ACAM 579, CCM 2740, CCUG 14832, CIP 104740, IFO 14960, LMG 8328, NBRC 14960, NCIMB 12056",1,"Flavobacterium flevense",Flavobacterium
+140676,3R17,"KCTC 42062, JCM 30338, CIP 111715",1,"Flavobacterium fluminis",Flavobacterium
+166590,HYN0086,"NBRC 113117, KACC 19489",1,"Flavobacterium fluviale",Flavobacterium
+168593,TAPY14,"BCRC 81012, LMG 29733, KCTC 52446",1,"Flavobacterium fluviatile",Flavobacterium
+5579,H7,"DSM 19978, KACC 12818, CIP 110184",1,"Flavobacterium fluvii",Flavobacterium
+158613,CJ42,"KACC 19302, JCM 32085",1,"Flavobacterium foetidum",Flavobacterium
+24022,,"DSM 25660, JCM 18212, KACC 16593, MIC 3010",1,"Flavobacterium fontis",Flavobacterium
+167217,LB3P56,"CGMCC 1.11934, NBRC 113651",1,"Flavobacterium franklandianum",Flavobacterium
+5543,"NICMB 13737, A2i","DSM 17623, ATCC 700810, CIP 107124, NBRC 102676, NCIMB 13737",1,"Flavobacterium frigidarium",Flavobacterium
+5538,KUC-1,"DSM 15937, CCUG 59364, JCM 12218, CIP 109029",1,"Flavobacterium frigidimaris",Flavobacterium
+5537,R-9014,"DSM 15719, CIP 108385, LMG 21922",1,"Flavobacterium frigoris",Flavobacterium
+170788,LS1R47,"NBRC 113654, CGMCC 1.11577",1,"Flavobacterium frigoritolerans",Flavobacterium
+5541,,"DSM 16209, CIP 108325, LMG 22022",1,"Flavobacterium fryxellicola",Flavobacterium
+140517,UCM-R15,"KACC 18666, NBRC 111764",1,"Flavobacterium fulvum",Flavobacterium
+167532,GSP16,"NBRC 113664, CGMCC 1.24642",1,"Flavobacterium gawalongense",Flavobacterium
+5532,R-8899,"DSM 15343, LMG 21477, CIP 108171",1,"Flavobacterium gelidilacus",Flavobacterium
+5553,,"DSM 22376, ACAM 601, LMG 21422",1,"Flavobacterium gillisiae",Flavobacterium
+133319,EM1308,"KACC 18113, JCM 30144",1,"Flavobacterium gilvum",Flavobacterium
+134059,,"KCTC 23318, JCM 17336, DCY 54, BCRC 81040, CIP 110819",1,"Flavobacterium ginsengisoli",Flavobacterium
+162010,,"JCM 17337, KCTC 23319",1,"Flavobacterium ginsengiterrae",Flavobacterium
+161866,,"JCM 16720, CIP 110390, KACC 14525, KCTC 42980, THG 01",1,"Flavobacterium ginsenosidimutans",Flavobacterium
+5566,"0499, 499","DSM 19728, CGMCC 1.5380, JCM 13953, CCUG 60844, CIP 109489, BCRC 81081",1,"Flavobacterium glaciei",Flavobacterium
+133551,Gm-149,"ICMP 17618, NBRC 105008, CIP 110235",1,"Flavobacterium glycines",Flavobacterium
+140383,JM-222,"DSM 100397, CCM 8610, LMG 28821, CIP 111493, CIP 110906",1,"Flavobacterium gossypii",Flavobacterium
+5547,KW05,"DSM 17797, IAM 15099, JCM 21560, KCTC 12201, NBRC 102009, DSM 19729, CIP 108709",1,"Flavobacterium granuli",Flavobacterium
+5548,Kw05,"DSM 19729, IAM 15099, JCM 21560, KCTC 12201, NBRC 102009",1,"Flavobacterium granuli",Flavobacterium
+169116,HME7524,"CECT 8365, KACC 17688",1,"Flavobacterium gyeonganense",Flavobacterium
+158810,KTCe-4,"KACC 16613, JCM 18198",1,"Flavobacterium hankyongi",Flavobacterium
+5580,LQY-7,"DSM 22807, ACCC 05409, KCTC 23008, CIP 110398",1,"Flavobacterium haoranii",Flavobacterium
+133965,BX12,"CCTCC AB 2012197, KCTC 32147",1,"Flavobacterium hauense",Flavobacterium
+5568,WB4.2-33,"DSM 18292, LMG 26768, CIP 109241, WB 4.2-33",1,"Flavobacterium hercynium",Flavobacterium
+5531,LCI,"DSM 12611, ACAM 376, ATCC 51468, CIP 105745",1,"Flavobacterium hibernum",Flavobacterium
+133360,THG-HG1.4,"KACC 18852, CCTCC AB 2016178",1,"Flavobacterium hibisci",Flavobacterium
+168350,"TSA- D2","KEMB 9005-741, KACC 21179, NBRC 113788",1,"Flavobacterium hiemivividum",Flavobacterium
+164358,,"JCM 32786, KACC 19715",1,"Flavobacterium humi",Flavobacterium
+140519,UCM-46,"KACC 18575, NBRC 111657",1,"Flavobacterium humicola",Flavobacterium
+170793,MMS21-Er5,"KCTC 92256, LMG 32524",1,"Flavobacterium humidisoli",Flavobacterium
+170785,"K b82","LMG 31576, NCAIM B.02635",1,"Flavobacterium hungaricum",Flavobacterium
+5512,N,"DSM 2063, ATCC 29551, CCUG 35201, NCIMB 2215, LMG 8385, Cy aq1, CIP 104741, Cy aq 1",1,"Flavobacterium hydatis",Flavobacterium
+167801,GA093,"KCTC 72594, LMG 31760",1,"Flavobacterium hydrocarbonoxydans",Flavobacterium
+166439,,"KACC 19591, NBRC 113423, IMCC 34758",1,"Flavobacterium hydrophilum",Flavobacterium
+167192,NST-5,"LMG 31341, BCRC 81198",1,"Flavobacterium ichthyis",Flavobacterium
+5563,GPTSA100-9,"DSM 17447, CIP 109464, MTCC 6936, CCUG 58932",1,"Flavobacterium indicum",Flavobacterium
+133310,,"KCTC 52244, JCM 31385, IMCC 27201, BCRC 81043",1,"Flavobacterium inkyongense",Flavobacterium
+163865,,"JCM 30735, KCTC 42149",1,"Flavobacterium jejuense",Flavobacterium
+164082,,"JCM 31512, KCTC 52377",1,"Flavobacterium jocheonensis",Flavobacterium
+135506,,"CIP 100068",0,"Flavobacterium johnsoniae",Flavobacterium
+3789,"DWO, Fx a2","DSM 6792, ATCC 23107, IFO 15970, NBRC 15970",1,"Flavobacterium johnsoniae subsp. aurantiacum",Flavobacterium
+5515,"UW 101","CCUG 35202, NCIMB 11054, LMG 1341, CFBP 3036, CIP 100931, JCM 8514, DSM 2064, ATCC 17061, IAM 14304, IFO 14942, NBRC 14942, NCIB 11054, Cy j3, MYX 1.1.1, BCRC 14874, GIFU 2500, LMG 1340, NCCB 96103, MYX 1.1.1.",1,"Flavobacterium johnsoniae",Flavobacterium
+165530,,"JCM 7449, NCIMB 9337",0,"Flavobacterium johnsoniae subsp. johnsoniae",Flavobacterium
+165531,,"JCM 7451, NCIMB 11035",0,"Flavobacterium johnsoniae subsp. johnsoniae",Flavobacterium
+133900,,"KCTC 23618, CECT 7955, HME 7102, CIP 110815",1,"Flavobacterium jumunjinense",Flavobacterium
+167128,F-47,"KCTC 82255 T, JCM 34195T",1,"Flavobacterium kayseriense",Flavobacterium
+140560,K3R-10,"KCTC 52563, JCM 31220",1,"Flavobacterium keumense",Flavobacterium
+158639,WV39,"KCTC 42908, CECT 9085",1,"Flavobacterium kingsejongi",Flavobacterium
+164224,,"JCM 32247, KCTC 62061",1,"Flavobacterium knui",Flavobacterium
+161912,,"JCM 17066, KACC 14969, KCTC 23182",1,"Flavobacterium koreense",Flavobacterium
+168369,"THG 107","LMG 26575, KACC 16219",1,"Flavobacterium kyungheense",Flavobacterium
+158799,,"KCTC 52571, NBRC 112883, IMCC 25901",1,"Flavobacterium lacicola",Flavobacterium
+170786,TH16-21,"KACC 22896, MCCC 1K04592",1,"Flavobacterium lacisediminis",Flavobacterium
+133392,AHQ-46,"BCRC 80889, LMG 28710",1,"Flavobacterium lacunae",Flavobacterium
+169051,NP180,"NBRC 109715, CGMCC 1.12504",1,"Flavobacterium lacus",Flavobacterium
+166500,LB2P30,"CGMCC 1.11271, NBRC 113059",1,"Flavobacterium laiguense",Flavobacterium
+158745,THG-AG6.4,"KACC 18851, CGMCC 1.16060",1,"Flavobacterium limi",Flavobacterium
+5535,ST-82,"DSM 15094, JCM 11473, CCUG 58906, LMG 21930, CIP 107957, KCTC 12494, NBRC 103156",1,"Flavobacterium limicola",Flavobacterium
+5533,ST-10,"DSM 14768, JCM 11474",0,"Flavobacterium limicola",Flavobacterium
+5534,ST-92,"DSM 15093, JCM 11475",0,"Sporotomaculum syntrophicum",Sporotomaculum
+134073,JC2902,"KACC 16937, JCM 18661",1,"Flavobacterium limnosediminis",Flavobacterium
+5571,IP-10,"DSM 21886, CCM 7424, MTCC 8597, CIP 109890",1,"Flavobacterium lindanitolerans",Flavobacterium
+156154,,"CCUG 60565, NCTC 13531",0,"Flavobacterium lindanitolerans",Flavobacterium
+170172,WSW3-B6,"KCTC 82708, GDMCC 1.2627",1,"Flavobacterium litorale",Flavobacterium
+24025,,"DSM 27077, JCM 19141, YIT 12745, CIP 111716",1,"Flavobacterium longum",Flavobacterium
+167379,CYK-4,"LMG 31330, BCRC 81192",1,"Flavobacterium lotistagni",Flavobacterium
+165533,,"JCM 7455, IFO 3085, NBRC 3085",0,"Flavobacterium lutescens",Flavobacterium
+162978,,"JCM 20652, ATCC 27951, IAM 12575",0,"Flavobacterium lutescens",Flavobacterium
+158743,,"KCTC 52572, NBRC 112527, IMCC 26026",1,"Flavobacterium luteum",Flavobacterium
+133332,xz20,"CCTCC AB 2015421, JCM 31174",1,"Flavobacterium luticocti",Flavobacterium
+140887,HQQ,"CGMCC 1.15347, KCTC 42935",1,"Flavobacterium lutivivi",Flavobacterium
+167796,"YIM 102600","CCTCC AB 201632, KCTC 52099, YIM 102600",1,"Flavobacterium macacae",Flavobacterium
+5581,an-8,"DSM 22219, BCRC 17965, LMG 25203",1,"Flavobacterium macrobrachii",Flavobacterium
+159809,HYN0048,"KACC 19180, NBRC 112740",1,"Flavobacterium magnum",Flavobacterium
+162673,,"JCM 19927, CGMCC 1.12712",1,"Flavobacterium maotaiense",Flavobacterium
+133979,SW105,"CGMCC 1.10825, JCM 18132",1,"Myroides aquimaris",Myroides
+168366,,"KCTC 42093, NRIC 0920, KMM 9535",1,"Flavobacterium maris",Flavobacterium
+164591,MaA-Y11,"JCM 33501, KACC 21225",1,"Flavobacterium microcysteis",Flavobacterium
+5544,R-9192,"DSM 17659, CIP 108161, LMG 21919, KCTC 2284",1,"Flavobacterium micromati",Flavobacterium
+167213,F-60,"JCM 34196, KCTC 82256",1,"Flavobacterium muglaense",Flavobacterium
+133632,,"KCTC 22825, CECT 7649, HMD 1033",1,"Flavobacterium myungsuense",Flavobacterium
+164350,GS13,"JCM 32765, KCTC 62569",1,"Flavobacterium nackdongense",Flavobacterium
+158777,Brt-M,"KEMB 9005-692, KACC 19393, JCM 32171",1,"Flavobacterium naphthae",Flavobacterium
+133920,N1,"MTCC 11155, JCM 17678",1,"Flavobacterium nitratireducens",Flavobacterium
+131418,NXU-44,"DSM 29982, CIP 110894, LMG 28694",1,"Flavobacterium nitrogenifigens",Flavobacterium
+168595,TAPW14,"KCTC 52808, LMG 30057, BCRC 81055",1,"Flavobacterium niveum",Flavobacterium
+133902,R-HLS-17,"CGMCC 1.10076, NBRC 108844",1,"Flavobacterium noncentrifugens",Flavobacterium
+168710,SYP-B540,"BCRC 80724, NBRC 110012, KCTC 32505",1,"Flavobacterium notoginsengisoli",Flavobacterium
+166595,,"ATCC 31317",1,"Flavobacterium oceanosedimentum",Flavobacterium
+140564,R-10-9,"JCM 31673, KACC 18997, KEMB 9005-447",1,"Flavobacterium olei",Flavobacterium
+5555,ZF-8,"DSM 19742, AS 1.2747, JCM 11313, CGMCC 1.2747, CIP 108050, KCTC 12490",1,"Flavobacterium omnivorum",Flavobacterium
+155836,,"CCUG 59446, CECT 7678",1,"Flavobacterium oncorhynchi",Flavobacterium
+155781,,"CCUG 59310",0,"Flavobacterium oncorhynchi",Flavobacterium
+156014,,"CCUG 60101, CECT 7792",0,"Flavobacterium oncorhynchi",Flavobacterium
+156015,,"CCUG 60102, CECT 7848",0,"Flavobacterium oncorhynchi",Flavobacterium
+170177,"Costa Rica 04-02-­TN","CCM 9173, ATCC TSD-248",1,"Flavobacterium oreochromis",Flavobacterium
+133311,SP3,"CGMCC 1.12506, NBRC 109717",1,"Flavobacterium orientale",Flavobacterium
+169118,Jyi-05,"BCRC 80522, KCTC 32240, LMG 27292",1,"Flavobacterium oryzae",Flavobacterium
+158626,W201E,"KCTC 52693, MCCC 1K03251, CGMCC 1.16053, JCM 31872",1,"Flavobacterium ovatum",Flavobacterium
+159808,HYN0049,"KACC 19181, NBRC 112741",1,"Flavobacterium pallidum",Flavobacterium
+168094,S44,"NBRC 110389, CGMCC 1.12811",1,"Flavobacterium palustre",Flavobacterium
+164073,,"JCM 31468, KCTC 42747",1,"Flavobacterium panacis",Flavobacterium
+162414,,"JCM 19162, KCTC 32393",1,"Flavobacterium panacisoli",Flavobacterium
+162413,,"JCM 19161, KCTC 32392",1,"Flavobacterium panaciterrae",Flavobacterium
+167277,PXU-55,"CCM 8914, CIP 111646",1,"Flavobacterium panici",Flavobacterium
+141134,KNUS1,"KACC 17692, CECT 8460",1,"Flavobacterium paronense",Flavobacterium
+164242,,"JCM 32368, KACC 19448",1,"Flavobacterium parvum",Flavobacterium
+5528,81,"DSM 6368, ATCC 19366, IAM 14307, NCIB 9059, Dorey 81, Cy p1, JCM 8518, CIP 104742, IFO 15945, LMG 4031, LMG 8366, NBRC 15945, NCIMB 9059, VKM B-1171",1,"Flavobacterium pectinovorum",Flavobacterium
+140518,UCM-R36,"KACC 18668, NBRC 111765",1,"Flavobacterium pedocola",Flavobacterium
+158683,SE14,"CCTCC AB 2017225, KCTC 52612",1,"Flavobacterium phocarum",Flavobacterium
+5583,"BLN2, BLN_2","DSM 23314, CGMCC 1.10370, CIP 110404",1,"Flavobacterium phragmitis",Flavobacterium
+166600,MK012,"KACC 21509, JCM 33879",1,"Flavobacterium phycosphaerae",Flavobacterium
+166492,ICH-30,"BCRC 81122, LMG 30579, KCTC 62513",1,"Flavobacterium piscinae",Flavobacterium
+136841,412-R09,"CIP 110846, CCUG 60099, CECT 7911",1,"Flavobacterium piscis",Flavobacterium
+156024,,"CCUG 60112",1,"Flavobacterium plurextorum",Flavobacterium
+133578,GSW-R14,"KCTC 22802, CCUG 58402",1,"Flavobacterium ponti",Flavobacterium
+163711,,"JCM 30113, CGMCC 1.12926",1,"Flavobacterium procerum",Flavobacterium
+166885,TP390,"CGMCC1.15398, KACC 18559",1,"Flavobacterium profundi",Flavobacterium
+170171,"1 Y8A","GDMCC 1.1933, KACC 22081",1,"Flavobacterium proteolyticum",Flavobacterium
+5540,R-7582,"DSM 16141, CIP 108326, LMG 22018, KCTC 22843",1,"Flavobacterium psychrolimnae",Flavobacterium
+5529,3068,"DSM 3660, IAM 14308, NCMB 1947, JCM 8519, ATCC 49418, CCM 3594, CCUG 35200, CIP 103534, IFO 15942, LMG 13179, NBRC 100250, NBRC 15942, NCIMB 1947",1,"Flavobacterium psychrophilum",Flavobacterium
+139583,,"CIP 109956, FPC 840",0,"Flavobacterium psychrophilum",Flavobacterium
+134699,,"CIP 109952, JIP 08/99",0,"Flavobacterium psychrophilum",Flavobacterium
+139584,"OSU THC02-90","CIP 109957",0,"Flavobacterium psychrophilum",Flavobacterium
+139585,"LNPAA P01/88","CIP 103536, ATCC 49510",0,"Flavobacterium psychrophilum",Flavobacterium
+5530,"TG 02/86","DSM 21280, ATCC 49511, CIP 103535, JIP 02/86",0,"Flavobacterium psychrophilum",Flavobacterium
+139028,,"CIP 109955, FPC 831",0,"Flavobacterium psychrophilum",Flavobacterium
+139581,,"CIP 109953, JIP 16/00",0,"Flavobacterium psychrophilum",Flavobacterium
+139582,"LVDJ XP189","CIP 109954",0,"Flavobacterium psychrophilum",Flavobacterium
+159751,P3922,"LMG 30616, CCM 8827",1,"Flavobacterium psychroterrae",Flavobacterium
+168505,RB1R5,"NBRC 113060, CGMCC 1.23024",1,"Flavobacterium psychrotolerans",Flavobacterium
+170790,I-SCBP12n,"CECT 30404, RGM 3223",1,"Flavobacterium pygoscelis",Flavobacterium
+162598,,"JCM 19739, CGMCC 1.12706",1,"Flavobacterium qiangtangense",Flavobacterium
+140761,EA-12,"CGMCC 1.15345, NBRC 111769",1,"Flavobacterium quisquiliarum",Flavobacterium
+133758,FCS-5,"MTCC 10967, JCM 17928, CIP 110368",1,"Flavobacterium rakeshii",Flavobacterium
+166271,LB2P22,"CGMCC 1.11361, NBRC 113777",1,"Flavobacterium ranwuense",Flavobacterium
+5577,WB3.2-61,"DSM 21791, CIP 109866, WB 3.2-61",1,"Flavobacterium reichenbachii",Flavobacterium
+5573,BD-b365,"DSM 19382, CIP 109941, KCTC 22078, CCUG 59848",1,"Flavobacterium resistens",Flavobacterium
+167432,LB1R34,"NBRC 113650, CGMCC 1.11493",1,"Flavobacterium restrictum",Flavobacterium
+166912,LB3P52,"NBRC 113776, CGMCC 1.11446",1,"Flavobacterium rhamnosiphilum",Flavobacterium
+159810,TAPY6,"BCRC 81007, LMG 29728, KCTC 52444",1,"Flavobacterium riviphilum",Flavobacterium
+5575,WB3.3-2,"DSM 21788, CIP 109865, CCUG 58934, WB 3.3-2",1,"Flavobacterium rivuli",Flavobacterium
+5516,024,"DSM 1811, IAM 14309, NCMB 2072, JCM 8520, ACAM 581, ATCC 49530, CIP 104743, IFO 15944, LMG 8384, NBRC 15944, NCIMB 2072",1,"Flavobacterium saccharophilum",Flavobacterium
+167211,SaA2.12,"KCTC 72220, MCCC 1K03618",1,"Flavobacterium salilacus",Flavobacterium
+167221,LaA7.5,"MCCC 1K04372, KCTC 72806",1,"Flavobacterium salilacus subsp. altitudinum",Flavobacterium
+5558,S13,"DSM 21664, CGMCC 1.3801, JCM 13331, CCUG 60843, CIP 109164",1,"Flavobacterium saliperosum",Flavobacterium
+166720,"T13(2019), T13","CIP 111411, CCM 8798, LMG 30298",1,"Flavobacterium salmonis",Flavobacterium
+168526,LB-D12,"NBRC 113784, KACC 21180, KEMB 9005-737",1,"Flavobacterium sandaracinum",Flavobacterium
+164349,,"JCM 32764, FBCC 502459, KCTC 62568",1,"Flavobacterium sangjuense",Flavobacterium
+5574,"SS7, YC06274","DSM 21067, CIP 110183, KCTC 22246",1,"Flavobacterium sasangense",Flavobacterium
+158690,YSM-43,"KACC 19435, KCTC 62142, NBRC 113020",1,"Flavobacterium sediminilitoris",Flavobacterium
+159816,,"KCTC 62132, JCM 32291, MEBiC 07310",1,"Flavobacterium sediminis",Flavobacterium
+5561,AT1048,"DSM 19741, CIP 109332, IMSNU 14050, JCM 12385, KCTC 12224",1,"Flavobacterium segetis",Flavobacterium
+163719,,"JCM 30145, KACC 18114",1,"Flavobacterium seoulense",Flavobacterium
+163722,,"JCM 30153, CCTCC AB 2014079",1,"Flavobacterium shanxiense",Flavobacterium
+167688,A7.6,"KCTC 62405, MCCC 1K03485",1,"Flavobacterium sharifuzzamanii",Flavobacterium
+170789,LS1R49,"CGMCC 1.11581, NBRC 113652",1,"Flavobacterium shii",Flavobacterium
+167525,SE-s28,"JCM 31545, KACC 18803",1,"Flavobacterium silvaticum",Flavobacterium
+166201,RD-2-33,"KEMB 9005-742, KACC 21178, NBRC 113789",1,"Flavobacterium silvisoli",Flavobacterium
+133555,"0533, 533","CGMCC 1.8704, JCM 16398, CIP 110296",1,"Flavobacterium sinopsychrotolerans",Flavobacterium
+5559,DS-6,"DSM 19725, CIP 108840, KCTC 12542",1,"Flavobacterium soli",Flavobacterium
+166910,SE-s27,"JCM 31544, KACC 18802",1,"Flavobacterium solisilvae",Flavobacterium
+170173,SCIV07,"GDMCC 1.2481, JCM 34673",1,"Flavobacterium soyae",Flavobacterium
+140526,,"KCTC 52245, JCM 31384, IMCC 26223",1,"Flavobacterium soyangense",Flavobacterium
+169214,JRM,"DSM 105306",1,"Flavobacterium sp.",Flavobacterium
+131718,Root186,"DSM 102423",0,"Flavobacterium sp.",Flavobacterium
+147110,,"CCUG 32885",0,"Flavobacterium sp.",Flavobacterium
+142622,,"CCUG 13387",0,"Flavobacterium sp.",Flavobacterium
+161516,,"JCM 14677",0,"Flavobacterium sp.",Flavobacterium
+145705,,"CCUG 29331, LMG 12432",0,"Flavobacterium sp.",Flavobacterium
+24852,19,"DSM 3577, VKM B-1553",0,"Flavobacterium sp.",Flavobacterium
+131719,Root420,"DSM 102424",0,"Flavobacterium sp.",Flavobacterium
+147192,,"CCUG 33032",0,"Flavobacterium sp.",Flavobacterium
+131720,Leaf359,"DSM 102605",0,"Flavobacterium sp.",Flavobacterium
+147203,,"CCUG 33044",0,"Flavobacterium sp.",Flavobacterium
+146315,,"CCUG 30882",0,"Flavobacterium sp.",Flavobacterium
+147216,,"CCUG 33072",0,"Flavobacterium sp.",Flavobacterium
+131721,Leaf82,"DSM 102606",0,"Flavobacterium sp.",Flavobacterium
+162894,,"JCM 20361, ATCC 21044, IAM 12033",0,"Flavobacterium sp.",Flavobacterium
+160003,ACN6,"DSM 105154",0,"Flavobacterium sp.",Flavobacterium
+165536,,"JCM 7464",0,"Flavobacterium sp.",Flavobacterium
+160004,ACN2,"DSM 105493",0,"Flavobacterium sp.",Flavobacterium
+5514,C4,"DSM 425, NCIB 10150, CCUG 17935, Cy j1, JCM 7450, CIP 101265, NCIMB 10150",0,"Flavobacterium sp.",Flavobacterium
+146641,,"CCUG 31702",0,"Flavobacterium sp.",Flavobacterium
+147280,,"CCUG 33281",0,"Flavobacterium sp.",Flavobacterium
+146690,,"CCUG 31954",0,"Flavobacterium sp.",Flavobacterium
+165537,,"JCM 7465",0,"Flavobacterium sp.",Flavobacterium
+130914,N2,"DSM 19977",0,"Flavobacterium sp.",Flavobacterium
+143970,,"CCUG 22173",0,"Flavobacterium sp.",Flavobacterium
+24690,EL-74,"DSM 11468",0,"Flavobacterium sp.",Flavobacterium
+165538,,"JCM 7466",0,"Flavobacterium sp.",Flavobacterium
+3774,,"DSM 9626, ATCC 35408",0,"Flavobacterium sp.",Flavobacterium
+141186,,"CCUG 49 A, LMG 12429",0,"Flavobacterium sp.",Flavobacterium
+143972,,"CCUG 22175",0,"Flavobacterium sp.",Flavobacterium
+147342,,"CCUG 33398 A",0,"Flavobacterium sp.",Flavobacterium
+165539,,"JCM 7467",0,"Flavobacterium sp.",Flavobacterium
+161913,,"JCM 17067",0,"Flavobacterium sp.",Flavobacterium
+5524,4214,"DSM 17658",0,"Flavobacterium sp.",Flavobacterium
+144448,,"CCUG 24997 A",0,"Flavobacterium sp.",Flavobacterium
+141596,,"CCUG 3376",0,"Flavobacterium sp.",Flavobacterium
+144691,,"CCUG 26237",0,"Flavobacterium sp.",Flavobacterium
+139725,YC6718,"DSM 21476",0,"Flavobacterium sp.",Flavobacterium
+145431,,"CCUG 28481",0,"Flavobacterium sp.",Flavobacterium
+139726,S6-2b,"DSM 22816",0,"Flavobacterium sp.",Flavobacterium
+24018,,"DSM 18451",0,"Flavobacterium sp.",Flavobacterium
+162032,,"JCM 17516, KCTC 23338",0,"Flavobacterium sp.",Flavobacterium
+139727,TM-S1-7,"DSM 26758, CGMCC 1.9702",0,"Flavobacterium sp.",Flavobacterium
+132736,FB7,"DSM 21055",0,"Flavobacterium sp.",Flavobacterium
+145452,,"CCUG 28580",0,"Flavobacterium sp.",Flavobacterium
+162133,,"JCM 17920",0,"Flavobacterium sp.",Flavobacterium
+157659,PB002,"DSM 22791",0,"Flavobacterium sp.",Flavobacterium
+132737,275,"DSM 23227",0,"Flavobacterium sp.",Flavobacterium
+162134,,"JCM 17921",0,"Flavobacterium sp.",Flavobacterium
+157660,EC4,"DSM 25358",0,"Flavobacterium sp.",Flavobacterium
+162135,,"JCM 17922",0,"Flavobacterium sp.",Flavobacterium
+157661,SIF2,"DSM 25662",0,"Flavobacterium sp.",Flavobacterium
+142451,,"CCUG 12570",0,"Flavobacterium sp.",Flavobacterium
+131716,Root901,"DSM 102425",0,"Flavobacterium sp.",Flavobacterium
+131717,Root935,"DSM 102426",0,"Flavobacterium sp.",Flavobacterium
+143099,,"CCUG 17203",0,"Flavobacterium sp.",Flavobacterium
+145704,,"CCUG 29330, LMG 12431",0,"Flavobacterium sp.",Flavobacterium
+130913,,"DSM 19300, KACC 12500",0,"Flavobacterium sp.",Flavobacterium
+133916,CMJ-5,"BCRC 80405, LMG 26890, KCTC 23915",1,"Flavobacterium squillarum",Flavobacterium
+168796,WWJ-16,"LMG 30600, BCRC 81125, KCTC 62515",1,"Flavobacterium stagni",Flavobacterium
+141075,G16-7,"CGMCC 1.15461, KCTC 42947",1,"Flavobacterium suaedae",Flavobacterium
+5576,WB4.1-42,"DSM 21790, CIP 109867, WB 4.1-42",1,"Flavobacterium subsaxonicum",Flavobacterium
+5526,8,"DSM 4002, IAM 14311, IFO 14905, NBRC 14905, Cy su3, JCM 21151, BCRC 81041, CIP 104744, LMG 10402, NCIMB 2277, Cy su 3",1,"Flavobacterium succinicans",Flavobacterium
+5525,14,"DSM 4001, Cy su1",0,"Flavobacterium succinicans",Flavobacterium
+5527,16,"DSM 4003, Cy su4",0,"Flavobacterium succinicans",Flavobacterium
+166491,BBQ-12,"BCRC 81049, LMG 30051, KCTC 52809",1,"Flavobacterium sufflavum",Flavobacterium
+165534,,"JCM 7462, IAM 1252",0,"Flavobacterium sulfureum",Flavobacterium
+5545,"GH 29-5, GH29-5","DSM 17707, CIP 109901, KACC 11423",1,"Flavobacterium suncheonense",Flavobacterium
+164379,,"JCM 32838, BCRC 81146",1,"Flavobacterium supellecticarium",Flavobacterium
+168064,XIN-1,"CCTCC AB 2014200, KCTC 42107",1,"Flavobacterium suzhouense",Flavobacterium
+5578,WB2.3-68,"DSM 21789, CIP 109868, WB 2.3-68",1,"Flavobacterium swingsii",Flavobacterium
+166799,GN10,"KCTC 82695, NBRC 114841",1,"Flavobacterium tagetis",Flavobacterium
+170174,NAS39,"KACC 22328, MCCC 1K06094",1,"Flavobacterium taihuense",Flavobacterium
+167655,"YIM 102701-2","CCTCC AB 2016028, KCTC 52100",1,"Flavobacterium tangerinum",Flavobacterium
+5554,,"DSM 22377, ACAM 602, LMG 21423, CCUG 58907, CIP 107447",1,"Flavobacterium tegetincola",Flavobacterium
+5564,R2A1-13,"DSM 18829, CIP 109887, KACC 11731",1,"Flavobacterium terrae",Flavobacterium
+5549,DS-20,"DSM 17934, CIP 109939, KCTC 12761",1,"Flavobacterium terrigena",Flavobacterium
+133149,,"CUG 00004, CCTCC AB 2014151, KCTC 42876",1,"Flavobacterium terriphilum",Flavobacterium
+24019,G-21,"DSM 19814, BKM 1325, CCM 3496, CCUG 22402, NCTC 11526, VKM 1325",1,"Flavobacterium thermophilum",Flavobacterium
+133486,"0563, 563","CGMCC 1.6847, JCM 15087, CIP 110391",1,"Flavobacterium tiangeerense",Flavobacterium
+166416,YH5,"CICC 24247, KCTC 62174",1,"Flavobacterium tibetense",Flavobacterium
+133842,Ruye-71,"BCRC 80262, KCTC 23312",1,"Flavobacterium tilapiae",Flavobacterium
+141070,"GB 56.1","TISTR 1612, KCTC 42679",1,"Flavobacterium tistrianum",Flavobacterium
+139428,435-08,"CIP 110845, CCUG 60100, CECT 7791",1,"Flavobacterium tructae",Flavobacterium
+167194,F-339,"KCTC 82262 T, JCM 34202 T",1,"Flavobacterium turcicum",Flavobacterium
+141064,THG-DN8.8,"KCTC 42726, CCTCC AB 2015295",1,"Flavobacterium tyrosinilyticum",Flavobacterium
+133702,DS-12,"CCM 7847, MTCC 10766",1,"Flavobacterium ummariense",Flavobacterium
+169117,S-42,"NBRC 112683, KACC 19115, KEMB 9005-537",1,"Flavobacterium ureilyticum",Flavobacterium
+24026,,"DSM 27078, JCM 19142, YIT 12746, BCRC 81228, NRIC 0940",1,"Flavobacterium urocaniciphilum",Flavobacterium
+156235,,"CCUG 60825",0,"Flavobacterium ursingii",Flavobacterium
+133685,Sr25,"CGMCC 1.9230, NBRC 106480",1,"Flavobacterium urumqiense",Flavobacterium
+166281,T13,"KCTC 62874, ACCC 60126",1,"Flavobacterium ustbae",Flavobacterium
+140502,TTM-46,"BCRC 80914, LMG 29005, KCTC 42745",1,"Flavobacterium verecundum",Flavobacterium
+168638,THG-SM1,"KACC 18371, CCTCC AB 2014312",1,"Flavobacterium vireti",Flavobacterium
+168521,"YIM 102796","CCTCC AB 2016015, KCTC 52101",1,"Flavobacterium viscosum",Flavobacterium
+5560,AT1042,"DSM 19727, CIP 109334, IMSNU 14048, JCM 12384, KCTC 12223",1,"Flavobacterium weaverense",Flavobacterium
+5542,5-O-C,"DSM 3661, ACAM 81, IAM 12026, NCMB 2069, JCM 20358, DSM 3312, IFO 14972, LMG 8372, NBRC 14972, NCIMB 2069, CIP 107448",1,"Flavobacterium xanthum",Flavobacterium
+5556,ZF-6,"DSM 19743, AS 1.2749, JCM 11314, CGMCC 1.2749, CIP 108285, KCTC 12491",1,"Flavobacterium xinjiangense",Flavobacterium
+133684,Sr22,"CGMCC 1.9227, NBRC 106479",1,"Flavobacterium xueshanense",Flavobacterium
+133972,hg,"CCTCC AB 2012099, KACC 16855",1,"Flavobacterium yanchengense",Flavobacterium
+133631,,"KCTC 22796, CECT 7594, HMD 1001",1,"Flavobacterium yonginense",Flavobacterium
+167920,ZZ-­8,"CCTCC AB 2017243, KCTC 62315",1,"Flavobacterium zaozhuangense",Flavobacterium
+167428,"strain ZT4R6","NBRC 113653, CGMCC 1.11919",1,"Flavobacterium zepuense",Flavobacterium
+167358,A5.7,"KCTC 62406, MCCC 1K03494",1,"Flavobacterium zhairuonense",Flavobacterium
+18081,S1,"DSM 4000, ATCC 29863, CCUG 28093, KCTC 5970, VPI 0310, JCM 32125, Prevot S1",1,"Flavonifractor plautii",Flavonifractor
+130911,YL31,"DSM 26117",0,"Flavonifractor plautii",Flavonifractor
+158902,H5_55,"DSM 108238",0,"Flavonifractor plautii",Flavonifractor
+130910,mOs-SRB-10A-2011,"DSM 29137",0,"Flavonifractor plautii",Flavonifractor
+130909,WHC-424-CC-2,"DSM 29136",0,"Flavonifractor plautii",Flavonifractor
+18082,265,"DSM 6740, ATCC 49531",0,"Flavonifractor plautii",Flavonifractor
+157205,,"CCUG 70556",0,"Flavonifractor plautii",Flavonifractor
+159997,Cla-CZ-140,"DSM 109053",0,"Flavonifractor plautii",Flavonifractor
+150361,,"CCUG 39730",0,"Flavonifractor plautii",Flavonifractor
+154772,,"CCUG 55143",0,"Flavonifractor plautii",Flavonifractor
+164283,,"JCM 32521",0,"Flavonifractor sp.",Flavonifractor
+132462,Sanger_08,"DSM 102116",0,"Flavonifractor sp.",Flavonifractor
+132463,Sanger_09,"DSM 102137",0,"Flavonifractor sp.",Flavonifractor
+140142,"7/1/58 FAA","DSM 24814, BEI HM-153",0,"Flavonifractor sp.",Flavonifractor
+133330,MIB-4,"BCRC 80926, LMG 29292, KCTC 33763",1,"Flectobacillus fontis",Flectobacillus
+134175,CL-GP79,"KCCM 42271, JCM 13398, CIP 109329, NCIMB 14446",1,"Flectobacillus lacus",Flectobacillus
+3784,,"DSM 103, ATCC 29496, BKM B-859, VKM B-859, CCUG 14833, CCM 2921",1,"Flectobacillus major",Flectobacillus
+133118,MVW-6,"BCRC 80975, LMG 29555, KCTC 33800",1,"Flectobacillus pallidus",Flectobacillus
+167037,JC289,"LMG 28712, KCTC 42575",1,"Flectobacillus rhizosphaerae",Flectobacillus
+133516,GFA-11,"BCRC 17834, LMG 24501",1,"Flectobacillus roseus",Flectobacillus
+139873,GWF20A,"DSM 14769",1,"Flectobacillus speluncae",Flectobacillus
+136148,,"CIP 107345",0,"Flectobacillus speluncae",Flectobacillus
+3790,"CR-63, Fx f1","DSM 6793, ATCC 23079, CIP 103988, CCUG 5119, IFO 15060, LMG 3990, NCIMB 12853, NCMB 1377",1,"Flexibacter flexilis",Flexibacter
+136522,CR-141,"CIP 106407, ATCC 23087, LMG 13167, NCIMB 1370",0,"Hugenholtzia roseola",Hugenholtzia
+145451,,"CCUG 28579",0,"Flexibacter sp.",Flexibacter
+145453,,"CCUG 28581",0,"Flexibacter sp.",Flexibacter
+3785,,"DSM 3098, ATCC 35103, SC 11479",0,"Flexibacter sp.",Flexibacter
+3786,,"DSM 3589, ATCC 35208, SC 12,681",0,"Flexibacter sp.",Flexibacter
+3787,,"DSM 4510, BKM B-1001, VKM B-1001",0,"Flexibacter sp.",Flexibacter
+140919,,"JCM 30897, CGMCC 1.5202, TC 1",1,"Flexilinea flocculi",Flexilinea
+138191,,"CIP 105251",0,"Helicobacter rappini",Helicobacter
+3839,,"DSM 4947, MAS 10",1,"Flexistipes sinusarabici",Flexistipes
+5463,"Ft d1, QQ-3","DSM 6795, ATCC 23163, IFO 15987, NBRC 15987",1,"Flexithrix dorotheae",Flexithrix
+137673,,"CIP 104803, ATCC 23162, IFO 15976, NCIMB 1443, JCM 21384, IAM 14894, LMG 8376, NBRC 15976",0,"Flexibacter aggregans",Flexibacter
+167072,ID2601S,"KCTC 49353T, NBRC 114622",1,"Flexivirga aerilata",Flexivirga
+22985,ST13,"DSM 24460, NBRC 107580",1,"Flexivirga alba",Flexivirga
+167595,BO-16,"KACC 19647, LMG 30859",1,"Flexivirga caeni",Flexivirga
+140492,,"KCTC 39536, CGMCC 1.15085, YIM 7505, JCM 30628",1,"Flexivirga endophytica",Flexivirga
+140495,TBS-100,"KCTC 39625, JCM 31200",1,"Flexivirga lutea",Flexivirga
+140254,R1,"DSM 105369, JCM 31060, KACC 18597",1,"Flexivirga oryzae",Flexivirga
+24255,,"DSM 45355, ACM 5289, JCM 31030, EUM 378",1,"Flindersiella endophytica",Flindersiella
+131517,BLS21,"DSM 27579, KCTC 15544",1,"Flintibacter butyricus",Flintibacter
+170062,New-­19,"KCTC 15861, CGMCC 1.31644",1,"Flintibacter hominis",Flintibacter
+169749,Cla-AV-17,"DSM 110149",0,"Flintibacter muris",Flintibacter
+159489,LKV-178-WT-2G,"DSM 104670, JCM 34421",1,"Floccifex porci",Floccifex
+170051,SM1988,"KCTC 72761, MCCC 1K04279",1,"Flocculibacter collagenilyticus",Flocculibacter
+158536,HibF3,"LMG 29831, JCM 31735",1,"Floricoccus penangensis",Floricoccus
+158537,DF1,"LMG 29833, JCM 31733",1,"Floricoccus tropicus",Floricoccus
+164122,,"JCM 31734",0,"Floricoccus tropicus",Floricoccus
+164123,,"JCM 31736",0,"Floricoccus tropicus",Floricoccus
+164185,,"JCM 32071, NCIMB 15105",1,"Fluviibacter phosphoraccumulans",Fluviibacter
+164537,,"JCM 33382",0,"Fluviibacter phosphoraccumulans",Fluviibacter
+164538,,"JCM 33383",0,"Fluviibacter phosphoraccumulans",Fluviibacter
+167730,SM1902,"KCTC 72045, MCCC 1K03596, CCTCC AB 2018346",1,"Fluviibacterium aquatile",Fluviibacterium
+132964,4DR5,"DSM 105135, JCM 19370, KCTC 32475",1,"Fluviicoccus keumensis",Fluviicoccus
+166121,MAH-3,"KACC 19742, CGMCC 1.13750",1,"Fluviicola chungangensis",Fluviicola
+167758,MYL-8,"CCTCC AB 2013168, KACC 16597",1,"Fluviicola hefeinensis",Fluviicola
+158665,CA-1,"KEMB 9005-526, KACC 19148, NBRC 112684",1,"Fluviicola kyonggii",Fluviicola
+3249,RW262,"DSM 16823, NCIMB 13979",1,"Fluviicola taffensis",Fluviicola
+134037,TQQ6,"BCRC 80447, LMG 27056, KCTC 32035",1,"Fluviimonas pallidilutea",Fluviimonas
+164432,33A1-SZDP,"JCM 32978, DSM 107810",1,"Fluviispira multicolorata",Fluviispira
+167763,"R F1110005","LMG T 30360, JCM 31447",1,"Fluviispira sanaruensis",Fluviispira
+6311,,"DSM 21208, CCTCC AA 208036, JCM 17809, YIM C003",1,"Fodinibacter luteus",Fodinibacter
+133644,,"DSM 21935, ACCC 10716, YIM D17",1,"Fodinibius salinus",Fodinibius
+170859,1BSP15-2V2,"CCM 9117, CECT 30246",1,"Fodinibius salsisoli",Fodinibius
+170356,"GKU 173","TBRC 10620, NBRC 114213",1,"Fodinicola acaciae",Fodinicola
+17736,,"DSM 19247, JCM 14718, HKI 0501",1,"Fodinicola feengrottensis",Fodinicola
+128702,STI43706(IMET),"IMET 43706, NRRL 3382",0,"Streptomyces lasalocidi",Streptomyces
+14023,,"DSM 21160, CCTCC AA 208037, YIM D812",1,"Fodinicurvata fenggangensis",Fodinicurvata
+162588,,"JCM 19705, CCM 8504, CECT 8472, LMG 27945",1,"Fodinicurvata halophila",Fodinicurvata
+14024,,"DSM 21159, KCTC 22351, YIM D82",1,"Fodinicurvata sediminis",Fodinicurvata
+11669,,"DSM 17643, CIP 110218, KCTC 13750, MTCC 7155, GPTSA 19",1,"Fontibacillus aquaticus",Fontibacillus
+24294,P11-6,"DSM 28129, CECT 7605, CIP 110592, KCTC 13564",1,"Fontibacillus panacisegetis",Fontibacillus
+168981,BAPVE7B,"CECT 8333, LMG 27589",1,"Fontibacillus phaseoli",Fontibacillus
+160824,DSHK107,"DSM 100116",1,"Fontibacillus pullulanilyticus",Fontibacillus
+168523,A4STR04,"CECT 8693, LMG 28458",1,"Fontibacillus solani",Fontibacillus
+133841,SgZ-2,"CCTCCM 2011498, KACC 16525",1,"Fontibacter ferrireducens",Fontibacter
+17720,CC-GZM-130,"DSM 22241, CCM 7650, CCUG 57694",1,"Fontibacter flavus",Fontibacter
+22969,BELH25,"DSM 24455, JCM 17559",1,"Fonticella tunisiensis",Fonticella
+23456,HA-01,"DSM 23609, CCUG 59713",1,"Fontimonas thermophila",Fontimonas
+170856,"B 254","VKM B-3507, KCTC 82380",1,"Fontivita pretiosa",Fontivita
+10459,CreCit1,"DSM 6150, ATCC 49791",1,"Formivibrio citricus",Formivibrio
+5588,"M-2Alg 35-1","DSM 15362, KCTC 12365, LMG 23005, KMM 3901, DSM 19837",1,"Formosa agariphila",Formosa
+171019,F89,"CIP 107684",1,"Formosa algae",Formosa
+131144,,"DSM 16476, KMM 3553",1,"Formosa algae",Formosa
+132845,F89,"DSM 15523, KMM 3553, KMM 3557",1,"Formosa algae",Formosa
+168798,"IMCC 9485","KACC 17484, KCCM 42937, NBRC 106080",1,"Formosa arctica",Formosa
+167485,,"NBRC 111189, LMG 28520",1,"Formosa haliotis",Formosa
+167618,1494,"KCTC 72531, MCCC 1H00385",1,"Formosa maritima",Formosa
+167596,PS13,"CECT 9918, KCCM 43301",1,"Formosa sediminum",Formosa
+161780,,"JCM 16447",0,"Formosa sp.",Formosa
+169501,Hel3_A1_48,"DSM 29894",0,"Formosa sp.",Formosa
+134048,WS-MY3,"KCTC 32328, CECT 8286",1,"Formosa undariae",Formosa
+133320,AHQ-12,"BCRC 80690, LMG 27847, KCTC 32501, DSM 109231",1,"Formosimonas limnophila",Formosimonas
+140267,AT2,"DSM 100451, CSUR P2014",1,"Fournierella massiliensis",Fournierella
+155019,,"CCUG 56120",1,"Francisella asiatica",Francisella
+5753,Shimane-1,"DSM 23729, LMG 26062",1,"Francisella halioticida",Francisella
+5752,"F62, FhSp1, FnSp1","DSM 22475, CCUG 58020, FSC 454",1,"Francisella hispaniensis",Francisella
+5750,2005/50/F292-6C,"DSM 23596, LMG 23800, NCIMB 14265",1,"Francisella noatunensis",Francisella
+5749,GM2212,"DSM 18777, CNCM I-3481, CNCM I-3511, LMG 24256",0,"Francisella noatunensis",Francisella
+166675,,"NCTC14375, CECT 9798",1,"Francisella noatunensis subsp. chilensis",Francisella
+167644,PA05-1188,"ATCC BAA-2974, DSM 107100",1,"Francisella opportunistica",Francisella
+5751,Ehime-1,"DSM 21254, LMG 24544",1,"Francisella orientalis",Francisella
+139941,,"DSM 101678, ATCC VR-331, FSC 845",1,"Francisella persica",Francisella
+143515,,"CCUG 19701, ATCC 25017",0,"Francisella philomiragia",Francisella
+142453,,"CCUG 12603",0,"Francisella philomiragia",Francisella
+142624,,"CCUG 13404",0,"Francisella philomiragia",Francisella
+5748,0#319L,"DSM 7535, ATCC 25015",1,"Francisella philomiragia",Francisella
+168585,"SYSU SYW-1","NBRC 113781, CGMCC 1.17031",1,"Francisella salimarina",Francisella
+141470,,"CCUG 2112, ATCC 6223",1,"Francisella tularensis",Francisella
+147337,,"CCUG 33391",0,"Francisella tularensis",Francisella
+153935,,"CCUG 51689",0,"Francisella tularensis",Francisella
+155930,,"CCUG 59671, FSC 855",0,"Francisella tularensis",Francisella
+154382,,"CCUG 53311",0,"Francisella tularensis",Francisella
+155931,,"CCUG 59672, FSC 856",0,"Francisella tularensis",Francisella
+152933,,"CCUG 48060",0,"Francisella tularensis",Francisella
+152962,,"CCUG 48139",0,"Francisella tularensis",Francisella
+147276,,"CCUG 33270",0,"Francisella tularensis",Francisella
+155291,,"CCUG 57222",0,"Francisella tularensis",Francisella
+143125,,"CCUG 17299",0,"Francisella tularensis subsp. holarctica",Francisella
+143127,,"CCUG 17316",0,"Francisella tularensis subsp. holarctica",Francisella
+143959,,"CCUG 22075",0,"Francisella tularensis subsp. holarctica",Francisella
+147362,,"CCUG 33449, CAPM 6041, ATCC 15482, CIP 56.12",1,"Francisella tularensis subsp. novicida",Francisella
+141095,DL503,"LMG 29914, CGMCC 1.15944",1,"Franconibacter daqui",Franconibacter
+4377,513/05,"DSM 18396, CCUG 54944, CIP 109630, LMG 23732, JCM 16470",1,"Franconibacter helveticus",Franconibacter
+156852,,"CCUG 66106",0,"Franconibacter helveticus",Franconibacter
+4380,601/05,"DSM 19144, LMG 24057, JCM 16471, CIP 110811",1,"Franconibacter pulveris",Franconibacter
+156820,,"CCUG 65679",0,"Franconibacter pulveris",Franconibacter
+4381,E441,"DSM 19145",0,"Franconibacter pulveris",Franconibacter
+4382,"1160/04, E908","DSM 19146",0,"Franconibacter pulveris",Franconibacter
+131722,"ACN14a, ULQ010201401","DSM 45986, CECT 9034",1,"Frankia alni",Frankia
+141096,M16386,"DSM 100626, CECT 9040, NRRL B-16386",1,"Frankia asymbiotica",Frankia
+158371,"ARgP5AG, ARgP5","DSM 45898, CECT 9033",1,"Frankia canadensis",Frankia
+131723,"Ccl3, HFP020203, HFPCcl3","DSM 45818, CECT 9043",1,"Frankia casuarinae",Frankia
+133112,BMG5.1,"CECT 9032, DSM 100624",1,"Protofrankia coriariae",Protofrankia
+158233,"BCU110501, Dtf1, T1","CECT 9042, DSM 46785",1,"Frankia discariae",Frankia
+131724,BMG5.12,"DSM 46783, CECT 9031",1,"Frankia elaeagni",Frankia
+170342,Agncl-4,"DSM 107976, CECT 9711",1,"Frankia gtarii",Frankia
+132738,"DDB 130130, EuI1c","DSM 45817, CECT 9037",1,"Frankia inefficax",Frankia
+158372,G2,"DSM 45899, CECT 9038",1,"Frankia irregularis",Frankia
+158363,,"DSM 105290, CECT 9314, CN 3",1,"Frankia saprophytica",Frankia
+159517,"DDB000320, Cj","DSM 100623, NRRL B-16219, CECT 9041",1,"Frankia soli",Frankia
+5755,Cc1.17,"DSM 43829, CC 1.17",0,"Frankia colletiae",Frankia
+5756,"HFP 013003","DSM 44251, ARI ArI3, ARI 3",0,"Frankia sp.",Frankia
+170343,Agncl-8,"DSM 107980, CECT 9715",1,"Frankia tisai",Frankia
+5757,"CPI 1, HFP 070701","DSM 44263",1,"Frankia torreyi",Frankia
+170344,Ag45/Mut15,"LMG 32601, DSM 114737",1,"Frankia umida",Frankia
+166854,"NML 97-0147","LMG 31934T, NCTC 14449T",1,"Allofranklinella schreckenbergeri",Allofranklinella
+17460,G-6,"DSM 6220, ATCC 33424, DSM 4495, IFO 3245, CCUG 18137, LMG 1558",1,"Frateuria aurantia",Frateuria
+158273,"DLB, Dho","DSM 106169, NCCB 100648",1,"Frateuria defendens",Frateuria
+170554,5GH9-34,"KACC 16945, JCM 35198",1,"Frateuria edaphi",Frateuria
+168386,"MAH- 13","CGMCC 1.13655, KACC 19743",1,"Frateuria flava",Frateuria
+170555,5GH9-11,"KACC 16943, JCM 35197",1,"Frateuria soli",Frateuria
+17461,VA24,"DSM 26515, CGMCC 1.7053, NBRC 104236",1,"Frateuria terrea",Frateuria
+130519,,"DSM 25797, CCUG 62410, CCUG 36444, HPA 21",1,"Frederiksenia canicola",Frederiksenia
+1230,R-17010,"DSM 16318, LMG 22167",1,"Ferdinandcohnia humi",Ferdinandcohnia
+166822,0911MAR22V3,"CECT 8479, LMG 27963",1,"Ferdinandcohnia onubensis",Ferdinandcohnia
+167267,KNUC7312,"KCTC 33852, CGMCC 1.13629",1,"Ferdinandcohnia salidurans",Ferdinandcohnia
+134058,JC2236,"KACC 16935, JCM 15585",1,"Fretibacter rubidus",Fretibacter
+23457,SGP1,"DSM 25557, JCM 16858",1,"Fretibacterium fastidiosum",Fretibacterium
+12617,"A34_1, FA1","DSM 21741, NBRC 104963, KY 13132",1,"Friedmanniella luteola",Friedmanniella
+160673,I10A-01803,"DSM 24561",0,"Friedmanniella luteola",Friedmanniella
+160674,I10A-01996,"DSM 24562",0,"Friedmanniella luteola",Friedmanniella
+103227,SF000915(FSU),,0,"Microlunatus sp.",Microlunatus
+103228,SF000916(FSU),,0,"Microlunatus sp.",Microlunatus
+103229,SF006535(FSU),,0,"Microlunatus sp.",Microlunatus
+103230,SF006536(FSU),,0,"Microlunatus sp.",Microlunatus
+103222,"ST018940(HKI), CIBA ID 41199, ST 18102, CP148, P1",,0,"Microlunatus sp.",Microlunatus
+103223,SF001604(FSU),,0,"Microlunatus sp.",Microlunatus
+103224,SF000499(FSU),,0,"Microlunatus sp.",Microlunatus
+103225,SF000626(FSU),,0,"Microlunatus sp.",Microlunatus
+103226,SF000914(FSU),,0,"Microlunatus sp.",Microlunatus
+158179,"SLM-1, SP32","DSM 108390, CGMCC 1.13995, NBRC 109671",1,"Frigidibacter albus",Frigidibacter
+166917,cai42,"LMG 27406, CGMCC 1.12518",1,"Frigidibacter mobilis",Frigidibacter
+167280,XJ4,"CGMCC 1.13778, LMG 30952",1,"Frigidibacter oleivorans",Frigidibacter
+130407,,"DSM 28751, JCM 30093, KCTC 29493, EGI 6500707",1,"Frigoribacterium endophyticum",Frigoribacterium
+7325,801,"DSM 10309, ATCC BAA-3, JCM 11265, KCTC 39911, CIP 107823, IAM 15122, NBRC 103066, VKM Ac-2505",1,"Frigoribacterium faeni",Frigoribacterium
+7327,301,"DSM 10311",0,"Frigoribacterium faeni",Frigoribacterium
+7326,227,"DSM 10310",0,"Frigoribacterium faeni",Frigoribacterium
+133239,,"LAM 9155, ACCC 19902, JCM 30848",1,"Frigoribacterium salinisoli",Frigoribacterium
+154814,,"CCUG 55322",0,"Frigoribacterium sp.",Frigoribacterium
+132068,Leaf44,"DSM 102608",0,"Frigoribacterium sp.",Frigoribacterium
+132069,Leaf186,"DSM 102609",0,"Frigoribacterium sp.",Frigoribacterium
+132070,Leaf263,"DSM 102610",0,"Frigoribacterium sp.",Frigoribacterium
+132071,Leaf172,"DSM 102611",0,"Frigoribacterium sp.",Frigoribacterium
+160622,"YC06272, PS1002","DSM 21053",0,"Frigoribacterium sp.",Frigoribacterium
+132072,Leaf415,"DSM 102612",0,"Frigoribacterium sp.",Frigoribacterium
+132073,Leaf254,"DSM 102613",0,"Frigoribacterium sp.",Frigoribacterium
+132074,Leaf164,"DSM 102693",0,"Frigoribacterium sp.",Frigoribacterium
+132067,Leaf8,"DSM 102607",0,"Frigoribacterium sp.",Frigoribacterium
+168450,"16F, CGMCC No.1.16844","CGMCC 1.16844, CCM 8975",1,"Frigoriflavimonas asaccharolytica",Frigoriflavimonas
+166983,PL17,"CECT 9407, VKM B-3467",1,"Frigoriglobus tundricola",Frigoriglobus
+164722,,"JCM 34075, NCIMB 15259",1,"Frischella japonica",Frischella
+132158,PEB0191,"DSM 104328, ATCC BAA-2450, NCIMB 14821",1,"Frischella perrara",Frischella
+131519,PG-426-CC-1,"DSM 28559, KCTC 15538",1,"Frisingicoccus caecimuris",Frisingicoccus
+168060,A5Q-67,"NBRC 110021, KCTC 32991",1,"Frondibacter aureus",Frondibacter
+141097,02OK1/10-76,"KCTC 52666, NBRC 112695",1,"Frondibacter mangrovi",Frondibacter
+7502,E1HC-02,"DSM 17894, JCM 13598, CIP 109654",1,"Frondihabitans australicus",Frondihabitans
+7504,CafT13,"DSM 23273, LMG 25550, JCM 18956",1,"Frondihabitans cladoniiphilus",Frondihabitans
+7503,RS-15,"DSM 22180, KCTC 13435, JCM 17442, CIP 110287",1,"Frondihabitans peucedani",Frondihabitans
+132310,Leaf304,"DSM 102614",0,"Frondihabitans sp.",Frondihabitans
+140063,GRS42,"DSM 105497, KACC 15521, NBRC 108728",1,"Frondihabitans sucicola",Frondihabitans
+170466,KI4_A6,"LMG 32127, NBRC 114985",1,"Fructilactobacillus carniphilus",Fructilactobacillus
+170467,KI11_D11,"LMG 32130, NBRC 114988",1,"Fructilactobacillus cliffordii",Fructilactobacillus
+6696,F9-1,"DSM 22689, JCM 16035, NRIC 0771",1,"Fructilactobacillus florum",Fructilactobacillus
+161702,,"JCM 16036",0,"Fructilactobacillus florum",Fructilactobacillus
+161703,,"JCM 16037",0,"Fructilactobacillus florum",Fructilactobacillus
+6461,,"CCUG 32260, NCIMB 8039, JCM 1117, IFO 13954, DSM 20203, ATCC 8288, NCIB 8039, BCRC 14623, CECT 4785, CIP 103042, KCTC 3543, LMG 9201, NBRC 13954, NCFB 2167, NRIC 0973, NRRL B-1841, VTT E-91473, NCDO 2167",1,"Fructilactobacillus fructivorans",Fructilactobacillus
+172824,W1,CRBIP24.176,0,"Fructilactobacillus fructivorans",Fructilactobacillus
+172825,W2,CRBIP24.177,0,"Fructilactobacillus fructivorans",Fructilactobacillus
+6463,H1,"DSM 20350, ATCC 15435, JCM 1198, NRIC 1814",0,"Fructilactobacillus fructivorans",Fructilactobacillus
+6464,,"DSM 20607, ATCC 27394, NCDO 1985",0,"Fructilactobacillus fructivorans",Fructilactobacillus
+6474,H42,"CCUG 32247, LMG 9478, IAM H42, CIP 103141, LMG 11720, DSM 20571, ATCC 15434, JCM 1199, BCRC 12938, CECT 4136, IFO 15887, JCM 7793, KCTC 3534, NBRC 15887, NCFB 2719, NCIMB 702719, NRIC 0974, NCDO 2719",0,"Fructilactobacillus fructivorans",Fructilactobacillus
+170468,KI11_C11,"NBRC 114987, LMG 32129",1,"Fructilactobacillus hinvesii",Fructilactobacillus
+6479,KPA,"DSM 20690, JCM 11027, CIP 102983, LMG 14528, NCFB 2809",1,"Fructilactobacillus lindneri",Fructilactobacillus
+6480,"IX A3a","DSM 20691, CIP 102984",0,"Fructilactobacillus lindneri",Fructilactobacillus
+6481,"IX 6a","DSM 20692",0,"Fructilactobacillus lindneri",Fructilactobacillus
+170469,KI16_H9,"NBRC 114989, LMG 32131",1,"Fructilactobacillus myrtifloralis",Fructilactobacillus
+6519,L-12,"DSM 20451, ATCC 27651, NRRL B-3934, CCUG 30143, LMG 7946, JCM 5668, BCRC 14063, CIP 103252, KCTC 3205, LMG 16002, LMG 17498, NRIC 1548, NRRL: B-3934",1,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161243,,"JCM 12442",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161244,,"JCM 12443",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161245,,"JCM 12444",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161225,,"JCM 12424",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+166040,,"JCM 9502, ATCC 27653, NRIC 1550",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161226,,"JCM 12425",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161227,,"JCM 12426",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161228,,"JCM 12427",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161229,,"JCM 12428",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161230,,"JCM 12429",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161231,,"JCM 12430",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161232,,"JCM 12431",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161233,,"JCM 12432",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161234,,"JCM 12433",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+6520,242-2,"DSM 20663, ATCC 43332, JCM 11032, CIP 102982",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161235,,"JCM 12434",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161236,,"JCM 12435",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161237,,"JCM 12436",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161238,,"JCM 12437",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161239,,"JCM 12438",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161240,,"JCM 12439",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161241,,"JCM 12440",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+161242,,"JCM 12441",0,"Fructilactobacillus sanfranciscensis",Fructilactobacillus
+132264,,"DSM 103408, JCM 19742, KCTC 2103, DCY 75, BCRC 81265, KCTC 21023",1,"Fructilactobacillus vespulae",Fructilactobacillus
+170470,KI3_B9,"NBRC 114983, LMG 32124",1,"Fructobacillus americanaquae",Fructobacillus
+170471,W13,"BCRC 81365, NBRC 115637",1,"Fructobacillus apis",Fructobacillus
+168264,M2-14,"BCRC 81240, NBRC 114436",1,"Fructobacillus broussonetiae",Fructobacillus
+169505,M131,"DSM 113480, TMW 2.2452",1,"Fructobacillus cardui",Fructobacillus
+6864,D-24,"DSM 19113, CCUG 49949, CIP 108761, LAB 1679, LMG 22556, JCM 17831, BCRC 81233, CECT 7089, NRIC 0663",1,"Fructobacillus durionis",Fructobacillus
+6862,FS-1,"DSM 13613, JCM 12225, LMG 21928, NRRL B-23447, BCRC 81231, CIP 107593",1,"Fructobacillus ficulneus",Fructobacillus
+6861,353,"DSM 20349, ATCC 13162, IFO 3516, NBRC 3516, NCIB 10784, CCUG 32246, NRRL B-2041, LMG 9498, NCIMB 10784, JCM 1119, BCRC 14019, CIP 102985, KCTC 3544, NCFB 2345, NRIC 1058, NCDO 2345",1,"Fructobacillus fructosus",Fructobacillus
+168268,M1-10,"BCRC 81237, NBRC 114433",1,"Fructobacillus papyriferae",Fructobacillus
+169421,M158,"DSM 113482, TMW 2.2453",0,"Fructobacillus parabroussonetiae",Fructobacillus
+6863,"LC-51, LC51","DSM 15468, CECT 5759, JCM 17832, BCRC 81234, CIP 109309, LMG 23899, NCIMB 14364, NRIC 0698",1,"Fructobacillus pseudoficulneus",Fructobacillus
+6865,F214-1,"DSM 23246, JCM 16675, BCRC 81232",1,"Fructobacillus tropaeoli",Fructobacillus
+5993,"Z-7100, Z7100","DSM 24880, VKM B-2667",1,"Fuchsiella alkaliacetigena",Fuchsiella
+132950,Z-7101,"DSM 26031, VKM B-2766",1,"Fuchsiella ferrireducens",Fuchsiella
+132951,Z-7102,"DSM 26052, VKM B-2790",0,"Fuchsiella ferrireducens",Fuchsiella
+166200,313,"CGMCC 4.7453, DSM 106216",1,"Fudania jinshanensis",Fudania
+158488,NH11,"DSM 27554",0,"Fuerstiella marisgermanici",Fuerstiella
+134334,MTT-39,"NBRC 102624, KCTC 22214, CGMCC 1.7058",1,"Fulvibacter tottoriensis",Fulvibacter
+162321,,"JCM 18890, CGMCC 1.10972",1,"Fulvimarina manganoxydans",Fulvimarina
+528,,"DSM 15513, ATCC BAA-666, KCTC 12091, CCUG 52903, CIP 108376, HTCC 2506",1,"Fulvimarina pelagi",Fulvimarina
+529,,"DSM 15514, KCTC 12092, HTCC 2615",0,"Fulvimarina pelagi",Fulvimarina
+530,,"DSM 15515, KCTC 12093, HTCC 2619",0,"Fulvimarina pelagi",Fulvimarina
+17462,,"DSM 14263, LMG 19981",1,"Fulvimonas soli",Fulvimonas
+162074,,"JCM 17667",0,"Fulvimonas sp.",Fulvimonas
+130848,5GHs31-2,"DSM 28344, KACC 16952, JCM 19945",1,"Fulvimonas yonginensis",Fulvimonas
+131259,VI.18,"DSM 100852, ATCC BAA-2395, LMG 26722",1,"Fulvitalea axinellae",Fulvitalea
+168186,"RKSG066, TSD-73","LMG 29870, ATCC TSD-73",1,"Fulvivirga aurantia",Fulvivirga
+133772,AK7,"MTCC 11053, JCM 17390",1,"Fulvivirga imtechensis",Fulvivirga
+134217,,"CCTCC AB 206119, KCTC 12832, KMM 6220, JCM 16186, NBRC 106557",1,"Fulvivirga kasyanovii",Fulvivirga
+168143,S481,"KCTC 82209, JCM 34505",1,"Fulvivirga lutea",Fulvivirga
+141065,TM-6,"KCTC 42720, CECT 9024",1,"Fulvivirga lutimaris",Fulvivirga
+168145,29W222,"KCTC 62848, MCCC 1K05194",1,"Fulvivirga marina",Fulvivirga
+168470,2943,"KCTC 62847, MCCC 1K05144",1,"Fulvivirga sediminis",Fulvivirga
+169872,"NSJ 33","KCTC 25085, CGMCC 1.32806",1,"Fumia xinanensis",Fumia
+168278,F-1,"JCM 34140, NCIMB 15255",1,"Fundicoccus fermenti",Fundicoccus
+160785,"WS 4937","DSM 109652, LMG 31441",1,"Fundicoccus ignavus",Fundicoccus
+160786,"WS 5303","DSM 109653, LMG 31442",0,"Fundicoccus ignavus",Fundicoccus
+169684,Blut109,"DSM 100966",0,"Fundicoccus ignavus",Fundicoccus
+170509,"SG 106","JCM 35588, GDMCC 1.3136",1,"Fundidesulfovibrio agrisoli",Fundidesulfovibrio
+4170,BSY,"DSM 21556, JCM 15519",1,"Fundidesulfovibrio butyratiphilus",Fundidesulfovibrio
+169694,FSS-1,"DSM 110007, JCM 32405",1,"Fundidesulfovibrio magnetotacticus",Fundidesulfovibrio
+4148,B7-43,"DSM 16056, ATCC BAA-905",1,"Fundidesulfovibrio putealis",Fundidesulfovibrio
+170508,"SG 60","JCM 35676, GDMCC 1.3310",1,"Fundidesulfovibrio soli",Fundidesulfovibrio
+170510,"SG 127","JCM 35589, GDMCC 1.3137",1,"Fundidesulfovibrio terrae",Fundidesulfovibrio
+169328,3430,"DSM 113338, LMG 32468",1,"Furfurilactobacillus milii",Furfurilactobacillus
+6601,CS1,"CCUG 52239, ATCC BAA-822, DSM 15814, CIP 109910, JCM 16176, LMG 22972, VTT E-052790",1,"Furfurilactobacillus rossiae",Furfurilactobacillus
+6662,"M1-212, MI-212","DSM 22696, CIP 109367, KCTC 3985, NBRC 101315, JCM 16155, NCIMB 14361",1,"Furfurilactobacillus siliginis",Furfurilactobacillus
+130817,,"DSM 28034, JCM 19376, LTF Kr01",1,"Fusibacter bizertensis",Fusibacter
+167064,Q10-2,"KCTC 15906, MCCC 1A16257",1,"Fusibacter ferrireducens",Fusibacter
+131465,KhalAKB1,"DSM 28450, JCM 19912",1,"Fusibacter fontis",Fusibacter
+18032,,"DSM 12116, SEBR 4211, ATCC 700852",1,"Fusibacter paucivorans",Fusibacter
+18033,BELH1,"DSM 24436, JCM 17481",1,"Fusibacter tunisiensis",Fusibacter
+24117,HT03-11,"DSM 26062, JCM 18507, YIT 12554, KCTC 15502",1,"Fusicatenibacter saccharivorans",Fusicatenibacter
+163995,,"JCM 31268",0,"Fusicatenibacter saccharivorans",Fusicatenibacter
+162255,,"JCM 18508",0,"Fusicatenibacter saccharivorans",Fusicatenibacter
+162256,,"JCM 18509",0,"Fusicatenibacter saccharivorans",Fusicatenibacter
+158160,H4-48,"DSM 108288",0,"Fusicatenibacter saccharivorans",Fusicatenibacter
+158161,H2_23,"DSM 108523",0,"Fusicatenibacter saccharivorans",Fusicatenibacter
+24118,KO-38,"DSM 26063, YIT 12555",0,"Fusicatenibacter saccharivorans",Fusicatenibacter
+24119,TT-111,"DSM 26064, YIT 12556",0,"Fusicatenibacter saccharivorans",Fusicatenibacter
+5766,,"DSM 15542, ATCC BAA-689, CCUG 49733, RMA 1036, JCM 17464, KCTC 5838",1,"Fusobacterium canifelinum",Fusobacterium
+153489,,"CCUG 49734",0,"Fusobacterium canifelinum",Fusobacterium
+155250,,"CCUG 57078",0,"Fusobacterium canifelinum",Fusobacterium
+153490,,"CCUG 49735",0,"Fusobacterium canifelinum",Fusobacterium
+5767,,"DSM 15543, ATCC BAA-690, RMA 12701",0,"Fusobacterium canifelinum",Fusobacterium
+5768,,"DSM 17476, CIP 107406, JCM 11174, NCTC 13176, CCUG 50051, VPB 4027, KCTC 15082",1,"Fusobacterium equinum",Fusobacterium
+154023,,"CCUG 52023",0,"Fusobacterium equinum",Fusobacterium
+140257,"CDW1, P6 Po","DSM 101753, LMG 29236",1,"Fusobacterium gastrosuis",Fusobacterium
+5769,3554A,"DSM 19810, ATCC 25563, CCUG 16790, VPI 0482A",1,"Fusobacterium gonidiaformans",Fusobacterium
+142388,,"CCUG 12248",0,"Fusobacterium gonidiaformans",Fusobacterium
+169786,"NSJ 57","CGMCC 1.32833, KCTC 25145",1,"Fusobacterium hominis",Fusobacterium
+163739,,"JCM 30218, KCOM 1249, KCTC 5108",1,"Fusobacterium hwasookii",Fusobacterium
+163740,,"JCM 30219, KCOM 1253, KCTC 5166",0,"Fusobacterium hwasookii",Fusobacterium
+163741,,"JCM 30220, KCOM 1256, KCTC 5111",0,"Fusobacterium hwasookii",Fusobacterium
+163742,,"JCM 30221, KCOM 1258, KCTC 5112",0,"Fusobacterium hwasookii",Fusobacterium
+163743,,"JCM 30222, KCOM 1268, KCTC 5174",0,"Fusobacterium hwasookii",Fusobacterium
+5770,350A,"DSM 19809, ATCC 25557, CCUG 14475, VPI 4123A",1,"Fusobacterium mortiferum",Fusobacterium
+2654,,"DSM 1295, ATCC 25751, NCIB 10651, VPI 2488, JCM 1412, BCRC 14525, NCIMB 10651",0,"Fusobacterium mortiferum",Fusobacterium
+159509,FSA-380-WT-2B,"DSM 108838",0,"Fusobacterium mortiferum",Fusobacterium
+153526,,"CCUG 50052, ATCC 25832, NCTC 13121",1,"Fusobacterium naviforme",Fusobacterium
+5758,A210/81,"DSM 20699, NCTC 11464",0,"Fusobacterium naviforme",Fusobacterium
+142465,,"CCUG 12629",0,"Fusobacterium naviforme",Fusobacterium
+142466,,"CCUG 12630",0,"Fusobacterium naviforme",Fusobacterium
+141696,,"CCUG 4949, ATCC 25556, NCTC 10723",1,"Fusobacterium necrogenes",Fusobacterium
+153288,,"CCUG 49004",0,"Fusobacterium necrophorum",Fusobacterium
+155145,,"CCUG 56583",0,"Fusobacterium necrophorum",Fusobacterium
+143696,,"CCUG 21045 A",0,"Fusobacterium necrophorum",Fusobacterium
+156502,,"CCUG 62210",0,"Fusobacterium necrophorum",Fusobacterium
+147710,,"CCUG 34059",0,"Fusobacterium necrophorum",Fusobacterium
+151590,,"CCUG 44396",0,"Fusobacterium necrophorum",Fusobacterium
+144854,,"CCUG 26835",0,"Fusobacterium necrophorum",Fusobacterium
+155714,,"CCUG 59120",0,"Fusobacterium necrophorum",Fusobacterium
+141759,,"CCUG 6476 B",0,"Fusobacterium necrophorum",Fusobacterium
+141796,,"CCUG 6954",0,"Fusobacterium necrophorum",Fusobacterium
+149233,,"CCUG 37310",0,"Fusobacterium necrophorum",Fusobacterium
+154456,,"CCUG 53692",0,"Fusobacterium necrophorum",Fusobacterium
+154457,,"CCUG 53693",0,"Fusobacterium necrophorum",Fusobacterium
+154486,,"CCUG 53804",0,"Fusobacterium necrophorum",Fusobacterium
+149985,,"CCUG 38803",0,"Fusobacterium necrophorum",Fusobacterium
+150194,,"CCUG 39257",0,"Fusobacterium necrophorum",Fusobacterium
+5776,"Fn524, Fn 524, 6161","DSM 19678, ATCC 51357, CCUG 42162, CIP 104859, JCM 3724, VPI 6161",1,"Fusobacterium necrophorum subsp. funduliforme",Fusobacterium
+156557,,"CCUG 62656",0,"Fusobacterium necrophorum subsp. funduliforme",Fusobacterium
+155936,,"CCUG 59679",0,"Fusobacterium necrophorum subsp. funduliforme",Fusobacterium
+164782,,"JCM 3717",0,"Fusobacterium necrophorum subsp. funduliforme",Fusobacterium
+164783,,"JCM 3719",0,"Fusobacterium necrophorum subsp. funduliforme",Fusobacterium
+5760,"Fievez 2358, Moore VPI 2891, 2358, 10145","CCUG 4948, DSM 21784, ATCC 25286, CCUG 9994, CIP 104559, DSM 19788, JCM 3718, VPI 2891, BCRC 10679, NCTC 13726",1,"Fusobacterium necrophorum",Fusobacterium
+5759,2352,"DSM 20698, NCTC 10575, CCUG 17326",0,"Fusobacterium necrophorum subsp. necrophorum",Fusobacterium
+164781,,"JCM 3716",0,"Fusobacterium necrophorum subsp. necrophorum",Fusobacterium
+164784,,"JCM 3720, ATCC 27852, VPI 6054-A",0,"Fusobacterium necrophorum subsp. necrophorum",Fusobacterium
+156450,,"CCUG 61856",0,"Fusobacterium nucleatum",Fusobacterium
+151510,,"CCUG 44169",0,"Fusobacterium nucleatum",Fusobacterium
+155322,,"CCUG 57321",0,"Fusobacterium nucleatum",Fusobacterium
+152134,,"CCUG 45873",0,"Fusobacterium nucleatum",Fusobacterium
+154184,,"CCUG 52678",0,"Fusobacterium nucleatum",Fusobacterium
+154363,,"CCUG 53249",0,"Fusobacterium nucleatum",Fusobacterium
+142753,,"CCUG 14448",0,"Fusobacterium nucleatum",Fusobacterium
+142924,,"CCUG 15725",0,"Fusobacterium nucleatum",Fusobacterium
+142925,,"CCUG 15758",0,"Fusobacterium nucleatum",Fusobacterium
+5762,"LH 37","CCUG 32879, DSM 19679, ATCC 51191, CIP 104879, JCM 11025, NCTC 12276",1,"Fusobacterium animalis",Fusobacterium
+5765,1612A,"DSM 15643, ATCC 25586, CCUG 32989, CIP 101130, JCM 8532, LMG 13131, VPI 4355, BCRC 10681, CCUG 33059, KCTC 2640",1,"Fusobacterium nucleatum",Fusobacterium
+165390,,"JCM 6328",0,"Fusobacterium nucleatum subsp. nucleatum",Fusobacterium
+5761,555A,"DSM 20482, ATCC 10953, NCTC 10562, CCUG 9126, JCM 12990",1,"Fusobacterium nucleatum subsp. polymorphum",Fusobacterium
+149574,,"CCUG 37995",0,"Fusobacterium nucleatum subsp. polymorphum",Fusobacterium
+156263,,"CCUG 60920",0,"Fusobacterium nucleatum subsp. polymorphum",Fusobacterium
+155419,,"CCUG 57685",0,"Fusobacterium nucleatum subsp. polymorphum",Fusobacterium
+153965,,"CCUG 51781",0,"Fusobacterium nucleatum subsp. polymorphum",Fusobacterium
+153981,,"CCUG 51834",0,"Fusobacterium nucleatum subsp. polymorphum",Fusobacterium
+5775,EM48,"DSM 19507, ATCC 49256, CIP 104988, JCM 11023, CCUG 37843",1,"Fusobacterium vincentii",Fusobacterium
+168043,,"ATCC 29250",1,"Fusobacterium perfoetens",Fusobacterium
+159510,FSA-380-WT-3A,"DSM 105865",0,"Fusobacterium perfoetens",Fusobacterium
+5771,EK1-15,"DSM 19545, ATCC 33693, CCUG 14345, JCM 12991, KCTC 15383",1,"Fusobacterium periodonticum",Fusobacterium
+153863,,"CCUG 51424",0,"Fusobacterium periodonticum",Fusobacterium
+153964,,"CCUG 51780",0,"Fusobacterium periodonticum",Fusobacterium
+164435,,"JCM 33009, KCOM 1259, KCTC 5677",1,"Fusobacterium pseudoperiodonticum",Fusobacterium
+166615,,"ATCC 25533",1,"Fusobacterium russii",Fusobacterium
+152155,,"CCUG 45924",0,"Fusobacterium russii",Fusobacterium
+149913,,"CCUG 38666",0,"Fusobacterium russii",Fusobacterium
+150440,,"CCUG 39934",0,"Fusobacterium russii",Fusobacterium
+146955,,"CCUG 32539",0,"Fusobacterium russii",Fusobacterium
+5772,"7511 R2-13","DSM 19848, ATCC 33568, CCM 3660, CCUG 16798, JCM 17465, KCTC 5548",1,"Fusobacterium simiae",Fusobacterium
+141487,,"CCUG 2264",0,"Fusobacterium simiae",Fusobacterium
+142910,,"CCUG 15670, CCUG 2260",0,"Fusobacterium simiae",Fusobacterium
+153059,,"CCUG 48396",0,"Fusobacterium sp.",Fusobacterium
+154979,,"CCUG 55923",0,"Fusobacterium sp.",Fusobacterium
+147185,,"CCUG 33018",0,"Fusobacterium sp.",Fusobacterium
+143353,,"CCUG 18715",0,"Fusobacterium sp.",Fusobacterium
+153451,,"CCUG 49636",0,"Fusobacterium sp.",Fusobacterium
+151457,,"CCUG 44102",0,"Fusobacterium sp.",Fusobacterium
+143926,,"CCUG 21885",0,"Fusobacterium sp.",Fusobacterium
+153864,,"CCUG 51425",0,"Fusobacterium sp.",Fusobacterium
+155318,,"CCUG 57311",0,"Fusobacterium sp.",Fusobacterium
+144080,,"CCUG 22846 A",0,"Fusobacterium sp.",Fusobacterium
+144199,,"CCUG 23490",0,"Fusobacterium sp.",Fusobacterium
+155604,,"CCUG 58339",0,"Fusobacterium sp.",Fusobacterium
+147991,,"CCUG 34633",0,"Fusobacterium sp.",Fusobacterium
+148004,,"CCUG 34654",0,"Fusobacterium sp.",Fusobacterium
+148593,,"CCUG 35682",0,"Fusobacterium sp.",Fusobacterium
+152248,,"CCUG 46207",0,"Fusobacterium sp.",Fusobacterium
+149166,,"CCUG 36981",0,"Fusobacterium sp.",Fusobacterium
+152423,,"CCUG 46759",0,"Fusobacterium sp.",Fusobacterium
+149675,,"CCUG 38164",0,"Fusobacterium sp.",Fusobacterium
+152853,,"CCUG 47783",0,"Fusobacterium sp.",Fusobacterium
+149721,,"CCUG 38279",0,"Fusobacterium sp.",Fusobacterium
+152854,,"CCUG 47786",0,"Fusobacterium sp.",Fusobacterium
+145820,,"CCUG 29691",0,"Fusobacterium sp.",Fusobacterium
+5764,AA3,"DSM 13120",0,"Fusobacterium sp.",Fusobacterium
+152982,,"CCUG 48192",0,"Fusobacterium sp.",Fusobacterium
+142957,,"CCUG 15906",0,"Fusobacterium sp.",Fusobacterium
+153021,,"CCUG 48334",0,"Fusobacterium sp.",Fusobacterium
+142962,,"CCUG 15924",0,"Fusobacterium sp.",Fusobacterium
+5773,,"DSM 19847, ATCC 49185, CCUG 50053, NCTC 12111",1,"Fusobacterium ulcerans",Fusobacterium
+5774,,"DSM 19868, ATCC 8501, CCUG 4858, NCTC 10560, JCM 6320, BCRC 17682",1,"Fusobacterium varium",Fusobacterium
+164787,,"JCM 3723",0,"Fusobacterium varium",Fusobacterium
+153497,,"CCUG 49763",0,"Fusobacterium varium",Fusobacterium
+148256,,"CCUG 35114",0,"Fusobacterium varium",Fusobacterium
+164785,,"JCM 3721",0,"Fusobacterium varium",Fusobacterium
+164786,,"JCM 3722, ATCC 51644, KCTC 15083",0,"Fusobacterium varium",Fusobacterium
+137492,1789,"CIP 60.39",0,"Fusobacterium vincentii",Fusobacterium
+5763,"SOR, OR","DSM 19508, ATCC 51190, CCUG 32880, CIP 104878, JCM 11024, NCTC 11326",0,"Fusobacterium vincentii",Fusobacterium
+167947,"PAGU 1796","GTC 21791, CCUG 74246",1,"Fusobacterium watanabei",Fusobacterium
+130603,119/4,"DSM 28642, CCM 8510, CIP 110795, LMG 28215",1,"Falsigemmobacter intermedius",Falsigemmobacter
+6027,"HMSMF 1.1","DSM 5349, ATCC 19717, IAM 14439, NCMB 1971, JCM 21222, ACAM 71, CIP 105455, IFO 15537, LMG 4023, NBRC 15537, NCIB 8718, NCIMB 1971, NCIMB 8718",1,"Flavobacterium halmophilum",Flavobacterium
+140766,,"JCM 31185, VTT E-94560",1,"Furfurilactobacillus curtus",Furfurilactobacillus
+100028,STI09718(IMET),"Agre 801",0,"Fructilactobacillus fructivorans",Fructilactobacillus
+100029,STI09719(IMET),"Agre 577",0,"Fructilactobacillus fructivorans",Fructilactobacillus
+100030,"STI09717(IMET), AgreB-1",,0,"Fructilactobacillus fructivorans",Fructilactobacillus
+133267,Ru20-1,"LMG 29008, NBRC 111239, PCU 346, TISTR 2381, JCM 32627",1,"Fructilactobacillus ixorae",Fructilactobacillus
+166844,HME9304,"KCTC 32464, KACC 17618, CECT 8418, HME 9304",1,"Flagellimonas maritima",Flagellimonas
+5744,A11,"DSM 22638, KCTC 22665",1,"Flagellimonas flava",Flagellimonas
+162672,,"JCM 19926, CCTCC AB 2016288, KCCM 43045",1,"Falsiphaeobacter marinintestinus",Falsiphaeobacter
+135947,,"CIP 104374, ATCC 33485, DSM 2131, LMG 4305, NCIMB 11576, UCCCB1, DSM 26431, IFO 16437, NBRC 16437",1,"Fuscovulum blasticum",Fuscovulum
+156647,,"CCUG 63831, KCTC 32326",1,"Flaviramulus multivorans",Flaviramulus
+132015,AP7,"DSM 26100, CSUR P200",0,"Ferrisolea massiliensis",Ferrisolea
+14202,,"DSM 30198, ATCC 10829, CCM 72, CIP 104977, NCIB 8195, JCM 7511, IFO 13934, NBRC 13934, NRRL B-54, CCUG 1819, NCIMB 8195",0,"Flavobacterium devorans",Flavobacterium
+160350,CMS5-1-3,"DSM 24885",0,"Flagellimonas pacifica",Flagellimonas

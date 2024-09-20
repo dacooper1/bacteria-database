@@ -1,0 +1,611 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+23712,8-4-E12,"DSM 23947, LMG 27601",1,"Oikeobacillus pervagus",Oikeobacillus
+169663,"CLA-AA-M04, SCD101-BHI5-F9","DSM 111138",0,"Otoolea muris",Otoolea
+4990,42,"DSM 2777, ATCC 12841, NCIB 8771, CCUG 2078, CIP 82.93, LMG 3054, NCIMB 8771",1,"Obesumbacterium proteus",Obesumbacterium
+144819,,"CCUG 26657",0,"Obesumbacterium proteus",Obesumbacterium
+144820,,"CCUG 26658",0,"Obesumbacterium proteus",Obesumbacterium
+144821,,"CCUG 26659",0,"Obesumbacterium proteus",Obesumbacterium
+144822,,"CCUG 26660",0,"Obesumbacterium proteus",Obesumbacterium
+144823,,"CCUG 26661",0,"Obesumbacterium proteus",Obesumbacterium
+144824,,"CCUG 26662",0,"Obesumbacterium proteus",Obesumbacterium
+144825,,"CCUG 26663",0,"Obesumbacterium proteus",Obesumbacterium
+144826,,"CCUG 26664",0,"Obesumbacterium proteus",Obesumbacterium
+144840,,"CCUG 26772",0,"Obesumbacterium proteus",Obesumbacterium
+144841,,"CCUG 26773",0,"Obesumbacterium proteus",Obesumbacterium
+144842,,"CCUG 26774",0,"Obesumbacterium proteus",Obesumbacterium
+144843,,"CCUG 26775",0,"Obesumbacterium proteus",Obesumbacterium
+144844,,"CCUG 26776",0,"Obesumbacterium proteus",Obesumbacterium
+144845,,"CCUG 26777",0,"Obesumbacterium proteus",Obesumbacterium
+132595,B4199,"DSM 100830, CCUG 67636",1,"Thiopseudomonas alkaliphila",Thiopseudomonas
+156964,,"CCUG 67637",0,"Thiopseudomonas alkaliphila",Thiopseudomonas
+132351,277,"DSM 25168, LMG 26948",1,"Occallatibacter riparius",Occallatibacter
+132352,307,"DSM 25169, LMG 26947",0,"Occallatibacter riparius",Occallatibacter
+132353,A2-1c,"DSM 25170, LMG 26946",1,"Occallatibacter savannae",Occallatibacter
+140332,0S18,"DSM 24860, CSUR P764",1,"Occidentia massiliensis",Occidentia
+160126,F300,"DSM 108350, CIP 111667",1,"Occultella aeris",Occultella
+160327,T3246-1,"DSM 110499, JCM 32923, CGMCC 1.13532, CGMCC 1.13535",1,"Occultella glacieicola",Occultella
+169791,N2-46,"JCM 34413, CGMCC 1.18819",1,"Occultella gossypii",Occultella
+23438,BFLP-8,"DSM 23444, CECT 7691",1,"Oceanibacterium hippocampi",Oceanibacterium
+133449,P24,"CCTCC AB 208226, LMG 24626, MCCC 1A02083",1,"Oceanibaculum indicum",Oceanibaculum
+158573,L54-1-50,"KCTC 52312, MCCC 1A05150",1,"Oceanibaculum nanhaiense",Oceanibaculum
+14022,LMC2up-L3,"DSM 22161, CCTCC AB 209059, LMG 24859, MCCC 1A02656",1,"Oceanibaculum pacificum",Oceanibaculum
+167850,O448,"KCTC 62076, MCCC 1H00233",1,"Oceanibium sediminis",Oceanibium
+6213,C116-18,"DSM 11625, NCIMB 13905, CIP 108206",1,"Oceanicaulis alexandrii",Oceanicaulis
+6214,C116-17,"DSM 11626",0,"Oceanicaulis alexandrii",Oceanicaulis
+6215,C116-3,"DSM 11627",0,"Oceanicaulis alexandrii",Oceanicaulis
+6216,C116-14,"DSM 11669",0,"Oceanicaulis alexandrii",Oceanicaulis
+6217,C116-20,"DSM 11670",0,"Oceanicaulis alexandrii",Oceanicaulis
+133775,GISW-4,"LMG 25723, BCRC 80207",1,"Oceanicaulis stylophorae",Oceanicaulis
+13866,PRQ-67,"DSM 22673, LMG 25334",1,"Oceanicella actignis",Oceanicella
+24525,CLW,"DSM 24423, CGMCC 1.10808, LMG 26245, MCCC 1A06272",0,"Oceanicella actignis",Oceanicella
+24526,LQ,"DSM 24424",0,"Oceanicella actignis",Oceanicella
+23242,PRQ-68,"DSM 22674",0,"Oceanicella actignis",Oceanicella
+13685,,"DSM 15982, HTCC 2516",1,"Oceanicola granulosus",Oceanicola
+13686,,"DSM 15983, HTCC 2523",0,"Oceanicola granulosus",Oceanicola
+140402,P2C14,"DSM 24503",0,"Oceanicola sp.",Oceanicola
+4125,,"DSM 10636, SEBR 2840, ATCC 700201",1,"Oceanidesulfovibrio gabonensis",Oceanidesulfovibrio
+4143,,"DSM 15121, NCIMB 13468, Ind 1",1,"Oceanidesulfovibrio indonesiensis",Oceanidesulfovibrio
+4160,E-2,"DSM 18311, JCM 14040",1,"Oceanidesulfovibrio marinus",Oceanidesulfovibrio
+168465,N1E253,"MCCC 1H00405, KCTC 72800",1,"Oceaniferula marina",Oceaniferula
+166199,YLY08,"MCCC 1H00318, KCTC 62182",1,"Oceaniglobus ichthyenteri",Oceaniglobus
+141105,1-19b,"MCCC 1A11863, KCTC 52709",1,"Oceaniglobus indicus",Oceaniglobus
+132996,S9-10,"DSM 28133, CGMCC 1.12628, LMG 28074",1,"Oceanihabitans sediminis",Oceanihabitans
+290,GB6,"DSM 15594, ATCC 700832, KCTC 12927, NCIMB 13685, CIP 107717",1,"Oceanimonas baumannii",Oceanimonas
+289,70,"DSM 7028, ATCC 27123, IAM 14168, JCM 21046, CCUG 12373, CCUG 16001, CIP 74.09, DSM 50408, ICPB 3526, LMG 2180, NBRC 103032, NCIMB 1965, CIP 74.9",1,"Oceanimonas doudoroffii",Oceanimonas
+142975,,"CCUG 16002",0,"Oceanimonas doudoroffii",Oceanimonas
+142976,,"CCUG 16003",0,"Oceanimonas doudoroffii",Oceanimonas
+142977,,"CCUG 16004",0,"Oceanimonas doudoroffii",Oceanimonas
+142978,,"CCUG 16005, ATCC 35186",0,"Oceanimonas doudoroffii",Oceanimonas
+142979,,"CCUG 16006, ATCC 35187",0,"Oceanimonas doudoroffii",Oceanimonas
+159645,102-Na3,"DSM 106032, JCM 32358, KCTC 62271",1,"Oceanimonas marisflavi",Oceanimonas
+138574,"Ivanova 31-13, 31-13","CIP 109080, UCM B-11076, LMG 22147, ATCC BAA-899, DSM 108803",1,"Oceanimonas smirnovii",Oceanimonas
+162105,,"JCM 17765, CGMCC 1.10827",1,"Oceaniovalibus guishaninsula",Oceaniovalibus
+166690,CK1056,"KCTC 72798, MCCC 1H00425",1,"Oceanipulchritudo coccoides",Oceanipulchritudo
+164179,StC1,"JCM 32050, KACC 19231",1,"Oceaniradius stylonematis",Oceaniradius
+23862,NH-JN4,"DSM 26274, CCTCC AB 2013103, JCM 18501, KCTC 15322",1,"Oceanirhabdus sediminicola",Oceanirhabdus
+11295,L+SNo03319806,"DSM 19503, LMG 24225",1,"Oceaniserpentilla haliotis",Oceaniserpentilla
+163878,,"JCM 30794, KEMB 1002-058",1,"Oceanisphaera aquimarina",Oceanisphaera
+133770,V1-41,"CCUG 58690, KCTC 23013, NBRC 106171",1,"Oceanisphaera arctica",Oceanisphaera
+159702,AMac2203,"KCTC 62118, JCM 32207",1,"Oceanisphaera avium",Oceanisphaera
+292,BL1,"DSM 17589, KCTC 12522",1,"Oceanisphaera donghaensis",Oceanisphaera
+156222,,"CCUG 60764, KCTC 22371",1,"Oceanisphaera halophilus",Oceanisphaera
+291,R5,"DSM 15406, CIP 108812, KCTC 23479, KMM 3654",1,"Oceanisphaera litoralis",Oceanisphaera
+168045,YM319,"KACC 18564, CGMCC 1.15923",1,"Oceanisphaera marina",Oceanisphaera
+156141,T-w6,"CCUG 60525, KCTC 23422",1,"Oceanisphaera ostreae",Oceanisphaera
+167555,SM1222,"CCTCC AB 2013241, KCTC 32510",1,"Oceanisphaera profunda",Oceanisphaera
+163801,,"JCM 30466, ACCC 06516",1,"Oceanisphaera psychrotolerans",Oceanisphaera
+293,TW92,"DSM 25666, JCM 17329, KACC 15117",1,"Oceanisphaera sediminis",Oceanisphaera
+162009,,"JCM 17330, KACC 15118",0,"Oceanisphaera sediminis",Oceanisphaera
+133043,"JJM 57","DSM 21427",0,"Oceanisphaera sp.",Oceanisphaera
+140247,KIC10,"DSM 24435",0,"Oceanisphaera sp.",Oceanisphaera
+160372,K2,"DSM 16308, VKM B-3266",1,"Oceanispirochaeta crateris",Oceanispirochaeta
+14319,R1,"DSM 2029, ATCC 27000",1,"Oceanispirochaeta litoralis",Oceanispirochaeta
+140412,SY2,"DSM 104770, KCTC 15593, KEMB 3001-381",1,"Oceanispirochaeta sediminicola",Oceanispirochaeta
+169566,Sa1BUA1,"DSM 112381",0,"Oceanitalea stevensii",Oceanitalea
+16713,St55B,"DSM 15757, NBRC 100063",1,"Oceanithermus desulfurans",Oceanithermus
+16712,506,"DSM 14977",1,"Oceanithermus profundus",Oceanithermus
+159013,"ES3154-GLU (oral), ES3154-GLU","DSM 109740, CCUG 73653, NCTC 14411, ATCC TSD-189",1,"Oceanivirga miroungae",Oceanivirga
+132549,,"DSM 101867, CIP 110951, NCIMB 703044, AVG 2115",1,"Oceanivirga salmonicida",Oceanivirga
+169932,APA_J-2(6-2),"GDMCC 1.2242, KCTC 43253",1,"Oceanobacillus alkalisoli",Oceanobacillus
+168678,"CAU 1183","KCTC 33037, CECT 8560",1,"Oceanobacillus arenosus",Oceanobacillus
+168784,Ma-21,"CGMCC 1.12799, KCTC 33416, MCCC 1K00260",1,"Oceanobacillus bengalensis",Oceanobacillus
+1377,S-11,"DSM 21910, CCUG 53534, CIP 109363, KCTC 13061",1,"Oceanobacillus caeni",Oceanobacillus
+131168,AmpT16,"DSM 28620",0,"Oceanobacillus caeni",Oceanobacillus
+1375,"T3944 D, T3944D","DSM 18262, CIP 109536, KCTC 13626, LMG 23627",1,"Oceanobacillus chironomi",Oceanobacillus
+133918,,"KCTC 33035, CCUG 62987, CAU 1051",1,"Oceanobacillus chungangensis",Oceanobacillus
+131390,PT-20,"DSM 26901, KCTC 33146",1,"Oceanobacillus damuensis",Oceanobacillus
+132542,py1294,"DSM 100726",0,"Oceanobacillus endoradicis",Oceanobacillus
+170951,,"CIP 110582, KCCM 101304, KCTC 33014, NBRC 109637",1,"Oceanobacillus gochujangensis",Oceanobacillus
+132449,J8B,"DSM 23996, IBRC-M 10444",1,"Oceanobacillus halophilus",Oceanobacillus
+166101,,"CGMCC 1.17002, KCTC 43140, YIM 98839",1,"Oceanobacillus halotolerans",Oceanobacillus
+1372,HTE831,"DSM 14371, JCM 11309, CGMCC 1.8876, CIP 107618, KCTC 3954",1,"Oceanobacillus iheyensis",Oceanobacillus
+23737,A21,"DSM 28042, JCM 17251, NCIMB 14685, BCRC 80660",1,"Oceanobacillus indicireducens",Oceanobacillus
+160657,S5,"DSM 28586",0,"Oceanobacillus jeddahense",Oceanobacillus
+1378,SSK2-2,"DSM 23158, KCTC 13177, PCU 300, TISTR 1858",1,"Oceanobacillus kapialis",Oceanobacillus
+132897,X50,"DSM 23341, JCM 16803, KACC 14914, BCRC 80659",1,"Oceanobacillus kimchii",Oceanobacillus
+168363,H9B,"IBRC-M 10780, CECT 7997, KCTC 13823",1,"Oceanobacillus limi",Oceanobacillus
+23736,CHL-21,"DSM 27649, CCUG 56608, KCTC 13253, CIP 110275",1,"Oceanobacillus locisalsi",Oceanobacillus
+133157,T9B,"IBRC-M 10703, LMG 29250",1,"Oceanobacillus longus",Oceanobacillus
+168519,WM-1,"KCTC 33119, CGMCC 1.12406",1,"Oceanobacillus luteolus",Oceanobacillus
+131851,NDiop,"DSM 24644, CSUR P132",0,"Oceanobacillus massiliensis",Oceanobacillus
+1380,A1g,"DSM 24772, CGMCC 1.7693, JCM 15776, BCRC 80658, KCTC 13886",1,"Oceanobacillus neutriphilus",Oceanobacillus
+134115,R-2,"JCM 12661, NCIMB 14022, BCRC 17790, CGMCC 1.8877, CIP 108867",1,"Oceanobacillus oncorhynchi",Oceanobacillus
+153007,,"CCUG 48255",0,"Oceanobacillus oncorhynchi",Oceanobacillus
+156051,,"CCUG 60223",0,"Oceanobacillus oncorhynchi",Oceanobacillus
+1374,20AG,"DSM 16557, ATCC BAA-954, CIP 109235",1,"Oceanobacillus oncorhynchi subsp. incaldanensis",Oceanobacillus
+23738,XH204,"DSM 25873, JCM 18381",1,"Oceanobacillus pacificus",Oceanobacillus
+1373,mccs2171,"DSM 14867, LMG 19492, CCUG 54775, KCTC 3821, CIP 108264",1,"Oceanobacillus picturae",Oceanobacillus
+153492,,"CCUG 49744",0,"Oceanobacillus picturae",Oceanobacillus
+164402,YLB-02,"JCM 32870, MCCC 1A12699",1,"Oceanobacillus piezotolerans",Oceanobacillus
+133964,SA9,"JCM 17252, NCIMB 14684, DSM 107338, BCRC 80661",1,"Oceanobacillus polygoni",Oceanobacillus
+1376,CL-MP28,"DSM 18246, CIP 109535, KCCM 42318, KCTC 13625",1,"Oceanobacillus profundus",Oceanobacillus
+157045,,"CCUG 69108",0,"Oceanobacillus profundus",Oceanobacillus
+131389,PT-11,"DSM 26900, KCTC 33144",1,"Oceanobacillus rekensis",Oceanobacillus
+167601,"YIM B00359","CGMCC 1.17509, KCTC 43185",1,"Oceanobacillus salinisoli",Oceanobacillus
+1379,Y27,"DSM 23151, CIP 109918, JCM 15792, NBRC 105379, NCIMB 14542, NRRL B-59181, KCTC 13887",1,"Oceanobacillus sojae",Oceanobacillus
+154794,,"CCUG 55219",0,"Oceanobacillus sojae",Oceanobacillus
+139913,TH,"DSM 15766",0,"Oceanobacillus sp.",Oceanobacillus
+139914,UH,"DSM 15767",0,"Oceanobacillus sp.",Oceanobacillus
+139915,,"DSM 17859, YIM DH3",0,"Oceanobacillus sp.",Oceanobacillus
+159484,,"DSM 23682, YIM CH128",0,"Oceanobacillus sp.",Oceanobacillus
+162393,,"JCM 19060",0,"Oceanobacillus sp.",Oceanobacillus
+160506,160,"DSM 106186, CGMCC 1.16367",1,"Oceanobacillus zhaokaii",Oceanobacillus
+11285,,"DSM 6294, ATCC 27133, NCIMB 2042, CIP 103443, CCUG 16057, LMG 6238",1,"Oceanobacter kriegii",Oceanobacter
+142995,,"CCUG 16055, ATCC 35192",0,"Oceanobacter kriegii",Oceanobacter
+170071,SM2-42,"MCCC 1K06300, KCTC 82938",1,"Oceanobacter mangrovi",Oceanobacter
+168580,22II-S10r2,"LMG 27155, MCCC 1A09384, CGMCC 1.12317",1,"Oceanococcus atlanticus",Oceanococcus
+11287,,"DSM 7166, ATCC 12754, NCMB 52, CIP 103375, LMG 5405, NCIMB 52, VPI 34",1,"Oceanospirillum beijerinckii",Oceanospirillum
+11286,,"DSM 6288, ATCC 33337, IFO 3612, NBRC 3612, NCIMB 2228, CIP 103385, IFO 13612, LMG 5307",0,"Oceanospirillum beijerinckii",Oceanospirillum
+11288,,"DSM 6292, ATCC 11336, NCIMB 56, CIP 103374, LMG 5214",1,"Oceanospirillum linum",Oceanospirillum
+11289,101,"DSM 6286, ATCC 27509, NCIMB 2226, CIP 103445, LMG 5213, VPI 35",1,"Oceanospirillum maris",Oceanospirillum
+11290,OF2,"DSM 9524, IFO 13616, LMG 5305, NBRC 13616, CIP 103384, LMG 7371",0,"Oceanospirillum maris",Oceanospirillum
+170250,"Linn 2b","LMG 5210, LMG 17056, IFO 15468, NCMB 54, NBRC 15468, LMG 15711, ATCC 29547",0,"Oceanospirillum maris",Oceanospirillum
+137244,OF1,"CIP 103383, ATCC 33336, IFO 13614, LMG 5306, NCIMB 2227",1,"Oceanospirillum multiglobuliferum",Oceanospirillum
+162425,,"JCM 19193, KCTC 52973, MTCC 12005",1,"Oceanospirillum sanctuarii",Oceanospirillum
+11269,40,"DSM 5605, ATCC 27119, CCUG 16047, CIP 74.02, LMG 2845, NCMB 1962, JCM 20774, CIP 103202, IAM 12923, NBRC 103030, NCIMB 1962",1,"Oceanospirillum vagum",Oceanospirillum
+18137,T3B,"DSM 15011",0,"Oceanotoga sp.",Oceanotoga
+18136,OCT74,"DSM 24906, JCM 15580, LMG 24865",1,"Oceanotoga teriensis",Oceanotoga
+1878,,"DSM 6882, Alc 37, ATCC 49188, CIP 149-70, CIP 82.115, LMG 3331, JCM 21032, CCUG 24695, CIP 149.70, IAM 14119, IFO 15819, NBRC 15819, NCTC 12168",1,"Brucella anthropi",Brucella
+1876,787,"DSM 2577",0,"Brucella anthropi",Brucella
+1877,568,"DSM 6753",0,"Brucella anthropi",Brucella
+1879,(S)1a,"DSM 14396",0,"Brucella anthropi",Brucella
+1880,,"DSM 20150, ATCC 11425, JCM 20703, IAM 12637, NBRC 103056",0,"Brucella anthropi",Brucella
+131032,"Vitek 109243","DSM 22795, ATCC BAA-749",0,"Brucella anthropi",Brucella
+135342,,"CIP 103950",0,"Brucella anthropi",Brucella
+135343,,"CIP 103951",0,"Brucella anthropi",Brucella
+135344,,"CIP 103952",0,"Brucella anthropi",Brucella
+135345,,"CIP 103953",0,"Brucella anthropi",Brucella
+135346,,"CIP 103954",0,"Brucella anthropi",Brucella
+135861,,"CIP 102460",0,"Brucella anthropi",Brucella
+135865,,"CIP 102731",0,"Brucella anthropi",Brucella
+141297,,"CCUG 772",0,"Brucella anthropi",Brucella
+136078,,"CIP 102332",0,"Brucella anthropi",Brucella
+141336,,"CCUG 1047",0,"Brucella anthropi",Brucella
+141337,,"CCUG 1076",0,"Brucella anthropi",Brucella
+141375,,"CCUG 1235",0,"Brucella anthropi",Brucella
+141503,,"CCUG 2470 C, LMG 2135",0,"Brucella anthropi",Brucella
+137738,,"CIP 82.113",0,"Brucella anthropi",Brucella
+137739,,"CIP 82.114",0,"Brucella anthropi",Brucella
+141718,,"CCUG 5125 B",0,"Brucella anthropi",Brucella
+141823,,"CCUG 7349",0,"Brucella anthropi",Brucella
+137945,,"CIP 102250",0,"Brucella anthropi",Brucella
+142310,,"CCUG 11601",0,"Brucella anthropi",Brucella
+138903,,"CIP 103946",0,"Brucella anthropi",Brucella
+142315,,"CCUG 11631",0,"Brucella anthropi",Brucella
+138904,,"CIP 103948",0,"Brucella anthropi",Brucella
+142359,,"CCUG 12035",0,"Brucella anthropi",Brucella
+142424,,"CCUG 12447",0,"Brucella anthropi",Brucella
+144607,,"CCUG 25934 A",0,"Brucella anthropi",Brucella
+142425,,"CCUG 12448",0,"Brucella anthropi",Brucella
+142426,,"CCUG 12449",0,"Brucella anthropi",Brucella
+142427,,"CCUG 12450",0,"Brucella anthropi",Brucella
+142428,,"CCUG 12451",0,"Brucella anthropi",Brucella
+142429,,"CCUG 12452",0,"Brucella anthropi",Brucella
+142438,,"CCUG 12495",0,"Brucella anthropi",Brucella
+142439,,"CCUG 12496",0,"Brucella anthropi",Brucella
+142534,,"CCUG 12860",0,"Brucella anthropi",Brucella
+142569,,"CCUG 13083",0,"Brucella anthropi",Brucella
+145372,,"CCUG 28303",0,"Brucella anthropi",Brucella
+143044,,"CCUG 16508",0,"Brucella anthropi",Brucella
+143230,,"CCUG 17894",0,"Brucella anthropi",Brucella
+143337,,"CCUG 18525",0,"Brucella anthropi",Brucella
+143349,,"CCUG 18681",0,"Brucella anthropi",Brucella
+143549,,"CCUG 20020",0,"Brucella anthropi",Brucella
+146228,,"CCUG 30656 B",0,"Brucella anthropi",Brucella
+143553,,"CCUG 20050",0,"Brucella anthropi",Brucella
+146484,,"CCUG 31270",0,"Brucella anthropi",Brucella
+144031,,"CCUG 22434",0,"Brucella anthropi",Brucella
+146712,,"CCUG 32009",0,"Brucella anthropi",Brucella
+142360,,"CCUG 12036",0,"Brucella anthropi",Brucella
+142395,,"CCUG 12303",0,"Brucella anthropi",Brucella
+142412,,"CCUG 12415",0,"Brucella anthropi",Brucella
+144564,,"CCUG 25692 B",0,"Brucella anthropi",Brucella
+147904,,"CCUG 34461",0,"Brucella anthropi",Brucella
+149395,,"CCUG 37643",0,"Brucella anthropi",Brucella
+153648,,"CCUG 50485",0,"Brucella anthropi",Brucella
+154625,,"CCUG 54617",0,"Brucella anthropi",Brucella
+154773,,"CCUG 55144",0,"Brucella anthropi",Brucella
+156595,,"CCUG 63240",0,"Brucella anthropi",Brucella
+156764,,"CCUG 64950",0,"Brucella anthropi",Brucella
+156854,,"CCUG 66111",0,"Brucella anthropi",Brucella
+156878,,"CCUG 66265",0,"Brucella anthropi",Brucella
+147387,,"CCUG 33507",0,"Brucella anthropi",Brucella
+147550,,"CCUG 33786",0,"Brucella anthropi",Brucella
+1890,,"DSM 19778, CECT 7172, CIP 109590, LMG 22713, CCUG 54646, ESC 1",1,"Brucella cytisi",Brucella
+169344,Sa2BUA5,"DSM 112359",0,"Ochrobactrum gallinarum",Ochrobactrum
+136380,,"CIP 105839",0,"Brucella intermedia",Brucella
+136450,,"CIP 105840",0,"Brucella intermedia",Brucella
+141437,,"CCUG 1838",0,"Brucella intermedia",Brucella
+137309,,"CIP 105841, LMG 3306",0,"Brucella intermedia",Brucella
+148053,,"CCUG 34735",0,"Brucella intermedia",Brucella
+150365,,"CCUG 39736",0,"Brucella intermedia",Brucella
+151205,,"CCUG 43465",0,"Brucella intermedia",Brucella
+151743,,"CCUG 44770",0,"Brucella intermedia",Brucella
+155339,,"CCUG 57381",0,"Brucella intermedia",Brucella
+163594,,"JCM 28787",0,"Brucella pituitosa",Brucella
+163595,,"JCM 28788",0,"Brucella pituitosa",Brucella
+163599,,"JCM 28793",0,"Brucella pituitosa",Brucella
+163601,,"JCM 28795",0,"Brucella pituitosa",Brucella
+163603,,"JCM 28797",0,"Brucella pituitosa",Brucella
+163604,,"JCM 28798",0,"Brucella pituitosa",Brucella
+163606,,"JCM 28800",0,"Brucella pituitosa",Brucella
+163614,,"JCM 28809",0,"Brucella pituitosa",Brucella
+163621,,"JCM 28815",0,"Brucella pituitosa",Brucella
+163623,,"JCM 28817",0,"Brucella pituitosa",Brucella
+163626,,"JCM 28820",0,"Brucella pituitosa",Brucella
+163628,,"JCM 28822",0,"Brucella pituitosa",Brucella
+163632,,"JCM 28826",0,"Brucella pituitosa",Brucella
+163633,,"JCM 28827",0,"Brucella pituitosa",Brucella
+151369,,"CCUG 43892",0,"Brucella pseudogrignonensis",Brucella
+166136,BO-7,"KACC 19676, LMG 30809",1,"Ochrobactrum soli",Ochrobactrum
+335,"WS 51400","DSM 717",0,"Brucella sp.",Brucella
+1881,G21,"DSM 18828",0,"Brucella sp.",Brucella
+131852,K8,"DSM 101988",0,"Brucella sp.",Brucella
+153001,,"CCUG 48238",0,"Brucella sp.",Brucella
+156318,,"CCUG 61131",0,"Brucella sp.",Brucella
+163589,,"JCM 28782",0,"Brucella sp.",Brucella
+163590,,"JCM 28783",0,"Brucella sp.",Brucella
+165269,,"JCM 5503",0,"Brucella sp.",Brucella
+165351,,"JCM 6134",0,"Brucella sp.",Brucella
+170127,LCB8,"KCTC 72031, CGMCC 1.13984",1,"Ochrobactrum teleogrylli",Ochrobactrum
+141433,,"CCUG 1821, LMG 2134, CCM 999",0,"Brucella tritici",Brucella
+145817,,"CCUG 29689",0,"Brucella tritici",Brucella
+162228,,"JCM 18327, KCCM 90106",1,"Ochrovirga pacifica",Ochrovirga
+132057,307,"DSM 28635, CIP 106731",1,"Octadecabacter antarcticus",Octadecabacter
+13689,238,"DSM 13978, CIP 106732",1,"Octadecabacter arcticus",Octadecabacter
+158523,RA1-3,"KCTC 42605, CECT 8868",1,"Octadecabacter ascidiaceicola",Octadecabacter
+170661,G9-8,"JCM 34973, KACC 22488",1,"Octadecabacter dasysiphoniae",Octadecabacter
+133178,HDSW-34,"KCTC 52250, NBRC 112296, DSM 107946",1,"Octadecabacter ponticola",Octadecabacter
+131325,SB1,"DSM 26878, LMG 27946",1,"Octadecabacter temperatus",Octadecabacter
+134112,B106,"ATCC PTA-3625, CNCM I-3225",1,"Odoribacter denticanis",Odoribacter
+12521,,"DSM 22474, JCM 16069, YIT 12061, KCTC 15133",1,"Odoribacter laneus",Odoribacter
+169466,"WM6_filt_col_13, CLA-AA-M09","DSM 112344",0,"Odoribacter lunatus",Odoribacter
+12520,1651/6,"DSM 20712, ATCC 29572, CCUG 21054, CIP 104287, LMG 8202, NCTC 10825, CCUG 21054 A, CCM 6029, JCM 15291",1,"Odoribacter splanchnicus",Odoribacter
+145864,,"CCUG 29830",0,"Odoribacter splanchnicus",Odoribacter
+158884,f_OSP,"DSM 107471",0,"Odoribacter splanchnicus",Odoribacter
+153144,,"CCUG 48576",0,"Odoribacter splanchnicus",Odoribacter
+159985,Cla-CZ-121,"DSM 109117",0,"Odoribacter splanchnicus",Odoribacter
+156994,,"CCUG 68330",0,"Odoribacter splanchnicus",Odoribacter
+157083,,"CCUG 69463",0,"Odoribacter splanchnicus",Odoribacter
+166413,Ha5,"DSM 106907, LMG 30589, NBRC 113643, KCTC 62952",1,"Oecophyllibacter saccharovorans",Oecophyllibacter
+132204,UFRJ-M7.2.18,"DSM 103240, CBAS 474, LMG 27599",1,"Oenococcus alcoholitolerans",Oenococcus
+6813,,"DSM 17330, JCM 13282, NRIC 0645, CIP 109430",1,"Oenococcus kitaharae",Oenococcus
+6810,"Baudry 1","DSM 20252, ATCC 23279, NCDO 1674, JCM 6125, BCRC 14062, CCUG 30067, CCUG 30199, CCUG 32250, CECT 217, CIP 106144, KCTC 3072, LMG 9851, NBRC 100497, NCIMB 11648, NRIC 1543, NRRL B-3472, VTT E-97832",1,"Oenococcus oeni",Oenococcus
+173344,,CRBIP24.201,0,"Oenococcus oeni",Oenococcus
+6811,"1, 6, St. Caprais","DSM 20255, NCDO 1709",0,"Oenococcus oeni",Oenococcus
+6812,45b,"DSM 20257, NCDO 1696",0,"Oenococcus oeni",Oenococcus
+138251,,"CIP 105837, NCIMB 701707, NCDO 1707, ATCC 23277",0,"Oenococcus oeni",Oenococcus
+159691,,"DSM 107163, CIRM-BIA 2288, JCM 33895, UCMA 15228, CIRM BIA2288",0,"Oenococcus sicerae",Oenococcus
+169775,Sa1BUA8,"DSM 112378",0,"Oerskovia douganii",Oerskovia
+2380,DFA-19,"DSM 43852, ATCC 35307, HMGB B 1078, IFO 14295, IMET 7687, JCM 7350, NBRC 14295, NRRL B-16223, CCUG 47127, CIP 107637, IAM 14864, JCM 21363, VKM Ac-1048, VTT E-072708",1,"Oerskovia enterophila",Oerskovia
+155167,,"CCUG 56695",0,"Oerskovia enterophila",Oerskovia
+169776,Sa2CUA8,"DSM 112379",0,"Oerskovia gallyi",Oerskovia
+2382,377-78,"DSM 46000, CIP 100330, IMET 7006, CCUG 47142, JCM 9969, CCM 4094, IFO 15012, LMG 16191, NBRC 15012",1,"Oerskovia jenensis",Oerskovia
+2383,,"DSM 46001, IMET 7011, JCM 9970",0,"Oerskovia jenensis",Oerskovia
+2384,DFA-17,"DSM 46097, HMGB B 1077, IFO 14296, IMET 7686, NBRC 14296, NRRL 16224, JCM 7349, ATCC 35306, NRRL B-16224",0,"Oerskovia jenensis",Oerskovia
+137158,,"CIP 81.27",0,"Oerskovia jenensis",Oerskovia
+169777,Sa2CUA9,"DSM 112358",0,"Oerskovia merdavium",Oerskovia
+2381,,"CCUG 47105, CIP 108256, DSM 14281, IMET 7003, JCM 11755, LMG 20385, NBRC 106154",1,"Oerskovia paurometabola",Oerskovia
+169778,Sa4CUA1,"DSM 112380",0,"Oerskovia rustica",Oerskovia
+103905,"ST000683(HKI), GT19952002",,0,"Oerskovia sp.",Oerskovia
+103878,ST020993(HKI),,0,"Oerskovia sp.",Oerskovia
+103879,STI07691(IMET),"IMET 7691",0,"Oerskovia sp.",Oerskovia
+103880,ST031466(HKI),,0,"Oerskovia sp.",Oerskovia
+103881,ST031467(HKI),,0,"Oerskovia sp.",Oerskovia
+103882,ST031469(HKI),,0,"Oerskovia sp.",Oerskovia
+103883,ST031470(HKI),,0,"Oerskovia sp.",Oerskovia
+103884,ST031471(HKI),,0,"Oerskovia sp.",Oerskovia
+103885,ST031474(HKI),,0,"Oerskovia sp.",Oerskovia
+103886,ST031485(HKI),,0,"Oerskovia sp.",Oerskovia
+103887,ST028183(HKI),,0,"Oerskovia sp.",Oerskovia
+103888,ST029893(HKI),,0,"Oerskovia sp.",Oerskovia
+103889,ST030044(HKI),,0,"Oerskovia sp.",Oerskovia
+103890,ST030134(HKI),,0,"Oerskovia sp.",Oerskovia
+103891,ST030143(HKI),,0,"Oerskovia sp.",Oerskovia
+103892,ST030128(HKI),,0,"Oerskovia sp.",Oerskovia
+103893,ST023611(HKI),,0,"Oerskovia sp.",Oerskovia
+103894,ST023614(HKI),,0,"Oerskovia sp.",Oerskovia
+103895,ST023615(HKI),,0,"Oerskovia sp.",Oerskovia
+103896,ST023622(HKI),,0,"Oerskovia sp.",Oerskovia
+103897,ST023623(HKI),,0,"Oerskovia sp.",Oerskovia
+103898,ST030060(HKI),,0,"Oerskovia sp.",Oerskovia
+103899,ST030066(HKI),,0,"Oerskovia sp.",Oerskovia
+103900,ST030070(HKI),,0,"Oerskovia sp.",Oerskovia
+103901,ST030098(HKI),,0,"Oerskovia sp.",Oerskovia
+103902,"ST000772(HKI), GT19952022",,0,"Oerskovia sp.",Oerskovia
+103903,"ST000928(HKI), GT19952026",,0,"Oerskovia sp.",Oerskovia
+103904,"ST000933(HKI), GT19952028",,0,"Oerskovia sp.",Oerskovia
+103906,"ST000688(HKI), GT19952003",,0,"Oerskovia sp.",Oerskovia
+103907,"ST000693(HKI), GT19952004",,0,"Oerskovia sp.",Oerskovia
+103908,"ST000694(HKI), GT19952008",,0,"Oerskovia sp.",Oerskovia
+103909,"ST000697(HKI), GT19952006",,0,"Oerskovia sp.",Oerskovia
+103910,"ST000702(HKI), GT19952016",,0,"Oerskovia sp.",Oerskovia
+103911,ST000713(HKI),,0,"Oerskovia sp.",Oerskovia
+103912,ST022728(HKI),,0,"Oerskovia sp.",Oerskovia
+103913,ST002140(HKI),,0,"Oerskovia sp.",Oerskovia
+103914,"ST000728(HKI), GT19952012",,0,"Oerskovia sp.",Oerskovia
+103915,"ST000731(HKI), GT19952017",,0,"Oerskovia sp.",Oerskovia
+103916,"ST000736(HKI), GT19952018",,0,"Oerskovia sp.",Oerskovia
+103917,"ST000787(HKI), GT19952023",,0,"Oerskovia sp.",Oerskovia
+103918,"ST000941(HKI), GT19952029",,0,"Oerskovia sp.",Oerskovia
+103919,"ST000988(HKI), GT19952030",,0,"Oerskovia sp.",Oerskovia
+103920,"ST002128(HKI), GT19952021",,0,"Oerskovia sp.",Oerskovia
+132322,Root918,"DSM 102484",0,"Oerskovia sp.",Oerskovia
+103921,"ST002129(HKI), GT19952027",,0,"Oerskovia sp.",Oerskovia
+132323,Root22,"DSM 102483",0,"Oerskovia sp.",Oerskovia
+103922,ST002131(HKI),,0,"Oerskovia sp.",Oerskovia
+103923,ST002132(HKI),,0,"Oerskovia sp.",Oerskovia
+103924,ST002133(HKI),,0,"Oerskovia sp.",Oerskovia
+103925,ST002136(HKI),,0,"Oerskovia sp.",Oerskovia
+103926,ST002150(HKI),,0,"Oerskovia sp.",Oerskovia
+103927,"ST000478(HKI), GT19952001",,0,"Oerskovia sp.",Oerskovia
+103928,"STI07152(IMET), RG C-4",,0,"Oerskovia sp.",Oerskovia
+103929,ST020153(HKI),,0,"Oerskovia sp.",Oerskovia
+103930,ST002130(HKI),,0,"Oerskovia sp.",Oerskovia
+103931,ST020145(HKI),,0,"Oerskovia sp.",Oerskovia
+103932,ST031486(HKI),,0,"Oerskovia sp.",Oerskovia
+103933,ST018513(HKI),,0,"Oerskovia sp.",Oerskovia
+103934,ST021785(HKI),,0,"Oerskovia sp.",Oerskovia
+103935,ST021801(HKI),,0,"Oerskovia sp.",Oerskovia
+103936,"ST000696(HKI), GT19952005",,0,"Oerskovia sp.",Oerskovia
+103937,ST000477(HKI),,0,"Oerskovia sp.",Oerskovia
+103938,"ST000699(HKI), GT19952009",,0,"Oerskovia sp.",Oerskovia
+103939,"ST000715(HKI), GT19952010",,0,"Oerskovia sp.",Oerskovia
+103940,"ST026798(HKI), GT20044050",,0,"Oerskovia sp.",Oerskovia
+103941,"STI07621(IMET), LL-19-1","IMET 7621",0,"Oerskovia sp.",Oerskovia
+103942,ST027937(HKI),,0,"Oerskovia sp.",Oerskovia
+103943,"ST026770(HKI), GT20044049",,0,"Oerskovia sp.",Oerskovia
+103944,ST002635(HKI),,0,"Oerskovia sp.",Oerskovia
+158195,"Stevenage 150518_C18","DSM 107798",0,"Oerskovia sp.",Oerskovia
+158196,P114,"DSM 108858",0,"Oerskovia sp.",Oerskovia
+158197,P116,"DSM 108859",0,"Oerskovia sp.",Oerskovia
+158198,E23-2TypB,"DSM 108860",0,"Oerskovia sp.",Oerskovia
+151059,,"CCUG 43186",0,"Oerskovia sp.",Oerskovia
+151061,,"CCUG 43189",0,"Oerskovia sp.",Oerskovia
+160737,SB3,"DSM 21976",0,"Oerskovia sp.",Oerskovia
+2378,"27, AB 1476, N32, Oerskov 27","DSM 20577, ATCC 25835, CIP 100331, DSM 43880, JCM 3160, NCIB 10587, CCM 4093, CFBP 4266, CGMCC 4.1139, CIP 81.27, IAM 14867, IFM 10527, IFO 13506, IFO 15015, IMET 7405, IMSNU 21326, KCCM 12155, KCTC 9084, LMG 4072, NBRC 13506, NBRC 15015, NCIMB 10587, NCTC 11973, NRRL B-8019, RIA 1564, VKM Ac-1024, CCUG 17963",1,"Oerskovia turbata",Oerskovia
+2379,,"DSM 43878, ATCC 27403, IMET 7153, IMRU 761, JCM 9968, IFO 15014, NBRC 15014",0,"Oerskovia turbata",Oerskovia
+143126,,"CCUG 17310",0,"Oerskovia turbata",Oerskovia
+157942,E24-2Typ17,"DSM 108861",0,"Oerskovia turbata",Oerskovia
+133086,"SM 30","DSM 102969, NBRC 111955",1,"Oharaeibacter diazotrophicus",Oharaeibacter
+18139,3B-2,"DSM 25262, CCUG 58939, KCTC 23018",1,"Ohtaekwangia koreensis",Ohtaekwangia
+18140,10AO,"DSM 25221, CCUG 58938, KCTC 23019",1,"Ohtaekwangia kribbensis",Ohtaekwangia
+131445,"EG1 650022","DSM 28749, JCM 30086, KCTC 29492, EGI 650022",1,"Okibacterium endophyticum",Okibacterium
+7472,,"DSM 15271, IFO 16404, NBRC 16404, VKM AC-2059, JCM 12284, IAM 15090",1,"Okibacterium fritillariae",Okibacterium
+169477,Turin14-W48,"DSM 113941",0,"Okibacterium fritillariae",Okibacterium
+131090,C9,"DSM 100940",0,"Okibacterium fritillariae",Okibacterium
+160544,I10A-02256,"DSM 24533",0,"Okibacterium fritillariae",Okibacterium
+132553,"Kh-D7, KHD7","DSM 101849, CSUR P2268",0,"Olegusella massiliensis",Olegusella
+140604,,"JCM 30904, KCCM 43131, MEBiC 09124",1,"Oleiagrimonas citrea",Oleiagrimonas
+140605,3.5X,"NBRC 110685, KCTC 42351, CPCC 100614, DSM 107085",1,"Oleiagrimonas soli",Oleiagrimonas
+11298,2O1,"DSM 24913, BTCC B-675, NBRC 105760, CIP 110300",1,"Thalassolituus maritimus",Thalassolituus
+4150,AL1,"DSM 16109, NCIMB 13491",1,"Oleidesulfovibrio alaskensis",Oleidesulfovibrio
+4122,G20,"DSM 17464, ATCC BAA-1058",0,"Oleidesulfovibrio alaskensis",Oleidesulfovibrio
+131100,"HEB 223, HEB223","DSM 18476",0,"Oleidesulfovibrio alaskensis",Oleidesulfovibrio
+4123,"G3 100","DSM 10520, JCM 15785",1,"Oleidesulfovibrio vietnamensis",Oleidesulfovibrio
+159703,NVT,"ATCC BAA-2697, DSM 29249",1,"Oleiharenicola alkalitolerans",Oleiharenicola
+168625,TWA-58,"KCTC 62872, LMG 31019, BCRC 81161",1,"Oleiharenicola lentus",Oleiharenicola
+168584,64-1,"CGMCC 1.16798, LMG 31399",1,"Oleiliquidispirillum nitrogeniifigens",Oleiliquidispirillum
+11299,ME102,"DSM 13489, LMG 20357, CIP 107588",1,"Oleiphilus messinensis",Oleiphilus
+166170,NAU-10,"KCTC 62417, CCTCC AB 2018015",1,"Oleisolibacter albus",Oleisolibacter
+11291,RB-8,"DSM 14852, LMG 21398",1,"Oleispira antarctica",Oleispira
+168743,DFH11,"NCIMB 14529, LMG 24829",1,"Oleispira lenta",Oleispira
+356,C379,"DSM 18253, ATCC 43534, CCM 4583, CCUG 1465Aa, CDC C379, CIP 103114, LMG 6519, NCTC 11997, CCUG 1465 A, CCUG 1465",1,"Oligella ureolytica",Oligella
+135160,,"CIP 103115, ATCC 43535, CCUG 17791, LMG 6773, CDC IVe",0,"Oligella ureolytica",Oligella
+142440,,"CCUG 12503",0,"Oligella ureolytica",Oligella
+142497,,"CCUG 12688, LMG 3242",0,"Oligella ureolytica",Oligella
+143188,,"CCUG 17688, LMG 6610",0,"Oligella ureolytica",Oligella
+143189,,"CCUG 17689, LMG 6611",0,"Oligella ureolytica",Oligella
+143190,,"CCUG 17692, LMG 6614",0,"Oligella ureolytica",Oligella
+142410,,"CCUG 12412",0,"Oligella ureolytica",Oligella
+355,"MC213, MC 213","DSM 7531, ATCC 17960, CCUG 13463, LMG 5303, CDC 7603, JCM 20913, CCUG 37823, CIP 103116, IAM 13553, IFO 14589, LMG 1015, NBRC 14589, NCTC 12964, NCTC 744, USCC 1441",1,"Oligella urethralis",Oligella
+174278,"CIMB122, CIMB 05-2562",CRBIP17.122,0,"Oligella urethralis",Oligella
+174279,"CIMB 04-9317",CRBIP17.123,0,"Oligella urethralis",Oligella
+134839,,"CIP 75.13",0,"Oligella urethralis",Oligella
+135179,"WM 6","CCUG 994, LMG 5304, CIP 81.33",0,"Oligella urethralis",Oligella
+135492,,"CIP 100041",0,"Oligella urethralis",Oligella
+141265,,"CCUG 460, LMG 6232",0,"Oligella urethralis",Oligella
+136018,,"CIP 101285",0,"Oligella urethralis",Oligella
+141453,,"CCUG 1964, ATCC 43533, NCTC 11999, LMG 6231",0,"Oligella urethralis",Oligella
+141603,,"CCUG 3433, LMG 6227",0,"Oligella urethralis",Oligella
+137539,"48-76, Fau","CIP 76.22",0,"Oligella urethralis",Oligella
+141654,,"CCUG 4451",0,"Oligella urethralis",Oligella
+141715,,"CCUG 5112",0,"Oligella urethralis",Oligella
+141827,,"CCUG 7464, LMG 6836",0,"Oligella urethralis",Oligella
+138007,,"CIP 102456",0,"Oligella urethralis",Oligella
+141841,,"CCUG 7726, LMG 6838",0,"Oligella urethralis",Oligella
+142024,,"CCUG 10015",0,"Oligella urethralis",Oligella
+142085,,"CCUG 10532, LMG 6229",0,"Oligella urethralis",Oligella
+138703,156-86,"CIP 102209",0,"Oligella urethralis",Oligella
+142346,,"CCUG 11920, LMG 6228",0,"Oligella urethralis",Oligella
+139059,"A 240","CIP 78.58",0,"Oligella urethralis",Oligella
+139075,"WM 20","CIP 81.34, CCUG 995, LMG 5132",0,"Oligella urethralis",Oligella
+139173,,"CIP 100725",0,"Oligella urethralis",Oligella
+139559,Goffiner,"CIP 110857, CIP 200399",0,"Oligella urethralis",Oligella
+142556,,"CCUG 12956, LMG 6230",0,"Oligella urethralis",Oligella
+142633,,"CCUG 13464",0,"Oligella urethralis",Oligella
+142634,,"CCUG 13465",0,"Oligella urethralis",Oligella
+142635,,"CCUG 13466",0,"Oligella urethralis",Oligella
+145211,,"CCUG 27895",0,"Oligella urethralis",Oligella
+145788,,"CCUG 29588",0,"Oligella urethralis",Oligella
+143114,,"CCUG 17242",0,"Oligella urethralis",Oligella
+143115,,"CCUG 17243",0,"Oligella urethralis",Oligella
+143378,,"CCUG 18784",0,"Oligella urethralis",Oligella
+144082,,"CCUG 22871",0,"Oligella urethralis",Oligella
+144432,,"CCUG 24946",0,"Oligella urethralis",Oligella
+144554,,"CCUG 25646",0,"Oligella urethralis",Oligella
+147773,,"CCUG 34205",0,"Oligella urethralis",Oligella
+147967,,"CCUG 34593",0,"Oligella urethralis",Oligella
+148570,,"CCUG 35651",0,"Oligella urethralis",Oligella
+149245,,"CCUG 37334",0,"Oligella urethralis",Oligella
+149322,,"CCUG 37499",0,"Oligella urethralis",Oligella
+152942,,"CCUG 48085",0,"Oligella urethralis",Oligella
+153837,,"CCUG 51320",0,"Oligella urethralis",Oligella
+146786,,"CCUG 32117",0,"Oligella urethralis",Oligella
+146995,,"CCUG 32615",0,"Oligella urethralis",Oligella
+147166,,"CCUG 32977",0,"Oligella urethralis",Oligella
+147529,,"CCUG 33746",0,"Oligella urethralis",Oligella
+132182,Shr3,"DSM 103476, JCM 16864, NCIMB 14846",0,"Oligoflexus tunisiensis",Oligoflexus
+23458,8KG-4,"DSM 24202, JCM 17152, CGMCC 1.5160, KCTC 15378",1,"Oligosphaera ethanolica",Oligosphaera
+130219,SG-6C,"DSM 23264",0,"Afipia sp.",Afipia
+159030,"BSU-380-WT-5A, BSM-380-WT-5A","DSM 106162, JCM 34394",1,"Oliverpabstia intestinalis",Oliverpabstia
+133318,CC-KYC063,"BCRC 80939, JCM 31198",1,"Olivibacter composti",Olivibacter
+14138,DC-186,"DSM 18733, CCUG 54353, LMG 23837, CIP 109620",1,"Olivibacter domesticus",Olivibacter
+134299,,"KCTC 12646, LMG 23491, Gsoil 060",1,"Olivibacter ginsengisoli",Olivibacter
+159786,BS18,"KACC 16612, JCM 18200",1,"Olivibacter ginsenosidimutans",Olivibacter
+133862,14-2A,"KCTC 23098, CCTCC AB 2010105",1,"Olivibacter jilunii",Olivibacter
+168055,TBF2/20.2,"CCM 7765, NCAIM B.02393",1,"Olivibacter oleidegradans",Olivibacter
+14091,AW-6,"DSM 17696, CECT 7133",1,"Olivibacter sitiensis",Olivibacter
+134298,M1-03,"KCTC 12645, LMG 23492, Gsoil 034",1,"Olivibacter soli",Olivibacter
+163445,,"JCM 28250",0,"Olivibacter sp.",Olivibacter
+134297,,"KCTC 12644, LMG 23494, Jip 13",1,"Olivibacter terrae",Olivibacter
+140563,"3Alg 18","KCTC 22024, KMM 6133, DSM 109192",1,"Olleya algicola",Olleya
+5727,L-4,"DSM 24464, CCUG 58074, KCTC 22661",1,"Olleya aquimaris",Olleya
+5726,,"DSM 25196, ACAM 1065, CIP 108537, CAM 030",1,"Olleya marilimosa",Olleya
+24049,WT-MY15,"DSM 28881, CCUG 61507, KCTC 23673",1,"Olleya namhaensis",Olleya
+166703,YSTF-M6,"NBRC 114500, KACC 21640",1,"Olleya sediminilitoris",Olleya
+170395,"B GYT1","GDMCC 1.3011, KCTC 25379",1,"Olsenella intestinalis",Olsenella
+160816,CSURP1476,"DSM 100642, Marseille-P1476, SIT 9, CSUR P1476",1,"Olsenella massiliensis",Olsenella
+167747,,"CSURP2936, Marseille- P2936, DSM 103159",1,"Olsenella phocaeensis",Olsenella
+159042,"CA-Schmier-601-WT1, CA-Schmier-601-WT-1","DSM 105246, JCM 34369",1,"Olsenella porci",Olsenella
+3060,D315A-29,"CIP 106885, JCM 14553, DSM 13989, CCUG 45371, KCTC 15029",1,"Olsenella profusa",Olsenella
+151962,,"CCUG 45372",0,"Olsenella profusa",Olsenella
+169278,JS106,"DSM 104323",0,"Olsenella sp.",Olsenella
+160158,W10,"DSM 23527",0,"Olsenella sp.",Olsenella
+164285,,"JCM 32523",0,"Olsenella sp.",Olsenella
+162282,,"JCM 18680",0,"Olsenella sp.",Olsenella
+162283,,"JCM 18681",0,"Olsenella sp.",Olsenella
+160159,,"DSM 102072, Marseille-P2300",0,"Olsenella timonensis",Olsenella
+3059,D76D-27C,"DSM 7084, ATCC 49627, CIP 109912, CCUG 31166, JCM 12494, VPI D76D-27C, LMG 11480, NCFB 2895, NCIMB 702895",1,"Olsenella uli",Olsenella
+3062,lac31,"DSM 22620, CCUG 58604, JCM 16156, KCTC 15140",1,"Olsenella umbonata",Olsenella
+3061,A2,"DSM 22619, CCUG 58212, JCM 16157",0,"Olsenella umbonata",Olsenella
+159566,CA-693-APC-4B,"DSM 105184",0,"Olsenella umbonata",Olsenella
+159567,WB01-CNA04-AN,"DSM 105334",0,"Olsenella umbonata",Olsenella
+167749,,"CSURP3197, Marseille-P3197, CCUG 71847",1,"Olsenella urininfantis",Olsenella
+169725,TH2,"DSM 109848, NCCB 100790",0,"Onobrychidicola muellerharveyae",Onobrychidicola
+170585,LMIT007,"KCTC 92597, MCCC 1K08161",1,"Opacimonas viscosa",Opacimonas
+170916,"US 227666","BLCC-M88, ULC 599",1,"Ophiophycus aerugineus",Ophiophycus
+131128,WB-VE1,"DSM 18585, WB VE1",0,"Opitutus paludus",Opitutus
+11300,VeGlc2,"DSM 14424",0,"Opitutus sp.",Opitutus
+11301,PB90-1,"DSM 11246, JCM 15787",1,"Opitutus terrae",Opitutus
+11302,ACB90,"DSM 11249",0,"Opitutus terrae",Opitutus
+17917,,"DSM 22228, CCUG 57622, CN 3",1,"Orbus hercynius",Orbus
+24796,C7,"DSM 27928, JCM 18050, KACC 16544",1,"Orbus sasakiae",Orbus
+130348,HCh-An1,"DSM 26670, UNIQEM U928",1,"Orenia chitinitropha",Orenia
+5989,DY-1,"DSM 5156, ATCC 35420",1,"Orenia marismortui",Orenia
+164055,,"JCM 31419, ATCC BAA-2645",1,"Orenia metallireducens",Orenia
+5991,,"DSM 13466, ATCC 700911, SG 3902",1,"Orenia salinaria",Orenia
+5990,Z-7191,"DSM 12596",1,"Orenia sivashensis",Orenia
+24116,"ACB7, HM-482","DSM 24638, ATCC BAA-2639, KCTC 15511",1,"Oribacterium asaccharolyticum",Oribacterium
+24115,"ACB1, HM-481","DSM 24637, ATCC BAA-2638, KCTC 15512",1,"Oribacterium parvum",Oribacterium
+6360,,"DSM 17245, CCUG 48084, CIP 107991, AIP 354-02",1,"Oribacterium sinus",Oribacterium
+162547,,"JCM 19534, BCRC 80694",1,"Oricola cellulosilytica",Oricola
+168116,JL-62,"KCTC 82974, MCCC M24579",1,"Oricola indica",Oricola
+164626,,"JCM 33661, KCCM 43313",1,"Oricola thermophila",Oricola
+169041,Karp,"ATCC VR-150",1,"Orientia tsutsugamushi",Orientia
+506,P3M-1,"DSM 23815, VKM B-2669",1,"Ornatilinea apprima",Ornatilinea
+1381,,"DSM 15681, CCM 7096, WSBC 24001, CIP 109287",1,"Ornithinibacillus bavariensis",Ornithinibacillus
+1382,MB-9,"DSM 16628, CCM 7237, CIP 109288",1,"Ornithinibacillus californiensis",Ornithinibacillus
+166377,L9,"KCTC 43176, CGMCC 1.17659",1,"Ornithinibacillus caprae",Ornithinibacillus
+1383,,"DSM 22953, CCUG 53201",1,"Ornithinibacillus contaminans",Ornithinibacillus
+166211,LJ137,"CGMCC 1.13678, NBRC 113552",1,"Ornithinibacillus gellani",Ornithinibacillus
+23739,G8B,"DSM 27695, IBRC-M 10683, KCTC 13822",1,"Ornithinibacillus halophilus",Ornithinibacillus
+169104,GD04,"KCTC 33116, CGMCC 1.12408",1,"Ornithinibacillus halotolerans",Ornithinibacillus
+168929,GIESS003,"KCTC 33159, CCTCC AB 2013106, CCTCC 2013106",1,"Ornithinibacillus heyuanensis",Ornithinibacillus
+158695,LCB256,"CGMCC 1.15809, KCTC 33862",1,"Ornithinibacillus salinisoli",Ornithinibacillus
+22929,TW25,"DSM 26677, JCM 17314, KACC 15116",1,"Ornithinibacillus scapharcae",Ornithinibacillus
+160756,,"DSM 26194, SCSIO 04143",1,"Ornithinibacillus sp.",Ornithinibacillus
+140425,,"DSM 15860, YIM 70118",0,"Ornithinibacillus sp.",Ornithinibacillus
+154254,,"CCUG 52892",0,"Ornithinibacillus sp.",Ornithinibacillus
+154530,,"CCUG 54256",0,"Ornithinibacillus sp.",Ornithinibacillus
+6312,HB09001,"DSM 23364, CGMCC 1.10341, JCM 17738",1,"Ornithinibacter aureus",Ornithinibacter
+140865,,"CGMCC 1.14989, KCTC 39700, EGI 80423, JCM 31779",1,"Ornithinicoccus halotolerans",Ornithinicoccus
+6273,2115-028,"DSM 12335, ATCC BAA-9, IFO 16434, NBRC 16434, CCUG 43142, HKI 0125, JCM 11538, CIP 106364, IAM 14900, NCIMB 13613",1,"Ornithinicoccus hortensis",Ornithinicoccus
+6274,2115-021,"DSM 12336, HKI 0131, JCM 11539",0,"Ornithinicoccus hortensis",Ornithinicoccus
+103266,ST033338(HKI),,0,"Ornithinicoccus hortensis",Ornithinicoccus
+168536,XNB-1,"KCTC 49259, CCTCC AB 2019099",1,"Ornithinicoccus soli",Ornithinicoccus
+168209,JC311,"KCTC 39559, LMG 28808",1,"Ornithinimicrobium algicola",Ornithinimicrobium
+168451,AMA3305,"KCTC 49180, JCM 32873",1,"Ornithinimicrobium avium",Ornithinimicrobium
+159683,,"DSM 105806, CGMCC 1.16393, KCTC 49018, CFH 30183",1,"Ornithinimicrobium cavernae",Ornithinimicrobium
+168352,,"CPCC 203383, NBRC 113522, KCTC 49200",1,"Ornithinimicrobium cerasi",Ornithinimicrobium
+168455,H23M54,"JCM 33221, KCTC 49151",1,"Ornithinimicrobium ciconiae",Ornithinimicrobium
+158266,,"DSM 26802, KCTC 29164, NBRC 109452, CPCC 203535",1,"Ornithinimicrobium flavum",Ornithinimicrobium
+6275,2115-015,"DSM 12362, CIP 106634, HKI 0124, JCM 11540, KCTC 19900, KCTC 19901, NBRC 106159, NCIMB 13784",1,"Ornithinimicrobium humiphilum",Ornithinimicrobium
+103264,ST033335(HKI),,0,"Ornithinimicrobium humiphilum",Ornithinimicrobium
+103265,SF006419(FSU),,0,"Ornithinimicrobium humiphilum",Ornithinimicrobium
+6279,K22-20,"DSM 17687, JCM 12763, MTCC 6545, CGMCC 1.6491, CIP 109338",1,"Ornithinimicrobium kibberense",Ornithinimicrobium
+166871,Arc0846-15,"KCTC 49655, MCCC 1K06093",1,"Ornithinimicrobium laminariae",Ornithinimicrobium
+6281,01-Gi-040,"DSM 22056, CCM 7610, JCM 30495",1,"Ornithinimicrobium murale",Ornithinimicrobium
+155342,,"CCUG 57389",1,"Ornithinimicrobium muralis",Ornithinimicrobium
+164209,,"JCM 32156, KCTC 39962",1,"Ornithinimicrobium panacihumi",Ornithinimicrobium
+6280,LW6,"DSM 21552, CGMCC 1.5362, JCM 14001",1,"Ornithinimicrobium pekingense",Ornithinimicrobium
+167187,W204,"GDMCC 1.1391, KCTC 49237",1,"Ornithinimicrobium pratense",Ornithinimicrobium
+6277,"CNJ 721","DSM 17542",0,"Ornithinimicrobium sp.",Ornithinimicrobium
+6278,"CNJ 870","DSM 17545",0,"Ornithinimicrobium sp.",Ornithinimicrobium
+139910,,"DSM 25930, YIM M13175",0,"Ornithinimicrobium sp.",Ornithinimicrobium
+155972,,"CCUG 59829",0,"Ornithinimicrobium sp.",Ornithinimicrobium
+134039,B2,"CGMCC 1.12160, JCM 18464",1,"Ornithinimicrobium tianjinense",Ornithinimicrobium
+5625,11-14-5,"DSM 15997, CCUG 23171, LMG 9086, MCCM 01774, CIP 104009, ATCC 51463",1,"Ornithobacterium rhinotracheale",Ornithobacterium
+135356,"GGD 1261-91","CIP 104011, CCUG 30448, LMG 12599, MCCM 01767",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+135357,,"CIP 104012, CCUG 30115, LMG 10958, MCCM 01780",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+135358,5-BN-1638-3,"CIP 104013, CCUG 30120, LMG 10969, MCCM 01804",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+137256,"Beichel 112","CIP 104010, CCUG 30123, LMG 11553, MCCM 00755",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+137904,,"CIP 102154",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+145998,,"CCUG 30116, MCCM 01784, LMG 10960",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+145999,,"CCUG 30117, MCCM 01793, LMG 10961",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146000,,"CCUG 30118, MCCM 01794, LMG 10967",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146001,,"CCUG 30119, mccm 01795, LMG 10968",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146002,,"CCUG 30121, LMG 10959, LMG 11342, MCCM 01799",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146003,,"CCUG 30122, LMG 10966, LMG 11343, MCCM 01800",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146004,,"CCUG 30124, MCCM 01035, LMG 11554",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146005,,"CCUG 30125, MCCM 01036, LMG 11555",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146006,,"CCUG 30126, MCCM 01037, LMG 11556",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146140,,"CCUG 30445, MCCM 01743, LMG 12589",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146141,,"CCUG 30446, MCCM 01744, LMG 12590",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146142,,"CCUG 30447, MCCM 01747, LMG 12591",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+146143,,"CCUG 30449, MCCM 01766, LMG 12600",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+144148,,"CCUG 23170, MCCM 01773, LMG 9085",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+144149,,"CCUG 23172, MCCM 01778, LMG 9087",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+144261,,"CCUG 24022, MCCM 01779, LMG 9088",0,"Ornithobacterium rhinotracheale",Ornithobacterium
+166767,NBD-18,"BCRC 81197, LMG 31338",1,"Orrella amnicola",Orrella
+167284,R-67170,"CIP 111009, LMG 29303",1,"Orrella dioscoreae",Orrella
+166901,"H- Z20, MCCC -1K03465","KCTC 62330",1,"Orrella marina",Orrella
+6282,KV-628,"DSM 18082, JCM 12835, NBRC 100762, NRRL B-24347",1,"Oryzihumus leptocrescens",Oryzihumus
+140787,Aerobe-19,"KACC 18485, KCTC 39705, NBRC 111450",1,"Oryzihumus soli",Oryzihumus
+140334,GTL-20,"DSM 23468",0,"Oryzihumus sp.",Oryzihumus
+24110,KIS22-12,"DSM 27161, KACC 16543, NBRC 109596",1,"Oryzihumus terrae",Oryzihumus
+140788,EPL6,"LMG 28427, CECT 8927, CCUG 62476",1,"Oryzisolibacter propanilivorax",Oryzisolibacter
+131421,PSGM2-16,"DSM 27137, KACC 17299, NBRC 109598",1,"Oryzobacter terrae",Oryzobacter
+133342,TPP412,"BCRC 80905, JCM 30814",1,"Oryzomicrobium terrae",Oryzomicrobium
+167263,Red96,"MCCC 1K04376, NBRC 114286",1,"Oryzomonas japonica",Oryzomonas
+167139,Red88,"MCCC 1K03694, JCM 33033",1,"Oryzomonas rubra",Oryzomonas
+167202,Red100,"MCCC 1K04377, NBRC 114287",1,"Oryzomonas sagensis",Oryzomonas
+140180,,"DSM 101364, CCY 1210",0,"Oscillatoria sp.",Oscillatoria
+157767,"H4-59, H4_59","DSM 108348, JCM 39250",1,"Oscillibacter acetigenes",Oscillibacter
+169874,"NSJ 62","KCTC 25149, CGMCC 1.32838",1,"Oscillibacter hominis",Oscillibacter
+133851,GH1,"KCTC 15176, NBRC 108824, JCM 18333, DSM 113516",1,"Oscillibacter ruminantium",Oscillibacter
+164284,,"JCM 32522",0,"Oscillibacter sp.",Oscillibacter
+17691,"Sjm 18-20","DSM 18026, NBRC 101213",1,"Oscillibacter valericigenes",Oscillibacter
+168913,"DG-6, description, not in pure culture","VKM B-2210",1,"Oscillochloris trichoides",Oscillochloris
+166909,ML27,"MCCC 1H00372, KCTC 72155",1,"Ostreibacterium oceani",Ostreibacterium
+11759,Baika1,"DSM 23800, CCUG 59994",1,"Otariodibacter oris",Otariodibacter
+130261,GCS-AN-3,"DSM 100246, CGMCC 1.12324, LMG 27179, MCCC 1A01410",1,"Ottowia beijingensis",Ottowia
+159313,GY511,"DSM 107425, CGMCC 1.13650, NBRC 113500",1,"Ottowia flava",Ottowia
+157756,SK3863,"DSM 105395, KCCM 43236",1,"Ottowia konkukae",Ottowia
+170522,"Marseille P4747","CSUR P4747, CECT 30348",1,"Ottowia massiliensis",Ottowia
+159829,KADR8-3,"KACC 19325, NBRC 113109",1,"Ottowia oryzae",Ottowia
+2980,RB3-7,"DSM 21699, NCAIM B 02336",1,"Ottowia pentelensis",Ottowia
+169992,27C,"CCM 9138, LMG 32213",1,"Ottowia testudinis",Ottowia
+2979,K11,"DSM 14619, JCM 11629",1,"Ottowia thiooxydans",Ottowia
+3250,,"DSM 17368, JCM 12287, NRRL B-23963, UST 20020801, CIP 108786",1,"Owenweeksia hongkongensis",Owenweeksia
+11345,YOx,"DSM 21641, CCM 2767",1,"Oxalicibacterium faecigallinarum",Oxalicibacterium
+11343,TA17,"DSM 15506, LMG 21571, CCUG 48438, NEU 98, CIP 107889, RSKK 3004, CCM 7086, KUEN 1580",1,"Oxalicibacterium flavum",Oxalicibacterium
+11344,NS13,"DSM 15507, LMG 21572, NEU 1220",0,"Oxalicibacterium flavum",Oxalicibacterium
+11346,OD1,"DSM 21640, NBRC 13594",1,"Oxalicibacterium horti",Oxalicibacterium
+11347,MY14,"DSM 24954, CCM 7664, NBRC 102665",1,"Oxalicibacterium solurbis",Oxalicibacterium
+168895,OxB,"ATCC 35274, CIP 106513",1,"Oxalobacter formigenes",Oxalobacter
+11348,BA-2,"DSM 4420",0,"Oxalobacter formigenes",Oxalobacter
+136464,Sox-4,"CIP 105951, ATCC 43053",0,"Oxalobacter formigenes",Oxalobacter
+11349,WoOx3,"DSM 5502",1,"Oxalobacter vibrioformis",Oxalobacter
+11458,,"DSM 5503, Alt Ox1",1,"Oxalophagus oxalicus",Oxalophagus
+2505,V5-2,"DSM 3222",1,"Oxobacter pfennigii",Oxobacter

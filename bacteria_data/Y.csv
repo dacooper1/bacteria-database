@@ -1,0 +1,301 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+140770,OISW-6,"KCTC 52837, NBRC 112781",1,"Yoonia acticola",Yoonia
+131301,W-SW2,"DSM 101064, KCTC 42133",1,"Yoonia ponticola",Yoonia
+7788,,"DSM 16377, KCTC 19047, YIM 70178, JCM 13595, CIP 108969",1,"Yaniella flava",Yaniella
+7787,,"DSM 15476, CCTCC AA 001023, JCM 13527, YIM 70085, NBRC 107837",1,"Yaniella halotolerans",Yaniella
+7789,,"DSM 22211, KCTC 13527, JSM 070026, JCM 19966",1,"Yaniella soli",Yaniella
+134176,GW1-1,"KCCM 42019, JCM 12862, CIP 109255, NCIMB 14311",1,"Yeosuana aromativorans",Yeosuana
+164081,,"JCM 31511, CGMCC 1.15787",1,"Yeosuana marina",Yeosuana
+5221,,"DSM 18303, ATCC 35236, CCUG 18770, CDC 669-83, CNY 6005, JCM 5892, CECT 4314, CIP 103162",1,"Yersinia aldovae",Yersinia
+139038,,"CIP 104233, CNY 8616",0,"Yersinia aldovae",Yersinia
+143372,,"CCUG 18771, ATCC 35237",0,"Yersinia aldovae",Yersinia
+144776,,"CCUG 26532",0,"Yersinia aldovae",Yersinia
+135445,,"CIP 104234, CNY 7618",0,"Yersinia aldovae",Yersinia
+135446,,"CIP 104235, CNY 7096",0,"Yersinia aldovae",Yersinia
+135451,,"CIP 104236, CNY 7330",0,"Yersinia aldovae",Yersinia
+144866,,"CCUG 26915",0,"Yersinia aldovae",Yersinia
+5218,"Y159, H254-36/86, Y 159","DSM 14987, CIP 109000, LMG 22254, CCUG 52872, WA 758, WA 120",1,"Yersinia aleksiciae",Yersinia
+154240,,"CCUG 52873",0,"Yersinia aleksiciae",Yersinia
+154241,,"CCUG 52874",0,"Yersinia aleksiciae",Yersinia
+154242,,"CCUG 52875",0,"Yersinia aleksiciae",Yersinia
+154243,,"CCUG 52876",0,"Yersinia aleksiciae",Yersinia
+154244,,"CCUG 52877",0,"Yersinia aleksiciae",Yersinia
+154245,,"CCUG 52878",0,"Yersinia aleksiciae",Yersinia
+154246,,"CCUG 52879",0,"Yersinia aleksiciae",Yersinia
+154247,,"CCUG 52880",0,"Yersinia aleksiciae",Yersinia
+154248,,"CCUG 52881",0,"Yersinia aleksiciae",Yersinia
+167183,IP38850,"CIP 111848, DSM 110726, IP 38850",1,"Yersinia alsatica",Yersinia
+167172,IP42281,"DSM 110725, CIP 111845, IP 42281",1,"Yersinia artesiana",Yersinia
+5226,,"DSM 18528, ATCC 43970, CCUG 26329, CIP 103323, CNY 7506",1,"Yersinia bercovieri",Yersinia
+138412,,"CIP 103327, CCUG 26330, CNY 19985",0,"Yersinia bercovieri",Yersinia
+144778,,"CCUG 26537",0,"Yersinia bercovieri",Yersinia
+144779,,"CCUG 26538",0,"Yersinia bercovieri",Yersinia
+144780,,"CCUG 26539",0,"Yersinia bercovieri",Yersinia
+138120,,"CIP 104889, CNY 24595",0,"Yersinia bercovieri",Yersinia
+167666,SRR7544370T,"NCTC 14382, LMG 31573T",1,"Yersinia canariae",Yersinia
+171333,,"CIP 111846",1,"Yersinia canariae",Yersinia
+142062,,"CCUG 10211",0,"Yersinia enterocolitica",Yersinia
+142677,,"CCUG 13741",0,"Yersinia enterocolitica",Yersinia
+143058,,"CCUG 16728",0,"Yersinia enterocolitica",Yersinia
+143129,,"CCUG 17328",0,"Yersinia enterocolitica",Yersinia
+138918,"Lucas 212","CIP 65.29",0,"Yersinia enterocolitica",Yersinia
+143311,,"CCUG 18381",0,"Yersinia enterocolitica",Yersinia
+143626,,"CCUG 20640",0,"Yersinia enterocolitica",Yersinia
+144046,,"CCUG 22570",0,"Yersinia enterocolitica",Yersinia
+141850,,"CCUG 7758",0,"Yersinia enterocolitica",Yersinia
+144528,,"CCUG 25567",0,"Yersinia enterocolitica",Yersinia
+141880,,"CCUG 8050",0,"Yersinia enterocolitica",Yersinia
+141888,,"CCUG 8231",0,"Yersinia enterocolitica",Yersinia
+141889,,"CCUG 8232",0,"Yersinia enterocolitica",Yersinia
+141890,,"CCUG 8234",0,"Yersinia enterocolitica",Yersinia
+141891,,"CCUG 8235",0,"Yersinia enterocolitica",Yersinia
+141892,,"CCUG 8236",0,"Yersinia enterocolitica",Yersinia
+141893,,"CCUG 8237",0,"Yersinia enterocolitica",Yersinia
+141894,,"CCUG 8238, CCUG 4587A",0,"Yersinia enterocolitica",Yersinia
+141895,,"CCUG 8240",0,"Yersinia enterocolitica",Yersinia
+141897,,"CCUG 8243",0,"Yersinia enterocolitica",Yersinia
+141898,,"CCUG 8244",0,"Yersinia enterocolitica",Yersinia
+141899,,"CCUG 8245",0,"Yersinia enterocolitica",Yersinia
+141902,,"CCUG 8248",0,"Yersinia enterocolitica",Yersinia
+141903,,"CCUG 8249",0,"Yersinia enterocolitica",Yersinia
+141904,,"CCUG 8250",0,"Yersinia enterocolitica",Yersinia
+141905,,"CCUG 8251",0,"Yersinia enterocolitica",Yersinia
+141906,,"CCUG 8252",0,"Yersinia enterocolitica",Yersinia
+135678,7794,"CIP 72.5",0,"Yersinia enterocolitica",Yersinia
+135843,615.85,"CIP 101776",0,"Yersinia enterocolitica",Yersinia
+23975,YeO3-R1,"DSM 23247",0,"Yersinia enterocolitica",Yersinia
+137323,,"CIP 106676, IP 885",0,"Yersinia enterocolitica",Yersinia
+23976,6471/76,"DSM 23248",0,"Yersinia enterocolitica",Yersinia
+23977,8081-C,"DSM 23249",0,"Yersinia enterocolitica",Yersinia
+23978,YeO3-c-trs8-R,"DSM 23250",0,"Yersinia enterocolitica",Yersinia
+134634,,"CIP 107202, IP 102",0,"Yersinia enterocolitica",Yersinia
+145642,,"CCUG 29125",0,"Yersinia enterocolitica",Yersinia
+146175,,"CCUG 30507",0,"Yersinia enterocolitica",Yersinia
+146559,,"CCUG 31436",0,"Yersinia enterocolitica",Yersinia
+146630,,"CCUG 31654",0,"Yersinia enterocolitica",Yersinia
+146666,,"CCUG 31752",0,"Yersinia enterocolitica",Yersinia
+147069,,"CCUG 32786",0,"Yersinia enterocolitica",Yersinia
+147209,,"CCUG 33055, CIP Ye 2705, ATCC 27729, NCTC 10938",0,"Yersinia enterocolitica",Yersinia
+147414,,"CCUG 33553, NCTC 10460",0,"Yersinia enterocolitica",Yersinia
+147972,,"CCUG 34604",0,"Yersinia enterocolitica",Yersinia
+149000,,"CCUG 36700",0,"Yersinia enterocolitica",Yersinia
+149480,,"CCUG 37816",0,"Yersinia enterocolitica",Yersinia
+149508,,"CCUG 37880",0,"Yersinia enterocolitica",Yersinia
+149534,,"CCUG 37920",0,"Yersinia enterocolitica",Yersinia
+149890,,"CCUG 38621",0,"Yersinia enterocolitica",Yersinia
+156498,,"CCUG 62190",0,"Yersinia enterocolitica",Yersinia
+150217,,"CCUG 39301",0,"Yersinia enterocolitica",Yersinia
+156738,,"CCUG 64718",0,"Yersinia enterocolitica",Yersinia
+150618,,"CCUG 41767",0,"Yersinia enterocolitica",Yersinia
+150937,,"CCUG 42789",0,"Yersinia enterocolitica",Yersinia
+151100,,"CCUG 43275",0,"Yersinia enterocolitica",Yersinia
+151350,,"CCUG 43819",0,"Yersinia enterocolitica",Yersinia
+152053,,"CCUG 45643",0,"Yersinia enterocolitica",Yersinia
+152197,,"CCUG 46041",0,"Yersinia enterocolitica",Yersinia
+153365,,"CCUG 49352",0,"Yersinia enterocolitica",Yersinia
+153786,,"CCUG 50971",0,"Yersinia enterocolitica",Yersinia
+169336,Cla-JM-1,"DSM 110076",0,"Yersinia enterocolitica",Yersinia
+172678,CARE_00001,"CIP 111957, IP 42547",0,"Yersinia enterocolitica",Yersinia
+172679,CARE_00002,"CIP 111958, IP 41598",0,"Yersinia enterocolitica",Yersinia
+172680,CARE_00003,"CIP 111959, IP 42863",0,"Yersinia enterocolitica",Yersinia
+172681,CARE_00004,"CIP 111960, IP 39727",0,"Yersinia enterocolitica",Yersinia
+172682,CARE_00007,"CIP 111963, IP 41365",0,"Yersinia enterocolitica",Yersinia
+172683,CARE_00008,"CIP 111964, IP 42937",0,"Yersinia enterocolitica",Yersinia
+172684,CARE_00009,"CIP 111965, IP 39720",0,"Yersinia enterocolitica",Yersinia
+172685,CARE_00010,"CIP 111966, IP 43284",0,"Yersinia enterocolitica",Yersinia
+172686,CARE_00011,"CIP 111967, IP 42251",0,"Yersinia enterocolitica",Yersinia
+172687,CARE_00012,"CIP 111968, IP 39976",0,"Yersinia enterocolitica",Yersinia
+172688,CARE_00015,"CIP 111971, IP 39285",0,"Yersinia enterocolitica",Yersinia
+172689,CARE_00013,"CIP 111969, IP 42503",0,"Yersinia enterocolitica",Yersinia
+172690,CARE_00014,"CIP 111970, IP 39890",0,"Yersinia enterocolitica",Yersinia
+172691,CARE_00016,"CIP 111972, IP 05342",0,"Yersinia enterocolitica",Yersinia
+172692,CARE_00017,"CIP 111973, IP 39779",0,"Yersinia enterocolitica",Yersinia
+172693,CARE_00021,"CIP 111977, IP 35935",0,"Yersinia enterocolitica",Yersinia
+172694,CARE_00022,"CIP 111978, IP 36813",0,"Yersinia enterocolitica",Yersinia
+5210,33114,"DSM 4780, ATCC 9610, CIP 80.27, NCTC 12982, WDCM 00038, JCM 7577, BCRC 13999, CCM 7204, CCUG 11291, CCUG 12369, CECT 4315, ICMP 15678, LMG 7899, NBRC 105693, NRIC 0819, VTT E-97838, CNY 161",1,"Yersinia enterocolitica",Yersinia
+23974,"H 576/86","DSM 11504",0,"Yersinia enterocolitica subsp. enterocolitica",Yersinia
+23979,,"DSM 27689, ATCC 23715, CECT 8263, NCTC 10598, WDCM 00160, CIP 111053",0,"Yersinia enterocolitica subsp. enterocolitica",Yersinia
+23980,"W22703pYV-, W22703pYV<sup>-</sup>","DSM 28012",0,"Yersinia enterocolitica subsp. enterocolitica",Yersinia
+5212,,"DSM 9499, CIP 81.42, NCTC 11174, CNY 383, WDCM 00215, ATCC 700823, CECT 754",0,"Yersinia enterocolitica subsp. enterocolitica",Yersinia
+5213,,"DSM 11067, ATCC 55075",0,"Yersinia enterocolitica subsp. enterocolitica",Yersinia
+5215,"H 1424/94","DSM 11503",0,"Yersinia enterocolitica subsp. enterocolitica",Yersinia
+155005,,"CCUG 56046",0,"Yersinia enterocolitica subsp. enterocolitica",Yersinia
+5217,Y11,"DSM 13030, CCUG 52867, CECT 9144, CIP 106945, WDCM 00216",1,"Yersinia enterocolitica subsp. palearctica",Yersinia
+143843,,"CCUG 21476",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+5211,,"DSM 9676, CIP 81.41, WDCM 00039, CNY 134, CCUG 4586, CCUG 8233, LMG 15558, CECT 8206, NCTC 13629, IP 134",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+5214,"H 5823/96","DSM 11502",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+154239,,"CCUG 52871",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+154408,,"CCUG 53441",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+156390,,"CCUG 61520",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+158022,MASE-SM-6,"DSM 102846",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+158023,MASE-SM-9,"DSM 102848",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+158024,MASE-SM-10,"DSM 102849",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+153730,,"CCUG 50786",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+154236,,"CCUG 52868",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+154237,,"CCUG 52869",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+154238,,"CCUG 52870",0,"Yersinia enterocolitica subsp. palearctica",Yersinia
+5229,"SpK, MH96","DSM 22339, ATCC BAA-1678, CIP 110202, CCUG 59867",1,"Yersinia entomophaga",Yersinia
+172695,,"CIP 111655, IP 36721",0,"Yersinia entomophaga",Yersinia
+5222,,"DSM 18490, ATCC 33641, CCUG 11293, CIP 80.29, NCTC 11470, CIP 8029, CNY 6175",1,"Yersinia frederiksenii",Yersinia
+144801,,"CCUG 26586",0,"Yersinia frederiksenii",Yersinia
+141900,,"CCUG 8246",0,"Yersinia frederiksenii",Yersinia
+138095,,"CIP 104894, CNY 25148",0,"Yersinia frederiksenii",Yersinia
+138100,,"CIP 104895, CNY 24886",0,"Yersinia frederiksenii",Yersinia
+144879,,"CCUG 26949",0,"Yersinia frederiksenii",Yersinia
+145997,,"CCUG 30114",0,"Yersinia frederiksenii",Yersinia
+144809,,"CCUG 26594",0,"Yersinia frederiksenii",Yersinia
+166536,CFS1934,"NCTC 14222, LMG 31076, CIP 111720",1,"Yersinia hibernica",Yersinia
+5224,,"DSM 18517, ATCC 29909, CCUG 11292, CECT 4317, CIP 80.28, NCTC 11469, WDCM 00217, JCM 7579, CCM 3558, CNY 3953",1,"Yersinia intermedia",Yersinia
+138427,,"CIP 104891, CNY 25106",0,"Yersinia intermedia",Yersinia
+138572,46/81,"CIP 109105, IP 10209",0,"Yersinia intermedia",Yersinia
+144798,,"CCUG 26583",0,"Yersinia intermedia",Yersinia
+144799,,"CCUG 26584",0,"Yersinia intermedia",Yersinia
+141901,,"CCUG 8247",0,"Yersinia intermedia",Yersinia
+141907,,"CCUG 8253",0,"Yersinia intermedia",Yersinia
+141908,,"CCUG 8254",0,"Yersinia intermedia",Yersinia
+138121,,"CIP 104890, CNY 25095",0,"Yersinia intermedia",Yersinia
+141909,,"CCUG 8255",0,"Yersinia intermedia",Yersinia
+141910,,"CCUG 8256",0,"Yersinia intermedia",Yersinia
+135108,40/81.,"CIP 109106, IP 10066",0,"Yersinia intermedia",Yersinia
+134495,,"CIP 109913, IP 13438",0,"Yersinia intermedia",Yersinia
+144813,,"CCUG 26598",0,"Yersinia intermedia",Yersinia
+150438,,"CCUG 39927",0,"Yersinia intermedia",Yersinia
+158084,MASE-LG-1,"DSM 102845",0,"Yersinia intermedia",Yersinia
+152454,,"CCUG 46843 A",0,"Yersinia intermedia",Yersinia
+152455,,"CCUG 46843 B",0,"Yersinia intermedia",Yersinia
+144805,,"CCUG 26590",0,"Yersinia intermedia",Yersinia
+144807,,"CCUG 26592",0,"Yersinia intermedia",Yersinia
+144808,,"CCUG 26593",0,"Yersinia intermedia",Yersinia
+144810,,"CCUG 26595",0,"Yersinia intermedia",Yersinia
+144811,,"CCUG 26596",0,"Yersinia intermedia",Yersinia
+144812,,"CCUG 26597",0,"Yersinia intermedia",Yersinia
+144797,,"CCUG 26582",0,"Yersinia kristensenii",Yersinia
+141896,,"CCUG 8242",0,"Yersinia kristensenii",Yersinia
+144802,,"CCUG 26587",0,"Yersinia kristensenii",Yersinia
+144803,,"CCUG 26588",0,"Yersinia kristensenii",Yersinia
+138122,,"CIP 104892, CNY 24418",0,"Yersinia kristensenii",Yersinia
+138123,,"CIP 104893, CNY 24535",0,"Yersinia kristensenii",Yersinia
+135138,,"CIP 104238, CNY 24065",0,"Yersinia kristensenii",Yersinia
+135413,,"CIP 104239, CNY 23934",0,"Yersinia kristensenii",Yersinia
+135452,,"CIP 104237, CNY 24136",0,"Yersinia kristensenii",Yersinia
+137059,,"CIP 104240, CNY 23834",0,"Yersinia kristensenii",Yersinia
+152453,,"CCUG 46842",0,"Yersinia kristensenii",Yersinia
+144804,,"CCUG 26589",0,"Yersinia kristensenii",Yersinia
+144806,,"CCUG 26591",0,"Yersinia kristensenii",Yersinia
+5227,,"DSM 18543, ATCC 33638, CCUG 11294, CIP 80.30, NCTC 11471, JCM 7576, CCUG 8241, CDC 1458-81, CNY 105",1,"Yersinia kristensenii",Yersinia
+166295,EPLC-04,"ATCC BAA-2637, DSMZ 28595",1,"Yersinia rochesterensis",Yersinia
+5228,50640,"DSM 21859, CCUG 53443, CIP 109351",1,"Yersinia massiliensis",Yersinia
+144800,,"CCUG 26585",0,"Yersinia massiliensis",Yersinia
+136990,,"CIP 109352, CCUG 53444",0,"Yersinia massiliensis",Yersinia
+154409,,"CCUG 53442",0,"Yersinia massiliensis",Yersinia
+158142,MASE-SM-8,"DSM 102991",0,"Yersinia massiliensis",Yersinia
+5225,,"DSM 18520, ATCC 43969, CCUG 26331, CDC 2465-87, CIP 103324, CNY 7263",1,"Yersinia mollaretii",Yersinia
+138647,,"CIP 103328, CNY 19795",0,"Yersinia mollaretii",Yersinia
+144777,,"CCUG 26536",0,"Yersinia mollaretii",Yersinia
+136357,,"CIP 104888, CNY 24084",0,"Yersinia mollaretii",Yersinia
+5230,APN3a-c,"CCUG 60891, DSM 22296, CIP 110231, LMG 25213",1,"Yersinia nurmii",Yersinia
+5231,ABF6a-c,"DSM 22297",0,"Yersinia nurmii",Yersinia
+170080,"IP 35638","DSM 110739, CIP 111843, IP 35638",0,"Yersinia rochesterensis",Yersinia
+5232,"ÅYV7.1KOH2, AYV7.1KOH2","DSM 22769, LMG 25369, CCUG 60991, CIP 110230",1,"Yersinia pekkanenii",Yersinia
+5233,Å125KOH2,"DSM 22770",0,"Yersinia pekkanenii",Yersinia
+166619,,"ATCC 19428, CIP 80.26, NCTC 5923",1,"Yersinia pestis",Yersinia
+146798,,"CCUG 32133, CIP 109701",0,"Yersinia pestis",Yersinia
+137371,,"CIP 109349",1,"Yersinia phocaeense",Yersinia
+136989,,"CIP 109348",0,"Yersinia phocaeense",Yersinia
+167204,IP37424,"CIP 111847, DSM 110727, IP 37424",1,"Yersinia proxima",Yersinia
+5216,14,"DSM 8992, ATCC 29833, CIP 55.85, NCTC 10275, CCUG 5855, JCM 1676, NBRC 105692",1,"Yersinia pseudotuberculosis",Yersinia
+142828,,"CCUG 15132",0,"Yersinia pseudotuberculosis",Yersinia
+138857,,"CIP A120",0,"Yersinia pseudotuberculosis",Yersinia
+143131,,"CCUG 17342",0,"Yersinia pseudotuberculosis",Yersinia
+143132,,"CCUG 17344",0,"Yersinia pseudotuberculosis",Yersinia
+143133,,"CCUG 17345",0,"Yersinia pseudotuberculosis",Yersinia
+139464,,"CIP A1",0,"Yersinia pseudotuberculosis",Yersinia
+141221,,"CCUG 242",0,"Yersinia pseudotuberculosis",Yersinia
+141222,,"CCUG 243",0,"Yersinia pseudotuberculosis",Yersinia
+141223,,"CCUG 244",0,"Yersinia pseudotuberculosis",Yersinia
+141224,,"CCUG 245",0,"Yersinia pseudotuberculosis",Yersinia
+141225,,"CCUG 246 B",0,"Yersinia pseudotuberculosis",Yersinia
+141734,,"CCUG 5854, ATCC 6902, NCTC 1102",0,"Yersinia pseudotuberculosis",Yersinia
+144311,,"CCUG 24522",0,"Yersinia pseudotuberculosis",Yersinia
+144347,,"CCUG 24690",0,"Yersinia pseudotuberculosis",Yersinia
+141854,,"CCUG 7803",0,"Yersinia pseudotuberculosis",Yersinia
+138109,,"CIP 104896, CNY 33053",0,"Yersinia pseudotuberculosis",Yersinia
+135167,Prud'homme,"CIP A119",0,"Yersinia pseudotuberculosis",Yersinia
+135902,,"CIP 104897, CNY 33054",0,"Yersinia pseudotuberculosis",Yersinia
+11743,"71, A82, I, CNP 14","DSM 22972, ATCC 49635, CCUG 27188, CIP 103823, NCTC 10547, CIP 27188, Jayaraman strain I",0,"Yersinia pseudotuberculosis",Yersinia
+136976,16,"CIP 55.86",0,"Yersinia pseudotuberculosis",Yersinia
+136982,43,"CIP 55.87, NCTC 9508",0,"Yersinia pseudotuberculosis",Yersinia
+136988,25,"CIP 55.88, NCTC 8579",0,"Yersinia pseudotuberculosis",Yersinia
+136993,32,"CIP 55.89, ATCC 13979, NCTC 8580",0,"Yersinia pseudotuberculosis",Yersinia
+100264,"STI43556(IMET), 749-162",,0,"Yersinia pseudotuberculosis",Yersinia
+144878,,"CCUG 26948",0,"Yersinia pseudotuberculosis",Yersinia
+154569,,"CCUG 54446",0,"Yersinia pseudotuberculosis",Yersinia
+154570,,"CCUG 54447",0,"Yersinia pseudotuberculosis",Yersinia
+149039,,"CCUG 36765",0,"Yersinia pseudotuberculosis",Yersinia
+154571,,"CCUG 54448",0,"Yersinia pseudotuberculosis",Yersinia
+154572,,"CCUG 54449",0,"Yersinia pseudotuberculosis",Yersinia
+154573,,"CCUG 54450",0,"Yersinia pseudotuberculosis",Yersinia
+149523,,"CCUG 37902",0,"Yersinia pseudotuberculosis",Yersinia
+149524,,"CCUG 37903",0,"Yersinia pseudotuberculosis",Yersinia
+156179,,"CCUG 60634",0,"Yersinia pseudotuberculosis",Yersinia
+173506,CARE_00005,"CIP 111961, IP 32953",0,"Yersinia pseudotuberculosis",Yersinia
+173507,CARE_00006,"CIP 111962, IP 31758",0,"Yersinia pseudotuberculosis",Yersinia
+173508,CARE_00018,"CIP 111974, IP 33304",0,"Yersinia pseudotuberculosis",Yersinia
+173509,CARE_00019,"CIP 111975, IP 34654",0,"Yersinia pseudotuberculosis",Yersinia
+173510,CARE_00020,"CIP 111976, IP 33620",0,"Yersinia pseudotuberculosis",Yersinia
+5220,"H 271-36/78, H271-36/78, 3022-85","DSM 18270, ATCC 43380, CCUG 38833, CDC 3022-85, CIP 103163, LMG 8454, JCM 7376, NBRC 105715",1,"Yersinia rohdei",Yersinia
+144781,,"CCUG 26543, ATCC 43872",0,"Yersinia rohdei",Yersinia
+144782,,"CCUG 26544",0,"Yersinia rohdei",Yersinia
+144783,,"CCUG 26545",0,"Yersinia rohdei",Yersinia
+5223,2396-61,"DSM 18506, ATCC 29473, CCM 6093, CCUG 14190, CIP 82.80, JCM 2429, NCIMB 2194, NCTC 12986, CECT 4319, JCM 15110, CDC 2396-61",1,"Yersinia ruckeri",Yersinia
+143848,,"CCUG 21537, CCM 6094",0,"Yersinia ruckeri",Yersinia
+5219,Y228,"DSM 18211, CCUG 52882, LMG 23763, CIP 109846",1,"Yersinia similis",Yersinia
+154249,,"CCUG 52883",0,"Yersinia similis",Yersinia
+154250,,"CCUG 52884",0,"Yersinia similis",Yersinia
+154251,,"CCUG 52885",0,"Yersinia similis",Yersinia
+23988,"FP 31","DSM 28513",0,"Yersinia sp.",Yersinia
+130316,Cs67-2,"DSM 29214",0,"Yersinia sp.",Yersinia
+152456,,"CCUG 46844",0,"Yersinia sp.",Yersinia
+152460,,"CCUG 46850",0,"Yersinia sp.",Yersinia
+161869,,"JCM 1678, CDC 4335-69",0,"Yersinia sp.",Yersinia
+167193,IP34646,"CIP 111842, DSM 110736, IP 34646",1,"Yersinia thracica",Yersinia
+167189,IP38594,"DSM 110738, CIP 111844, IP 38594",1,"Yersinia vastinensis",Yersinia
+23989,12-219N1,"DSM 27350, CIP 110607",1,"Yersinia wautersii",Yersinia
+3931,,"DSM 19828, CCTCC AB 207007, KCTC 19231, YIM 45900, JCM 16960",1,"Yimella lutea",Yimella
+132634,py1292,"DSM 100721, KCTC 39612, LMG 29070, JCM 32439",1,"Yimella radicis",Yimella
+140457,6016,"DSM 19356",0,"Yimella sp.",Yimella
+16478,M24DS4,"DSM 42049, KACC 14925, NBRC 106164, JCM 17986",1,"Yinghuangia aomiensis",Yinghuangia
+167775,VN07A0015,"VTCC-A-1889, NBRC 107860",1,"Yinghuangia catbensis",Yinghuangia
+16426,,"DSM 41883, CCTCC AA 206006, YIM 45720",1,"Streptomyces seranimatus",Streptomyces
+170389,"KLBMP 8922","CGMCC 1.19360, NBRC 115572",1,"Yinghuangia soli",Yinghuangia
+137687,"DC-1, 725-83","CIP 105435, ATCC 49455, CCRC 12225, JCM 2403, BCRC 12225, IAM 14241, NBRC 102600, NCTC 11966",1,"Yokenella regensburgei",Yokenella
+143679,,"CCUG 20943",0,"Yokenella regensburgei",Yokenella
+144171,,"CCUG 23275",0,"Yokenella regensburgei",Yokenella
+135497,"93A 4491","CIP 104299",0,"Yokenella regensburgei",Yokenella
+5234,3349-72,"DSM 5079, ATCC 35313, CDC 3349-72, CCUG 18772, CIP 103033, NCTC 12131, LMG 7872, JCM 3958, PCM 2476",0,"Yokenella regensburgei",Yokenella
+135498,"94A 0379","CIP 104300",0,"Yokenella regensburgei",Yokenella
+145957,,"CCUG 29959",0,"Yokenella regensburgei",Yokenella
+161750,,"JCM 16257",0,"Yokenella regensburgei",Yokenella
+163272,,"JCM 2404",0,"Yokenella regensburgei",Yokenella
+163273,,"JCM 2405, NCTC 11968",0,"Yokenella regensburgei",Yokenella
+163275,,"JCM 2406",0,"Yokenella regensburgei",Yokenella
+163276,,"JCM 2407",0,"Yokenella regensburgei",Yokenella
+163277,,"JCM 2408",0,"Yokenella regensburgei",Yokenella
+164880,,"JCM 3959, ATCC 43001, CDC 329-73",0,"Yokenella regensburgei",Yokenella
+164881,,"JCM 3961, ATCC 43003, CDC 1443-77",0,"Yokenella regensburgei",Yokenella
+164882,,"JCM 3962, ATCC 43004, CDC 145-83",0,"Yokenella regensburgei",Yokenella
+132331,Root332,"DSM 102559",0,"Microcella sp.",Microcella
+132332,,"DSM 102795, Soil 809",0,"Microcella sp.",Microcella
+158199,"Stevenage 150518_C4","DSM 107826",0,"Microcella sp.",Microcella
+130607,DPG-5,"DSM 29433, CCUG 62113, KCTC 23883",1,"Yoonia litorea",Yoonia
+24490,DSW-18,"DSM 29128, JCM 14564, KCTC 12863, CIP 109730",1,"Yoonia maricola",Yoonia
+131175,,"DSM 101533, JCM 19807, NRIC 0919, KMM 9530, CCTCC AB 2016287",1,"Yoonia maritima",Yoonia
+130606,Fg36,"DSM 29591, CIP 107851, KMM 6003, LMG 22534",1,"Yoonia rosea",Yoonia
+130609,D1-W3,"DSM 29955, CECT 8284, KCTC 32383",1,"Yoonia sediminilitoris",Yoonia
+23225,SSW-35,"DSM 26879, JCM 14020, KCTC 12722",1,"Yoonia tamlensis",Yoonia
+13673,R-9477,"DSM 16212, LMG 22003, JCM 21637, CIP 108321, IAM 15182, NBRC 102487",1,"Yoonia vestfoldensis",Yoonia
+162634,,"JCM 19854, CGMCC 1.12719",1,"Youhaiella tibetensis",Youhaiella
+23863,232.1,"DSM 24749, ATCC BAA-2257",1,"Youngiibacter fragilis",Youngiibacter
+17676,PeC1,"DSM 6139, ATCC 49731, JCM 19730",1,"Youngiibacter multivorans",Youngiibacter
+162304,,"JCM 18819, BCRC 80549",1,"Youngimonas vesicularis",Youngimonas
+169869,"NSJ 64","KCTC 25128, CGMCC 1.32840",1,"Youxingia wuxianensis",Youxingia

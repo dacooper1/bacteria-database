@@ -1,0 +1,1729 @@
+"The number of entries per field is limited to 10 for this overview. If you want the whole information you can use the API or the ""Download selection"" menu on the Webpage."
+
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+133228,100921-2,"CFCC 14287, KCTC 42844",1,"Tsuneonella aeria",Tsuneonella
+166461,NS1,"CGMCC 1.13679, NBRC 113553",1,"Tsuneonella amylolytica",Tsuneonella
+140745,THG-S3,"KACC 19190, CGMCC 1.15959",1,"Tsuneonella deserti",Tsuneonella
+159780,MS1-4,"MCCC 1K02683, NBRC 112977",1,"Tsuneonella flava",Tsuneonella
+158561,C9-11,"MCCC 1K03311, JCM 32056",1,"Tsuneonella mangrovi",Tsuneonella
+140815,WW3,"KCTC 42620, JCM 30975",1,"Tsuneonella rigui",Tsuneonella
+133807,,"KCTC 12303, JCM 17037, KMM 6042",1,"Tsuneonella troitsensis",Tsuneonella
+158214,"Utrecht P40","DSM 107003, CCAP 1403/1B, PCC 6309, SAG 1403-4b, ATCC 29211, CCAP 1403/4B",0,"Trichormus variabilis",Trichormus
+171160,"CIMB 04-9430",CRBIP17.20,0,"Trueperella bernardiae",Trueperella
+171161,"CIMB 04-8791",CRBIP17.21,0,"Trueperella bernardiae",Trueperella
+24054,,"DSM 45413, CCTCC AA 209045, KCTC 19998, YIM 68236, JCM 17896, JCM 31483",1,"Trujillonella endophytica",Trujillonella
+2575,I50,"CCUG 46310, CCUG 45854, DSM 1551, ATCC 29902, NCTC 11210, JCM 1397, BCRC 14465, CCM 6166",1,"Thomasclavelia cocleata",Thomasclavelia
+143917,,"CCUG 21839",0,"Tissierella praeacuta",Tissierella
+143918,,"CCUG 21840",0,"Tissierella praeacuta",Tissierella
+2653,113-I,"CCUG 24038, DSM 1402, ATCC 25582, NCIB 10673, VPI 0427, JCM 1298, BCRC 14518, KCTC 3323, NCIMB 10673, NCTC 11812",1,"Thomasclavelia ramosa",Thomasclavelia
+150967,,"CCUG 42893",0,"Thomasclavelia ramosa",Thomasclavelia
+151816,,"CCUG 44972",0,"Thomasclavelia ramosa",Thomasclavelia
+151840,,"CCUG 45030",0,"Thomasclavelia ramosa",Thomasclavelia
+130927,SRB509-5-F-B,"DSM 29357",0,"Thomasclavelia ramosa",Thomasclavelia
+130926,PG-426-CC.8.1,"DSM 29355",0,"Thomasclavelia ramosa",Thomasclavelia
+152520,,"CCUG 46995",0,"Thomasclavelia ramosa",Thomasclavelia
+165123,,"JCM 5235, ATCC 13937, NCTC 10474",0,"Thomasclavelia ramosa",Thomasclavelia
+148490,,"CCUG 35540",0,"Thomasclavelia ramosa",Thomasclavelia
+148608,,"CCUG 35705",0,"Thomasclavelia ramosa",Thomasclavelia
+154479,,"CCUG 53777",0,"Thomasclavelia ramosa",Thomasclavelia
+139728,8/2/54BFAA,"DSM 24812, BEI HM-176",0,"Thomasclavelia ramosa",Thomasclavelia
+2834,SDG-Mt85-3Db,"DSM 17460, CCUG 51486",1,"Thomasclavelia saccharogumia",Thomasclavelia
+2706,,"DSM 1552, ATCC 29900, NCTC 11211, VPI C28-23-1A, JCM 1432, BCRC 14526, CCM 6168, CECT 4322, CIP 106966, AIP 10141",1,"Thomasclavelia spiroformis",Thomasclavelia
+134603,,"CIP 106981",0,"Thomasclavelia spiroformis",Thomasclavelia
+139184,Jasmin,"CIP 104680, ATCC 14124",0,"Thermococcus fumicolans",Thermococcus
+132595,B4199,"DSM 100830, CCUG 67636",1,"Thiopseudomonas alkaliphila",Thiopseudomonas
+156964,,"CCUG 67637",0,"Thiopseudomonas alkaliphila",Thiopseudomonas
+11298,2O1,"DSM 24913, BTCC B-675, NBRC 105760, CIP 110300",1,"Thalassolituus maritimus",Thalassolituus
+146011,,"CCUG 30157, ATCC 31624, JCM 8883, CCM 4321, NCPPB 3818",0,"Tatumella punctata",Tatumella
+146012,,"CCUG 30158, ATCC 31625, JCM 8884, CCM 4322, NCPPB 3819",0,"Tatumella punctata",Tatumella
+146013,,"CCUG 30160, ATCC 31627, JCM 8886, CCM 4323, NCPPB 3821",0,"Tatumella punctata",Tatumella
+146014,,"CCUG 30162, ATCC 31629, JCM 8888, CCM 4325, NCPPB 3823",0,"Tatumella terrea",Tatumella
+146015,,"CCUG 30163, ATCC 31630, JCM 8889, CCM 4326, NCPPB 3824",0,"Tatumella terrea",Tatumella
+146016,,"CCUG 30164, ATCC 31631",0,"Tatumella terrea",Tatumella
+158225,SF-16,"DSM 108665, KCTC 42910, MCCC 1K01155",1,"Tropicimonas marinistellae",Tropicimonas
+164151,,"JCM 31893, KCTC 72206, MCC 4339",1,"Tabrizicola algicola",Tabrizicola
+166256,DJC,"CICC 24242, KCTC 62173",1,"Tabrizicola alkalilacus",Tabrizicola
+161997,RCRI19,"JCM 17277, KCTC 23724, LMG 25773, UCCCB39, BCCM/LMG 25773",1,"Tabrizicola aquatica",Tabrizicola
+158663,SY72,"KCTC 62105, NBRC 113021",1,"Tabrizicola fusiformis",Tabrizicola
+166694,KMS-5,"BCRC 81196, LMG 31337",1,"Tabrizicola oligotrophica",Tabrizicola
+164489,,"JCM 33230, KCTC 62659",1,"Tabrizicola piscis",Tabrizicola
+170088,J26,"KCTC 92112, GDMCC 1.2843",1,"Tabrizicola rongguiensis",Tabrizicola
+166147,DRYC-M-16,"CGMCC 1.13881, KCTC 72015",1,"Tabrizicola sediminis",Tabrizicola
+140615,MM-8,"NBRC 112238, KCTC 52209",1,"Taeania maliponensis",Taeania
+169065,HME8275,"KACC 16933, CECT 8198",1,"Taeseokella kangwonensis",Taeseokella
+140937,TT1,"JCM 18659, BCRC 80493",1,"Tagaea marina",Tagaea
+170552,W38,"JCM 35749, KACC 22832",1,"Tahibacter amnicola",Tahibacter
+23346,PYM5-11,"DSM 21667, NCAIM B 02337",1,"Tahibacter aquaticus",Tahibacter
+168009,BUT-6,"CCTCC AB 2013266, KACC 17139",1,"Tahibacter caeni",Tahibacter
+170553,P2K,"JCM 35231, GDMCC 1.3107",1,"Tahibacter harae",Tahibacter
+131283,AY17,"DSM 27988, CGMCC 1.12700, JCM 19637",1,"Taibaiella chishuiensis",Taibaiella
+140869,TZCO2,"NCAIM B 02601, CCM 8601",1,"Taibaiella coffeisoli",Taibaiella
+168818,F-4,"CGMCC 1.13562, KCTC 62442",1,"Taibaiella helva",Taibaiella
+162308,,"JCM 18823, KACC 17171",1,"Taibaiella koreensis",Taibaiella
+134026,PTJT-5,"CCTCC AB 2013017, KCTC 32316",1,"Taibaiella smilacinae",Taibaiella
+140520,T1-10,"JCM 31014, KCTC 42277",1,"Taibaiella soli",Taibaiella
+169106,THG-SC4,"KACC 18372, CCTCC AB 2014316",1,"Taibaiella yonginensis",Taibaiella
+131546,,"DSM 45765, NBRC 109361, KLBMP 1356",1,"Tamaricihabitans halophyticus",Tamaricihabitans
+131454,"Mi 7, Mi-7","DSM 28688, MTCC 12009, JCM 30174",1,"Tamilnaduibacter salinus",Tamilnaduibacter
+163728,,"JCM 30175, MTCC 12010",0,"Tamilnaduibacter salinus",Tamilnaduibacter
+134350,JW-26,"KCTC 22176, CCUG 55327",1,"Tamlana agarivorans",Tamlana
+166479,UJ94,"KCTC 62451, NBRC 113234",1,"Tamlana carrageenivorans",Tamlana
+134226,"HST1-43T, HST1-43","KCTC 12721, JCM 14021, CIP 109573",1,"Tamlana crocina",Tamlana
+168308,CW2-9,"CICC 24749, KCTC 72389",1,"Tamlana fucoidanivorans",Tamlana
+166865,B1N29,"KCTC 72683, MCCC 1H00394",1,"Tamlana haliotis",Tamlana
+170797,PT2-4,"KCTC 92183, MCCC 1K04427",1,"Tamlana laminarinivorans",Tamlana
+170798,62-3,"KCTC 92182, MCCC 1K04421",1,"Tamlana sargassicola",Tamlana
+162618,,"JCM 19808, KMM 9545, NRIC 0921",1,"Tamlana sedimentorum",Tamlana
+130830,G22,"DSM 27063, CICC 10587",1,"Tangfeifania diversioriginum",Tangfeifania
+143693,,"CCUG 21028 A, ATCC 43037, CCUG 33064, JCM 10827, CCUG 33226, CIP 105219, KCTC 5666",1,"Tannerella forsythia",Tannerella
+153819,,"CCUG 51269",0,"Tannerella forsythia",Tannerella
+132108,"P1F20A, W10960, WW10960","DSM 102835",0,"Tannerella forsythia",Tannerella
+135368,,"CIP 105220, FDC 42",0,"Tannerella forsythia",Tannerella
+155313,,"CCUG 57306",0,"Tannerella forsythia",Tannerella
+164008,,"JCM 31303, DSM 102894",1,"Tannerella serpentiformis",Tannerella
+164006,,"JCM 31301",0,"Tannerella serpentiformis",Tannerella
+164007,,"JCM 31302",0,"Tannerella serpentiformis",Tannerella
+169950,BP52G,"JCM 34692, NZRM 4757",1,"Tannockella kyphosi",Tannockella
+168828,VTH-Ai06,"NBRC 110637, VTCC 910001, BCC 67839",1,"Tanticharoenia aidae",Tanticharoenia
+168773,AC37,"BCC 15772, NBRC 103193",1,"Tanticharoenia sakaeratensis",Tanticharoenia
+133948,H1,"CICC 10529, CCTCC AB 2012861, KACC 16940",1,"Taonella mepensis",Taonella
+156387,,"CCUG 61473, LMG 26467",1,"Tardiphaga robiniae",Tardiphaga
+140083,I10B-01999,"DSM 24569",0,"Tardiphaga sp.",Tardiphaga
+130223,Co64-2,"DSM 29220",0,"Tardiphaga sp.",Tardiphaga
+130224,Co1,"DSM 29221",0,"Tardiphaga sp.",Tardiphaga
+166979,KMU-156,"KCCM 90321, NBRC 113460",1,"Tateyamaria armeniaca",Tateyamaria
+163231,,"JCM 21569, IAM 15108, KCTC 12333",1,"Tateyamaria omphalii",Tateyamaria
+13845,,"DSM 17270, LMG 23018, SAM 4",1,"Tateyamaria pelophila",Tateyamaria
+161492,,"JCM 14511",0,"Tateyamaria sp.",Tateyamaria
+161608,,"JCM 15593, KCCM 42888",0,"Tateyamaria sp.",Tateyamaria
+5177,"BD 875","DSM 13699, ATCC 31623, CCUG 30156, CIP 105599, FERM P-5449, JCM 8882, LMG 22049, SHS 2003, CCM 4319, KCTC 12451, KCTC 2805, NCPPB 3826",1,"Tatumella citrea",Tatumella
+5180,"BD878, CMC6","DSM 23827, LMG 23360, NCPPB 4036",1,"Tatumella morbirosei",Tatumella
+5176,H36,"DSM 5000, ATCC 33301, LMG 7888, CCUG 14188, CECT 869, NCTC 11468, CIP 81.97",1,"Tatumella ptyseos",Tatumella
+157056,,"CCUG 69244",0,"Tatumella ptyseos",Tatumella
+145995,,"CCUG 30111, CCM 3684",0,"Tatumella ptyseos",Tatumella
+145996,,"CCUG 30112, CCM 3685",0,"Tatumella ptyseos",Tatumella
+161886,,"JCM 1686, ATCC 33302, BCRC 13992, CDC 9558-78",0,"Tatumella ptyseos",Tatumella
+5178,"BD 876","DSM 13700, ATCC 31626, CCUG 30159, CIP 105598, FERM P-5452, JCM 8885, LMG 22050, SHS 2006, BCRC 14443, CCM 4320, KCTC 12452, KCTC 2747, NCPPB 3820",1,"Tatumella punctata",Tatumella
+130314,,"DSM 19846, CCUG 55408, NML 06-3099",1,"Tatumella saanichensis",Tatumella
+5179,"BD 877","DSM 13701, ATCC 31628, CCUG 30161, CIP 105600, JCM 8887, LMG 22051, SHS 2008, CCM 4324, FERM P-5454, NCPPB 3822",1,"Tatumella terrea",Tatumella
+169364,LT0009,"DSM 111569, JCM 34262",0,"Taurinivorans muris",Taurinivorans
+160831,"El Plastico, ElP","DSM 101012, LMG 29141",1,"Tautonia plasticadhaerens",Tautonia
+168851,GM2012,"KCTC 72013, VKM B-2860",1,"Tautonia sociabilis",Tautonia
+18233,"Tx o1",,0,"Taxeobacter sp.",Taxeobacter
+21177,"Tx g1",,0,"Taxeobacter sp.",Taxeobacter
+21178,"Tx g2",,0,"Taxeobacter sp.",Taxeobacter
+21932,"Tx 7913",,0,"Taxeobacter sp.",Taxeobacter
+22352,"Tx c2",,0,"Taxeobacter sp.",Taxeobacter
+22353,"Tx c1",,0,"Taxeobacter sp.",Taxeobacter
+22354,"Tx c4",,0,"Taxeobacter sp.",Taxeobacter
+22355,"Tx c3",,0,"Taxeobacter sp.",Taxeobacter
+22356,"Tx c5",,0,"Taxeobacter sp.",Taxeobacter
+22371,"Tx 7750",,0,"Taxeobacter sp.",Taxeobacter
+22637,"Tx 7903",,0,"Taxeobacter sp.",Taxeobacter
+22833,"Tx 2204",,0,"Taxeobacter sp.",Taxeobacter
+136889,UCD-1,"CIP 107673, ATCC 700933, LMG 19572",1,"Taylorella asinigenitalis",Taylorella
+366,61717/77,"DSM 10668, ATCC 35865, CIP 7909, NCTC 11184, CCUG 10786, LMG 6222, CIP 79.7",1,"Taylorella equigenitalis",Taylorella
+137685,,"CIP 79.44, NCTC 11225",0,"Taylorella equigenitalis",Taylorella
+143036,,"CCUG 16464, LMG 6223",0,"Taylorella equigenitalis",Taylorella
+143037,,"CCUG 16465, LMG 6224",0,"Taylorella equigenitalis",Taylorella
+143038,,"CCUG 16466",0,"Taylorella equigenitalis",Taylorella
+143039,,"CCUG 16467",0,"Taylorella equigenitalis",Taylorella
+143266,,"CCUG 18140",0,"Taylorella equigenitalis",Taylorella
+143267,,"CCUG 18141",0,"Taylorella equigenitalis",Taylorella
+68,170/96,"DSM 14915, CIP 107418, CCUG 55703",1,"Roseomonas ludipueritiae",Roseomonas
+168076,"20M, CNCM I-804","DSM 9559, ACM 3522, CIP 104069",1,"Telluria chitinolytica",Telluria
+130504,,"DSM 29330, ATCC 49108, DSM 4832, UQM 1762, CCUG 35206, LMG 11547, NCIMB 12789, CIP 104068, ACM 1762",1,"Telluria mixta",Telluria
+163956,,"JCM 31133, KCTC 42819",1,"Telluribacter humicola",Telluribacter
+132423,Ac_18_E7,"DSM 26557, LMG 28656",1,"Tellurimicrobium multivorans",Tellurimicrobium
+164238,,"JCM 32361, KCTC 62116",1,"Tellurirhabdus rosea",Tellurirhabdus
+140,TPB6017,"DSM 23630, VKM B-2570",1,"Telmatobacter bradus",Telmatobacter
+11948,SP2,"DSM 23888, VKM B-2710",1,"Telmatocola sphagniphila",Telmatocola
+14015,26-4b1,"DSM 18240, ATCC BAA-1305, KACC 11899",1,"Telmatospirillum siberiense",Telmatospirillum
+14016,K-1,"DSM 18241",0,"Telmatospirillum siberiense",Telmatospirillum
+14017,26-2,"DSM 18242",0,"Telmatospirillum siberiense",Telmatospirillum
+131124,MB-AQH2,"DSM 18612",0,"Telmatospirillum sp.",Telmatospirillum
+163891,,"JCM 30871, LMG 28278, NBRC 110045",1,"Temperatibacter marinus",Temperatibacter
+5654,B390,"DSM 18961, JCM 14633",1,"Tenacibaculum adriaticum",Tenacibaculum
+134198,SMK-4,"KCTC 12569, JCM 13491, CIP 109328, DSM 113392, JCM 13941",1,"Tenacibaculum aestuarii",Tenacibaculum
+158558,JDTF-79,"KCTC 52980, NBRC 112903",1,"Tenacibaculum aestuariivivum",Tenacibaculum
+141110,HZ1,"MCCC 1H00174, KCTC 52476",1,"Tenacibaculum agarivorans",Tenacibaculum
+134318,a4,"BCRC 17655, LMG 24004",1,"Tenacibaculum aiptasiae",Tenacibaculum
+5646,C526,"DSM 13766, IFO 16310, NBRC 16310, MBIC 4355, JCM 21776, CIP 107214, IAM 15328",1,"Tenacibaculum amylolyticum",Tenacibaculum
+170194,K20-16,"JCM 35023, KACC 22342",1,"Tenacibaculum aquimarinum",Tenacibaculum
+140910,RSS1-6,"KCTC 42702, NBRC 111225",1,"Tenacibaculum ascidiaceicola",Tenacibaculum
+169140,HJ-26M,"CECT 8283, KCTC 32323",1,"Tenacibaculum caenipelagi",Tenacibaculum
+133479,JO-1,"KCTC 22329, JCM 15428",1,"Tenacibaculum crassostreae",Tenacibaculum
+133642,35/09,"CECT 7612, NCIMB 14598",1,"Tenacibaculum dicentrarchi",Tenacibaculum
+5655,"LL04 11.1.1, LL04.11.1.1","DSM 18842, NCIMB 14278",1,"Tenacibaculum discolor",Tenacibaculum
+5656,2B13,"DSM 25396",0,"Tenacibaculum discolor",Tenacibaculum
+5657,9A5,"DSM 25397",0,"Tenacibaculum discolor",Tenacibaculum
+167330,TNO006,"CCUG 73831, NCIMB 15238",1,"Tenacibaculum finnmarkense",Tenacibaculum
+5653,A37.1,"DSM 18841, NCIMB 14147",1,"Tenacibaculum gallaicum",Tenacibaculum
+133678,YCS-6,"KCTC 23423, CCUG 60527",1,"Tenacibaculum geojense",Tenacibaculum
+140709,RA3-2,"KCTC 52419, NBRC 112382",1,"Tenacibaculum haliotis",Tenacibaculum
+156623,,"CCUG 63681, KCTC 32262",1,"Tenacibaculum halocynthiae",Tenacibaculum
+168579,S2-2,"MCCC 1A09872, LMG 27758, DSM 113369",1,"Tenacibaculum holothuriorum",Tenacibaculum
+158587,JDTF-31,"KCTC 52749, NBRC 112783",1,"Tenacibaculum insulae",Tenacibaculum
+161700,,"JCM 15975, KCTC 22618",1,"Tenacibaculum jejuense",Tenacibaculum
+134241,B-I,"BCRC 17590, LMG 23706",1,"Tenacibaculum litopenaei",Tenacibaculum
+134170,CL-TF13,"KCCM 42115, JCM 13039",1,"Tenacibaculum litoreum",Tenacibaculum
+5650,TF-26,"DSM 16505, KCTC 12302, CIP 12302",1,"Tenacibaculum lutimaris",Tenacibaculum
+5651,"R-2, R2","DSM 17995, ATCC 43398, IAM 14317, IFO 15946, NBRC 15946, NCIMB 2154, CCUG 35198, LMG 11612, CIP 103528",1,"Tenacibaculum maritimum",Tenacibaculum
+135276,B2,"CIP 103529, ATCC 43397, NCIMB 2153, JCM 8137, CCM 3965, CECT 4276, IAM 14118, IFO 16015, NBRC 16015",0,"Tenacibaculum maritimum",Tenacibaculum
+135277,,"CIP 103530, NCIMB 2158",0,"Tenacibaculum maritimum",Tenacibaculum
+5647,KK10306,"DSM 13764, IFO 16307, NBRC 16307, MBIC 1140, CIP 107215",1,"Tenacibaculum mesophilum",Tenacibaculum
+5652,"EKD 002","CCUG 35199, CIP 106403, DSM 18103, ATCC 51887, IAM 14318, IFO 15947, NCIMB 13127, JCM 21158, LMG 13026, NBRC 15947",1,"Tenacibaculum ovolyticum",Tenacibaculum
+138588,"EKC 001","CIP 106405, NCIMB 13128, LMG 13025, ATCC 51886",0,"Tenacibaculum ovolyticum",Tenacibaculum
+136520,"VKB 004","CIP 106404, NCIMB 13129, LMG 13027",0,"Tenacibaculum ovolyticum",Tenacibaculum
+170193,"S 7007","MCCC 1H00428, KCTC 72941",1,"Tenacibaculum pelagium",Tenacibaculum
+167290,TNO020,"CCUG 73833, NCIMB 15240",1,"Tenacibaculum piscium",Tenacibaculum
+140830,YKTF-3,"KCTC 52210, NBRC 111991",1,"Tenacibaculum sediminilitoris",Tenacibaculum
+166323,TLL-A2,"DSM 106434, KCTC 62393",1,"Tenacibaculum singaporense",Tenacibaculum
+5649,D30,"DSM 14836, ATCC BAA-458",1,"Tenacibaculum skagerrakense",Tenacibaculum
+5648,D28,"DSM 14835",0,"Tenacibaculum skagerrakense",Tenacibaculum
+134333,"LL04 12.1.7","CECT 7292, NCIMB 14368",1,"Tenacibaculum soleae",Tenacibaculum
+169246,MAR_2010_89,"DSM 29659",0,"Tenacibaculum sp.",Tenacibaculum
+169247,AHE15PA,"DSM 111039",0,"Tenacibaculum sp.",Tenacibaculum
+169248,AHE14PA,"DSM 111040",0,"Tenacibaculum sp.",Tenacibaculum
+161133,,"JCM 11208, IAM 14913",0,"Tenacibaculum sp.",Tenacibaculum
+161854,,"JCM 16663",0,"Tenacibaculum sp.",Tenacibaculum
+163165,,"JCM 21371, IAM 14874",0,"Tenacibaculum sp.",Tenacibaculum
+163178,,"JCM 21405, IAM 14923",0,"Tenacibaculum sp.",Tenacibaculum
+163179,,"JCM 21406, IAM 14924",0,"Tenacibaculum sp.",Tenacibaculum
+163180,,"JCM 21407, IAM 14925",0,"Tenacibaculum sp.",Tenacibaculum
+158792,LPB0136,"KACC 18887, JCM 31564",1,"Tenacibaculum todarodis",Tenacibaculum
+134010,WJ-1,"CGMCC 1.12378, LMG 27422",1,"Tenacibaculum xiamenense",Tenacibaculum
+168247,BIT-L3,"LMG 32222T, CCTCC AB 2020371T, TBRC 14825T",1,"Tenebrionibacter intestinalis",Tenebrionibacter
+168506,YMB-R21,"KCTC 82597, CCM 9152",1,"Tenebrionicola larvae",Tenebrionicola
+132445,S6R2A4-9,"DSM 28944, CGMCC 4.7241, JCM 30907",1,"Tenggerimyces flavus",Tenggerimyces
+131453,l12A-02601,"DSM 45829, CPCC 203544, KCTC 39761, NBRC 109454",1,"Tenggerimyces mesophilus",Tenggerimyces
+166542,Uno3,"NBRC 113152, LMG 30471, BCRC 81113",1,"Tengunoibacter tsumagoiensis",Tengunoibacter
+22932,,"DSM 25925, CCTCC AB 2012860, KCTC 33046, YIM 94025",1,"Tenuibacillus halotolerans",Tenuibacillus
+134095,28-1,"AS 1.3442, NBRC 100370",1,"Tenuibacillus multivorans",Tenuibacillus
+159905,"38H-Str., 38H-str","DSM 100343, VKM B-2964",1,"Tenuifilum thalassicum",Tenuifilum
+13877,CB-27A,"DSM 19345, LMG 24113",1,"Tepidamorphus gemmatus",Tepidamorphus
+23244,CB-26A,"DSM 19344, LMG 24114",0,"Tepidamorphus gemmatus",Tepidamorphus
+16801,Re1,"DSM 21804, JCM 16047",1,"Tepidanaerobacter acetatoxydans",Tepidanaerobacter
+161708,,"JCM 16048",0,"Tepidanaerobacter acetatoxydans",Tepidanaerobacter
+161709,,"JCM 16049",0,"Tepidanaerobacter acetatoxydans",Tepidanaerobacter
+161710,,"JCM 16050",0,"Tepidanaerobacter acetatoxydans",Tepidanaerobacter
+16798,JL,"DSM 15584, JCM 12098, NBRC 100060",1,"Tepidanaerobacter syntrophicus",Tepidanaerobacter
+16799,JE,"DSM 15585, JCM 12099, NBRC 100061",0,"Tepidanaerobacter syntrophicus",Tepidanaerobacter
+16800,OL,"DSM 15586, JCM 12100, NBRC 100062",0,"Tepidanaerobacter syntrophicus",Tepidanaerobacter
+132643,Z9,"DSM 103037, ATCC BAA-2644, JCM 31418",1,"Tepidibacillus decaturensis",Tepidibacillus
+23768,STGH,"DSM 23802, VKM B-2671",1,"Tepidibacillus fermentans",Tepidibacillus
+132590,MBL-TLP,"DSM 28123, VKM B-2949",1,"Tepidibacillus infernus",Tepidibacillus
+11851,"DV 1184","DSM 15518, CIP 107893",1,"Tepidibacter formicigenes",Tepidibacter
+24302,B1,"DSM 28717, CGMCC 1.5148, JCM 16806",1,"Tepidibacter mesophilus",Tepidibacter
+164182,,"JCM 32064",0,"Tepidibacter sp.",Tepidibacter
+11850,,"DSM 15285, UNIQEM 215, SC 562",1,"Tepidibacter thalassicus",Tepidibacter
+158447,,"DSM 28577, VKM B-2882, STR 9",1,"Tepidibaculum saccharolyticum",Tepidibaculum
+131349,MA2,"DSM 27167, NBRC 109643",1,"Tepidicaulis marinus",Tepidicaulis
+3021,TU-16,"DSM 19605, CIP 108724, LMG 23030",1,"Tepidicella xavieri",Tepidicella
+167812,"3753O, KTCT 72284","VKM B-3389, KCTC 72284",1,"Tepidiforma bonchosmolovskayae",Tepidiforma
+2514,SB91,"DSM 16624, VKM B-2348",1,"Tepidimicrobium ferriphilum",Tepidimicrobium
+132002,,"DSM 19023, EBR 599",0,"Tepidimicrobium sp.",Tepidimicrobium
+158044,acetate1,"DSM 22658",0,"Tepidimicrobium sp.",Tepidimicrobium
+2515,PML14,"DSM 23310, CGMCC 1.5080, JCM 15035",1,"Tepidimicrobium xylanilyticum",Tepidimicrobium
+168162,"YIM 72238","KCTC 52717, CCTCC AB 2017168",1,"Tepidimonas alkaliphila",Tepidimonas
+17944,CLN-1,"DSM 14833, CCUG 48750, ATCC BAA-469",1,"Tepidimonas aquatica",Tepidimonas
+147968,,"CCUG 34595",0,"Tepidimonas aquatica",Tepidimonas
+161330,,"JCM 13232, ABB 0301, KCTC 12412",1,"Tepidimonas arfidensis",Tepidimonas
+167960,SPSP-6,"LMG 30884, CECT 9683",1,"Tepidimonas charontis",Tepidimonas
+133882,AT-A2,"LMG 26746, KCTC 23862, BCRC 80391",1,"Tepidimonas fonticaldi",Tepidimonas
+17942,SPS-1037,"DSM 12034",1,"Tepidimonas ignava",Tepidimonas
+168643,"YIM 72259","NBRC 112410, CGMCC 1.15971",1,"Tepidimonas sediminis",Tepidimonas
+132827,7A-7,"DSM 14591, JCM 11420",0,"Tepidimonas sp.",Tepidimonas
+17943,C2,"DSM 13294, ATCC 35961, NCIMB 11893",0,"Tepidimonas sp.",Tepidimonas
+168906,I1-1,"LMG 22826, BCRC 17406",1,"Tepidimonas taiwanensis",Tepidimonas
+135751,AA-1,"CIP 108777, LMG 23094",1,"Tepidimonas thermarum",Tepidimonas
+166324,B18-69,"CGMCC 1.13573, KCTC 62782",1,"Tepidiphilus baoligensis",Tepidiphilus
+6139,N2-214,"DSM 15129, LMG 21637",1,"Tepidiphilus margaritifer",Tepidiphilus
+166677,J-18,"CGMCC 1.16800, LMG 31400",1,"Tepidiphilus olei",Tepidiphilus
+6138,4BON,"DSM 15512, CIP 107790",1,"Tepidiphilus succinatimandens",Tepidiphilus
+24103,"JHK 30","DSM 27220, JCM 19170, LMG 27587",1,"Tepidiphilus thermophilus",Tepidiphilus
+162647,,"JCM 19875, VKM B-2832",1,"Tepidisphaera mucosa",Tepidisphaera
+160808,sy52,"DSM 105848, NBRC 112788",1,"Tepiditoga spiralis",Tepiditoga
+140870,B3,"KCTC 42652, CGMCC 1.15254",1,"Terasakiella brassicae",Terasakiella
+7228,"IF 6, IF6","DSM 6293, ATCC 33338, IAM 14442, IFO 13613, NBRC 13613, NCIMB 2229, JCM 21225, CIP 103382, LMG 5308, LMG 7372",1,"Terasakiella pusilla",Terasakiella
+159699,KMU-80,"KCCM 90274, NBRC 112846",1,"Terasakiella salincola",Terasakiella
+131451,PH27A,"DSM 16455, ATCC BAA-995, DSM 23961, CIP 108451",1,"Terasakiispira papahanaumokuakeensis",Terasakiispira
+131452,PH27A,"DSM 29361, ATCC BAA-995",1,"Terasakiispira papahanaumokuakeensis",Terasakiispira
+167326,Bcs2T,"KCTC 62966T, ATCC TSD-123T",1,"Teredinibacter franksiae",Teredinibacter
+167489,Bs08,"KCTC 62964T, ATCC TSD-121T",1,"Teredinibacter haidensis",Teredinibacter
+140442,F316,"DSM 21037, NBRC 103726",0,"Teredinibacter sp.",Teredinibacter
+24757,T7902,"DSM 15152, ATCC 39867",1,"Teredinibacter turnerae",Teredinibacter
+24754,T7901,"DSM 15142",0,"Teredinibacter turnerae",Teredinibacter
+24755,T7903,"DSM 15143",0,"Teredinibacter turnerae",Teredinibacter
+24756,T8201,"DSM 15144",0,"Teredinibacter turnerae",Teredinibacter
+24758,T8602,"DSM 15167",0,"Teredinibacter turnerae",Teredinibacter
+24759,T8402,"DSM 15175",0,"Teredinibacter turnerae",Teredinibacter
+166986,Bs02,"KCTC 62963T, ATCC TSD-120T",1,"Teredinibacter waterburyi",Teredinibacter
+6290,5414T-18,"DSM 18563, KACC 20693, JCM 17687, KCTC 39581, NBRC 109777",1,"Terrabacter aeriphilus",Terrabacter
+6288,5516J-36,"DSM 18562, CIP 109801, KACC 20556, JCM 16379, KCTC 39580, NBRC 106305",1,"Terrabacter aerolatus",Terrabacter
+24113,PY2,"DSM 27984, JCM 16259, KCCM 42922, KCTC 39579",1,"Terrabacter carboxydivorans",Terrabacter
+168670,"Gsoil 653","KACC 19444, LMG 30325",1,"Terrabacter ginsengisoli",Terrabacter
+24112,,"DSM 21007, KCTC 19421, Gsoil 3082, JCM 17125",1,"Terrabacter ginsenosidimutans",Terrabacter
+131298,THG-e54,"DSM 100923, JCM 19342, KACC 17589, KCTC 39582",1,"Terrabacter koreensis",Terrabacter
+6287,LR-26,"DSM 18583, JBRI 2002, KCTC 19199, JCM 15628",1,"Terrabacter lapilli",Terrabacter
+132004,Root181,"DSM 102553",0,"Terrabacter sp.",Terrabacter
+132005,,"DSM 102792, Soil 811",0,"Terrabacter sp.",Terrabacter
+132006,,"DSM 102793, Soil 810",0,"Terrabacter sp.",Terrabacter
+154538,,"CCUG 54284",0,"Terrabacter sp.",Terrabacter
+139834,Sco-D21,"DSM 22181",0,"Terrabacter sp.",Terrabacter
+6286,KO_54,"DSM 30823",0,"Terrabacter sp.",Terrabacter
+103188,ST020977(HKI),,0,"Terrabacter sp.",Terrabacter
+103189,ST028774(HKI),,0,"Terrabacter sp.",Terrabacter
+103190,ST028795(HKI),,0,"Terrabacter sp.",Terrabacter
+103191,ST028815(HKI),,0,"Terrabacter sp.",Terrabacter
+103192,ST001868(HKI),,0,"Terrabacter sp.",Terrabacter
+103193,ST028798(HKI),,0,"Terrabacter sp.",Terrabacter
+103194,ST020152(HKI),,0,"Terrabacter sp.",Terrabacter
+103195,ST021809(HKI),,0,"Terrabacter sp.",Terrabacter
+103196,ST028174(HKI),,0,"Terrabacter sp.",Terrabacter
+103197,ST028161(HKI),,0,"Terrabacter sp.",Terrabacter
+157986,2APm3,"DSM 28514",0,"Terrabacter sp.",Terrabacter
+132003,Root85,"DSM 102554",0,"Terrabacter sp.",Terrabacter
+134149,PPLB,"CECT 3379, LMG 22921, JCM 14283, CIP 109085, IAM 15339, KCTC 39574",1,"Terrabacter terrae",Terrabacter
+6289,ON10,"DSM 23140, CCUG 57508, JCM 31984, KCTC 19602",1,"Terrabacter terrigena",Terrabacter
+6285,,"DSM 20308, ATCC 6947, CCM 1655, IMET 10431, NCIB 8914, NCTC 4216, CCUG 23850, LMG 3818, CCTM La2715, CIP 102515, JCM 1365, BCRC 17052, CCUG 23928, CGMCC 1.2032, IAM 12345, IAM 14295, IFO 12960, IMSNU 21313, KCTC 9133, NBRC 12960, NCDO 1574, NCIMB 8914, NRIC 0156, NRRL B-4012, VKM Ac-1120, VKM B-669",1,"Terrabacter tumescens",Terrabacter
+103198,"STI07405(IMET), GT19942005","IMET 07130, IMET 7405, IMET 7130",0,"Terrabacter tumescens",Terrabacter
+103199,"STI07003(IMET), 369-074, GT19952031","IMET 7003",0,"Terrabacter tumescens",Terrabacter
+103200,"STI07006(IMET), GT19952032, 377-078",,0,"Terrabacter tumescens",Terrabacter
+103201,STI07011(IMET),"IMET 7011",0,"Terrabacter tumescens",Terrabacter
+152661,,"CCUG 47307",0,"Terrabacter tumescens",Terrabacter
+132980,S55,"DSM 100509, CECT 8791, NBRC 111238",1,"Terracidiphilus gabretensis",Terracidiphilus
+6291,"1344-199, ID 3871","DSM 44267, CCM 4701, CIP 105511, IFO 16165, IMET 7848, NBRC 16165, JCM 10981, ATCC 700812, CCUG 39186, CCUG 43285, IAM 15303, IMSNU 22113, KCTC 9823",1,"Terracoccus luteus",Terracoccus
+6292,,"DSM 44274, IMET 7848-S",0,"Terracoccus luteus",Terracoccus
+6293,,"DSM 44275, IMET 7848-r",0,"Terracoccus luteus",Terracoccus
+105454,"ST027333(HKI), F164",,0,"Terracoccus sp.",Terracoccus
+23755,YI7-61,"DSM 28352, CGMCC 1.8913, NBRC 105790",1,"Terribacillus aidingensis",Terribacillus
+1517,CL-GR16,"DSM 18252, KCCM 42329",1,"Terribacillus goriensis",Terribacillus
+1518,002-051,"DSM 21620, IAM 15310, JCM 21760, KCTC 13937, CGMCC 1.7684, CIP 109484",1,"Terribacillus halophilus",Terribacillus
+1519,002-048,"DSM 21619, IAM 15309, JCM 21759, KCTC 13936, CGMCC 1.7685, CIP 109483",1,"Terribacillus saccharophilus",Terribacillus
+134671,,"CIP 55.57",0,"Terribacillus saccharophilus",Terribacillus
+139085,R558,"CIP 101226",0,"Terribacillus saccharophilus",Terribacillus
+166648,0127_4,"DSM 104635, CECT 9243",1,"Terricaulis silvestris",Terricaulis
+131450,Ac_26_B10,"DSM 26559, LMG 27984",1,"Terriglobus albidus",Terriglobus
+130139,03SUJ4,"DSM 29483, JCM 17517, KCTC 23332",1,"Terriglobus aquaticus",Terriglobus
+134,,"DSM 18391, NRRL B-41598, KBS 63",1,"Terriglobus roseus",Terriglobus
+135,SP1PR4,"DSM 23119, ATCC BAA-1853",1,"Terriglobus saanensis",Terriglobus
+132010,"TAA 43","DSM 24187",0,"Terriglobus sp.",Terriglobus
+22897,KMR,"DSM 18693",0,"Terriglobus sp.",Terriglobus
+23517,DRP-35,"DSM 28898, KACC 16474, NBRC 109677, DRP 35",1,"Terriglobus tenax",Terriglobus
+166654,IZ6,"NBRC 106741, NCIMB 15058",1,"Terrihabitans soli",Terrihabitans
+140911,NK26-11,"LMG 27803, TISTR 2241, PCU 335",1,"Terrilactibacillus laevilacticus",Terrilactibacillus
+164641,,"JCM 33748, LMG 31662, TISTR 2841",1,"Terrilactibacillus tamarindi",Terrilactibacillus
+7303,MSL-15,"DSM 19267, JCM 16539, KCTC 19270, MSL 15, CGMCC 1.10440",1,"Terrimesophilobacter mesophilus",Terrimesophilobacter
+162025,,"JCM 17479, CGMCC 1.5168",1,"Terrimicrobium sacchariphilum",Terrimicrobium
+133610,RIB1-6,"BCRC 17941, LMG 24825",1,"Terrimonas aquatica",Terrimonas
+168803,R9-86,"CCTCC AB 2011004, NRRL B-59114",1,"Terrimonas arctica",Terrimonas
+133391,M1-33108,"CCTCC AB 2016103, KCTC 52448",1,"Terrimonas crocea",Terrimonas
+17755,3576,"DSM 30193, ATCC 13524, IAM 15098, LMG 4021, NBRC 14992, CCUG 33443, JCM 21559, BCRC 17944, IFO 14992, LMG 10403, NCIMB 11299, CIP 109225",1,"Terrimonas ferruginea",Terrimonas
+170816,NA20,"LMG 32198, KACC 22218",1,"Terrimonas ginsenosidimutans",Terrimonas
+134180,DY,"IAM 15284, CCTCC AB 205006, JCM 21735, BCRC 17943, CIP 109226",1,"Terrimonas lutea",Terrimonas
+133776,QH,"CICC 10452, NCCB 100397",1,"Terrimonas pekingensis",Terrimonas
+133334,CR94,"KACC 17564, NCAIM B 025317",1,"Terrimonas rhizosphaerae",Terrimonas
+133766,M-8,"CCTCC AB 2010401, KCTC 23299",1,"Terrimonas rubra",Terrimonas
+158697,FL-8,"CCTCC AB 2017059, JCM 32095",1,"Terrimonas soli",Terrimonas
+158221,"YJ 03","DSM 25301",0,"Terrimonas sp.",Terrimonas
+140677,T16R-129,"KACC 18787, JCM 31603",1,"Terrimonas terrae",Terrimonas
+2596,,"DSM 1288, ATCC 14880, BCRC 14553, JCM 1401, NCIMB 10632, NCTC 13026",1,"Terrisporobacter glycolicus",Terrisporobacter
+2597,"CIN5, CIN 5","DSM 13561, CIP 106672",0,"Terrisporobacter glycolicus",Terrisporobacter
+2598,RD-1,"DSM 13865",0,"Terrisporobacter glycolicus",Terrisporobacter
+170416,MCA3,"LMG 32430, NCTC 14625",1,"Terrisporobacter hibernicus",Terrisporobacter
+2757,SFC-5,"DSM 6539, ATCC 51428",1,"Terrisporobacter mayombei",Terrisporobacter
+100448,SF009091(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100294,STI10802(IMET),"SG 808",0,"Terrisporobacter mayombei",Terrisporobacter
+100480,SF009060(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100326,SF009107(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100512,SF009239(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100358,SF009125(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100289,"STI11386(IMET), R1818",,0,"Terrisporobacter mayombei",Terrisporobacter
+100390,SF009205(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100321,SF009087(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100422,SF009267(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100353,SF009076(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100454,SF009099(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100385,SF009195(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100486,SF009146(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100417,SF009252(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100518,SF009264(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100449,SF009092(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100295,STI10803(IMET),"SG 809",0,"Terrisporobacter mayombei",Terrisporobacter
+100481,SF009074(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100327,SF009113(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100513,SF009243(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100359,SF009134(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100290,"STI11387(IMET), RP1",,0,"Terrisporobacter mayombei",Terrisporobacter
+100322,SF009090(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100354,SF009089(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100317,SF009072(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100386,SF009196(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100349,SF009265(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100418,SF009255(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100381,SF009187(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100450,SF009093(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100413,SF009246(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100482,SF009088(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100445,SF009084(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100514,SF009249(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100477,SF009152(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100291,"STI10773(IMET), CSH-2",,0,"Terrisporobacter mayombei",Terrisporobacter
+100509,SF009229(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100323,SF009094(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100285,STI11121(IMET),,0,"Terrisporobacter mayombei",Terrisporobacter
+100355,SF009102(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100286,STI11164(IMET),"NCIB 8571",0,"Terrisporobacter mayombei",Terrisporobacter
+100387,SF009198(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100318,SF009077(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100419,SF009257(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100350,SF009271(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100451,SF009096(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100382,SF009188(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100483,SF009101(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100414,SF009247(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100515,SF009253(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100446,SF009085(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100292,STI10810(IMET),"SG 820",0,"Terrisporobacter mayombei",Terrisporobacter
+100478,SF009281(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100324,SF009095(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100510,SF009233(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100356,SF009110(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100287,STI10943(IMET),"NCIB 9485",0,"Terrisporobacter mayombei",Terrisporobacter
+100388,SF009200(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100319,SF009081(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100420,SF009258(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100351,SF009278(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100452,SF009097(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100383,SF009190(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100484,SF009115(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100415,SF009250(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100516,SF009254(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100447,SF009086(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100293,STI10811(IMET),"SG 821",0,"Terrisporobacter mayombei",Terrisporobacter
+100479,SF009133(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100325,SF009100(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100511,SF009234(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100357,SF009119(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100288,"STI11167(IMET), PBR322",,0,"Terrisporobacter mayombei",Terrisporobacter
+100389,SF009202(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100320,SF009082(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100421,SF009262(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100352,SF009063(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100453,SF009098(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100384,SF009191(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100485,SF009132(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100416,SF009251(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100517,SF009259(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100363,SF009154(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100432,SF009057(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100395,SF009215(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100464,SF009123(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100427,SF009277(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100496,"SF009183(FSU), HB 101-111 MET-",,0,"Terrisporobacter mayombei",Terrisporobacter
+100459,SF009112(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100272,"STI10617(IMET), B",,0,"Terrisporobacter mayombei",Terrisporobacter
+100491,SF009228(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100528,SF009103(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100523,SF009224(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100305,SF002775(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100300,"STI11385(IMET), 3072WS",,0,"Terrisporobacter mayombei",Terrisporobacter
+100337,SF009169(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100332,SF009131(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100369,SF009160(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100364,SF009155(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100401,SF009226(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100396,SF009216(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100428,SF009280(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100460,SF009114(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100391,SF009206(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100492,SF009245(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100423,SF009268(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100524,SF009244(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100455,SF009104(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100301,SF002741(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100487,SF009164(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100333,SF009136(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100519,SF009269(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100365,SF009156(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100296,STI10804(IMET),"SG 811",0,"Terrisporobacter mayombei",Terrisporobacter
+100397,SF009218(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100328,SF009116(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100429,SF009282(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100360,SF009141(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100461,SF009117(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100392,SF009207(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100493,SF009260(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100424,SF009270(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100525,SF009263(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100456,SF009105(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100302,SF002751(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100488,SF009181(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100334,SF009140(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100520,SF009273(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100366,SF009157(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100297,"STI11289(IMET), WF+",,0,"Terrisporobacter mayombei",Terrisporobacter
+100398,SF009220(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100329,SF009120(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100430,SF009055(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100361,SF009150(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100462,SF009118(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100393,SF009210(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100494,SF009276(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100425,SF009272(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100526,SF009283(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100457,SF009106(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100303,SF002773(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100489,SF009197(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100335,SF009147(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100521,SF009274(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100367,SF009158(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100298,STI10805(IMET),"SG 812",0,"Terrisporobacter mayombei",Terrisporobacter
+100399,SF009221(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100330,SF009126(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100431,SF009056(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100362,SF009153(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100463,SF009122(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100394,SF009211(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100495,SF009179(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100426,SF009275(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100271,STH00295(ZIMET),"HKI 0295",0,"Terrisporobacter mayombei",Terrisporobacter
+100458,SF009109(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100527,SF009071(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100490,SF009212(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100304,SF002774(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100522,SF009279(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100336,SF009148(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100299,STI10806(IMET),"SG 813",0,"Terrisporobacter mayombei",Terrisporobacter
+100368,SF009159(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100331,SF009130(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100400,SF009222(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100281,STI10814(IMET),"SG 824",0,"Terrisporobacter mayombei",Terrisporobacter
+100373,SF009167(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100538,SF009172(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100405,SF009236(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100314,SF009059(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100437,SF009068(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100346,SF009240(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100469,SF009135(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100378,SF009180(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100501,SF009199(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100410,SF009238(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100277,STI10808(IMET),"SG 818",0,"Terrisporobacter mayombei",Terrisporobacter
+100442,SF009078(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100533,SF009266(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100310,SF002780(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100342,SF009208(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100433,SF009061(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100374,SF009173(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100465,SF009124(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100406,SF009163(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100497,SF009184(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100438,SF009069(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100273,"STI10736(IMET), Maas99-4",,0,"Terrisporobacter mayombei",Terrisporobacter
+100470,SF009137(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100529,SF009121(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100502,SF009203(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100306,SF002776(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100278,STI10809(IMET),"SG 819",0,"Terrisporobacter mayombei",Terrisporobacter
+100338,SF009177(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100534,SF009080(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100370,SF009161(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100535,SF009111(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100402,SF009227(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100311,SF002781(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100434,SF009062(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100343,SF009217(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100466,SF009127(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100375,SF009174(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100498,SF009189(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100407,SF009166(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100274,STI10790(IMET),"SG 802",0,"Terrisporobacter mayombei",Terrisporobacter
+100439,SF009070(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100530,SF009143(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100471,SF009138(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100307,SF002777(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100503,SF009204(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100339,SF009186(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100279,STI10812(IMET),"SG 822",0,"Terrisporobacter mayombei",Terrisporobacter
+100371,SF009162(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100536,SF009144(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100403,SF009230(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100312,SF009261(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100435,SF009066(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100344,SF009225(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100467,SF009128(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100376,SF009175(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100499,SF009193(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100408,SF009176(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100275,STI10801(IMET),"SG 805",0,"Terrisporobacter mayombei",Terrisporobacter
+100440,SF009073(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100531,SF009171(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100472,SF009139(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100308,SF002778(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100504,SF009209(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100340,SF009192(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100280,STI10813(IMET),"SG 823",0,"Terrisporobacter mayombei",Terrisporobacter
+100372,SF009165(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100537,SF009108(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100404,SF009235(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100313,SF009054(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100436,SF009067(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100345,SF009232(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100468,SF009129(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100377,SF009178(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100500,SF009194(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100409,SF009237(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100276,STI10807(IMET),"SG 814",0,"Terrisporobacter mayombei",Terrisporobacter
+100441,SF009075(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100532,SF009231(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100473,SF009142(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100309,SF002779(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100505,SF009213(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100341,SF009201(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100474,SF009145(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100506,SF009214(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100282,STI10815(IMET),"SG 825",0,"Terrisporobacter mayombei",Terrisporobacter
+100315,SF009064(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100347,SF009248(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100379,SF009182(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100411,SF009241(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100443,SF009079(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100475,SF009149(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100507,SF009219(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100283,STI10816(IMET),"SG 826",0,"Terrisporobacter mayombei",Terrisporobacter
+100316,SF009065(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100348,SF009256(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100380,SF009185(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100412,SF009242(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100444,SF009083(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100476,SF009151(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100508,SF009223(FSU),,0,"Terrisporobacter mayombei",Terrisporobacter
+100284,STI10942(IMET),"NCIB 9551",0,"Terrisporobacter mayombei",Terrisporobacter
+162630,,"JCM 19845, ACCC 00740",1,"Terrisporobacter petrolearius",Terrisporobacter
+131514,CCK3R4-PYG-107,"DSM 29186",0,"Terrisporobacter muris",Terrisporobacter
+23112,1P05MA,"DSM 30849, JCM 31985, NRRL B-59547",1,"Tersicoccus phoenicis",Tersicoccus
+23111,KO_PS43,"DSM 30842",0,"Tersicoccus phoenicis",Tersicoccus
+133304,36A,"KCTC 33776, CGMCC 1.15480",1,"Tersicoccus solisilvae",Tersicoccus
+164455,JDX10,"JCM 33126, KCTC 49242, MCCC 1H00351",1,"Tessaracoccus antarcticus",Tessaracoccus
+158783,NSG39,"KACC 17540, JCM 19289",1,"Tessaracoccus aquimaris",Tessaracoccus
+140588,,"KCTC 39760, NBRC 111973, CAU 1319",1,"Tessaracoccus arenae",Tessaracoccus
+12664,KSBR1,"DSM 12906, ACM 5119, JCM 13525, Ben 106, CGMCC 1.10443, CGMCC 1.6780",1,"Tessaracoccus bendigoensis",Tessaracoccus
+164629,,"JCM 33674, KACC 21348, KCTC 49324",1,"Tessaracoccus coleopterorum",Tessaracoccus
+162034,,"JCM 17540, KEMB 5401-076",1,"Tessaracoccus defluvii",Tessaracoccus
+12666,SST-39,"DSM 18582, KCTC 19196, JCM 16025, CGMCC 1.10436",1,"Tessaracoccus flavescens",Tessaracoccus
+132480,RP1,"DSM 100159, KCTC 39686, MCC 2769",1,"Tessaracoccus flavus",Tessaracoccus
+130546,"NR2A-7, IPBSL-7","DSM 27266, CECT 8385",1,"Tessaracoccus lapidicaptus",Tessaracoccus
+12665,KSS-17Se,"DSM 19926, CCUG 55516, JCM 19125",1,"Tessaracoccus lubricantis",Tessaracoccus
+132267,,"DSM 29060, CSUR P1301, SIT 7",0,"Tessaracoccus massiliensis",Tessaracoccus
+160329,1a6R-CH11an,"DSM 107103",0,"Tessaracoccus nasisuum",Tessaracoccus
+12668,SL014B-20A1,"DSM 22955, CGMCC 1.9159",1,"Tessaracoccus oleiagri",Tessaracoccus
+170359,J1M15,"KCTC 49462, CCUG 74766",1,"Tessaracoccus palaemonis",Tessaracoccus
+12667,,"DSM 21240, NCIMB 14440, CB 31",1,"Tessaracoccus profundi",Tessaracoccus
+132379,,"DSM 27597, CCTCC AB 2013217, YIM 101269, JCM 33580, DSM 27579",1,"Tessaracoccus rhinocerotis",Tessaracoccus
+169645,,"DSM 102199, CPCC 204149",0,"Tessaracoccus sp.",Tessaracoccus
+158608,Brt-A,"KEMB 9005-690, KACC 19391, JCM 32157",1,"Tessaracoccus terricola",Tessaracoccus
+132402,ELNT2x,"DSM 28140, CCUG 65146",1,"Testudinibacter aquarius",Testudinibacter
+162790,,"JCM 2016, TISTR 346",0,"Tetragenococcus halophilus",Tetragenococcus
+162795,,"JCM 2017",0,"Tetragenococcus halophilus",Tetragenococcus
+153369,,"CCUG 49357",0,"Tetragenococcus halophilus",Tetragenococcus
+162801,,"JCM 2018",0,"Tetragenococcus halophilus",Tetragenococcus
+162805,,"JCM 2019",0,"Tetragenococcus halophilus",Tetragenococcus
+147215,,"CCUG 33069",0,"Tetragenococcus halophilus",Tetragenococcus
+162809,,"JCM 2020",0,"Tetragenococcus halophilus",Tetragenococcus
+162821,,"JCM 20246, IAM 1674, NISL 7118",0,"Tetragenococcus halophilus",Tetragenococcus
+153961,,"CCUG 51777",0,"Tetragenococcus halophilus",Tetragenococcus
+162822,,"JCM 20247, IAM 1675, NISL 7126",0,"Tetragenococcus halophilus",Tetragenococcus
+162823,,"JCM 20249, IAM 1678, NISL 7116",0,"Tetragenococcus halophilus",Tetragenococcus
+162824,,"JCM 20250, ATCC 13622, IAM 1681",0,"Tetragenococcus halophilus",Tetragenococcus
+154280,,"CCUG 52959",0,"Tetragenococcus halophilus",Tetragenococcus
+162825,,"JCM 20251, IAM 1682, NISL 7119",0,"Tetragenococcus halophilus",Tetragenococcus
+154281,,"CCUG 52960",0,"Tetragenococcus halophilus",Tetragenococcus
+162826,,"JCM 20254, ATCC 13623, IAM 1685",0,"Tetragenococcus halophilus",Tetragenococcus
+154317,,"CCUG 53046",0,"Tetragenococcus halophilus",Tetragenococcus
+162827,,"JCM 20255, IAM 1686, NISL 7120",0,"Tetragenococcus halophilus",Tetragenococcus
+162828,,"JCM 20256, ATCC 13624, IAM 1688",0,"Tetragenococcus halophilus",Tetragenococcus
+162829,,"JCM 20257, IAM 1689, NISL 7121",0,"Tetragenococcus halophilus",Tetragenococcus
+154634,,"CCUG 54657",0,"Tetragenococcus halophilus",Tetragenococcus
+162830,,"JCM 20258, IAM 1692",0,"Tetragenococcus halophilus",Tetragenococcus
+145984,,"CCUG 30089",0,"Tetragenococcus halophilus",Tetragenococcus
+162832,,"JCM 20260, IAM 1698, NISL 7123",0,"Tetragenococcus halophilus",Tetragenococcus
+162833,,"JCM 20261, IAM 1702, NISL 7125",0,"Tetragenococcus halophilus",Tetragenococcus
+162452,,"JCM 19268",0,"Tetragenococcus halophilus",Tetragenococcus
+162453,,"JCM 19269",0,"Tetragenococcus halophilus",Tetragenococcus
+5260,T5,"DSM 23766, LMG 26042, JCM 31127",1,"Tetragenococcus halophilus subsp. flandriensis",Tetragenococcus
+5255,T11,"DSM 20339, ATCC 33315, IAM 1676, LMG 11490, NCDO 1635, CCUG 32204, CCM 3458, TC 1, JCM 5888, BCRC 12550, CECT 4792, CIP 102263, IAM 12284, NBRC 100498, NCFB 1635, NCIMB 12011",1,"Tetragenococcus halophilus subsp. halophilus",Tetragenococcus
+162786,,"JCM 2015",0,"Tetragenococcus halophilus subsp. halophilus",Tetragenococcus
+162820,,"JCM 20245, ATCC 13621, IAM 1673",0,"Tetragenococcus halophilus subsp. halophilus",Tetragenococcus
+5253,"dl 2, TVA 7-16","DSM 20337, JCM 20252, IAM 1683, NISL 7128",0,"Tetragenococcus halophilus subsp. halophilus",Tetragenococcus
+5254,,"DSM 20338, IFO 12172, NBRC 12172, NCDO 1872, NCIB 9735, JCM 20259, IAM 1693, NCIMB 9735, NISL 7117",0,"Tetragenococcus halophilus subsp. halophilus",Tetragenococcus
+5258,"Jenil, JS","CCUG 52901, DSM 16501, KCTC 3924, LMG 22864, JCM 18085, CIP 108884, NBRC 106072",1,"Tetragenococcus koreensis",Tetragenococcus
+5257,X-1,"DSM 15685, JCM 10006, CCUG 41880, CIP 105747, LMG 18498, KCTC 21008, NBRC 100499",1,"Tetragenococcus muriaticus",Tetragenococcus
+137303,X-2,"CIP 105748, JCM 10007",0,"Tetragenococcus muriaticus",Tetragenococcus
+5259,T1,"DSM 23765, LMG 26041, LMG 10702, JCM 31126",1,"Tetragenococcus osmophilus",Tetragenococcus
+5256,"885/78, 885-78","CCUG 29293, LMG 12890, CIP 103330, JCM 8736, DSM 5634, ATCC 49428, NCTC 12193, CCM 4217, CDC 885-78, KCTC 3553, KCTC 3923, NBRC 100494, NCIMB 12902",1,"Tetragenococcus solitarius",Tetragenococcus
+153791,,"CCUG 50982",0,"Tetragenococcus sp.",Tetragenococcus
+153792,,"CCUG 50983",0,"Tetragenococcus sp.",Tetragenococcus
+6295,Glenelg,"DSM 12890, ACM 5117, Ben 109, JCM 21391, IAM 14901, KCTC 39584, NBRC 103087",1,"Tetrasphaera australiensis",Tetrasphaera
+6296,ETP-RAS,"DSM 13193, ACM 5118, IAM 14892, Ben 110, JCM 21382",0,"Tetrasphaera australiensis",Tetrasphaera
+6297,T1-X7,"DSM 13192, ACM 5116, IAM 14891, JCM 21381, KCTC 39583, NBRC 103088",1,"Tetrasphaera japonica",Tetrasphaera
+6300,,"DSM 17519, NCIMB 14128, Ben 74, JCM 15590, KCTC 39575",1,"Tetrasphaera jenkinsii",Tetrasphaera
+132333,,"DSM 102794, Soil 756",0,"Tetrasphaera sp.",Tetrasphaera
+140136,"YC 6726","DSM 21413",0,"Tetrasphaera sp.",Tetrasphaera
+6299,,"DSM 17518, NCIMB 14127, Ben 70, JCM 15591, KCTC 39576",1,"Tetrasphaera vanveenii",Tetrasphaera
+6301,,"DSM 17520, NCIMB 14129, Ver 1, JCM 15592, KCTC 39577",1,"Nostocoides limicola",Nostocoides
+23769,13CC,"DSM 24696, JCM 17654",1,"Texcoconibacillus texcoconensis",Texcoconibacillus
+163957,,"JCM 31134, KCTC 39634",1,"Thalassiella azotivora",Thalassiella
+1392,HS286,"DSM 21635, CCM 7597, JCM 15722",1,"Thalassobacillus cyri",Thalassobacillus
+1391,G-19.1,"DSM 16966, CCM 7282, CECT 7046, CIP 108959",1,"Thalassobacillus devorans",Thalassobacillus
+23740,AD-1,"DSM 27650, CCUG 56607, KCTC 13254",1,"Thalassobacillus hwangdonensis",Thalassobacillus
+1393,"18 OM, 18OM","DSM 22784, CECT 7566, JCM 16412",1,"Thalassobacillus pellis",Thalassobacillus
+169528,Hvs18,"DSM 28725",0,"Thalassobacillus sp.",Thalassobacillus
+159493,,"DSM 22231, YIM 7279",0,"Thalassobacillus sp.",Thalassobacillus
+159494,,"DSM 22232, YIM YA2",0,"Thalassobacillus sp.",Thalassobacillus
+162369,,"JCM 19033",0,"Thalassobacillus sp.",Thalassobacillus
+141073,HSF7,"KCTC 42651, MCCC 1K01158",1,"Thalassobaculum fulvum",Thalassobaculum
+14021,CL-GR58,"DSM 18839, KCCM 42674",1,"Thalassobaculum litoreum",Thalassobaculum
+14020,CZ41_10a,"DSM 19539, CIP 109604, MOLA 84, OOB 84",1,"Thalassobaculum salexigens",Thalassobaculum
+167649,8518,"KCTC 82576T, KMM 8518",1,"Thalassobius aquimarinus",Thalassobius
+168781,XSM11,"CECT 5118, LMG 29904",1,"Thalassobius autumnalis",Thalassobius
+13801,B6,"DSM 5887, ATCC 25655, CECT 4357, IAM 12617, JCM 20688, CIP 105976, IFO 15761, LMG 129, LMG 8174, NBRC 15761, NCIMB 2206",1,"Ruegeria gelatinovorans",Ruegeria
+130638,KU5D5,"DSM 29506, JCM 17792, KCTC 23660",1,"Lutimaribacter litoralis",Lutimaribacter
+140871,MME-075,"KCCM 43143, JCM 30758",1,"Thalassobius litorarius",Thalassobius
+167733,GS-10,"KCTC 82131, MCCC 1K03624",1,"Thalassobius mangrovi",Thalassobius
+13802,XSM19,"DSM 16398, CCUG 49438, CECT 5383, CIP 108400",1,"Thalassobius mediterraneus",Thalassobius
+164039,,"JCM 31360",0,"Thalassobius sp.",Thalassobius
+169677,THAF138,"DSM 106078",0,"Thalassobius sp.",Thalassobius
+13859,G4,"DSM 22007, KACC 13706",1,"Litorimicrobium taeanense",Litorimicrobium
+167510,ISS155,"CECT 9533, LMG 31237, ISS 155",1,"Thalassocella blandensis",Thalassocella
+23237,UST050418-052,"DSM 26915, JCM 13833, NRRL B-41465, CIP 109727, KCTC 22637",1,"Thalassococcus halodurans",Thalassococcus
+156571,,"CCUG 62791, KCTC 32084",1,"Thalassococcus lentus",Thalassococcus
+164142,WRAS1,"JCM 31873, CGMCC 1.16123, KCTC 52696, MCCC 1K03253",1,"Thalassococcus profundi",Thalassococcus
+163859,,"JCM 30682, BCRC 80818",1,"Thalassocola ureilytica",Thalassocola
+167176,KOR42,"DSM 104081, LMG 29823",1,"Thalassoglobus neptunius",Thalassoglobus
+166391,"Mal48, Malle 48","DSM 100737, LMG 29019",1,"Thalassoglobus polymorphus",Thalassoglobus
+170069,TMPB967,"KCTC 82621, MCCC 1K05476",1,"Thalassolituus alkanivorans",Thalassolituus
+170618,alknpb1M-1,"KCTC 82141, MCCC 1A17715",1,"Thalassolituus hydrocarboniclasticus",Thalassolituus
+168875,IMCC1826,"KCTC 23084, NBRC 107590",1,"Thalassolituus marinus",Thalassolituus
+11294,Mil-1,"DSM 14913, LMG 21420",1,"Thalassolituus oleivorans",Thalassolituus
+170619,59MF3M-4,"MCCC M21136, KCTC 92589",1,"Thalassolituus pacificus",Thalassolituus
+133421,A5K-106,"MBIC 08328, NCIMB 14418, NBRC 104231",1,"Thalassomonas actiniarum",Thalassomonas
+133422,A5K-61,"MBIC 08329, NCIMB 14417, NBRC 104232",1,"Thalassomonas haliotis",Thalassomonas
+2881,XOM25,"DSM 13754, CECT 5083",1,"Thalassomonas viridans",Thalassomonas
+2880,XOM5,"DSM 13753, CECT 5082, CIP 107165",0,"Thalassomonas viridans",Thalassomonas
+170911,TAU-A01011,"TAU-MAC 1515",1,"Thalassoporum komarekii",Thalassoporum
+166506,BH-SD16,"CCTCC AB 2017073, KCTC 62201",1,"Thalassorhabdomicrobium marinisediminis",Thalassorhabdomicrobium
+159743,G27,"MCC 3411, CGMCC 1.15772, KCTC 33941, KCTC 43224",1,"Thalassorhabdus alkalitolerans",Thalassorhabdus
+164121,,"JCM 31732, KCTC 52523",1,"Thalassorhabdus aurantiaca",Thalassorhabdus
+169706,FJAT-44742,"DSM 104055, CCTCC AB 2016231",0,"Thalassorhabdus sp.",Thalassorhabdus
+170853,JC658,"KCTC 72881, NBRC 114371",1,"Thalassoroseus pseudoceratinae",Thalassoroseus
+162358,,"JCM 18968, CECT 8273",1,"Thalassospira alkalitolerans",Thalassospira
+163969,,"JCM 31222, KMM 6365",1,"Thalassospira australica",Thalassospira
+133272,PB8B,"MCCC 1A01103, LMG 29620",1,"Thalassospira indica",Thalassospira
+168916,139Z-12,"MCC 2233, LMG 27449, NBRC 110402, KCTC 32347",1,"Thalassospira lohafexi",Thalassospira
+13965,QMT2,"DSM 14000, CECT 5290",1,"Thalassospira lucentensis",Thalassospira
+159890,CSC3H3,"MCCC 1A11786, KCTC 62333",1,"Thalassospira marina",Thalassospira
+162359,,"JCM 18969, CECT 8274",1,"Thalassospira mesophila",Thalassospira
+24533,,"DSM 26719, JCM 18746, Zumi 95",1,"Thalassospira povalilytica",Thalassospira
+13967,"WPO 211, WP0211","DSM 17430, CGMCC 1.3997, CIP 109532",1,"Thalassospira profundimaris",Thalassospira
+130657,GB04J01,"DSM 28654",0,"Thalassospira sp.",Thalassospira
+23249,"MACL 12","DSM 17669",0,"Thalassospira sp.",Thalassospira
+132864,Bp123,"DSM 19237, JCM 14697",0,"Thalassospira sp.",Thalassospira
+132865,G12-1,"DSM 21071, MBIC 24634",0,"Thalassospira sp.",Thalassospira
+132866,N5EA13-1A,"DSM 21073, MBIC 08335",0,"Thalassospira sp.",Thalassospira
+139993,TK-13(2),"DSM 26710",0,"Thalassospira sp.",Thalassospira
+24531,H88,"DSM 22940",0,"Thalassospira sp.",Thalassospira
+24532,H94,"DSM 22941",0,"Thalassospira sp.",Thalassospira
+161471,,"JCM 14264",0,"Thalassospira sp.",Thalassospira
+13968,1-1B,"DSM 18888, JCM 14578",1,"Thalassospira tepidiphila",Thalassospira
+13966,M-5,"DSM 17429, CGMCC 1.3998, CIP 109533",1,"Thalassospira xiamenensis",Thalassospira
+133545,P-4,"CGMCC 1.6849, JCM 14850",1,"Thalassospira xianhensis",Thalassospira
+156007,M-M1,"CCUG 60020, KCTC 23343",1,"Thalassotalea agariperforans",Thalassotalea
+2883,,"DSM 19706, BCRC 17492, JCM 13379, TMA 1",1,"Thalassotalea agarivorans",Thalassotalea
+132923,JAMB-A33,"DSM 17297, JCM xxxxx",0,"Thalassotalea agarivorans",Thalassotalea
+170058,M1531,"MCCC 1H00400, KCTC 72865",1,"Thalassotalea algicola",Thalassotalea
+158591,RZG4-3-1,"JCM 31894, KCTC 52745, MCCC 1K03276",1,"Thalassotalea atypica",Thalassotalea
+158584,,"BCRC 80967, LMG 29478, KCTC 52169, Eup a-8",1,"Thalassotalea coralli",Thalassotalea
+140539,LPB0090,"KACC 18695, JCM 31189",1,"Thalassotalea crassostreae",Thalassotalea
+133279,Eup-16,"BCRC 80910, LMG 29001, KCTC 42743",1,"Thalassotalea euphylliae",Thalassotalea
+132290,Za6a-12,"DSM 27068, CGMCC 1.12115, JCM 18482, BCRC 80945",1,"Thalassotalea eurytherma",Thalassotalea
+132291,Za6a-17,"DSM 27069, CGMCC 1.12116, JCM 18483",0,"Thalassotalea eurytherma",Thalassotalea
+168424,G-MB1,"NBRC 109830, KCTC 32499",1,"Thalassotalea fusca",Thalassotalea
+2882,"JC2041, JC 2041","DSM 15355, IMSNU 14005, KCTC 12041, CIP 108416",1,"Thalassotalea ganghwensis",Thalassotalea
+158713,JDTF-40,"KACC 19433, KCTC 62186, NBRC 113040",1,"Thalassotalea insulae",Thalassotalea
+140542,HMF4135,"KCTC 52154, NBRC 112672",1,"Thalassotalea litorea",Thalassotalea
+134151,,"LMG 22536, CBMAI 722",1,"Thalassotalea loyana",Thalassotalea
+166266,ZS-4,"KCTC 72399, MCCC 1K03630",1,"Thalassotalea mangrovi",Thalassotalea
+168112,QBLM2,"KCTC 42731, CGMCC 1.12814",1,"Thalassotalea marina",Thalassotalea
+133172,CL-22,"LMG 24827, BCRC 17940",1,"Thalassotalea montiporae",Thalassotalea
+23867,T202,"DSM 26287, JCM 18590, KCTC 32144",1,"Thalassotalea piscium",Thalassotalea
+170059,GJSW-36,"KCTC 42155, CECT 8656",1,"Thalassotalea ponticola",Thalassotalea
+132935,04OKA-12-54,"DSM 21072, MBIC 08336",0,"Thalassotalea ponticola",Thalassotalea
+140797,,"KACC 18563, CGMCC 1.15922, YM 155",1,"Thalassotalea profundi",Thalassotalea
+169148,N211,"MCCC 1H00116, KCTC 42588",1,"Thalassotalea sediminis",Thalassotalea
+13917,S2,"DSM 14742, LMG 26917, CIP 110164",1,"Thauera aminoaromatica",Thauera
+131088,MZ1,"DSM 25461",0,"Thauera aminoaromatica",Thauera
+13908,K172,"DSM 6984, CIP 107765",1,"Thauera aromatica",Thauera
+13909,AR-1,"DSM 11528",0,"Thauera aromatica",Thauera
+13910,S100,"DSM 14793",0,"Thauera aromatica",Thauera
+13911,LG356,"DSM 14794",0,"Thauera aromatica",Thauera
+13912,SP,"DSM 14805",0,"Thauera aromatica",Thauera
+13921,"Bu B1211, BUB-1211","DSM 2080, ATCC 43655, IAM 12574, CCUG 51053, JCM 20651, NBRC 103042, CIP 107886",1,"Thauera butanivorans",Thauera
+13920,3CB-1,"DSM 18012, ATCC 700723, CIP 107679, KCTC 12933",1,"Thauera chlorobenzoica",Thauera
+130655,SgZ-1,"DSM 100429, CCTCC M 2011497, KACC 16524",1,"Thauera humireducens",Thauera
+159755,GD-2,"NBRC 112472, CGMCC 1.15527",1,"Pseudothauera hydrothermalis",Pseudothauera
+166272,D20,"MCCC 1H00305, KCTC 62586",1,"Pseudothauera lacus",Pseudothauera
+13913,47Lol,"DSM 12138, CCUG 41526, JCM 21573, CIP 105981, IAM 15112",1,"Thauera linaloolentis",Thauera
+13916,TL1,"CCUG 48884, CIP 106978, ATCC 700857, DSM 12266",1,"Thauera mechernichensis",Thauera
+13918,B4P,"DSM 14743, LMG 26918, CIP 110163",1,"Thauera phenylacetica",Thauera
+13919,PIV1,"DSM 14691",0,"Thauera pivalivorans",Thauera
+158596,KNDSS-Mac4,"KCTC 52820, VTCC B-910017",1,"Thauera propionica",Thauera
+169053,AX,"ATCC 55363",1,"Thauera selenatis",Thauera
+164747,,"JCM 34237, CGMCC 1.15731, KACC 19216",1,"Thauera sinica",Thauera
+130651,O,"DSM 14973",0,"Thauera sp.",Thauera
+130652,27,"DSM 14974",0,"Thauera sp.",Thauera
+130653,28,"DSM 14975",0,"Thauera sp.",Thauera
+130654,1917,"DSM 14976",0,"Thauera sp.",Thauera
+161213,,"JCM 12309",0,"Thauera sp.",Thauera
+13121,PN-1,"DSM 6505, ATCC 43374",0,"Thauera sp.",Thauera
+13914,58Eu,"CCUG 41527, DSM 12139, CIP 105982",1,"Thauera terpenica",Thauera
+13915,21Mol,"DSM 12140, CCUG 41528",0,"Thauera terpenica",Thauera
+158345,"C4II 189","DSM 101554, JCM 31629",1,"Thaumasiovibrio occultus",Thaumasiovibrio
+161711,,"JCM 16053",0,"Thaumasiovibrio sp.",Thaumasiovibrio
+158346,C4V358,"DSM 101555, JCM 31630",1,"Thaumasiovibrio subtropicus",Thaumasiovibrio
+23328,PB,"DSM 26808, DSM 12270",1,"Thermacetogenium phaeum",Thermacetogenium
+161614,,"JCM 15650, ATCC BAA-1731",1,"Thermaerobacter composti",Thermaerobacter
+18043,KW1,"DSM 17372, JCM 13210",1,"Thermaerobacter litoralis",Thermaerobacter
+18040,7p75a,"DSM 12885, JCM 10246, ATCC 700841",1,"Thermaerobacter marianensis",Thermaerobacter
+18042,Ts1a,"DSM 14512, JCM 11223",1,"Thermaerobacter nagasakiensis",Thermaerobacter
+161607,,"JCM 15564",0,"Thermaerobacter sp.",Thermaerobacter
+18041,C21,"DSM 13965, ATCC BAA-137",1,"Thermaerobacter subterraneus",Thermaerobacter
+170764,"CFH 74404","CGMCC 1.61585, KCTC 62930",1,"Thermalbibacter longus",Thermalbibacter
+132359,"IA 106, IA106","DSM 26576, JCM 18718",1,"Thermanaeromonas burensis",Thermanaeromonas
+158338,9S,"DSM 22490",0,"Thermanaeromonas sp.",Thermanaeromonas
+16802,ToBE,"DSM 14490, JCM 11376, NBRC 101528",1,"Thermanaeromonas toyohensis",Thermanaeromonas
+158955,DRI-13,"DSM 100382, ATCC TSD-12",1,"Thermanaerosceptrum fracticalcis",Thermanaerosceptrum
+131287,GNS-1,"DSM 23592, JCM 16980",1,"Thermanaerothrix daxensis",Thermanaerothrix
+17780,Su883,"DSM 6589, ATCC 49978",1,"Thermanaerovibrio acidaminovorans",Thermanaerovibrio
+140315,R101,"DSM 21711",0,"Thermanaerovibrio sp.",Thermanaerovibrio
+17781,Z-9701,"DSM 12556",1,"Thermanaerovibrio velox",Thermanaerovibrio
+11163,I3,"DSM 22891, JCM 16421",1,"Thermasporomyces composti",Thermasporomyces
+166802,"SYSU G02173","KCTC 72052, CGMCC 1.16680",1,"Thermaurantiacus tibetensis",Thermaurantiacus
+160363,LA,"DSM 106522, JCM 31826",1,"Thermaurantimonas aggregans",Thermaurantimonas
+18123,ET-5b,"DSM 12793",1,"Thermicanus aegyptius",Thermicanus
+11787,2204,"DSM 17129, JCM 13258, VKM B-2283",1,"Thermincola carboxydiphila",Thermincola
+11788,Z-0001,"DSM 14005, VKM B-2307",1,"Thermincola ferriacetica",Thermincola
+132526,wk12,"DSM 101799, NBRC 111508",1,"Thermithiobacillus plumbiphilus",Thermithiobacillus
+16736,,"DSM 3134, ATCC 43215",1,"Thermithiobacillus tepidarius",Thermithiobacillus
+24642,H-18,"DSM 45914, CICC 10681",1,"Thermoactinomyces daqus",Thermoactinomyces
+16777,T-323,"DSM 43846, ATCC 33205, DSM 44011, IFO 14230, JCM 3312, KCC A-0312, NBRC 14230, KCTC 3665, KCTC 9646, NRRL B-16979, VKM Ac-1427",1,"Thermoactinomyces intermedius",Thermoactinomyces
+131043,T36,"DSM 45951, CECT 8579",1,"Thermoactinomyces khenchelensis",Thermoactinomyces
+159902,AMNI-1,"DSM 110094, LMG 31503",0,"Thermoactinomyces mirandus",Thermoactinomyces
+160398,"SCRIPP CNR 873","DSM 44919",0,"Thermoactinomyces sp.",Thermoactinomyces
+160399,,"DSM 45726, SCSIO 11166",0,"Thermoactinomyces sp.",Thermoactinomyces
+160400,T17,"DSM 45959",0,"Thermoactinomyces sp.",Thermoactinomyces
+160401,T103,"DSM 45960",0,"Thermoactinomyces sp.",Thermoactinomyces
+16778,"Ms 13","DSM 43774",0,"Thermoactinomyces sp.",Thermoactinomyces
+16779,"M 23","DSM 43775",0,"Thermoactinomyces sp.",Thermoactinomyces
+16780,"M 24","DSM 43776",0,"Thermoactinomyces sp.",Thermoactinomyces
+16781,"H 79","DSM 43777",0,"Thermoactinomyces sp.",Thermoactinomyces
+150171,,"CCUG 39165",0,"Thermoactinomyces sp.",Thermoactinomyces
+159347,,"DSM 45018",0,"Thermoactinomyces sp.",Thermoactinomyces
+159348,T9,"DSM 45950",0,"Thermoactinomyces sp.",Thermoactinomyces
+100129,ST005156(HKI),,0,"Thermoactinomyces sp.",Thermoactinomyces
+151020,,"CCUG 43058",0,"Thermoactinomyces sp.",Thermoactinomyces
+151021,,"CCUG 43059",0,"Thermoactinomyces sp.",Thermoactinomyces
+16755,MVD,"DSM 43016, ATCC 43649, CBS 505.77, CUB 250, IFO 13606, JCM 3162, KCC A-0162, NBRC 13606, BCRC 12466, CCM 3266, CECT 3317, IFM 10563, IMET 9711, KCTC 9076, MTCC 938, NCIMB 11364, PCM 2376, VKM Ac-1195, VTT E-81131",1,"Thermoactinomyces vulgaris",Thermoactinomyces
+16771,"H3 white colony from 55C edge","DSM 43606",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16772,"T 106, T-106","DSM 43796, ATCC 27868, CBS 339.74, CCM 2817, CUB 749, DSM 43352, IFO 15851, JCM 3180, JCM 3220, KCC A-0180, NBRC 15851, NCIB 11249, CCUG 9288, BCRC 13432, CECT 3219, IMSNU 22108, KCTC 9557, NCIMB 11249, NCIMB 11369, NRRL B-8109",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16773,,"DSM 43934, ATCC 33925, IFO 14480, IMET 9742, INMI 187, NBRC 14480",0,"Actinomadura viridilutea",Actinomadura
+157530,,"IMI 104408",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16774,"Lechevalier P111, P111","DSM 46154, ATCC 15733, CCM 2816, IMET 9516",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+157531,,"IMI 126892",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16775,"Lechevalier W18, W 18","DSM 46155, ATCC 15734, IMET 9517",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+141960,,"CCUG 8815",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+157532,,"IMI 134064",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16776,"P 54w","DSM 46165, IMET 9549",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+141983,,"CCUG 9287, ATCC 21364",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+142417,,"CCUG 12434 B",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+100128,"ST005100(HKI), China4.246","IMET 40288",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+145787,,"CCUG 29586",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16756,"P 20","DSM 43050, JCM 3161, KCC A-0161, IFM 1233, IFO 13605, NBRC 13605",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16757,,"DSM 43184, JCM 3042, KCC A-0042, IFM 1238, IFO 12384, NBRC 12384",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16758,T-115,"DSM 43368",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+151106,,"CCUG 43287, CCM 3266",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16759,T-124,"DSM 43369",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16760,T-101,"DSM 43372",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16761,"B 43","DSM 43778",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16762,"B 45","DSM 43779",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16763,"M 25","DSM 43780",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16764,"M 10","DSM 43781",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16765,"H 80","DSM 43782",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16766,"F 85","DSM 43783",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16767,"F 127","DSM 43785",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16768,"F 103","DSM 43786",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16769,"F 96","DSM 43787",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+160297,"TK 10","DSM 44086",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+163844,,"JCM 3064, IFO 12516, NBRC 12516",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16770,"F 125","DSM 43788",0,"Thermoactinomyces vulgaris",Thermoactinomyces
+16631,,"DSM 45614, CCTCC AA 2011014, YIM 77501, JCM 17697",1,"Thermoactinospora rubra",Thermoactinospora
+162079,,"JCM 17699, DSM 45616",0,"Thermoactinospora rubra",Thermoactinospora
+168831,"HTB2, HTB2/W","ATCC 33265, DSM 2359",1,"Thermoanaerobacter acetoethylicus",Thermoanaerobacter
+16835,HTRI,"DSM 2599",0,"Thermoanaerobacter brockii",Thermoanaerobacter
+16834,HTD4,"DSM 1457, ATCC 33075",1,"Thermoanaerobacter brockii",Thermoanaerobacter
+16833,AKo-1,"DSM 3389",1,"Thermoanaerobacter brockii subsp. finnii",Thermoanaerobacter
+16840,,"DSM 9801, JCM 16816, SEBR 5268",1,"Thermoanaerobacter brockii subsp. lactiethylicus",Thermoanaerobacter
+16836,NA10,"DSM 8991, IFO 14436, NBRC 14436",0,"Thermoanaerobacter cellulolyticus",Thermoanaerobacter
+16832,JW200,"DSM 2246, ATCC 31550, VKM B-1835",1,"Thermoanaerobacter ethanolicus",Thermoanaerobacter
+16837,Ab9,"DSM 9252, JCM 16815",1,"Thermoanaerobacter italicus",Thermoanaerobacter
+130739,"Pentocrobe 411","DSM 29083",0,"Thermoanaerobacter italicus",Thermoanaerobacter
+16823,LKT-1,"DSM 2030, ATCC 33488",1,"Thermoanaerobacter kivui",Thermoanaerobacter
+16845,2kXI,"DSM 14007",0,"Thermoanaerobacter kreatinophilus",Thermoanaerobacter
+138543,,"CIP 108280, CCUG 49566, AIP 505-99",1,"Thermoanaerobacter mathranii subsp. alimentarius",Thermoanaerobacter
+138542,,"CIP 108291, AIP 504-99",0,"Thermoanaerobacter mathranii subsp. alimentarius",Thermoanaerobacter
+135742,,"CIP 108191, CCUG 49567, AIP 431-03",0,"Thermoanaerobacter mathranii subsp. alimentarius",Thermoanaerobacter
+16842,A3,"DSM 11426, CIP 108742, CCUG 53645, AIP 130.05",1,"Thermoanaerobacter mathranii",Thermoanaerobacter
+23330,DTU01,"DSM 25963, CECT 8142, KCTC 4529, VKM B-2752",1,"Thermoanaerobacter pentosaceus",Thermoanaerobacter
+16848,39E,"DSM 2355, ATCC 33223",1,"Thermoanaerobacter pseudethanolicus",Thermoanaerobacter
+16844,SR4,"DSM 12299",1,"Thermoanaerobacter siderophilus",Thermoanaerobacter
+16838,JW/VM-MEB5,"DSM 13515",0,"Thermoanaerobacter sp.",Thermoanaerobacter
+165541,,"JCM 7503, IAM 13580",0,"Thermoanaerobacter sp.",Thermoanaerobacter
+16839,518-21,"DSM 15493",0,"Thermoanaerobacter sp.",Thermoanaerobacter
+160419,PCO,"DSM 24750",0,"Thermoanaerobacter sp.",Thermoanaerobacter
+24649,1004-09,"DSM 16488",0,"Thermoanaerobacter sp.",Thermoanaerobacter
+16805,1501/70,"DSM 9769, VKM B-1681",0,"Thermoanaerobacter sp.",Thermoanaerobacter
+16846,"JW/SL-NZ 826","DSM 17917, ATCC 700320",1,"Thermoanaerobacter sulfurigignens",Thermoanaerobacter
+16843,L-64,"DSM 11584",1,"Thermoanaerobacter sulfurophilus",Thermoanaerobacter
+165540,,"JCM 7501, ATCC 51646, IAM 13577",1,"Thermoanaerobacter thermocopriae",Thermoanaerobacter
+163013,,"JCM 20927, IAM 13579",0,"Thermoanaerobacter thermocopriae",Thermoanaerobacter
+16824,"E 100-69","DSM 567, ATCC 35045, NCIMB 10956, VKM B-1834",1,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+138541,,"CIP 108279, AIP 104.00",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+23329,WC1,"DSM 26960",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+16825,"L 110-69","DSM 568",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+130934,BSB-33,"DSM 25103",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+16826,"L 77-66","DSM 569",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+16827,"S 100-69","DSM 570",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+16828,JW102,"DSM 2247",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+16829,Sol1,"DSM 7021",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+16830,Uel1,"DSM 7022",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+16831,TLO,"DSM 15750",0,"Thermoanaerobacter thermohydrosulfuricus",Thermoanaerobacter
+16847,JW/IW-010,"DSM 18761, ATCC BAA-1464",1,"Thermoanaerobacter uzonensis",Thermoanaerobacter
+16841,Rt8.B1,"DSM 10319",1,"Thermoanaerobacter wiegelii",Thermoanaerobacter
+18062,761-119,"DSM 16487, VKM B-2363",1,"Thermoanaerobacterium aciditolerans",Thermoanaerobacterium
+18055,"JWSL-NZ 613","DSM 10170",1,"Thermoanaerobacterium aotearoense",Thermoanaerobacterium
+18054,"JW/SL-NZ 606","DSM 8692",0,"Thermoanaerobacterium aotearoense",Thermoanaerobacterium
+18056,"mel9, melG","DSM 14765",0,"Thermoanaerobacterium bryantii",Thermoanaerobacterium
+140089,USBA-19,"DSM 101588, CMPUJ U-019",1,"Thermoanaerobacterium butyriciformans",Thermoanaerobacterium
+162220,,"JCM 18270, CCTCC M 2011109",1,"Thermoanaerobacterium calidifontis",Thermoanaerobacterium
+131155,AK17,"DSM 18780",0,"Thermoanaerobacterium islandicum",Thermoanaerobacterium
+18052,B6A-RI,"DSM 7060, ATCC 49915",1,"Thermoanaerobacterium saccharolyticum",Thermoanaerobacterium
+18053,"JW/SL-YS 485","DSM 8691",0,"Thermoanaerobacterium saccharolyticum",Thermoanaerobacterium
+18057,"JW/SL-BC 461","DSM 8683",0,"Thermoanaerobacterium sp.",Thermoanaerobacterium
+2670,RB-1,"DSM 2335, ATCC 39251, JCM 9321",0,"Thermoanaerobacterium sp.",Thermoanaerobacterium
+18058,"JW/SL-BC 524","DSM 8684",0,"Thermoanaerobacterium sp.",Thermoanaerobacterium
+18059,"JW/SL-YS 489","DSM 8685",0,"Thermoanaerobacterium sp.",Thermoanaerobacterium
+18060,JW/SL-YS519,"DSM 8686",0,"Thermoanaerobacterium sp.",Thermoanaerobacterium
+18061,JW/SL-YS469,"DSM 8690",0,"Thermoanaerobacterium sp.",Thermoanaerobacterium
+18044,"McClung 2032, 2032","DSM 571, ATCC 7956, NCA 3814, NCIMB 9385, WDCM 00135",1,"Thermoanaerobacterium thermosaccharolyticum",Thermoanaerobacterium
+18045,T9-1,"DSM 572, ATCC 27384",0,"Thermoanaerobacterium thermosaccharolyticum",Thermoanaerobacterium
+18046,T9-3R,"DSM 573",0,"Thermoanaerobacterium thermosaccharolyticum",Thermoanaerobacterium
+18047,"1917, Prévot, 1917, Prévot","DSM 869, ATCC 25773, VPI 26-13-1",0,"Thermoanaerobacterium thermosaccharolyticum",Thermoanaerobacterium
+18048,Haren,"DSM 7416",0,"Thermoanaerobacterium thermosaccharolyticum",Thermoanaerobacterium
+18063,"BUF, Buff","DSM 22141, ATCC BAA-1776",1,"Thermoanaerobacterium thermostercoris",Thermoanaerobacterium
+18049,4B,"DSM 2229, ATCC 33743",1,"Thermoanaerobacterium thermosulfurigenes",Thermoanaerobacterium
+18050,,"DSM 3896",0,"Thermoanaerobacterium thermosulfurigenes",Thermoanaerobacterium
+18051,LX-11,"DSM 7097",1,"Thermoanaerobacterium xylanolyticum",Thermoanaerobacterium
+24773,MP-01,"DSM 24856, JCM 18256",1,"Thermoanaerobaculum aquaticum",Thermoanaerobaculum
+16804,,"DSM 9766, VKM B-1712",1,"Thermoanaerobium crenophilum",Thermoanaerobium
+16803,ZE-1,"DSM 9003",1,"Thermohydrogenium lactoethylicum",Thermohydrogenium
+11666,KWC4,"DSM 18247, JCM 13945",1,"Thermobacillus composti",Thermobacillus
+132007,"A-0077, 1900","DSM 43795, CECT 3324, CIP 105591, CUB 1002, CUB 432, DSM 43310, IFM 1271, IFO (now NBRC) 15853, IFO (now NBRC) 16095, IMET 9528, IMSNU 22187, JCM 3077, KCC A-0077, KCTC 9618, NBRC 15853, NBRC 16095, NCIB 10169, IPV 1900, IFO 15853, IFO 16095, NCIMB 10169",1,"Thermobifida alba",Thermobifida
+11253,T-3,"DSM 43185, ATCC 27644, KCC A-0169, JCM 3169, BCRC 13447, CBS 601.73, IFO 14178, IFO 16097, IMSNU 22190, KACC 20102, NBRC 14178, NBRC 16097, NCIMB 11543",0,"Thermobifida alba",Thermobifida
+11260,TB100,"DSM 44535, JCM 11767, NCAIM B 01997, NCAIM B.01997",1,"Thermobifida cellulosilytica",Thermobifida
+11256,"190 Th, T-322, 190Th, A-0263","DSM 43792, ATCC 27730, CUB 1000, IFO 14071, JCM 3263, NBRC 14071, NCIB 11185, BCRC 12532, CECT 3320, CIP 105594, HAMBI 1548, HAMBI 483, IMSNU 22189, KCTC 9052, MTCC 1754, NCIMB 11185, NRRL B-8184, VKM Ac-1952, CCRC 12532",1,"Thermobifida fusca",Thermobifida
+11255,T-332,"DSM 43370",0,"Thermobifida fusca",Thermobifida
+11257,,"DSM 43793",0,"Thermobifida fusca",Thermobifida
+11258,"ID 3877, k13g","DSM 44341",0,"Thermobifida fusca",Thermobifida
+11259,"ID 3636, k7a-3","DSM 44342",0,"Thermobifida fusca",Thermobifida
+11261,,"DSM 44931, JCM 16012, KCTC 19123, YIM 90462",1,"Thermobifida halotolerans",Thermobifida
+13495,R51,"DSM 43833, ATCC 19993, CBS 139.67, IFO 14880, NBRC 14880, JCM 10125, IMSNU 21333, KCTC 9307",1,"Thermobispora bispora",Thermobispora
+128711,"ST020321(HKI), F069, BI 09919, P138, DoHKI55",,0,"Thermobispora bispora",Thermobispora
+128712,ST033411(HKI),,0,"Thermobispora bispora",Thermobispora
+13494,"MCRL 0083","DSM 43038, ATCC 15737, IMRU 3759, JCM 3082, KCC A-0082, CCUG 37981, BCRC 13407, CECT 3314, CGMCC 4.5520, HUT 6565, KCTC 9305, MTCC 1549, NCIMB 10176",0,"Thermobispora bispora",Thermobispora
+2516,JW/YL-NZ35,"DSM 8682",1,"Thermobrachium celere",Thermobrachium
+160438,"Kha Sph, Sph","DSM 25005",0,"Thermobrachium celere",Thermobrachium
+2517,JW/JH-1,"DSM 13655",0,"Thermobrachium celere",Thermobrachium
+170403,MDTJ8,"DSM 114174, NCCB 100883, LMG 32615",1,"Thermocaproicibacter melissae",Thermocaproicibacter
+164302,,"JCM 32587, NBRC 113148, TBRC 7649",1,"Thermocatellispora soli",Thermocatellispora
+16632,,"DSM 45615, CCTCC AA 2011013, YIM 77521, JCM 17698",1,"Thermocatellispora tengchongensis",Thermocatellispora
+23848,,"DSM 3771, ATCC 43061",1,"Thermochromatium tepidum",Thermochromatium
+160866,,"JCM 10088",1,"Thermocladium modestius",Thermocladium
+160867,,"JCM 10089",0,"Thermocladium modestius",Thermocladium
+160868,,"JCM 10090",0,"Thermocladium modestius",Thermocladium
+2854,,"DSM 19027, NBRC 102590, EBR 596",1,"Thermoclostridium caenicola",Thermoclostridium
+2777,C-17-70,"DSM 9219, ATCC 51338, IAM 13499, LMG 14474, JCM 9762",1,"Thermoclostridium stercorarium subsp. leptospartum",Thermoclostridium
+2773,,"DSM 8532, ATCC 35414, NCIMB 11754",1,"Thermoclostridium stercorarium",Thermoclostridium
+2733,TX41,"DSM 2910, ATCC 43739",1,"Thermoclostridium stercorarium subsp. thermolacticum",Thermoclostridium
+2734,,"DSM 2911, TC 21, JCM 9324, ATCC 43738",0,"Thermoclostridium stercorarium subsp. thermolacticum",Thermoclostridium
+16870,"AED II 10","DSM 11906, JCM 12186",1,"Thermococcus acidaminovorans",Thermococcus
+166957,SY113,"JCM 39083, MCCC 1K04190",1,"Thermococcus aciditolerans",Thermococcus
+16876,"BK17S6-3-b2, P5","DSM 12767, JCM 10828",1,"Thermococcus aegaeus",Thermococcus
+16874,TY,"DSM 12819, DSM 10597, JCM 10137",1,"Thermococcus aggregans",Thermococcus
+16867,AEDII12,"DSM 10322",1,"Thermococcus alcaliphilus",Thermococcus
+170863,IOH2,"KCTC 25190, MCCC 4K00089",1,"Thermococcus argininiproducens",Thermococcus
+16882,MA898,"DSM 15226, CIP 107420, JCM 16138",1,"Thermococcus atlanticus",Thermococcus
+16869,MP,"DSM 11836",1,"Thermococcus barophilus",Thermococcus
+16887,SHCK-94,"DSM 17882, ATCC BAA-1085, JCM 12858, DSM 9535",1,"Thermococcus barossii",Thermococcus
+169463,"T 7324","DSM 27149, KCTC 15808",0,"Thermococcus bergensis",Thermococcus
+167457,Iri35c,"UBOCC M-2026, DSM 111003",1,"Thermococcus camini",Thermococcus
+16860,"Vu 13","DSM 2476, JCM 8558, ATCC 35543",1,"Thermococcus celer",Thermococcus
+16888,TS2,"DSM 17994, JCM 13640, NBRC 101555",1,"Thermococcus celericrescens",Thermococcus
+16866,"GC 74","DSM 10152",1,"Thermococcus chitonophagus",Thermococcus
+24652,CL1,"DSM 27260, KACC 17922",1,"Thermococcus cleftensis",Thermococcus
+16886,TS1,"DSM 16538, JCM 12540",1,"Thermococcus coalescens",Thermococcus
+163749,,"JCM 30233, CGMCC 7834",1,"Thermococcus eurythermalis",Thermococcus
+16879,ST557,"DSM 12820, CIP 104690, JCM 10128",1,"Thermococcus fumicolans",Thermococcus
+16885,EJ3,"DSM 15229, JCM 11827",1,"Thermococcus gammatolerans",Thermococcus
+16872,W-12,"DSM 10395, ATCC 700654, JCM 10552",1,"Thermococcus gorgonarius",Thermococcus
+16875,TYS,"DSM 11113, JCM 10136",1,"Thermococcus guaymasensis",Thermococcus
+166924,Ext12c,"UBOCC M-2417, DSM 111004",1,"Thermococcus henrietii",Thermococcus
+164867,,"JCM 39077, KCTC 15844",1,"Thermococcus indicus",Thermococcus
+161223,,"JCM 12380, ATCC BAA-918",1,"Thermococcus kodakarensis",Thermococcus
+16862,NS-C,"DSM 5473, ATCC 51850, JCM 8560",1,"Thermococcus litoralis",Thermococcus
+16863,A3,"DSM 5474",0,"Thermococcus litoralis",Thermococcus
+16883,EJ1,"DSM 15227, JCM 11825",1,"Thermococcus marinus",Thermococcus
+160706,30-1,"DSM 112553, JCM 19601, CNCM 4275",1,"Thermococcus nautili",Thermococcus
+161372,,"JCM 13517, KCTC 10859",1,"Thermococcus onnurineus",Thermococcus
+16871,P-4,"DSM 10394, ATCC 700653, JCM 10553",1,"Thermococcus pacificus",Thermococcus
+24653,ES1,"DSM 27261, KACC 17923",1,"Thermococcus paralvinellae",Thermococcus
+16868,OG-1,"DSM 10343, JCM 9653, ATCC 700098, CIP 104782",1,"Thermococcus peptonophilus",Thermococcus
+166050,,"JCM 9654",0,"Thermococcus peptonophilus",Thermococcus
+168876,CDGS,"UBOCC 3296, ATCC TSD-33",1,"Thermococcus piezophilus",Thermococcus
+133646,Bio-pl-0405IT2,"CSUR P577, JCM 16307, BCC 3069",1,"Thermococcus prieurii",Thermococcus
+16865,DT5432,"DSM 9503, ATCC 51592, JCM 9378, CIP 105121",1,"Thermococcus profundus",Thermococcus
+16884,EJ2,"DSM 15228, JCM 11826",1,"Thermococcus radiotolerans",Thermococcus
+16880,"MM 739, B-2774","DSM 12597",1,"Thermococcus sibiricus",Thermococcus
+16873,RG-20,"DSM 12349, ATCC BAA-270",1,"Thermococcus siculi",Thermococcus
+164130,,"JCM 31817",0,"Thermococcus sp.",Thermococcus
+16861,"BK17S-3-a9, P6","DSM 12593",0,"Thermococcus sp.",Thermococcus
+161191,,"JCM 11816",0,"Thermococcus sp.",Thermococcus
+16864,"8315-5, K-3","DSM 5262, JCM 8559",1,"Thermococcus stetteri",Thermococcus
+16881,OGL-20P,"DSM 14981, ATCC BAA-394, JCM 12859",1,"Thermococcus thioreducens",Thermococcus
+16877,WT1,"DSM 12768, JCM 10985",1,"Thermococcus waiotapuensis",Thermococcus
+16878,AN1,"DSM 2770, JCM 10554, ATCC 700529",1,"Thermococcus zilligii",Thermococcus
+524,"HI 11/12","DSM 14484, JCM 11386",1,"Thermocrinis albus",Thermocrinis
+522,"OC 1/4","DSM 12173",0,"Thermocrinis ruber",Thermocrinis
+132294,,"DSM 27162, JCM 19133, GBS 1",1,"Thermocrinis jamiesonii",Thermocrinis
+525,CR11,"DSM 19557, ATCC BAA-1533",1,"Thermocrinis minervae",Thermocrinis
+523,"OC 14/7/2, OC 1/4","DSM 23557",1,"Thermocrinis ruber",Thermocrinis
+13496,CHB-77,"DSM 44070, ATCC 51797, IFO 15805, NBRC 15805, NCIMB 13402, JCM 9705, IMSNU 21252",1,"Thermocrispum agreste",Thermocrispum
+13498,MKD-35,"DSM 44069, ATCC 51796, IFO 15806, NBRC 15806, NCIMB 13403, JCM 9704, IMSNU 21251, KACC 20057",1,"Thermocrispum municipale",Thermocrispum
+128713,ST033413(HKI),,0,"Thermocrispum municipale",Thermocrispum
+13497,,"DSM 43028, CBS 423.63, IFO 12134, JCM 3034, KCC A-0034, NBRC 12134, BCRC 12635",0,"Thermocrispum municipale",Thermocrispum
+16890,"AT1325, T1","DSM 21156, JCM 15391",1,"Thermodesulfatator atlanticus",Thermodesulfatator
+132647,S606,"DSM 101864, MCCC 1A01871",1,"Thermodesulfatator autotrophicus",Thermodesulfatator
+16889,"CIR 29812","DSM 15286, JCM 11887",1,"Thermodesulfatator indicus",Thermodesulfatator
+133068,SF97,"DSM 102936, VKM B-2961",1,"Thermodesulfitimonas autotrophica",Thermodesulfitimonas
+16891,YSRA-1,"DSM 2178, ATCC 33708, VKM B-1767",1,"Thermodesulfobacterium commune",Thermodesulfobacterium
+16893,JSP,"DSM 12571",1,"Thermodesulfobacterium hveragerdense",Thermodesulfobacterium
+16894,SL6,"DSM 14290, JCM 11239",1,"Thermodesulfobacterium hydrogeniphilum",Thermodesulfobacterium
+16892,,"DSM 8975, GFA 1",0,"Thermodesulfobacterium sp.",Thermodesulfobacterium
+16895,7,"DSM 1276, VKM B-1128",1,"Thermodesulfobacterium thermophilum",Thermodesulfobacterium
+140262,3127-1,"DSM 102892, VKM B-3043",1,"Thermodesulfobium acidiphilum",Thermodesulfobium
+16898,Na82,"DSM 14796, JCM 11510, NBRC 100082",1,"Thermodesulfobium narugense",Thermodesulfobium
+4062,P6-2,"DSM 16697, CCUG 49732",1,"Thermodesulfomicrobium thermophilum",Thermodesulfomicrobium
+16677,A8444,"DSM 9990",1,"Thermodesulforhabdus norvegica",Thermodesulforhabdus
+10540,TGE-P1,"DSM 17283, JCM 13213",1,"Thermodesulfovibrio aggregans",Thermodesulfovibrio
+10539,HBr5,"DSM 18151, JCM 13991",1,"Thermodesulfovibrio hydrogeniphilus",Thermodesulfovibrio
+10538,R1Ha3,"DSM 12570",1,"Thermodesulfovibrio islandicus",Thermodesulfovibrio
+161327,,"JCM 13214",0,"Thermodesulfovibrio islandicus",Thermodesulfovibrio
+10541,TDV,"DSM 17215, JCM 13216",1,"Thermodesulfovibrio thiophilus",Thermodesulfovibrio
+130473,TSL-P1,"DSM 17286, JCM 13215",0,"Thermodesulfovibrio thiophilus",Thermodesulfovibrio
+10537,YP87,"DSM 11347, ATCC 51303",1,"Thermodesulfovibrio yellowstonii",Thermodesulfovibrio
+4194,S2,"DSM 15173, JCM 11597",1,"Thermodiscus maritimus",Thermodiscus
+162619,,"JCM 19809",0,"Thermofilum adornatum",Thermofilum
+16904,V24N,"DSM 2337",1,"Thermofilum librum",Thermofilum
+16903,"Hrk 5","DSM 2475",1,"Thermofilum pendens",Thermofilum
+132972,1807-2,"DSM 28062, JCM 19810",1,"Thermofilum uzonense",Thermofilum
+24743,P373,"DSM 27268, ICMP 20041",1,"Thermoflavifilum aggregans",Thermoflavifilum
+23393,STH-1-Y1,"DSM 14807, JCM 11541",1,"Thermoflavifilum thermophilum",Thermoflavifilum
+166208,FBKL4.011,"KCTC 43036, CICC 24504",1,"Thermoflavimicrobium daqui",Thermoflavimicrobium
+16783,"114, N1595","DSM 44778, ATCC 49854, JCM 9688, KCTC 3667, NCIMB 10211, VKM Ac-1435, CUB 581",1,"Thermoflavimicrobium dichotomicum",Thermoflavimicrobium
+163877,,"JCM 3078",0,"Thermoflavimicrobium dichotomicum",Thermoflavimicrobium
+16782,"E 52","DSM 43308, CUB 339, JCM 3069, KCC A-0069, NCIB 10022, NCIMB 10022",0,"Thermoflavimicrobium dichotomicum",Thermoflavimicrobium
+16784,,"DSM 46168, IMET 9554, RIA 889",0,"Thermoflavimicrobium dichotomicum",Thermoflavimicrobium
+163817,,"JCM 3055, BCRC 12632, IFM 0100, IFO 12466, NBRC 12466, VKM Ac-1237",0,"Thermoflavimicrobium dichotomicum",Thermoflavimicrobium
+3793,GEY,"DSM 9560, ATCC 23103",1,"Thermoflexibacter ruber",Thermoflexibacter
+140665,JAD2,"JCM 19131, CCTCC AB 2014030",1,"Thermoflexus hugenholtzii",Thermoflexus
+166556,2918,"VKM B-3161, KCTC 72012",1,"Thermogemmata fonticola",Thermogemmata
+166501,A3-2,"NBRC 113122, CGMCC 1.13887",1,"Thermogemmatispora argillosa",Thermogemmatispora
+166502,A1-2,"NBRC 113123, CGMCC 1.13886",1,"Thermogemmatispora aurantia",Thermogemmatispora
+24745,PM5,"DSM 45816, ATCC BAA-2534",1,"Thermogemmatispora carboxidivorans",Thermogemmatispora
+161874,,"JCM 16818, KCTC 19767",1,"Thermogemmatispora foliorum",Thermogemmatispora
+140666,"ONI-1, ON1-1","KCTC 19768, JCM 16817, NBRC 111776",1,"Thermogemmatispora onikobensis",Thermogemmatispora
+132428,1633,"DSM 22663, VKM B-2946",1,"Thermogladius calderae",Thermogladius
+161825,,"JCM 16579, ATCC BAA-1607",1,"Thermogladius shockii",Thermogladius
+162684,,"JCM 19991, VKM B-2782",1,"Thermogutta hypogea",Thermogutta
+131320,R1,"DSM 26237, VKM B-2805",1,"Thermogutta terrifontis",Thermogutta
+18138,IC-189,"DSM 18835, JCM 13583",1,"Thermogymnomonas acidicola",Thermogymnomonas
+2866,,"DSM 26700, CNCM 105955, CTT 3",1,"Thermohalobacter berrensis",Thermohalobacter
+169593,M0105,"DSM 105397, MCCC 1K03767, NBRC 112057, KCTC 52118, BGMRC 2019",1,"Thermohalobaculum xanthum",Thermohalobaculum
+16691,ZE-7,"DSM 11055",1,"Thermohydrogenium kirishiense",Thermohydrogenium
+16692,ZE-16,"DSM 11056",0,"Thermohydrogenium kirishiense",Thermohydrogenium
+16693,ZE-19,"DSM 11057",0,"Thermohydrogenium kirishiense",Thermohydrogenium
+168589,HS-5,"ATCC 35263, NCIMB 12697",1,"Thermoleophilum album",Thermoleophilum
+168674,YS-4,"ATCC 35265, DSM 5157",1,"Thermoleophilum minutum",Thermoleophilum
+17653,"R1, Z-R1","DSM 7242, VKM B-2359",1,"Thermolithobacter carboxydivorans",Thermolithobacter
+17652,JW/KA-2,"DSM 13639, ATCC 700985",1,"Thermolithobacter ferrireducens",Thermolithobacter
+23770,E265,"DSM 24979, NCIMB 14850",1,"Thermolongibacillus altinsuensis",Thermolongibacillus
+23771,E173a,"DSM 24978, NCIMB 14849",1,"Thermolongibacillus kozakliensis",Thermolongibacillus
+168621,SW7,"JCM 15506, KCTC 5908",1,"Thermomarinilinea lacunifontana",Thermomarinilinea
+131291,KI3,"DSM 27067, ATCC BAA-2535",1,"Thermomicrobium carboxidum",Thermomicrobium
+170152,PTA-1,"ATCC 29033, ATCC 35268",1,"Thermomicrobium fosteri",Thermomicrobium
+16905,P-2,"DSM 5159, ATCC 27502",1,"Thermomicrobium roseum",Thermomicrobium
+170016,"SYSU G04536","CGMCC 1.19367, KCTC 82839",1,"Thermomonas alba",Thermomonas
+166252,SY21,"KCTC 62191, NBRC 113114",1,"Thermomonas aquatica",Thermomonas
+168476,RSS-23,"CGMCC 1.17738, KCTC 82820",1,"Thermomonas beijingensis",Thermomonas
+17575,R-13291,"DSM 15422, LMG 21746",1,"Thermomonas brevis",Thermomonas
+168832,GZ436,"CCTCC AB 2013364, KCTC 42013, KCTC 42031",1,"Thermomonas carbonis",Thermomonas
+170017,"SYSU G04041","CGMCC 1.19366, KCTC 92228",1,"Thermomonas flagellata",Thermomonas
+17576,R-10289,"DSM 15424, LMG 21737",1,"Thermomonas fusca",Thermomonas
+17573,A50-7-3,"DSM 13605",1,"Thermomonas haemolytica",Thermomonas
+17571,B50-7-1,"DSM 13598",0,"Thermomonas haemolytica",Thermomonas
+17572,B50-8-1,"DSM 13599",0,"Thermomonas haemolytica",Thermomonas
+17574,D50-7-1,"DSM 13610",0,"Thermomonas haemolytica",Thermomonas
+17577,SGM-6,"DSM 14834, ATCC BAA-470, CIP 108356",1,"Thermomonas hydrothermalis",Thermomonas
+134173,Ko06,"KCTC 12540, NBRC 101155",1,"Thermomonas koreensis",Thermomonas
+170562,2C3345,"KCTC 92730, MCCC 1K08335",1,"Thermomonas mangrovi",Thermomonas
+170563,"IMCC 34681","KACC 21793, NBRC 114635",1,"Thermomonas paludicola",Thermomonas
+130741,,"DSM 45822, CCTCC AA 2012024, YIM 77502, JCM 30324",1,"Thermomonospora amylolytica",Thermomonospora
+157686,3-22-3,"DSM 46802, CGMCC 4.7155, ATCC BAA-2627",1,"Thermomonospora catenispora",Thermomonospora
+130740,,"DSM 45823, CCTCC AA 2012023, YIM 77510, JCM 30326",1,"Thermomonospora cellulosilytica",Thermomonospora
+16921,"B9, B<SUB>9</SUB>, A-0096","DSM 43183, ATCC 19995, CBS 141.67, IAM 14296, IMET 9551, JCM 3096, KCC A-0096, NCIMB 10081, CECT 3319, CIP 105592, HAMBI 1549, IFO 15933, IMSNU 22171, KACC 20052, KCTC 9072, NBIMCC 3643, NBRC 15933",1,"Thermomonospora curvata",Thermomonospora
+16965,"Mb3-1, Mb<SUB>3</SUB>-1","DSM 43163, ATCC 27300, IFO 14042, JCM 3148, NBRC 14042, BCRC 12547, CBS 263.72, HUT 6548, IMSNU 22163, KCTC 9313, MTCC 1544",1,"Thermomonospora echinospora",Thermomonospora
+128650,"STI09649(IMET), Kv13",,0,"Thermomonospora sp.",Thermomonospora
+128651,STI09583(IMET),"IMET 9583, Agre 504",0,"Thermomonospora sp.",Thermomonospora
+128652,"ST008488(HKI), JA09651, 13","IMET 09651",0,"Thermomonospora sp.",Thermomonospora
+159349,,"DSM 45326, YIM 75085",0,"Thermomonospora sp.",Thermomonospora
+16922,E88,"DSM 43315",0,"Thermomonospora sp.",Thermomonospora
+16923,"K 78","DSM 43773",0,"Thermomonospora sp.",Thermomonospora
+16974,,"DSM 43927, ATCC 49502, IFO 14346, IMET 9746, INA 2309, JCM 6837, NBRC 14346, VKM Ac-1086, CIP 105485, IMSNU 22165, KCTC 9343, NRRL B-16244",1,"Thermomonospora umbrina",Thermomonospora
+128638,SF000753(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128639,SF005253(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128640,SF005259(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128627,STH00427(ZIMET),"HKI 0427",0,"Thermomonospora umbrina",Thermomonospora
+128628,STH00383(ZIMET),"MRC 303, HKI 0383",0,"Thermomonospora umbrina",Thermomonospora
+128629,SF005255(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128630,SF005258(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128631,SF005260(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128632,SF005261(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128633,SF005256(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128634,SF005257(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128635,SF005262(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128636,SF005263(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+128637,SF000752(FSU),,0,"Thermomonospora umbrina",Thermomonospora
+5465,23/9,"DSM 5718, ATCC 43542",1,"Thermonema lapsum",Thermonema
+5466,19/15,"DSM 5719",0,"Thermonema lapsum",Thermonema
+5469,NR-27,"DSM 10300",1,"Thermonema rossianum",Thermonema
+5468,AG3-1,"DSM 10299",0,"Thermonema rossianum",Thermonema
+5467,SC-1,"DSM 10298",0,"Thermonema rossianum",Thermonema
+17817,HS1,"DSM 19012, CGMCCC 1.5071",1,"Thermophagus xiamenensis",Thermophagus
+160160,Cla-CZ-62,"DSM 107455, JCM 34593",1,"Thermophilibacter gallinarum",Thermophilibacter
+168394,LZLJ-2,"JCM 34224, KCTC 25162",1,"Thermophilibacter immobilis",Thermophilibacter
+167745,,"Marseille-P3256, CSURP3256, CECT 9977",1,"Thermophilibacter mediterraneus",Thermophilibacter
+167893,,"CSUR P2912, Marseille-P2912, DSM 103345, Marseille-2912",1,"Thermophilibacter provencensis",Thermophilibacter
+131571,VM20-7,"DSM 24165, CGMCC 1.5169, JCM 17478",0,"Thermopirellula anaerolimosa",Thermopirellula
+17017,122-1B2,"DSM 1728, ATCC 25905, AMRC C165, JCM 9062, IFO 15155, NBRC 15155",1,"Thermoplasma acidophilum",Thermoplasma
+162137,,"JCM 17946",0,"Thermoplasma acidophilum",Thermoplasma
+162138,,"JCM 17947",0,"Thermoplasma acidophilum",Thermoplasma
+162139,,"JCM 17948",0,"Thermoplasma acidophilum",Thermoplasma
+162140,,"JCM 17949",0,"Thermoplasma acidophilum",Thermoplasma
+162141,,"JCM 17950",0,"Thermoplasma acidophilum",Thermoplasma
+162142,,"JCM 17951",0,"Thermoplasma acidophilum",Thermoplasma
+162143,,"JCM 17952",0,"Thermoplasma acidophilum",Thermoplasma
+162144,,"JCM 17953",0,"Thermoplasma acidophilum",Thermoplasma
+162145,,"JCM 17954",0,"Thermoplasma acidophilum",Thermoplasma
+162146,,"JCM 17955",0,"Thermoplasma acidophilum",Thermoplasma
+162147,,"JCM 17956",0,"Thermoplasma acidophilum",Thermoplasma
+17018,"GSS 1, GSS1","DSM 4299, ATCC 51530, JCM 9571, IFO 15438, NBRC 15438",1,"Thermoplasma volcanium",Thermoplasma
+17019,"KD 3","DSM 4300, JCM 9572, IFO 15439, NBRC 15439",0,"Thermoplasma volcanium",Thermoplasma
+17020,"KO 2","DSM 4301",0,"Thermoplasma volcanium",Thermoplasma
+16630,435,"DSM 43186, ATCC 35864, DSM 44514, IFO 14349, JCM 3056, KCC A-0056, NBRC 14349, NRRL B-24348, BCC 49486, BCRC 12531, CIP 107358, IFO 15179, IMET 9552, IMSNU 22184, KCTC 9270, NBRC 15179, CCRC 12531",1,"Nonomuraea flexuosa",Nonomuraea
+160761,,"DSM 45325, YIM 75076",0,"Thermopolyspora sp.",Thermopolyspora
+169679,Gyg-3,"DSM 46782",0,"Thermopolyspora sp.",Thermopolyspora
+161477,,"JCM 14453, NBRC 100793",0,"Thermoproteus sp.",Thermoproteus
+161478,,"JCM 14454, NBRC 100794",0,"Thermoproteus sp.",Thermoproteus
+161479,,"JCM 14455, NBRC 100795",0,"Thermoproteus sp.",Thermoproteus
+161480,,"JCM 14456",0,"Thermoproteus sp.",Thermoproteus
+161481,,"JCM 14457, NBRC 100796",0,"Thermoproteus sp.",Thermoproteus
+161476,,"JCM 14452, NBRC 100792",0,"Thermoproteus sp.",Thermoproteus
+17031,,"DSM 2078, ATCC 35583, JCM 9277, Kra 1, NBRC 100435",1,"Thermoproteus tenax",Thermoproteus
+161985,,"JCM 17229, ATCC BAA-2416",1,"Thermoproteus thermophilus",Thermoproteus
+17032,Z-605,"DSM 5263",1,"Thermoproteus uzoniensis",Thermoproteus
+131131,KI4,"DSM 27169, ATCC BAA-2536",1,"Thermorudis peleae",Thermorudis
+131561,Wkt50.2,"DSM 26011, ICMP 20042",1,"Thermorudis pharmacophila",Thermorudis
+18014,JW/YJL-1230-7/2,"DSM 16647, ATCC BAA-1035",1,"Thermosediminibacter litoriperuensis",Thermosediminibacter
+18013,JW/IW-1228P,"DSM 16646, ATCC BAA-1034",1,"Thermosediminibacter oceani",Thermosediminibacter
+17167,Nor1,"DSM 14886, VKM B-2281",1,"Thermosinus carboxydivorans",Thermosinus
+24815,Rift-s3,"DSM 26467, VKM B-2803",1,"Thermosipho activus",Thermosipho
+17059,ik275mar,"DSM 23112, VKM B-2574",1,"Thermosipho affectus",Thermosipho
+17052,Ob7,"DSM 5309",1,"Thermosipho africanus",Thermosipho
+132828,TCF52B,"DSM 24758",0,"Thermosipho africanus",Thermosipho
+17053,TB5A,"DSM 13782",0,"Thermosipho africanus",Thermosipho
+17057,DV1140,"DSM 15807, CIP 108053",1,"Thermosipho atlanticus",Thermosipho
+166934,JL129W03,"MCCC 1A14213, KCTC 15905",1,"Thermosipho ferrireducens",Thermosipho
+158032,SL31,"DSM 13256, JCM 10986",1,"Thermosipho geolei",Thermosipho
+17058,MN14,"DSM 19918, JCM 15059, NBRC 109617",1,"Thermosipho globiformans",Thermosipho
+17056,IHB1,"DSM 13481, JCM 10495",1,"Thermosipho japonicus",Thermosipho
+17055,BI429,"DSM 12029, CIP 104789",1,"Thermosipho melanesiensis",Thermosipho
+17054,"RI 19.B2","DSM 6568",0,"Thermosipho sp.",Thermosipho
+161587,,"JCM 15324",0,"Thermosipho sp.",Thermosipho
+139822,2F70-1,"DSM 21301",0,"Thermosipho sp.",Thermosipho
+139823,G60,"DSM 21708",0,"Thermosipho sp.",Thermosipho
+4205,M11TL,"DSM 11486",1,"Thermosphaera aggregans",Thermosphaera
+170484,F1F22,"DSM 101182, JCM 31314",1,"Thermospira aquatica",Thermospira
+133585,SK20-1,"JCM 16142, ATCC BAA-1881, NBRC 105916",1,"Thermosporothrix hazakensis",Thermosporothrix
+140842,F4,"NBRC 111777, BCCM/LMG 29329",1,"Thermosporothrix narukonensis",Thermosporothrix
+16920,"no. 577","DSM 43794, ATCC 43196, CUB 580, IFO 12465, IMRU N 2900, JCM 6244, NBRC 12465, NCIB 10212, IFO 16096, IMET 9529, IMSNU 22188, INMI 577, KACC 20094, KCTC 9242, NBRC 16096, NCIMB 10212, NRRL B-16983",1,"Thermostaphylospora chromogena",Thermostaphylospora
+16918,T-334,"DSM 43367",0,"Thermostaphylospora chromogena",Thermostaphylospora
+16919,"K 65","DSM 43772",0,"Thermostaphylospora chromogena",Thermostaphylospora
+158325,3-12X,"DSM 46781, CGMCC 4.7160",1,"Thermostaphylospora grisealba",Thermostaphylospora
+140938,SVX8,"JCM 19992, VKM B-2881",1,"Thermostilla marina",Thermostilla
+18094,ABI70S6,"DSM 17441, JCM 13301, NBRC 103674",1,"Thermosulfidibacter takaii",Thermosulfidibacter
+16897,S95,"DSM 24515, VKM B-2683",1,"Thermosulfurimonas dismutans",Thermosulfurimonas
+159186,SU872,"DSM 104922, VKM B-3177",1,"Thermosulfurimonas marina",Thermosulfurimonas
+140413,ST65,"DSM 102941, VKM B-2855",1,"Thermosulfuriphilus ammonigenes",Thermosulfuriphilus
+16694,JW/VS-265,"DSM 11003, ATCC 700317",1,"Thermosyntropha lipolytica",Thermosyntropha
+133732,L-60,"CGMCC 1.5161, JCM 17260",1,"Thermosyntropha tengcongensis",Thermosyntropha
+133444,B2-1,"KCTC 5625, JCM 15105, DSM 21119",1,"Thermotalea metallivorans",Thermotalea
+168692,,"ATCC 29244",1,"Thermothrix thiopara",Thermothrix
+24656,AZM44c09,"DSM 23272, NBRC 106116",1,"Thermotoga caldifontis",Thermotoga
+17060,MSB8,"DSM 3109, JCM 10099, ATCC 43589, NBRC 100826",1,"Thermotoga maritima",Thermotoga
+17069,RKU-10,"DSM 13996, JCM 10882, ATCC BAA-489",1,"Thermotoga petrophila",Thermotoga
+17061,NS-E,"DSM 4359, ATCC 49049, NBRC 107923",1,"Thermotoga neapolitana",Thermotoga
+17062,LA4,"DSM 5068",0,"Thermotoga neapolitana",Thermotoga
+17068,RKU-1,"DSM 13995, JCM 10881, ATCC BAA-488",1,"Thermotoga petrophila",Thermotoga
+24655,AZM34c06,"DSM 23275, NBRC 106115",1,"Thermotoga profunda",Thermotoga
+157912,"1864 opik","DSM 22745",0,"Thermotoga sp.",Thermotoga
+17064,ZB,"DSM 4138",0,"Thermotoga sp.",Thermotoga
+18093,AC55,"DSM 24660, JCM 17643, NBRC 107904",1,"Thermotomaculum hydrothermale",Thermotomaculum
+168642,AG2-7,"CGMCC 4.7099, ATCC BAA-2499",1,"Thermotunica guangxiensis",Thermotunica
+168101,Z-9801,"UNIQEM 210, DSM 14006",1,"Thermovenabulum ferriorganovorum",Thermovenabulum
+18064,R270,"DSM 21133, KCTC 5616",1,"Thermovenabulum gondwanense",Thermovenabulum
+159563,CA9F1,"DSM 23854",0,"Thermovenabulum gondwanense",Thermovenabulum
+17646,HB-1,"DSM 15698, JCM 12110",1,"Thermovibrio ammonificans",Thermovibrio
+17647,SL19,"DSM 15521, JCM 12128",1,"Thermovibrio guaymasensis",Thermovibrio
+17645,ED11/3LLK,"DSM 14644, JCM 11468",1,"Thermovibrio ruber",Thermovibrio
+17776,Cas60314,"DSM 17291, ATCC BAA-1197",1,"Thermovirga lienii",Thermovirga
+18079,70B,"DSM 21563, JCM 15541",1,"Thermovorax subterraneus",Thermovorax
+170490,"SYSU G00608","KCTC 52950, CGMCC 1.16174",1,"Thermus albus",Thermus
+170491,"SYSU G00630","CGMCC 1.19258, KCTC 43361",1,"Thermus altitudinis",Thermus
+131403,,"DSM 25898, KCTC 32024, YIM 77409",1,"Thermus amyloliquefaciens",Thermus
+16730,HN3-7,"DSM 12462, JCM 19900, ATCC 700961, BCRC 17422",1,"Thermus antranikianii",Thermus
+16729,HN2-7,"DSM 12461",0,"Thermus antranikianii",Thermus
+16714,YT-1,"DSM 625, ATCC 25104, JCM 10724, LMG 8924, NBRC 103206, NCIMB 11243",1,"Thermus aquaticus",Thermus
+100091,"STI09686(IMET), 55-A",,0,"Thermus aquaticus",Thermus
+133484,TH92,"CGMCC 1.6992, JCM 15153",1,"Thermus arciformis",Thermus
+161583,,"JCM 15152, CGMCC 1.6991",0,"Thermus arciformis",Thermus
+168274,"SYSU G05001","MCCC 1K06118, KCTC 82627",1,"Thermus brevis",Thermus
+161175,,"JCM 11602, BCRC 17272, NBRC 110747, NCIMB 12676",1,"Thermus brockianus",Thermus
+132856,GE-1,"DSM 104090",0,"Thermus brockianus",Thermus
+140694,,"NBRC 112415, CCTCC AB 2016305, YIM 73026",1,"Thermus caldifontis",Thermus
+166575,"YIM 78456","KCTC 52948, NBRC 113036",1,"Thermus caldilimi",Thermus
+24641,,"DSM 25901, CCTCC 2012061, YIM 77925",1,"Thermus caliditerrae",Thermus
+16733,K-39,"DSM 21686, JCM 19902, NCAIM B 02340",1,"Thermus composti",Thermus
+16723,"Wai 33 A1","DSM 4687, ATCC 43280, JCM 11600, BCRC 17263, CCM 4200, NCIMB 12588",1,"Thermus filiformis",Thermus
+170492,"SYSU G00291","CGMCC 1.19255, KCTC 43357",1,"Thermus hydrothermalis",Thermus
+16727,RF-4,"DSM 12459, JCM 19899, ATCC 700962, BCRC 17264",1,"Thermus igniterrae",Thermus
+16728,HN1-8,"DSM 12460",0,"Thermus igniterrae",Thermus
+16732,,"DSM 21543, JCM 19901, PRI 3838, ATCC BAA-1677",1,"Thermus islandicus",Thermus
+16731,KW11,"DSM 16200, JCM 12314",1,"Thermus kawarayensis",Thermus
+170493,"SYSU G00388","KCTC 43358, CGMCC 1.19256",1,"Thermus neutrinimicus",Thermus
+16726,SPS-17,"DSM 12092, JCM 11603, ATCC 700435, BCRC 17423, NCIMB 13400",1,"Thermus oshimai",Thermus
+164116,,"JCM 31668",0,"Thermus oshimai",Thermus
+139853,JL-2,"DSM 103965",0,"Thermus oshimai",Thermus
+131568,RL,"DSM 21745, MTCC 8932",0,"Thermus parvatiensis",Thermus
+131569,"RL, RLM","DSM 25426, MTCC 8932",0,"Thermus parvatiensis",Thermus
+132829,RH99-GF7504,"DSM 15653, CCTCC AB 200292",0,"Thermus rehai",Thermus
+16724,SE-1,"DSM 8553, ATCC 51532, NCIMB 13336, JCM 11601, BCRC 17424, CCM 4465, NBRC 110748",1,"Thermus scotoductus",Thermus
+24639,KI2,"DSM 26573",0,"Thermus scotoductus",Thermus
+16725,VI-7a,"DSM 12093",0,"Thermus scotoductus",Thermus
+164604,,"JCM 33570, CGMCC 1.13590",1,"Thermus sediminis",Thermus
+169329,TH-1,"DSM 100621",0,"Thermus sp.",Thermus
+131027,AA/04,"DSM 17157",0,"Thermus sp.",Thermus
+16715,IB-21,"DSM 4250",0,"Thermus sp.",Thermus
+162067,,"JCM 17651",0,"Thermus sp.",Thermus
+16716,IB-57,"DSM 4251",0,"Thermus sp.",Thermus
+162068,,"JCM 17652",0,"Thermus sp.",Thermus
+162069,,"JCM 17653",0,"Thermus sp.",Thermus
+24640,,"DSM 25900, CCTCC AB 2012063, KCTC 32025, YIM 77924",1,"Thermus tengchongensis",Thermus
+163768,,"JCM 30350, KCTC 4677, YIM 76954",1,"Thermus tenuipuniceus",Thermus
+170494,"SYSU G00506","CGMCC 1.19257, KCTC 43359",1,"Thermus thalpophilus",Thermus
+168303,,"CFH 72773, KCTC 43129, CCTCC AB 2018244",1,"Thermus thermamylovorans",Thermus
+16717,HB8,"DSM 579, ATCC 27634, JCM 10941, CGMCC 1.6492, NBRC 101084, NCIMB 11244, CIP 110185",1,"Thermus thermophilus",Thermus
+16719,HB27,"DSM 7039, ATCC BAA-163",0,"Thermus thermophilus",Thermus
+16720,RQ-1,"DSM 9247",0,"Thermus thermophilus",Thermus
+16721,PRQ-15,"DSM 9248",0,"Thermus thermophilus",Thermus
+16722,HB8-plmd,"DSM 46338, IMET 11323",0,"Thermus thermophilus",Thermus
+23326,"SA1, SAMU","DSM 15284",0,"Thermus thermophilus",Thermus
+164444,,"JCM 33047",0,"Thermus thermophilus",Thermus
+164445,,"JCM 33048",0,"Thermus thermophilus",Thermus
+161018,,"JCM 10668",0,"Thermus thermophilus",Thermus
+164706,,"JCM 33999",0,"Thermus thermophilus",Thermus
+16718,AT-62,"DSM 674, ATCC 33923",0,"Thermus thermophilus",Thermus
+4304,Su4,"DSM 26407, JCM 15568, KCTC 5699",1,"Thioalbus denitrificans",Thioalbus
+6096,,"DSM 19224, NCCB 100269, UNIQEM U263, ALCO 1",1,"Thioalkalibacter halophilus",Thioalkalibacter
+168613,A26,"ATCC BAA-32",1,"Thioalkalicoccus limnaeus",Thioalkalicoccus
+17845,,"DSM 14786, UNIQEM 212, ALEN 1",1,"Thioalkalispira microaerophila",Thioalkalispira
+4286,ALJD,"DSM 13742, NCCB 100001",1,"Thioalkalivibrio denitrificans",Thioalkalivibrio
+4295,HL17,"DSM 15791",1,"Thioalkalivibrio halophilus",Thioalkalivibrio
+4294,,"DSM 14478, ALM 2, JCM 11372",1,"Thioalkalivibrio jannaschii",Thioalkalivibrio
+4296,,"DSM 14787, UNIQEM 213, ALEN 2",1,"Thioalkalivibrio nitratireducens",Thioalkalivibrio
+4287,,"DSM 13741, NCCB 100002, ALJ 12",1,"Thioalkalivibrio nitratis",Thioalkalivibrio
+4289,,"DSM 13531, JCM 11367, ARh 1, DSM 13541, ATCC BAA-721",1,"Thioalkalivibrio paradoxus",Thioalkalivibrio
+4292,,"DSM 13541, ARh 1, DSM 13531",0,"Thioalkalivibrio paradoxus",Thioalkalivibrio
+4293,ALRh,"DSM 13533",0,"Thioalkalivibrio sp.",Thioalkalivibrio
+133741,HL-EbGr7,"NCCB 100376, UNIQUEM U246",1,"Thioalkalivibrio sulfidiphilus",Thioalkalivibrio
+4297,,"DSM 16954, UNIQEM U226, ArhD ARhD1, ArhD 1",1,"Thioalkalivibrio thiocyanodenitrificans",Thioalkalivibrio
+4291,,"DSM 13532, JCM 11368, ARh 2, DSM 13542, ATCC BAA-720, JCM 11370",1,"Thioalkalivibrio thiocyanoxidans",Thioalkalivibrio
+4290,,"DSM 13542, ARh 2, DSM 13532",0,"Thioalkalivibrio thiocyanoxidans",Thioalkalivibrio
+4288,AL2,"DSM 13738, CBS 100464",1,"Thioalkalivibrio versutus",Thioalkalivibrio
+2463,BCH,"DSM 13587, ATCC BAA-132",1,"Thiobaca trueperi",Thiobaca
+2464,OCH,"DSM 13588",0,"Thiobaca trueperi",Thiobaca
+6143,AB7,"DSM 12475, ATCC 23644, JCM 3870, NCIMB 9548, BCRC 17603, CIP 104767",1,"Thiobacillus denitrificans",Thiobacillus
+164863,,"JCM 3869, ATCC 23642, BCRC 13020, NCIMB 9546",0,"Thiobacillus denitrificans",Thiobacillus
+6141,GP3,"DSM 739",0,"Thiobacillus denitrificans",Thiobacillus
+6142,RT,"DSM 807, ATCC 29685",0,"Thiobacillus denitrificans",Thiobacillus
+6144,,"DSM 612",0,"Thiobacillus sp.",Thiobacillus
+6145,,"DSM 505, ATCC 8158, CIP 104484, NCIMB 8370, JCM 3859, BCRC 11089, IAM 12101, IAM 12113, NBRC 103402",1,"Thiobacillus thioparus",Thiobacillus
+6146,TK-m,"DSM 5368",0,"Thiobacillus thioparus",Thiobacillus
+6147,E6,"DSM 5369",0,"Thiobacillus thioparus",Thiobacillus
+164858,,"JCM 3860, BCRC 17717, IAM 12853",0,"Thiobacillus thioparus",Thiobacillus
+6151,D24TN,"DSM 19892, JCM 15047",1,"Thiobacillus thiophilus",Thiobacillus
+158329,SL-1,"DSM 23043, ATCC BAA-1515",0,"Thiobacter sp.",Thiobacter
+17945,C55,"DSM 16629, ATCC BAA-941, JCM 12421",1,"Thiobacter subterraneus",Thiobacter
+22961,,"DSM 21303, SC 5",1,"Thiocapsa imhoffii",Thiocapsa
+2481,5811,"DSM 5653",1,"Thiocapsa marina",Thiocapsa
+2476,1314,"DSM 236",1,"Thiocapsa pendens",Thiocapsa
+2477,5813,"DSM 5652",0,"Thiocapsa pendens",Thiocapsa
+2478,6611,"DSM 235",1,"Thiocapsa rosea",Thiocapsa
+2479,1711,"DSM 217",1,"Thiocapsa roseopersicina",Thiocapsa
+2480,,"DSM 221, NCIB 8347",0,"Thiocapsa roseopersicina",Thiocapsa
+161595,,"JCM 15485",0,"Thiocapsa sp.",Thiocapsa
+161550,,"JCM 14886",0,"Thiocapsa subramanianensis",Thiocapsa
+168788,13D2W-2,"LMG 27145, MCCC 1A02612",1,"Thioclava atlantica",Thioclava
+130630,DLFJ1-1,"DSM 29618, CGMCC 1.12325, LMG 27290, MCCC 1A03957",1,"Thioclava dalianensis",Thioclava
+168659,DT23-4,"LMG 27698, KCTC 33533, MCCC 1A00513",1,"Thioclava indica",Thioclava
+168731,11.10-0-13,"LMG 29618, MCCC 1A03502",1,"Thioclava marina",Thioclava
+140534,25B10_4,"MCCC 1A07302, LMG 29614",1,"Thioclava nitratireducens",Thioclava
+13804,"TL 2","DSM 10166, UNIQEM 229",1,"Thioclava pacifica",Thioclava
+170103,TAW-CT134,"LMG 29615, MCCC 1A10143",1,"Thioclava sediminum",Thioclava
+158274,"ElOx 9","DSM 103712",0,"Thioclava sediminum",Thioclava
+133044,Sob-05,"DSM 21263, NBRC 104206",0,"Thioclava sp.",Thioclava
+140248,D2C14,"DSM 24497",0,"Thioclava sp.",Thioclava
+2465,8013,"DSM 226",0,"Thiococcus pfennigii",Thiococcus
+2466,8816,"DSM 227",0,"Thiococcus pfennigii",Thiococcus
+2467,9111,"DSM 228",0,"Thiococcus pfennigii",Thiococcus
+161572,,"JCM 15111, KCTC 15001",1,"Thiocystis cadagnonensis",Thiocystis
+161573,,"JCM 15112, KCTC 5954",1,"Thiocystis chemoclinalis",Thiocystis
+167843,"Langvik, SMG 215","DSM 215",1,"Thiocystis gelatinosa",Thiocystis
+168934,"Reyershausen, 1211, SMG 178","DSM 178",1,"Thiocystis minor",Thiocystis
+2487,2711,"DSM 207, Pfennig 2711",1,"Thiocystis violacea",Thiocystis
+2488,2311,"DSM 208, Pfennig 2311",0,"Thiocystis violacea",Thiocystis
+2482,6111,"DSM 198, ATCC 17096, Pfennig 6111",1,"Thiocystis violascens",Thiocystis
+167844,"Zeulenroda, SMG 234","DSM 234",1,"Thiodictyon bacillosum",Thiodictyon
+168653,"Bergkamen, SMG 232","DSM 232",1,"Thiodictyon elegans",Thiodictyon
+161593,,"JCM 15483, KCTC 5955",1,"Thiodictyon syntrophicum",Thiodictyon
+6097,BDA453,"DSM 19618, NBRC 103218",1,"Thiofaba tepidiphila",Thiofaba
+17082,EJ2M-B,"DSM 14609, JCM 11135",1,"Thiofilum flexile",Thiofilum
+131251,496Chim,"DSM 22050, JCM 15747, NBRC 105224",0,"Thiofractor thiocaminus",Thiofractor
+130290,gps52,"DSM 19610, NBRC 101260",1,"Thiogranum longum",Thiogranum
+17911,HRh1,"DSM 21152, UNIQEM U249",1,"Thiohalobacter thiocyanaticus",Thiohalobacter
+168750,"SG 3202, 4270","ATCC 49740, DSM 6210",1,"Thiohalocapsa halophila",Thiohalocapsa
+2468,JA142,"DSM 19078, JCM 14780",1,"Thiohalocapsa marina",Thiohalocapsa
+17895,,"DSM 15841, UNIQEM U222, HLD 2",1,"Thiohalomonas denitrificans",Thiohalomonas
+24760,,"DSM 16360, HLD 1",0,"Thiohalomonas denitrificans",Thiohalomonas
+17896,,"DSM 16925, UNIQEM U248, HRhD 3sp",1,"Thiohalomonas nitratireducens",Thiohalomonas
+17846,,"DSM 16326, UNIQEM U231, HRhD 2",1,"Thiohalophilus thiocyanatoxydans",Thiohalophilus
+17897,HL19,"DSM 15699, UNIQEM U223",1,"Thiohalorhabdus denitrificans",Thiohalorhabdus
+17898,,"DSM 15703, UNIQEM U224, HLD 10",0,"Thiohalorhabdus denitrificans",Thiohalorhabdus
+4298,,"DSM 17116, UNIQEM U372, ALgr 6sp",1,"Thiohalospira alkaliphila",Thiohalospira
+4300,"HL 3","DSM 15071, UNIQEM U219",1,"Thiohalospira halophila",Thiohalospira
+4299,"HL 4","DSM 15070",0,"Thiohalospira halophila",Thiohalospira
+2469,"strain Taichung, CML2","DSM 3802",1,"Thiolamprovum pedioforme",Thiolamprovum
+130815,,"DSM 23672, JCM 15507, Hiromi 1, Hiromi HIROMI1",1,"Thiolapillus brandeum",Thiolapillus
+17081,B3-1,"DSM 14473, JCM 11364",1,"Thiolinea disciformis",Thiolinea
+166194,HaS4,"NBRC 112315, BCRC 81110",1,"Thiomicrorhabdus aquaedulcis",Thiomicrorhabdus
+11931,SVAL-E,"DSM 13458, ATCC 700955",1,"Thiomicrorhabdus arctica",Thiomicrorhabdus
+168323,HH3,"ATCC TSD-241, DSM 111593",1,"Thiomicrorhabdus cannonii",Thiomicrorhabdus
+11925,"Ch-1, Chile-1","DSM 12352, ATCC 700858",1,"Thiomicrorhabdus chilensis",Thiomicrorhabdus
+11924,JB-A2,"DSM 12351, ATCC 700878",1,"Thiomicrorhabdus frisia",Thiomicrorhabdus
+139856,KP2,"DSM 25197",0,"Thiomicrorhabdus frisia",Thiomicrorhabdus
+168472,HH1,"ATCC TSD-240, DSM 111584",1,"Thiomicrorhabdus heinhorstiae",Thiomicrorhabdus
+132628,,"DSM 100274, JCM 30760, MAS 2",1,"Thiomicrorhabdus hydrogeniphila",Thiomicrorhabdus
+170583,"A m19","BCRC 81336, NBRC 114602",1,"Thiomicrorhabdus immobilis",Thiomicrorhabdus
+167789,13-15A,"KCTC 15750, MCCC 1A13986",1,"Thiomicrorhabdus indica",Thiomicrorhabdus
+11932,SVAL-D,"DSM 13453, ATCC 700954",1,"Thiomicrorhabdus psychrophila",Thiomicrorhabdus
+11910,AL3,"DSM 13739, CBS 100465",1,"Thiomicrospira aerophila",Thiomicrospira
+11912,,"DSM 14477, JCM 11371, ALM 1",1,"Thiomicrospira cyclica",Thiomicrospira
+11913,ASL8-2,"DSM 17327, UNIQEM U242",1,"Thiomicrospira microaerophila",Thiomicrospira
+11914,4B,"DSM 1534, ATCC 27801",1,"Thiomicrospira pelophila",Thiomicrospira
+11911,AL7,"DSM 13740, NCCB 100000",1,"Thioalkalimicrobium sibiricum",Thioalkalimicrobium
+160491,V2501,"DSM 25470",0,"Thiomicrospira sp.",Thiomicrospira
+11916,Art-3,"DSM 13189",0,"Thiomicrospira sp.",Thiomicrospira
+11917,Milos-T1,"DSM 13190",0,"Thiomicrospira sp.",Thiomicrospira
+11918,MA2-6,"DSM 13155",0,"Thiomicrospira sp.",Thiomicrospira
+11919,SL-1,"DSM 13163",0,"Thiomicrospira sp.",Thiomicrospira
+11920,JB-B2,"DSM 13164",0,"Thiomicrospira sp.",Thiomicrospira
+11921,JB-A1f,"DSM 13169",0,"Thiomicrospira sp.",Thiomicrospira
+11922,Milos-T2,"DSM 13229",0,"Thiomicrospira sp.",Thiomicrospira
+11915,TG2,"DSM 5322, ATCC 51452",1,"Thiomicrospira thyasirae",Thiomicrospira
+17953,3As,"DSM 22701, CIP 110005",1,"Thiomonas arsenitoxydans",Thiomonas
+17950,S10,"DSM 18181, JCM 14806",1,"Thiomonas bhubaneswarensis",Thiomonas
+17948,TuT-1,"DSM 17897, IAM 12624, IFO 14566, KCTC 2851, NBRC 14566, THI 091",1,"Thiomonas delicata",Thiomonas
+17946,Hö5,"DSM 5495, NBRC 102094, NBRC 102145",0,"Thiomonas delicata",Thiomonas
+17947,b6,"DSM 16361, LMG 22795",0,"Thiomonas arsenivorans",Thiomonas
+139872,FB-6,"DSM 25805",0,"Thiomonas ferrovorans",Thiomonas
+17949,,"DSM 18155, ATCC 15466, CIP 104401, IAM 12131, IFO 14564, NBRC 14564, NCIMB 9515, JCM 20425",1,"Thiomonas intermedia",Thiomonas
+17952,6C,"DSM 21436, JCM 16107",1,"Thiomonas islandica",Thiomonas
+139871,FB-cd,"DSM 25617",0,"Thiomonas metallidurans",Thiomonas
+17951,,"DSM 18570, ATCC 23370, CIP 104403, IAM 12132, IFO 14565, LMG 8564, THI 023, JCM 20426, NBRC 14565",1,"Thiomonas perometabolis",Thiomonas
+132008,SO6,"DSM 19671, NBRC 101989",0,"Thiomonas sp.",Thiomonas
+139870,5A-1,"DSM 14599",0,"Thiomonas sp.",Thiomonas
+168776,,"ATCC 51520",1,"Thiomonas thermosulfata",Thiomonas
+168811,JA633,"NBRC 109958, KCTC 15337",1,"Thiophaeococcus fuscus",Thiophaeococcus
+2494,JA304,"DSM 19863, JCM 14889",1,"Thiophaeococcus mangrovi",Thiophaeococcus
+17848,gps61,"DSM 18546, NBRC 101261",1,"Thioprofundum hispidum",Thioprofundum
+17847,106,"DSM 19353, JCM 14586",1,"Thioprofundum lithotrophicum",Thioprofundum
+130582,X2,"DSM 28679, CCTCC M 2013362, KCTC 42076",1,"Thiopseudomonas denitrificans",Thiopseudomonas
+162096,,"JCM 17747",0,"Thiopseudomonas sp.",Thiopseudomonas
+10425,"BKB 25Ts-Y","DSM 16661, JCM 12457",1,"Thioreductor micantisoli",Thioreductor
+140546,JA878,"KCTC 15531, JCM 31245",1,"Thiorhodococcus alkaliphilus",Thiorhodococcus
+2471,AZ1,"DSM 15006",1,"Thiorhodococcus drewsii",Thiorhodococcus
+23850,JA363,"DSM 21807, KCTC 5701, NBRC 104959",1,"Thiorhodococcus fuscus",Thiorhodococcus
+2474,"JA 130","DSM 18858, ATCC BAA-1353, JCM 14150",1,"Thiorhodococcus kakinadensis",Thiorhodococcus
+2472,WS,"DSM 18266, ATCC BAA-1228, VKM B-2393",1,"Thiorhodococcus mannitoliphagus",Thiorhodococcus
+2470,"CE 2203","DSM 11518, ATCC 700259",1,"Thiorhodococcus minor",Thiorhodococcus
+167981,JA395,"NBRC 104958, KCTC 5710",1,"Thiorhodococcus modestalkaliphilus",Thiorhodococcus
+2425,1611,"DSM 182, Pfennig 1611",0,"Thiorhodococcus sp.",Thiorhodococcus
+23849,JA362,"DSM 21806",0,"Thiorhodococcus sp.",Thiorhodococcus
+2484,"Lascelles T","DSM 200",0,"Thiorhodococcus sp.",Thiorhodococcus
+2489,"8311, Trüper 8311","DSM 212",0,"Thiorhodococcus sp.",Thiorhodococcus
+2490,"8814, Trüper 8814","DSM 213",0,"Thiorhodococcus sp.",Thiorhodococcus
+169132,"Gorlenko: A12","ATCC 700588",1,"Thiorhodospira sibirica",Thiorhodospira
+2475,SSP1,"DSM 6702",1,"Thiorhodovibrio winogradskyi",Thiorhodovibrio
+158475,"PMS-2141T.STBD.0c.01 a","DSM 108030",0,"Thiosocius teredinicola",Thiosocius
+14339,P,"DSM 19205, VKM B-2514",1,"Thiospirochaeta perfilievii",Thiospirochaeta
+170247,GL-11-2,"MCCC M20691, KCTC 82723",1,"Thiosulfatihalobacter marinus",Thiosulfatihalobacter
+168467,aks77,"NBRC 114013, BCRC 81183",1,"Thiosulfatimonas sediminis",Thiosulfatimonas
+160434,AkT22,"DSM 109948, NBRC 114012, BCRC 81184",1,"Thiosulfativibrio zosterae",Thiosulfativibrio
+17083,G1,"DSM 21228",1,"Thiothrix caldifontis",Thiothrix
+168698,Q,"ATCC 49748",1,"Thiothrix fructosivorans",Thiothrix
+17084,BL,"DSM 21227, VKM B-2521",1,"Thiothrix lacustris",Thiothrix
+169460,AS,"DSM 113264, VKM B-3545, UQM 41458",0,"Thiothrix litoralis",Thiothrix
+17079,JP2,"DSM 5205, ATCC 35100",1,"Thiothrix nivea",Thiothrix
+17080,CT3,"DSM 12730",0,"Thiothrix winogradskyi",Thiothrix
+170582,"UQM 41459, Ku-5","DSM 113265, VKM B-3544, KCTC 25256",1,"Thiothrix subterranea",Thiothrix
+134113,SO07,"JCM 12417, ATCC BAA-1033",1,"Thiovirga sulfuroxydans",Thiovirga
+5235,,"DSM 18579, CCUG 49520, CIP 108754",1,"Thorsellia anophelis",Thorsellia
+130843,"W5-1.1, W5.1.1","DSM 28569, CIP 110794, LMG 28213",1,"Thorsellia kandunguensis",Thorsellia
+130842,T2.1,"DSM 29347, CCM 8545, CIP 110829, LMG 28483",1,"Thorsellia kenyensis",Thorsellia
+140939,Z8,"CGMCC 1.12944, JCM 30358",1,"Tianweitania sediminis",Tianweitania
+140280,,"DSM 101684, KCTC 42873, YIM 73013",1,"Tibeticola sediminis",Tibeticola
+167087,S-5007,"MCCC 1H00402, KCTC 15876",1,"Tichowtungia aerotolerans",Tichowtungia
+159906,,"DSM 103552, Marseille-P3084",0,"Tidjanibacter massiliensis",Tidjanibacter
+170933,KL16,"CBFS A-116-1",1,"Tildeniella alaskaensis",Tildeniella
+169498,"Us-6-3, IBASU-A-754","DSM 112875",0,"Timaviella dunensis",Timaviella
+169256,"KZ-23-2, IBASU-A-752","DSM 112876",0,"Timaviella edaphica",Timaviella
+169257,"KZ-7-1-2, IBASU-A-751","DSM 112877",0,"Timaviella edaphica",Timaviella
+24871,"JC 301","DSM 25696, CSUR P167",1,"Timonella senegalensis",Timonella
+2861,APO,"DSM 14871, ATCC BAA-393, CIP 107910",1,"Tindallia californiensis",Tindallia
+2860,Z-7934,"DSM 10318",1,"Tindallia magadiensis",Tindallia
+2862,IMP-300,"DSM 18041, JCM 13990",1,"Tindallia texcoconensis",Tindallia
+24766,,"DSM 23816, CCUG 60010, LBN 295, AIP 268.01",1,"Tissierella carlieri",Tissierella
+18017,"BN11, BN 11","DSM 9508, CCUG 55484, CIP 104584",1,"Tissierella creatinini",Tissierella
+18015,,"DSM 6911, CCUG 55419, KRE 4",1,"Tissierella creatinophila",Tissierella
+18016,,"DSM 6912, KRE 2",0,"Tissierella creatinophila",Tissierella
+159074,WCA3-693-APC-4alpha,"DSM 105185, JCM 34367",1,"Tissierella pigra",Tissierella
+18019,,"DSM 18095, ATCC 25539, NCIMB 703038, NCTC 11158, VPI 0563, CCUG 27825, Prevot 3722B",1,"Tissierella praeacuta",Tissierella
+157069,,"CCUG 69324",0,"Tissierella praeacuta",Tissierella
+18018,"BL 4858","CCUG 21837, KCTC 5022, NRRL B-41124, BCRC 14555, DSM 5675, ATCC 33268, VPI 12193",0,"Tissierella praeacuta",Tissierella
+155669,,"CCUG 58789",0,"Tissierella praeacuta",Tissierella
+156941,,"CCUG 67192",0,"Tissierella praeacuta",Tissierella
+157011,,"CCUG 68619",0,"Tissierella praeacuta",Tissierella
+168469,MSJ-40,"CGMCC 1.45012, KCTC 25071",1,"Tissierella simiarum",Tissierella
+18020,JW/IU-YU1,"DSM 9295",0,"Tissierella sp.",Tissierella
+18021,,"DSM 15347, ARC ArC6, ARC 6",0,"Tissierella sp.",Tissierella
+14025,,"DSM 21585, JCM 15529, KCTC 22406, USBA 355",1,"Tistlia consotensis",Tistlia
+14014,BZ78,"DSM 22817, CGMCC 1.10188, LMG 26047",1,"Tistrella bauzanensis",Tistrella
+135528,,"CIP 108080, IAM 14872, JCM 21370, CGMCC 1.7686, NBRC 102134, TISTR 1108",1,"Tistrella mobilis",Tistrella
+140171,,"DSM 101307, CCY 0513",0,"Tolypothrix sp.",Tolypothrix
+294,TA4,"DSM 9187",1,"Tolumonas auensis",Tolumonas
+168072,BRL6-1,"DSM 100457, ATCC TSD-11",1,"Tolumonas lignilytica",Tolumonas
+295,,"DSM 22975, ATCC BAA-1908, OCF 7",1,"Tolumonas osonensis",Tolumonas
+17888,,"DSM 45403, NBRC 106253, AHU 1821",1,"Tomitella biformata",Tomitella
+132177,,"DSM 45788, JCM 18542, YIM C00895",1,"Tomitella cavernae",Tomitella
+22988,W254,"DSM 21880, ATCC 35846, CCM 3774, JCM 15727",1,"Tonsilliphilus suis",Tonsilliphilus
+169562,,"DSM 104218, CCY 15150",0,"Toxifilum mysidocida",Toxifilum
+5181,370-85,"DSM 16940, ATCC 49490, CIP 103637, JCM 21227, CDC 0370-85, IAM 14444, NBRC 103172",1,"Trabulsiella guamensis",Trabulsiella
+135322,88-88,"CIP 103638, ATCC 49491",0,"Trabulsiella guamensis",Trabulsiella
+135323,1789-73,"CIP 103639, ATCC 49492",0,"Trabulsiella guamensis",Trabulsiella
+5182,H105-36/86,"DSM 19941, ATCC 49493, CDC 2421-87",0,"Trabulsiella guamensis",Trabulsiella
+5183,,"DSM 22557, BCRC 17577, LMG 23580, Eant 3-9",1,"Trabulsiella odontotermitis",Trabulsiella
+162156,,"JCM 17992",0,"Trabulsiella sp.",Trabulsiella
+130827,SK9K4,"DSM 28304, JCM 19907, KCTC 15503",1,"Tractidigestivibacter scatoligenes",Tractidigestivibacter
+13840,A34,"DSM 19547, JCM 14836",1,"Tranquillimonas alkanivorans",Tranquillimonas
+24496,BH87090,"DSM 23042, KCTC 22650",1,"Tranquillimonas rosea",Tranquillimonas
+140324,,"DSM 103514, CSUR P3110, Marseille-P3110",0,"Traorella massiliensis",Traorella
+167042,15TR583,"DSM 109105, CCM 8942",1,"Trebonia kvetii",Trebonia
+134684,,"CIP 108090, ATCC 700763, OMZ 796",1,"Treponema agilis",Treponema
+168884,HA2P,"ATCC 700288",1,"Treponema amylovorum",Treponema
+14345,ZAS-9,"DSM 13862, ATCC BAA-888",1,"Treponema azotonutricium",Treponema
+134106,"ACCAA-909, 7CPL208","CIP 108244, JCM 12341",1,"Treponema berlinense",Treponema
+14343,DD5/3,"DSM 12168",1,"Treponema brennaborense",Treponema
+14340,RUS-1,"DSM 1788, ATCC 33254, JCM 32280",1,"Treponema bryantii",Treponema
+14324,H1,"DSM 7334, ATCC 51460",1,"Gracilinema caldarium",Gracilinema
+138911,T,"CIP 64.40",0,"Treponema calligyrum",Treponema
+14344,,"DSM 14222, ATCC 35405, JCM 8153, CIP 103919, KCTC 15104",1,"Treponema denticola",Treponema
+138912,,"CIP 64.44",0,"Treponema denticola",Treponema
+165775,,"JCM 8226, ATCC 33521, CIP 103917",0,"Treponema denticola",Treponema
+165755,,"JCM 8152, ATCC 35404, CIP 103920",0,"Treponema denticola",Treponema
+165774,,"JCM 8225, ATCC 33520, CIP 103917",0,"Treponema denticola",Treponema
+134223,"SPIT 5","DSM 18056, JCM 13955",1,"Treponema isoptericolens",Treponema
+168058,"OMZ 684, periodontitis patient PFB4G, PFB4G","CIP 107075, ATCC 700332",1,"Treponema lecithinolyticum",Treponema
+23288,BR,"DSM 27366, ATCC 51939, CIP 105146, OMZ 679",1,"Treponema maltophilum",Treponema
+169547,"T 19","DSM 18689",0,"Treponema medium subsp. bovis",Treponema
+14347,FO2FA,"DSM 16260, ATCC 700770, OMZ 833",1,"Treponema parvum",Treponema
+168684,,"VPI D-36-DR-2, ATCC 33768",1,"Treponema pectinovorum",Treponema
+14349,T3552B,"DSM 18691, NCTC 13403",1,"Treponema pedis",Treponema
+167864,,"LMG 31794, CIP 111910, RCC2812",1,"Treponema peruense",Treponema
+159392,B43.1,"DSM 110455, NCTC 14362",0,"Treponema phagedenis",Treponema
+169588,"T 320A","DSM 18690",0,"Treponema phagedenis",Treponema
+134107,14V28,"ATCC BAA-908, CIP 108245, JCM 12342",1,"Treponema porcinum",Treponema
+168900,ZAS-2,"DSM 12427, ATCC BAA-887",1,"Treponema primitia",Treponema
+133660,,"ATCC 700334, CIP 108088, OMZ 758",1,"Treponema putidum",Treponema
+140319,CHPA,"DSM 103679, NCTC 13848",1,"Treponema rectale",Treponema
+139183,Chancre,"CIP 51.64",0,"Treponema refringens",Treponema
+140273,Ru1,"DSM 103462, NCTC 13847",1,"Treponema ruminis",Treponema
+14341,PB,"DSM 2985, ATCC 43261, JCM 32279",1,"Treponema saccharophilum",Treponema
+134683,,"CIP 108089, ATCC 700335",1,"Treponema socranskii",Treponema
+165756,,"JCM 8155, ATCC 35534, VPI D2B8",1,"Treponema socranskii subsp. buccale",Treponema
+165757,,"JCM 8156, ATCC 35535, VPI D46CPE1",1,"Treponema socranskii subsp. paredis",Treponema
+165758,,"JCM 8157, ATCC 35536, VPI DR56BR1116",1,"Treponema socranskii",Treponema
+24569,,"DSM 16787, ATCC 700767, OMZ 806",0,"Treponema sp.",Treponema
+24570,BL3D1,"DSM 16788, ATCC 700765, OMZ 800",0,"Treponema sp.",Treponema
+24571,37F9HE,"DSM 16789, ATCC 700722, OMZ 838",0,"Treponema sp.",Treponema
+23287,HU3H9A,"DSM 16369, ATCC 700764, OMZ 797",0,"Treponema sp.",Treponema
+14330,R8,"DSM 13955",0,"Treponema sp.",Treponema
+14320,Z1,"DSM 2028, ATCC 25083, JCM 16534",1,"Treponema stenostreptum",Treponema
+14342,6091,"DSM 2489, ATCC 33096",1,"Treponema succinifaciens",Treponema
+14321,,"DSM 1903, ATCC 19044",1,"Teretinema zuelzerae",Teretinema
+5805,SZ,"DSM 17278, ATCC BAA-1151",1,"Geobacter lovleyi",Geobacter
+158379,B5,"DSM 104692, KCTC 33885",1,"Trichococcus alkaliphilus",Trichococcus
+2283,37AN3*,"DSM 14526, ATCC BAA-296",1,"Trichococcus collinsii",Trichococcus
+2281,Echt,"DSM 2094, ATCC 51221",1,"Trichococcus flocculiformis",Trichococcus
+2286,ES5,"DSM 23957",0,"Trichococcus flocculiformis",Trichococcus
+2285,R210,"DSM 22150, JCM 31247",1,"Trichococcus ilyis",Trichococcus
+158378,B7-2,"DSM 104691, KCTC 33886",1,"Trichococcus paludicola",Trichococcus
+2282,Z-7189,"DSM 9172, CIP 105359",1,"Trichococcus palustris",Trichococcus
+2280,KoTa2,"DSM 2381, ATCC 35945, CCUG 37395, CIP 104580",1,"Trichococcus pasteurii",Trichococcus
+2284,PmagG1,"DSM 18806, ATCC BAA-756, CIP 108035, JCM 12176",1,"Trichococcus patagoniensis",Trichococcus
+158469,"Art 1","DSM 107162, VKM B-3260",1,"Trichococcus shcherbakoviae",Trichococcus
+167109,SKBG,"JCM 33326, VKM B-3241",1,"Trichococcus shcherbakoviae subsp. psychrophilus",Trichococcus
+158157,MASE-IM5,"DSM 105632",0,"Trichococcus sp.",Trichococcus
+24855,230,"DSM 43890, IFO 14562, JCM 6113, NBRC 14562, BCRC 13420, VKM Ac-1272",1,"Trichotomospora caesia",Trichotomospora
+128701,"STI42128(IMET), INA11584/54","IMET 40167, IMET 42128",0,"Trichotomospora sp.",Trichotomospora
+170513,4D114,"GDMCC 1.2131, KCTC 82876",1,"Trinickia acidisoli",Trinickia
+1905,"720, ICBPC 113","DSM 50341, ATCC 25418, CCUG 20834, CFBP 2429, CFBP 3818, CIP 105770, HAMBI 2159, ICMP 512, NCPPB 2151, LMG 2155, JCM 10488, BCRC 12862, BCRC 13908, CCEB 861, CCM 4971, ICPB PC113, JCM 9310, KCTC 2965, VKM B-1295, VTT E-991296",1,"Trinickia caryophylli",Trinickia
+147035,,"CCUG 32697, NCPPB 609, LMG 2156",0,"Trinickia caryophylli",Trinickia
+147036,,"CCUG 32698, NCPPB 353, LMG 6876",0,"Trinickia caryophylli",Trinickia
+147037,,"CCUG 32699, LMG 6878",0,"Trinickia caryophylli",Trinickia
+168527,GIMN1.004,"NRRL B-59553, CCTCC M 209109, LMG 30479, CCTCC 209109",1,"Trinickia dabaoshanensis",Trinickia
+159661,NEAU-SY24,"DSM 106065, CCTCC AA 2018003",1,"Trinickia diaoshuihuensis",Trinickia
+166476,DHOM06,"GDMCC 1.1280, LMG 30259",1,"Trinickia dinghuensis",Trinickia
+166475,7MK8-2,"GDMCC 1.1449, KCTC 62469",1,"Trinickia fusca",Trinickia
+170514,DHG64,"KACC 21223, GDMCC 1.1282",1,"Trinickia mobilis",Trinickia
+1970,GP25-8,"DSM 18235, CIP 109628, KACC 11589, LMG 24076, CCUG 54942, JCM 16392",1,"Trinickia soli",Trinickia
+130227,"NKMU-JPY-345, JPY-345","DSM 29917, BCRC 80258, KCTC 23309, LMG 26032",1,"Trinickia symbiotica",Trinickia
+170090,SM1969,"KCTC 72843, MCCC 1K04320",1,"Tritonibacter aquimaris",Tritonibacter
+158322,O3.65,"DSM 101689, LMG 29740",1,"Epibacterium horizontis",Epibacterium
+170091,SM1979,"MCCC 1K04321, KCTC 72842",1,"Tritonibacter litoralis",Tritonibacter
+13785,,"DSM 23402, KCCM 42378, NBRC 102038, HTCC 2662, CIP 109709",0,"Epibacterium mobile",Epibacterium
+13843,MD5,"DSM 26470, CECT 7557, KCTC 23350",1,"Epibacterium multivorans",Epibacterium
+13787,R-28751,"DSM 25328, CCUG 55858, LMG 24367",1,"Epibacterium scottomollicae",Epibacterium
+166125,LMIT003,"CICC 24660, KCTC 62895",1,"Tropicibacter alexandrii",Tropicibacter
+13842,C02,"DSM 19561, CECT 7648, JCM 14838",1,"Tropicibacter naphthalenivorans",Tropicibacter
+168794,PS-14-16,"InaCC A 516, NBRC 110109",1,"Tropicihabitans flavus",Tropicihabitans
+133676,DPG-21,"KCTC 23424, CCUG 60524",1,"Tropicimonas aquimaris",Tropicimonas
+133301,,"KCTC 52178, NBRC 111995, CAU 1062",1,"Tropicimonas arenosa",Tropicimonas
+13841,B51,"DSM 19548, JCM 14837",1,"Tropicimonas isoalkanivorans",Tropicimonas
+130633,M97,"DSM 29339, JCM 17731, KACC 15544",1,"Tropicimonas sediminicola",Tropicimonas
+17085,RQ-24,"DSM 17093, CIP 108686, LMG 22925",1,"Truepera radiovictrix",Truepera
+17086,TU-8,"DSM 17094, CIP 108687, LMG 22926",0,"Truepera radiovictrix",Truepera
+218,Murakami,"DSM 19515, ATCC BAA-1522, JCM 14813, CCUG 58417, CIP 110059, KCTC 15151",1,"Trueperella abortisuis",Trueperella
+23524,,"DSM 24630, IMMIB L-1653",0,"Trueperella abortisuis",Trueperella
+214,"GF 750, 89-0504","DSM 9152, CCUG 33419, CIP 104252, LCDC 89-0504, LMG 18721, ATCC 51727",1,"Trueperella bernardiae",Trueperella
+149294,,"CCUG 37433",0,"Trueperella bernardiae",Trueperella
+147824,,"CCUG 34315 A",0,"Trueperella bernardiae",Trueperella
+150812,,"CCUG 42417",0,"Trueperella bernardiae",Trueperella
+148451,,"CCUG 35468",0,"Trueperella bernardiae",Trueperella
+147003,,"CCUG 32632 A",0,"Trueperella bernardiae",Trueperella
+152678,,"CCUG 47336",0,"Trueperella bernardiae",Trueperella
+147004,,"CCUG 32632 B",0,"Trueperella bernardiae",Trueperella
+213,"GF 746","DSM 9151, LCDC 88-0601",0,"Trueperella bernardiae",Trueperella
+147005,,"CCUG 32633",0,"Trueperella bernardiae",Trueperella
+137843,,"CIP 101230",0,"Trueperella bernardiae",Trueperella
+215,"GF 774","DSM 9153, CDC F507",0,"Trueperella bernardiae",Trueperella
+147349,,"CCUG 33420, ATCC 51728",0,"Trueperella bernardiae",Trueperella
+149240,,"CCUG 37324",0,"Trueperella bernardiae",Trueperella
+147350,,"CCUG 33421",0,"Trueperella bernardiae",Trueperella
+150825,,"CCUG 42482 B",0,"Trueperella bernardiae",Trueperella
+148452,,"CCUG 35469",0,"Trueperella bernardiae",Trueperella
+148453,,"CCUG 35471",0,"Trueperella bernardiae",Trueperella
+154734,,"CCUG 55025",0,"Trueperella bernardiae",Trueperella
+148454,,"CCUG 35472",0,"Trueperella bernardiae",Trueperella
+148455,,"CCUG 35473",0,"Trueperella bernardiae",Trueperella
+148456,,"CCUG 35474",0,"Trueperella bernardiae",Trueperella
+151673,,"CCUG 44583",0,"Trueperella bernardiae",Trueperella
+155977,,"CCUG 59841",0,"Trueperella bernardiae",Trueperella
+136178,,"CIP 103184",0,"Trueperella bernardiae",Trueperella
+136603,,"CIP 104412, DMMZ 1016",0,"Trueperella bernardiae",Trueperella
+156725,,"CCUG 64484",0,"Trueperella bernardiae",Trueperella
+136604,,"CIP 104413, DMMZ 749",0,"Trueperella bernardiae",Trueperella
+146998,,"CCUG 32621",0,"Trueperella bernardiae",Trueperella
+216,"1W3/01, W3/01","DSM 17162, CIP 109229, NCTC 13354, CCUG 59862",1,"Trueperella bialowiezensis",Trueperella
+217,"2W106/04, W106/04","CCUG 59861, DSM 17163, CIP 109232, NCTC 13355",1,"Trueperella bonasi",Trueperella
+212,"84, C-100, 84 (C.100)","DSM 20630, ATCC 19411, CCUG 13230, CIP 103129, LMG 16162, NCTC 5224",1,"Trueperella pyogenes",Trueperella
+147945,,"CCUG 34554",0,"Trueperella pyogenes",Trueperella
+150991,,"CCUG 42957",0,"Trueperella pyogenes",Trueperella
+148472,,"CCUG 35518",0,"Trueperella pyogenes",Trueperella
+135876,,"CIP 103731, ATCC 49698, CCUG 35410, IP A92",0,"Trueperella pyogenes",Trueperella
+148474,,"CCUG 35520",0,"Trueperella pyogenes",Trueperella
+136033,S47,"CIP 52.101",0,"Trueperella pyogenes",Trueperella
+148475,,"CCUG 35521",0,"Trueperella pyogenes",Trueperella
+136038,"calf lung","CIP 52.102",0,"Trueperella pyogenes",Trueperella
+148476,,"CCUG 35522",0,"Trueperella pyogenes",Trueperella
+148477,,"CCUG 35523",0,"Trueperella pyogenes",Trueperella
+136285,,"CIP 104732, ATCC 8104, CCUG 412, NCTC 6448",0,"Trueperella pyogenes",Trueperella
+148478,,"CCUG 35524",0,"Trueperella pyogenes",Trueperella
+156631,,"CCUG 63755",0,"Trueperella pyogenes",Trueperella
+146818,,"CCUG 32175",0,"Trueperella pyogenes",Trueperella
+148479,,"CCUG 35525",0,"Trueperella pyogenes",Trueperella
+152230,,"CCUG 46175 A",0,"Trueperella pyogenes",Trueperella
+146819,,"CCUG 32176",0,"Trueperella pyogenes",Trueperella
+148480,,"CCUG 35526",0,"Trueperella pyogenes",Trueperella
+152294,,"CCUG 46368",0,"Trueperella pyogenes",Trueperella
+146820,,"CCUG 32177",0,"Trueperella pyogenes",Trueperella
+148481,,"CCUG 35527",0,"Trueperella pyogenes",Trueperella
+136620,,"CIP A84",0,"Trueperella pyogenes",Trueperella
+137237,915-82,"CIP 103189",0,"Trueperella pyogenes",Trueperella
+146821,,"CCUG 32178",0,"Trueperella pyogenes",Trueperella
+148484,,"CCUG 35530",0,"Trueperella pyogenes",Trueperella
+148482,,"CCUG 35528",0,"Trueperella pyogenes",Trueperella
+148485,,"CCUG 35531",0,"Trueperella pyogenes",Trueperella
+211,3329,"DSM 20594, CCM 5753",0,"Trueperella pyogenes",Trueperella
+134396,,"CIP A89",0,"Trueperella pyogenes",Trueperella
+148483,,"CCUG 35529",0,"Trueperella pyogenes",Trueperella
+148486,,"CCUG 35532",0,"Trueperella pyogenes",Trueperella
+148487,,"CCUG 35533",0,"Trueperella pyogenes",Trueperella
+134605,,"CIP A83",0,"Trueperella pyogenes",Trueperella
+141249,,"CCUG 406",0,"Trueperella pyogenes",Trueperella
+148488,,"CCUG 35534",0,"Trueperella pyogenes",Trueperella
+134635,,"CIP A85",0,"Trueperella pyogenes",Trueperella
+134642,,"CIP A86",0,"Trueperella pyogenes",Trueperella
+134672,,"CIP A91",0,"Trueperella pyogenes",Trueperella
+138683,"kidney 1","CIP 52.100",0,"Trueperella pyogenes",Trueperella
+134678,Géo,"CIP A92",0,"Trueperella pyogenes",Trueperella
+138721,,"CIP 54.18",0,"Trueperella pyogenes",Trueperella
+147942,,"CCUG 34551",0,"Trueperella pyogenes",Trueperella
+147943,,"CCUG 34552",0,"Trueperella pyogenes",Trueperella
+135036,,"CIP A88",0,"Trueperella pyogenes",Trueperella
+147944,,"CCUG 34553",0,"Trueperella pyogenes",Trueperella
+150226,,"CCUG 39326",0,"Trueperella pyogenes",Trueperella
+135125,Hurrault,"CIP A87",0,"Trueperella pyogenes",Trueperella
+160521,19M2397,"DSM 111392, CCOS 1952",1,"Trueperella pecoris",Trueperella
+160520,15A0121,"DSM 112156",0,"Trueperella sp.",Trueperella
+160522,19OD0592,"DSM 112157",0,"Trueperella sp.",Trueperella
+160523,15IMD0307,"DSM 112158",0,"Trueperella sp.",Trueperella
+164540,,"JCM 33388, DSM 109107",1,"Tsukamurella asaccharolytica",Tsukamurella
+164541,,"JCM 33389, DSM 109108",1,"Tsukamurella conjunctivitidis",Tsukamurella
+158628,HKU65,"JCM 31971, DSM 105036, CIP 111613",1,"Tsukamurella hominis",Tsukamurella
+131576,HKU52,"DSM 100208, JCM 30715",1,"Tsukamurella hongkongensis",Tsukamurella
+131577,HKU53,"DSM 100209, JCM 30716",0,"Tsukamurella hongkongensis",Tsukamurella
+17099,D-771,"DSM 44067, ATCC 700082, JCM 10110, CCUG 35731, CIP 104790, IFM 0808, KCTC 9866, PCM 2577, IMMIB D-771",1,"Tsukamurella inchonensis",Tsukamurella
+17098,IMK-9,"DSM 43246, ATCC 25938, DSM 43344, IMET 7373, JCM 3226, KCC A-0226, NCIMB 13124, NCTC 10741, VKM Ac-1228, BCRC 13723, CCM 2630, IMSNU 21161, NRRL B-16960, PCM 2412",0,"Tsukamurella paurometabola",Tsukamurella
+158627,HKU63,"JCM 31969, DSM 105034, CIP 111612",1,"Tsukamurella ocularis",Tsukamurella
+164165,,"JCM 31970, DSM 105035",0,"Tsukamurella ocularis",Tsukamurella
+17087,,"DSM 20162, ATCC 8368, CECT 3055, CIP 100753, IFO 12160, IFO 16083, IFO 16120, IMET 11082, JCM 10117, NBRC 12160, NBRC 16083, NBRC 16120, CCUG 35730, BCRC 16391, CECT 5333, IFM 0811, JCM 7663, KCTC 9821, NCDO 2349, NCIMB 702349, NCTC 13232",1,"Tsukamurella paurometabola",Tsukamurella
+17088,"3477, M 291","DSM 43345",0,"Tsukamurella paurometabola",Tsukamurella
+17089,"NIV, N<SUB>I</SUB><SUB>V</SUB>","DSM 43600",0,"Tsukamurella paurometabola",Tsukamurella
+17090,"R 456","DSM 44119, IMRU 1520",0,"Tsukamurella paurometabola",Tsukamurella
+17091,"Ridell GB 460","DSM 46042, IMET 7432, Tsukamura 80003, Tsukamura E 4409",0,"Tsukamurella paurometabola",Tsukamurella
+17092,"8128, Gdf M296, M296","DSM 46065, IMET 7476, Tsukamura 8128",0,"Tsukamurella paurometabola",Tsukamurella
+17106,N1176,"DSM 44118, CIP 108828, JCM 13375, NCIMB 13963, NRRL B-24668, IFM 10600",1,"Tsukamurella pseudospumae",Tsukamurella
+17108,SCNU5,"DSM 45335, KCTC 9827, NRRL B-24668, JCM 15929",0,"Tsukamurella pseudospumae",Tsukamurella
+17100,,"DSM 44142, CCUG 35732, JCM 10111, IMMIB D-1321, ATCC 700081, CIP 104791, IFM 0809, KCTC 9963, NCTC 13230, PCM 2578",1,"Tsukamurella pulmonis",Tsukamurella
+153072,,"CCUG 48420",0,"Tsukamurella pulmonis",Tsukamurella
+153425,,"CCUG 49545",0,"Tsukamurella pulmonis",Tsukamurella
+149887,,"CCUG 38614",0,"Tsukamurella pulmonis",Tsukamurella
+154019,,"CCUG 52011",0,"Tsukamurella pulmonis",Tsukamurella
+149921,,"CCUG 38678",0,"Tsukamurella pulmonis",Tsukamurella
+150358,,"CCUG 39721",0,"Tsukamurella pulmonis",Tsukamurella
+151796,,"CCUG 44913",0,"Tsukamurella pulmonis",Tsukamurella
+134234,K362,"CCUG 58061, JCM 14882, DSM 44990, NRRL B-24467, JCM 18308, IFM 10862",0,"Tsukamurella pulmonis",Tsukamurella
+152572,,"CCUG 47079",0,"Tsukamurella pulmonis",Tsukamurella
+132604,HKU54,"DSM 100915, JCM 31017",1,"Tsukamurella serpentis",Tsukamurella
+158213,HKU55,"DSM 100916, JCM 31018",0,"Tsukamurella serpentis",Tsukamurella
+131578,HKU51,"DSM 100207, JCM 30714",1,"Tsukamurella sinensis",Tsukamurella
+17110,JS18-1,"DSM 45046, KACC 20764, JCM 17688, NBRC 109778, CIP 110195",1,"Tsukamurella soli",Tsukamurella
+165432,,"JCM 6831",0,"Tsukamurella sp.",Tsukamurella
+103202,ST020998(HKI),,0,"Tsukamurella sp.",Tsukamurella
+103203,ST002061(HKI),,0,"Tsukamurella sp.",Tsukamurella
+103204,ST002618(HKI),,0,"Tsukamurella sp.",Tsukamurella
+103205,ST018535(HKI),,0,"Tsukamurella sp.",Tsukamurella
+103206,ST002216(HKI),,0,"Tsukamurella sp.",Tsukamurella
+103207,ST019679(HKI),,0,"Tsukamurella sp.",Tsukamurella
+103208,ST002759(HKI),,0,"Tsukamurella sp.",Tsukamurella
+163154,,"JCM 21352, IAM 14847",0,"Tsukamurella sp.",Tsukamurella
+17093,"N1171, N 1171","DSM 44113, NCIMB 13947, CCUG 48751, JCM 12608, CIP 108213, IFM 10523",1,"Tsukamurella spumae",Tsukamurella
+17094,,"DSM 44114",0,"Tsukamurella spumae",Tsukamurella
+17095,,"DSM 44115",0,"Tsukamurella spumae",Tsukamurella
+17096,,"DSM 44116",0,"Tsukamurella spumae",Tsukamurella
+17097,,"DSM 44117",0,"Tsukamurella spumae",Tsukamurella
+164539,,"JCM 33387, DSM 109106",1,"Tsukamurella sputi",Tsukamurella
+17105,32-92,"DSM 44573, ATCC BAA-173, CCUG 57107, KCTC 19178, JCM 11487, CIP 107755, IFM 10184",1,"Tsukamurella strandjordii",Tsukamurella
+17101,,"DSM 44234, CCUG 38499, CIP 106771, JCM 10112, IMMIB D-1397, IFM 0810, KCTC 19177, KCTC 9965, NCTC 13231, PCM 2579",1,"Tsukamurella tyrosinosolvens",Tsukamurella
+152721,,"CCUG 47473",0,"Tsukamurella tyrosinosolvens",Tsukamurella
+154098,,"CCUG 52355",0,"Tsukamurella tyrosinosolvens",Tsukamurella
+17102,,"DSM 44316",0,"Tsukamurella tyrosinosolvens",Tsukamurella
+17103,5297/95,"DSM 44330, IMMIB D-1411",0,"Tsukamurella tyrosinosolvens",Tsukamurella
+17104,"185-95, D","DSM 44370",0,"Tsukamurella tyrosinosolvens",Tsukamurella
+17109,Y2,"DSM 45557, JCM 15482, KCCM 42885",0,"Tsukamurella tyrosinosolvens",Tsukamurella
+154960,,"CCUG 55875",0,"Tsukamurella tyrosinosolvens",Tsukamurella
+139836,MH-1,"DSM 105033",0,"Tsukamurella tyrosinosolvens",Tsukamurella
+167453,JM27,"CCTCC AB 209199, KCTC 22672",1,"Tsuneonella dongtanensis",Tsuneonella
+170735,YG55,"KCTC 82812, GDMCC 1.2590",1,"Tsuneonella litorea",Tsuneonella
+167481,Ery12,"KCTC 62388, MCCC 1A04421, CGMCC 1.16500",1,"Tsuneonella suprasediminis",Tsuneonella
+14406,607,"DSM 17572, JCM 13397, CIP 109487",1,"Tuberibacillus calidus",Tuberibacillus
+168151,THMBR28,"CGMCC 1.10949, NBRC 108765",1,"Tumebacillus algifaecis",Tumebacillus
+169911,ITR2,"KCTC 43280, NBRC 114753",1,"Tumebacillus amylolyticus",Tumebacillus
+158724,AR23208,"KCTC 33929, JCM 32188",1,"Tumebacillus avium",Tumebacillus
+23764,"GST4, NFB","DSM 25748, CGMCC 1.12170",1,"Tumebacillus flagellatus",Tumebacillus
+1554,,"DSM 18389, KCTC 13942, Gsoil 1105",1,"Tumebacillus ginsengisoli",Tumebacillus
+100593,STH00181(ZIMET),"HKI 0181",0,"Tumebacillus ginsengisoli",Tumebacillus
+168615,NIO-S10,"KCTC 32289, MTCC 12483",1,"Tumebacillus lipolyticus",Tumebacillus
+162641,,"JCM 19866, KEMB 7305-100",1,"Tumebacillus luteolus",Tumebacillus
+162642,,"JCM 19867, KEMB 7305-101",0,"Tumebacillus luteolus",Tumebacillus
+1553,"Eur1 9.5","DSM 18773, JCM 14557, CGMCC 1.10982",1,"Tumebacillus permanentifrigoris",Tumebacillus
+140843,,"KCTC 33141, CECT 8918, CAU 11108",1,"Tumebacillus soli",Tumebacillus
+140719,P12,"LMG 29571, VKM B-3044",1,"Tundrisphaera lichenicola",Tundrisphaera
+169089,N5DB8-4,"KCTC 23473, NBRC 107804",1,"Tunicatimonas pelagia",Tunicatimonas
+166974,eggshell,"ATCC TSD-238, CCUG 74757",1,"Turicibacter bilis",Turicibacter
+5374,,"DSM 14220, NCCB 100008, MOL 361",1,"Turicibacter sanguinis",Turicibacter
+152020,,"CCUG 45573",0,"Turicibacter sanguinis",Turicibacter
+152194,,"CCUG 46035",0,"Turicibacter sanguinis",Turicibacter
+156713,,"CCUG 64327",0,"Turicibacter sanguinis",Turicibacter
+131516,YL45,"DSM 26109, KCTC 15542",1,"Turicimonas muris",Turicimonas
+6809,H,"DSM 21527, ATCC BAA-1111, NCTC 11395",1,"Turneriella parva",Turneriella
+157132,MBLW1,"CCUG 69661, DSM 105045",1,"Tuwongella immobilis",Tuwongella

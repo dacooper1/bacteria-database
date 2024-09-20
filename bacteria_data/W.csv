@@ -1,0 +1,305 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+167646,B120,"NCCB 100485, CFBP 8182",1,"Winslowiella iniecta",Winslowiella
+4401,A37,"DSM 18073, ATCC 700880, CECT 5263, CFBP 6631, CIP 108675",1,"Winslowiella toletana",Winslowiella
+151617,,"CCUG 44465",0,"Wielerella bovis",Wielerella
+158549,HMF6543,"KCTC 52401, NBRC 112674, HME 6543",1,"Wocania arenilitoris",Wocania
+131415,NEAU-Jh3-20,"DSM 42170, CGMCC 4.7201",1,"Wenjunlia tyrosinilytica",Wenjunlia
+16329,,"DSM 41686, ATCC 31673, FERM P-5702, IFO 14294, NBRC 14294, JCM 6054, NRRL B-16933",1,"Wenjunlia vitaminophila",Wenjunlia
+168243,"WSU 86-1044","ATCC VR-1470",1,"Waddlia chondrophila",Waddlia
+24666,2032/99,"DSM 27628",0,"Waddlia chondrophila",Waddlia
+159187,WCA3-601-WT-6H,"DSM 108985, JCM 34425",0,"Waltera intestinalis",Waltera
+133540,Haldis-1,"KCTC 22610, NBRC 105642, JCM 16083",1,"Wandonia haliotis",Wandonia
+23432,NEAU-J3,"DSM 45747, CGMCC 4.7039",0,"Jidongwangia harbinensis",Jidongwangia
+149344,,"CCUG 37547",0,"Wautersia 'reducta'",Wautersia
+149636,,"CCUG 38099",0,"Wautersia 'reducta'",Wautersia
+141505,,"CCUG 2472, ATCC 11451, LMG 2233, CIP 59.16, LMG 5122",0,"Wautersia 'reducta'",Wautersia
+2000,"335, R-10-e","DSM 531, ATCC 17697, CCUG 1776, LMG 1199, IMET 10383, JCM 11282, BCRC 17389, CECT 4634, CIP 104763, IAM 12368, IAM 13533, ICPB 3984, JCM 20521, JCM 20893, KACC 10467, KACC 10791, NBRC 102504, NCIMB 11842, NRRL B-14690, NRRL B-4383, JCM 9691",1,"Wautersia eutropha",Wautersia
+153888,,"CCUG 51536, CIP 108861",1,"Empedobacter falsenii",Empedobacter
+139042,528-75,"CIP 111034",0,"Empedobacter falsenii",Empedobacter
+139481,Follain,"CIP 111075, CIP 200705",0,"Empedobacter falsenii",Empedobacter
+139502,507-76,"CIP 111036",0,"Empedobacter falsenii",Empedobacter
+139505,,"CIP 111037",0,"Empedobacter falsenii",Empedobacter
+139554,Levy,"CIP 111076, CIP 200706",0,"Empedobacter falsenii",Empedobacter
+156636,,"CCUG 63778",0,"Empedobacter falsenii",Empedobacter
+156710,,"CCUG 64295",0,"Empedobacter falsenii",Empedobacter
+143201,,"CCUG 17732",0,"Empedobacter sp.",Empedobacter
+153889,,"CCUG 51537, CIP 108860",0,"Empedobacter sp.",Empedobacter
+140330,FF8,"DSM 28259, CSUR P860",1,"Weeksella massiliensis",Weeksella
+144502,,"CCUG 25379",0,"Weeksella sp.",Weeksella
+5661,"CL345/78, 9751","DSM 16922, ATCC 43766, CDC 9751, CIP 103040, NCTC 11634, CCUG 30538, JCM 21250, IAM 14551, IFO 16016, LMG 12995, NBRC 16016",1,"Weeksella virosa",Weeksella
+144942,,"CCUG 27224",0,"Weeksella virosa",Weeksella
+135714,"1.81, B1270","CIP 82.2, NCTC 10798, CCUG 3719",0,"Weeksella virosa",Weeksella
+145867,,"CCUG 29838, CCM 4560",0,"Weeksella virosa",Weeksella
+137450,B90827,"CIP 81.91",0,"Weeksella virosa",Weeksella
+139446,681-76,"CIP 111039",0,"Weeksella virosa",Weeksella
+141364,,"CCUG 1191",0,"Weeksella virosa",Weeksella
+142377,,"CCUG 12097",0,"Weeksella virosa",Weeksella
+142409,,"CCUG 12409",0,"Weeksella virosa",Weeksella
+143151,,"CCUG 17508",0,"Weeksella virosa",Weeksella
+143152,,"CCUG 17509",0,"Weeksella virosa",Weeksella
+153836,,"CCUG 51319",0,"Weeksella virosa",Weeksella
+153872,,"CCUG 51459",0,"Weeksella virosa",Weeksella
+155297,,"CCUG 57244",0,"Weeksella virosa",Weeksella
+150839,,"CCUG 42536",0,"Weeksella virosa",Weeksella
+174295,,"CIP 109985",0,"Weeksella virosa",Weeksella
+131379,"H 24-37","DSM 28794, LMG 28290",1,"Weissella bombi",Weissella
+155921,,"CCUG 59653, CECT 7719",1,"Weissella ceti",Weissella
+6857,II-I-59,"DSM 15878, CCUG 41967, LMG 17699, CIP 107376, KCTC 3807, JCM 12495, NBRC 106073, KCTC 3817",1,"Weissella cibaria",Weissella
+6856,CHJ3,"DSM 14295, KCCM 41287, KCTC 3746, CIP 108011",0,"Weissella cibaria",Weissella
+147453,,"CCUG 33604, LMG 18501",0,"Weissella cibaria",Weissella
+148155,,"CCUG 34912",0,"Weissella cibaria",Weissella
+149601,,"CCUG 38043",0,"Weissella cibaria",Weissella
+155278,,"CCUG 57177",0,"Weissella cibaria",Weissella
+165612,,"JCM 7777",0,"Weissella cibaria",Weissella
+172308,"LBAE K39","CIP 110545",0,"Weissella cibaria",Weissella
+172309,,CRBIP24.131,0,"Weissella cibaria",Weissella
+172310,,CRBIP24.95,0,"Weissella cibaria",Weissella
+164632,,"JCM 33684, KACC 21347, KCTC 43114",1,"Weissella coleopterorum",Weissella
+6844,548-D,"DSM 20196, ATCC 10881, NCDO 1586, NCIB 9311, CCUG 30113, JCM 1093, BCRC 14002, CECT 4707, CIP 103172, LMG 9497, NBRC 106469, NCIMB 9311, NRIC 0207, NRRL B-1064, VTT E-90393",1,"Weissella confusa",Weissella
+6843,,"DSM 20194, NCDO 1975, CIP 102979",0,"Weissella confusa",Weissella
+146270,,"CCUG 30763",0,"Weissella confusa",Weissella
+146336,,"CCUG 30943",0,"Weissella confusa",Weissella
+146342,,"CCUG 30969",0,"Weissella confusa",Weissella
+138045,573-86,"CIP 102578",0,"Weissella confusa",Weissella
+138177,R-915-5,"CIP 105139, ATCC 14434, JCM 1562, LMG 11983, NCFB 1969",0,"Weissella confusa",Weissella
+148893,,"CCUG 36556, LMG 17670",0,"Weissella confusa",Weissella
+149544,,"CCUG 37938",0,"Weissella confusa",Weissella
+143159,,"CCUG 17582",0,"Weissella confusa",Weissella
+153809,,"CCUG 51220",0,"Weissella confusa",Weissella
+154588,,"CCUG 54486",0,"Weissella confusa",Weissella
+150163,,"CCUG 39150",0,"Weissella confusa",Weissella
+150289,,"CCUG 39518",0,"Weissella confusa",Weissella
+155557,,"CCUG 58143",0,"Weissella confusa",Weissella
+150448,,"CCUG 39957",0,"Weissella confusa",Weissella
+150685,,"CCUG 41966, LMG 18815",0,"Weissella confusa",Weissella
+150718,,"CCUG 42040",0,"Weissella confusa",Weissella
+151003,,"CCUG 43002",0,"Weissella confusa",Weissella
+156396,,"CCUG 61560",0,"Weissella confusa",Weissella
+172653,,CRBIP24.132,0,"Weissella confusa",Weissella
+166205,26KH-42,"KACC 18423, NBRC 113066",1,"Periweissella cryptocerci",Periweissella
+24151,ORY33,"DSM 27940, JCM 18559, KACC 16890",1,"Weissella diestrammenae",Weissella
+170472,HBUAS51963,"JCM 35803, GDMCC 1.3506",1,"Weissella fangxianensis",Weissella
+6845,G1,"CCUG 33457, LMG 9469, DSM 20190, ATCC 35410, JCM 1114, BCRC 14050, CECT 573, CGMCC 1.2440, CIP 103005, NCIMB 702781, NRIC 1627, VTT E-98965",1,"Weissella halotolerans",Weissella
+6852,LV346,"DSM 7378, ATCC 51523, NCFB 2973, CCUG 33494, LMG 15125, JCM 10103, CECT 7033, CIP 109879, IFO 15553, KCTC 3668, NBRC 15553, NCIMB 702973",1,"Weissella hellenica",Weissella
+147382,,,0,"Weissella hellenica",Weissella
+134557,"SS 80W","CIP 106375, NCDO 885",0,"Weissella hellenica",Weissella
+134558,SS98,"CIP 106376, NCDO 886",0,"Weissella hellenica",Weissella
+6846,"L250, L 250","DSM 20593, ATCC 51149, NCFB 2753, CCUG 32237, JCM 5817, BCRC 14624, CECT 4307, CGMCC 1.2474, CIP 102809, LMG 14471, LMG 18979, LMG 9481, NCIMB 702753, NRIC 1628, NCDO 2753",1,"Weissella kandleri",Weissella
+6854,S-5623,"DSM 15830, CCUG 47134, CIP 107634, JCM 11263, KCCM 41516, KCTC 3621",1,"Weissella koreensis",Weissella
+161146,,"JCM 11264, KCCM 41517, KCTC 3622",0,"Weissella koreensis",Weissella
+6847,3,"CCUG 30668, DSM 20014, ATCC 35412, JCM 1168, BCRC 14049, CECT 572, CIP 102978, KCTC 3604, LMG 9847, NCFB 1973, NCIMB 702780, NRIC 1625, NCDO 1973",1,"Weissella minor",Weissella
+168258,"8 H-2","BCRC 81133, NBRC 113537",1,"Weissella muntiaci",Weissella
+23077,,"DSM 25784, JCM 18191, SG 25, LMG 30913",1,"Weissella oryzae",Weissella
+162192,,"JCM 18190",0,"Weissella oryzae",Weissella
+6851,"R 80, R80","DSM 20288, ATCC 33313, NCDO 803, CCUG 30068, NRRL B-3471, JCM 9890, BCRC 14006, CECT 4268, CECT 4787, CIP 102421, JCM 6126, KACC 10213, KCTC 3531, LMG 9852, NBRC 109620, NCIMB 13092, NRIC 1542, NRRL B-1186, VTT E-98967, IMET 10704",1,"Weissella paramesenteroides",Weissella
+6850,SL19,"DSM 5623, NCDO 871",0,"Weissella paramesenteroides",Weissella
+137719,"SL 50","CIP 106374, NCDO 873",0,"Weissella paramesenteroides",Weissella
+137848,368-85,"CIP 101612",0,"Weissella paramesenteroides",Weissella
+138343,"SL 48","CIP 106370, NCDO 872",0,"Weissella paramesenteroides",Weissella
+138344,C4/4/3,"CIP 106371, NCDO 955",0,"Weissella paramesenteroides",Weissella
+160924,,"JCM 10359",0,"Weissella paramesenteroides",Weissella
+160926,,"JCM 10360",0,"Weissella paramesenteroides",Weissella
+160927,,"JCM 10361",0,"Weissella paramesenteroides",Weissella
+160928,,"JCM 10362",0,"Weissella paramesenteroides",Weissella
+160929,,"JCM 10363",0,"Weissella paramesenteroides",Weissella
+160930,,"JCM 10364",0,"Weissella paramesenteroides",Weissella
+160931,,"JCM 10365",0,"Weissella paramesenteroides",Weissella
+168206,X0750,"LMG 31184, CCTCC AB 2018403, CCM 8924, NCIMB 15192",1,"Weissella sagaensis",Weissella
+6853,"Mi268, Mi 268","DSM 14420, LMG 20113, CCUG 46608, JCM 12536, KCTC 3789, NBRC 106074, CIP 107584",1,"Weissella soli",Weissella
+152385,,"CCUG 46609, LMG 20114",0,"Weissella soli",Weissella
+148131,,"CCUG 34875",0,"Weissella sp.",Weissella
+148265,,"CCUG 35126",0,"Weissella sp.",Weissella
+149331,,"CCUG 37530",0,"Weissella sp.",Weissella
+161022,,"JCM 10694, HSCC 1410, NRIC 0296, PCU 209, TISTR 1385",0,"Weissella sp.",Weissella
+6855,FS61-1,"DSM 15832, HSCC 1412, JCM 10695, NRIC 0298, TISTR 1384, CCUG 46557, CIP 106751, KCTC 3751, PCU 210, NBRC 109621",1,"Weissella thailandensis",Weissella
+132289,FOL01,"DSM 103409, JCM 30580, KCCM 43128, KACC 91955P, LMG 30916",0,"Weissella thailandensis",Weissella
+153767,,"CCUG 50906",0,"Weissella thailandensis",Weissella
+130385,B18NM42,"DSM 28060, NCCB 100484",1,"Weissella uvarum",Weissella
+6849,"S38A, S 38A","DSM 20410, ATCC 12706, CCM 56, NCDO 1655, NCIB 8965, WDCM 00105, JCM 1174, BCRC 11650, CCUG 21533, CCUG 30502, CECT 283, CIP 102810, IAM 13546, KCTC 3504, LMG 3507, NCCB 71015, NCFB 1655, NCIMB 8965, NCTC 13645, NCTC 13770, NRIC 1536, NRRL B-1951, VKM B-1528, VTT E-98966",1,"Weissella viridescens",Weissella
+6848,III/1,"DSM 20248",0,"Weissella viridescens",Weissella
+135650,S40,"CIP 66.29",0,"Weissella viridescens",Weissella
+137203,725-84,"CIP 101135",0,"Weissella viridescens",Weissella
+146736,,"CCUG 32042",0,"Weissella viridescens",Weissella
+138474,"S2-49, Klf","CIP 105135, JCM 1064, LMG 12021",0,"Weissella viridescens",Weissella
+147995,,"CCUG 34640",0,"Weissella viridescens",Weissella
+161174,,"JCM 1160, ATCC 27646, NCFB 233, NCIMB 4037, NCTC 4037, NRIC 1544",0,"Weissella viridescens",Weissella
+155649,,"CCUG 58642",0,"Weissella viridescens",Weissella
+156163,,"CCUG 60592 A",0,"Weissella viridescens",Weissella
+151747,,"CCUG 44780",0,"Weissella viridescens",Weissella
+174293,,CRBIP24.81,0,"Weissella viridescens",Weissella
+174294,MFPC16A28-05,"CIP 110940",0,"Weissella viridescens",Weissella
+170442,PP-18,"TISTR 2515, KCTC 33974, NBRC 113028",1,"Weizmannia acidilactici",Weizmannia
+1286,SL213,"DSM 23148, JCM 14638, KCTC 13078",1,"Heyndrickxia acidiproducens",Heyndrickxia
+169755,"S74, aMCA-6-a-A","DSM 106041",0,"Weizmannia agrestimuris",Weizmannia
+654,"609, NRS-609","DSM 1, CCM 2013, NCIB 9365, NCTC 10334, WDCM 00002, CCUG 7417, ATCC 7050, IAM 1115, NRS 609, JCM 2257, BCRC 10606, CECT 12, CFBP 4225, CIP 66.25, CN 2202, HAMBI 1931, IAM 12463, IFO 12583, IMET 10993, KCTC 3625, LMG 6326, NBRC 12583, NCCB 77025, NCFB 1761, NCIMB 9365, NRIC 1005, NRRL NRS-609, VKM B-497, VTT E-98150, NCDO 1761",1,"Heyndrickxia coagulans",Heyndrickxia
+645,U,"DSM 2350, NRRL NRS-2012",0,"Heyndrickxia coagulans",Heyndrickxia
+646,"200 of Hammer","DSM 2356, NCIB 8523",0,"Heyndrickxia coagulans",Heyndrickxia
+647,,"DSM 2308, ATCC 12245, NCIB 8870, NCA 3084",0,"Heyndrickxia coagulans",Heyndrickxia
+648,784,"DSM 2311, ATCC 10545, CCM 1082, NCIB 8041, NRS 784, CIP 52.63, NCDO 725, NCIMB 8041",0,"Heyndrickxia coagulans",Heyndrickxia
+649,"43 P, 770","DSM 2312, ATCC 8038, NCIB 8080, CIP 52.64, NCIMB 8080",0,"Heyndrickxia coagulans",Heyndrickxia
+650,M-39,"DSM 2314, ATCC 23498, NCIB 10276, JCM 20478, IAM 12320, NCIMB 10276",0,"Heyndrickxia coagulans",Heyndrickxia
+651,"78G, T 27","DSM 2383, ATCC 11014",0,"Heyndrickxia coagulans",Heyndrickxia
+652,C,"DSM 2384, ATCC 11369",0,"Heyndrickxia coagulans",Heyndrickxia
+653,,"DSM 2385, ATCC 15949",0,"Heyndrickxia coagulans",Heyndrickxia
+655,ES-116,"DSM 30760",0,"Heyndrickxia coagulans",Heyndrickxia
+163252,,"JCM 2258, IAM 1194",0,"Heyndrickxia coagulans",Heyndrickxia
+1247,,"DSM 18134, Gsoil 114, KCTC 13944",1,"Heyndrickxia ginsengihumi",Heyndrickxia
+1248,ES2-6a1,"DSM 30593",0,"Heyndrickxia ginsengihumi",Heyndrickxia
+13839,HY34,"DSM 24838, CGMCC 1.6105, JCM 14017, CIP 109725",1,"Wenxinia marina",Wenxinia
+131286,S-22,"DSM 100565, CECT 8456, KCTC 32548",1,"Wenxinia saemankumensis",Wenxinia
+132979,MN1-138,"DSM 105044, KCTC 42780, NBRC 111505",1,"Wenyingzhuangia aestuarii",Wenyingzhuangia
+132995,CZ1127,"DSM 100787, CCTCC AB 2015089, KCTC 42864",1,"Wenyingzhuangia fucanilytica",Wenyingzhuangia
+168680,N5DB13-4,"NBRC 110602, KCTC 42246",1,"Wenyingzhuangia gracilariae",Wenyingzhuangia
+131383,H-MN17,"DSM 101599, KCTC 42245, NBRC 110601",1,"Wenyingzhuangia heitensis",Wenyingzhuangia
+130334,D1,"DSM 100572, CGMCC 1.12162, JCM 18494",1,"Wenyingzhuangia marina",Wenyingzhuangia
+158247,KLE1008,"DSM 22692",0,"Wenyingzhuangia sp.",Wenyingzhuangia
+132250,,"DSM 103414, CGMCC 1.14936, KCTC 42284, MCCC 1K00261",1,"Wenzhouxiangella marina",Wenzhouxiangella
+133229,XDB06,"KCTC 52041, MCCC 1K02285",1,"Wenzhouxiangella sediminis",Wenzhouxiangella
+168040,"375, B375","DSM 46677, CBMAI 1090",1,"Williamsia aurantiaca",Williamsia
+17375,,"DSM 44902, CCUG 50873, CIP 109147, IMMIB RIV-956, JCM 13662, IFM 10667",1,"Williamsia deligens",Williamsia
+17376,,"DSM 44903, CCUG 50874, IMMIB RIV-956Fl",0,"Williamsia deligens",Williamsia
+17379,N1350,"DSM 45372, NCIMB 14575, NRRL B-24794, JCM 17784",1,"Williamsia faeni",Williamsia
+132663,ARP1,"DSM 46872, LMG 28679, JCM 32438",1,"Williamsia herbipolensis",Williamsia
+17381,L1505,"DSM 45521, KCTC 19981, NRRL B-24829, JCM 19965",1,"Williamsia limnetica",Williamsia
+17377,MT8,"DSM 44944, CIP 109299, NCIMB 14085, JCM 14345, BCRC 16833",1,"Williamsia marianensis",Williamsia
+17374,"SJS 0289/JS1","DSM 44693, JCM 12070, NCIMB 13945, CIP 108354, KCTC 9945",1,"Williamsia maris",Williamsia
+17371,"MA 140/96","CCUG 45782, CIP 106979, KCTC 9830, DSM 44343, JCM 10676, BCRC 16390, IFM 10085, NBRC 105860, NCIMB 13853",1,"Williamsia muralis",Williamsia
+17380,C7,"DSM 45526, CCM 7855, CCUG 60465, JCM 19126",1,"Williamsia phyllosphaerae",Williamsia
+17378,,"DSM 45037, CCUG 53151, CIP 109522, IMMIB SR-4, JCM 14883, IFM 10863",1,"Williamsia serinedens",Williamsia
+132045,Leaf354,"DSM 102764",0,"Williamsia sp.",Williamsia
+17372,,"DSM 10347, NRRL B-15444R",0,"Williamsia sp.",Williamsia
+17373,JE1,"DSM 44651",0,"Williamsia sp.",Williamsia
+133111,B138,"CBMAI 1094, DSM 46676",1,"Williamsia spongiae",Williamsia
+24667,,"DSM 45741, CPCC 203464, KCTC 29118, JCM 31496",1,"Williamsia sterculiae",Williamsia
+168887,PIPN-2,"ATCC 49196, NCTC 11716",1,"Williamsoniiplasma lucivorax",Williamsoniiplasma
+167901,PIMN-1,"NCTC 11717, ATCC 49195",1,"Williamsoniiplasma luminosum",Williamsoniiplasma
+167830,PYAN-1,"NCTC 11719, ATCC 49194",1,"Williamsoniiplasma somnilux",Williamsoniiplasma
+140798,A7P-90m,"JCM 30888, DSM 100563",1,"Williamwhitmania taraxaci",Williamwhitmania
+135359,"GF 22/92","CIP 104017, ATCC 700049",0,"Winkia neuii",Winkia
+144918,,"CCUG 27092",0,"Winkia neuii",Winkia
+145117,,"CCUG 27684",0,"Winkia neuii",Winkia
+135862,,"CIP 102477",0,"Winkia neuii",Winkia
+146292,,"CCUG 30823",0,"Winkia neuii",Winkia
+137747,,"CIP 100430",0,"Winkia neuii",Winkia
+137816,,"CIP 100345",0,"Winkia neuii",Winkia
+137902,,"CIP 102149",0,"Winkia neuii",Winkia
+146869,,"CCUG 32336",0,"Winkia neuii",Winkia
+146984,,"CCUG 32595",0,"Winkia neuii",Winkia
+144088,,"CCUG 22902",0,"Winkia neuii",Winkia
+135274,,"CIP 101817",0,"Winkia neuii",Winkia
+152054,,"CCUG 45645",0,"Winkia neuii",Winkia
+152222,,"CCUG 46163",0,"Winkia neuii",Winkia
+153493,,"CCUG 49749",0,"Winkia neuii",Winkia
+153851,,"CCUG 51359",0,"Winkia neuii",Winkia
+153985,,"CCUG 51840 A",0,"Winkia neuii",Winkia
+155410,,"CCUG 57649",0,"Winkia neuii",Winkia
+150554,,"CCUG 41575",0,"Winkia neuii",Winkia
+156362,,"CCUG 61289",0,"Winkia neuii",Winkia
+151393,,"CCUG 44035",0,"Winkia neuii",Winkia
+151435,,"CCUG 44079",0,"Winkia neuii",Winkia
+151441,,"CCUG 44085",0,"Winkia neuii",Winkia
+166,50/90,"DSM 8577, CCUG 32253, CIP 104016",1,"Winkia neuii subsp. anitrata",Winkia
+135360,219/92,"CIP 104018, ATCC 700050",0,"Winkia neuii subsp. anitrata",Winkia
+146870,,"CCUG 32337",0,"Winkia neuii subsp. anitrata",Winkia
+144652,,"CCUG 26086",0,"Winkia neuii subsp. anitrata",Winkia
+144871,,"CCUG 26929",0,"Winkia neuii subsp. anitrata",Winkia
+152293,,"CCUG 46366",0,"Winkia neuii subsp. anitrata",Winkia
+152881,,"CCUG 47863",0,"Winkia neuii subsp. anitrata",Winkia
+153392,,"CCUG 49426",0,"Winkia neuii subsp. anitrata",Winkia
+153487,,"CCUG 49728",0,"Winkia neuii subsp. anitrata",Winkia
+153571,,"CCUG 50221",0,"Winkia neuii subsp. anitrata",Winkia
+153745,,"CCUG 50850",0,"Winkia neuii subsp. anitrata",Winkia
+153854,,"CCUG 51375",0,"Winkia neuii subsp. anitrata",Winkia
+154174,,"CCUG 52662",0,"Winkia neuii subsp. anitrata",Winkia
+154266,,"CCUG 52928",0,"Winkia neuii subsp. anitrata",Winkia
+155426,,"CCUG 57708",0,"Winkia neuii subsp. anitrata",Winkia
+155570,,"CCUG 58185",0,"Winkia neuii subsp. anitrata",Winkia
+150575,,"CCUG 41640",0,"Winkia neuii subsp. anitrata",Winkia
+155702,,"CCUG 59054",0,"Winkia neuii subsp. anitrata",Winkia
+155841,,"CCUG 59461",0,"Winkia neuii subsp. anitrata",Winkia
+150728,,"CCUG 42098",0,"Winkia neuii subsp. anitrata",Winkia
+155937,,"CCUG 59688",0,"Winkia neuii subsp. anitrata",Winkia
+150972,,"CCUG 42913",0,"Winkia neuii subsp. anitrata",Winkia
+151317,,"CCUG 43734",0,"Winkia neuii subsp. anitrata",Winkia
+167,97/90,"CCUG 32252, DSM 8576, ATCC 51847, CIP 104015",1,"Winkia neuii",Winkia
+168948,Kr9-9,"KMM 8180, KACC 19709",1,"Winogradskyella algae",Winogradskyella
+166729,IMCC33238,"KACC 21192, NBRC 113704",1,"Winogradskyella algicola",Winogradskyella
+133739,DPG-24,"KCTC 23502, CCUG 60798",1,"Winogradskyella aquimaris",Winogradskyella
+133478,R60,"KMM 3968, NRIC 0748, JCM 15527, KCTC 62506, CIP 110076",1,"Winogradskyella arenosi",Winogradskyella
+167810,WNB302,"KCTC 52614, MCCC 1H00172",1,"Winogradskyella aurantia",Winogradskyella
+159763,,"KACC 18883, KCTC 52240, JCM 31383, IMCC 20180",1,"Winogradskyella aurantiaca",Winogradskyella
+167349,Z3138,"CCUG 74324, CECT 30065",1,"Winogradskyella costae",Winogradskyella
+168079,TYO-19,"KCTC 42462, NBRC 110924",1,"Winogradskyella crassostreae",Winogradskyella
+133845,F081-2,"KCTC 23552, JCM 17633",1,"Winogradskyella damuponensis",Winogradskyella
+133461,,"KCTC 22026, LMG 24757, KMM 6211",1,"Winogradskyella echinorum",Winogradskyella
+162287,,"JCM 18703, KCTC 32172",1,"Winogradskyella eckloniae",Winogradskyella
+167450,HL2-2,"CICC 24857, KCTC 72882",1,"Winogradskyella endarachnes",Winogradskyella
+152573,,"CCUG 47091, KMM 3906, KCTC 12220, LMG 22491",1,"Winogradskyella epiphytica",Winogradskyella
+133539,022-2-26,"KMM 6013, CIP 109976",1,"Winogradskyella exilis",Winogradskyella
+167528,,"KMM 3944, LMG 22474, KCTC 12219",1,"Winogradskyella eximia",Winogradskyella
+140712,SFD31,"KCTC 52348, JCM 31798",1,"Winogradskyella flava",Winogradskyella
+167323,HL857,"CECT 30056, CCUG 74323",1,"Winogradskyella forsetii",Winogradskyella
+158305,M1A16,"DSM 103138, CCM 8681, CIP 111091, LMG 29588",1,"Winogradskyella haliclonae",Winogradskyella
+167435,Z963,"CCUG 74333, CECT 30064",1,"Winogradskyella helgolandensis",Winogradskyella
+130329,CP32,"DSM 25330, JCM 18454, KCTC 23835",1,"Winogradskyella jejuensis",Winogradskyella
+133881,DPS-8,"KCTC 32110, CCUG 62215",1,"Winogradskyella litorisediminis",Winogradskyella
+166593,,"KMM 6491, KCTC 23972, LMG 26984",1,"Winogradskyella litoriviva",Winogradskyella
+167322,HL116,"CECT 30054, CCUG 74326",1,"Winogradskyella ludwigii",Winogradskyella
+5663,A73,"DSM 22624, KCTC 23237",1,"Winogradskyella lutea",Winogradskyella
+173155,,"CIP 109944, CECT 7476",1,"Winogradskyella lutea",Winogradskyella
+170808,"W HY3","NCCB 100833, DSM 111804",1,"Winogradskyella luteola",Winogradskyella
+170195,F6397,"MCCC 1H00438, KCTC 82422",1,"Winogradskyella marina",Winogradskyella
+140799,,"KCTC 42189, CECT 8979, HME 9613",1,"Winogradskyella maritima",Winogradskyella
+156503,T-Y1,"CCUG 62216, KCTC 23891",1,"Winogradskyella multivorans",Winogradskyella
+167383,ZXX205,"JCM 33665, MCCC 1K03851",1,"Winogradskyella ouciana",Winogradskyella
+133570,,"KCTC 22997, LMG 22568, KMM 6019",1,"Winogradskyella pacifica",Winogradskyella
+158804,AFPH31,"CCM 8816, CIP 111546",1,"Winogradskyella pocilloporae",Winogradskyella
+134141,UST030701-295,"NRRL B-41101, JCM 12885, CIP 108875, KCTC 62505",1,"Winogradskyella poriferorum",Winogradskyella
+168576,Ch38,"KACC 19710, KMM 9725",1,"Winogradskyella profunda",Winogradskyella
+133895,RS-3,"CIP 110154, NBRC 106169",1,"Winogradskyella psychrotolerans",Winogradskyella
+133986,EM106,"KCTC 23858, NCAIMB 02481, NCAIM B 02481",1,"Winogradskyella pulchriflava",Winogradskyella
+133495,SCB36,"CECT 7392, CCUG 56098",1,"Winogradskyella rapida",Winogradskyella
+167321,Z215,"CECT 30061, CCUG 74330",1,"Winogradskyella schleiferi",Winogradskyella
+140167,S5-23-3,"DSM 28134, CGMCC 1.12601, LMG 28075",1,"Winogradskyella sediminis",Winogradskyella
+161733,,"JCM 16151",0,"Winogradskyella sp.",Winogradskyella
+161753,,"JCM 16309",0,"Winogradskyella sp.",Winogradskyella
+162003,,"JCM 17290",0,"Winogradskyella sp.",Winogradskyella
+158240,sw102,"DSM 25631",0,"Winogradskyella sp.",Winogradskyella
+169678,HaHa_3_26,"DSM 111041",0,"Winogradskyella sp.",Winogradskyella
+159730,M1309,"KCTC 52896, MCCC 1K03310",1,"Winogradskyella tangerina",Winogradskyella
+5662,"M-5Alg 9","DSM 15363, KCTC 12221, LMG 22492, KMM 3907",1,"Winogradskyella thalassocola",Winogradskyella
+133721,,"KCTC 23626, LMG 26444, KMM 6390",1,"Winogradskyella ulvae",Winogradskyella
+156648,,"CCUG 63832, KCTC 32261",1,"Winogradskyella undariae",Winogradskyella
+167347,HL4150,"CCUG 74332, CECT 30057",1,"Winogradskyella ursingii",Winogradskyella
+167319,HL634,"CECT 30055, CCUG 74322",1,"Winogradskyella vidalii",Winogradskyella
+168995,WD-2-2,"CECT 8445, KCTC 32579",1,"Winogradskyella wandonensis",Winogradskyella
+167426,Z738,"CECT 30063, CCUG 74325",1,"Winogradskyella wichelsiae",Winogradskyella
+170637,"BAC 15a-03b","NCPPB 4696, LMG 32576",1,"Winslowiella arboricola",Winslowiella
+24017,Th78,"DSM 26285, JCM 18634, KCTC 32142",1,"Wocania ichthyoenteri",Wocania
+132919,"Th 106, Th106","DSM 26286",0,"Wocania ichthyoenteri",Wocania
+167271,IOP_32,"MCCC 1A14017, KCTC 62660",1,"Wocania indica",Wocania
+141145,XK5,"ATCC BAA-2615, CICC 10905",1,"Woeseia oceani",Woeseia
+17623,S5,"DSM 18708, CCM 7401, CCUG 57199",1,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+132879,78876,"DSM 100374",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+132880,81198,"DSM 100375",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+132881,574535/2,"DSM 100676",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+132882,575028,"DSM 100917",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+146468,,"CCUG 31236, LMG 15545",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+146469,,"CCUG 31237, LMG 15546",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169612,105708,"DSM 105708",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169613,105712,"DSM 105712",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169614,105838,"DSM 105838",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169615,105839,"DSM 105839",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169616,105984,"DSM 105984",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169617,108045,"DSM 108045",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169618,108048,"DSM 108048",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169619,110179,"DSM 110179",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+169620,110473,"DSM 110473",0,"Wohlfahrtiimonas chitiniclastica",Wohlfahrtiimonas
+130782,,"DSM 100568, JCM 18424, KACC 16839, KBL 006",1,"Wohlfahrtiimonas larvae",Wohlfahrtiimonas
+158559,34C10-3-10,"CFCC 12747, KCTC 52796",1,"Wohlfahrtiimonas populi",Wohlfahrtiimonas
+143446,,"CCUG 19166",0,"Wolinella sp.",Wolinella
+143447,,"CCUG 19167",0,"Wolinella sp.",Wolinella
+6116,,"DSM 1740, ATCC 29543, JCM 31913, CCUG 13145, CCUG 12550, LMG 7466, CIP 103760, KCTC 5018, LMG 7608, NCTC 11488",1,"Wolinella succinogenes",Wolinella
+6218,CM243,"DSM 17123, LMG 21817, VKM B-1512",1,"Woodsholea maritima",Woodsholea
+6219,CM251,"DSM 17124, LMG 21818",0,"Woodsholea maritima",Woodsholea
+132678,DY30321,"DSM 103478, KCTC 15549, MCCC 1A01532",1,"Wukongibacter baidiensis",Wukongibacter

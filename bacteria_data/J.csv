@@ -1,0 +1,260 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+12494,"Pl t4","DSM 14626, CIP 109123, JCM 12631",1,"Jahnella thaxteri",Jahnella
+12493,"Pl t3","DSM 14625",0,"Jahnella thaxteri",Jahnella
+12495,"Pl t2","DSM 53722",0,"Jahnella thaxteri",Jahnella
+6268,,"DSM 24723, CCTCC AB 2011027, JCM 19550, SCSIO 10480, NBRC 108804",1,"Janibacter alkaliphilus",Janibacter
+6265,H2.16B,"DSM 18333, CCUG 49715, CIP 108728, JCM 14734, IAM 15369, JCM 21813, NBRC 107843, NCIMB 14557",1,"Janibacter anophelis",Janibacter
+154014,,"CCUG 51978 B",0,"Janibacter anophelis",Janibacter
+6266,04PA2-C05-61,"DSM 18906, JCM 15571, MBIC 08265, NBRC 107790",1,"Janibacter corallicola",Janibacter
+24109,HR08-44,"DSM 26154, NBRC 107693",1,"Janibacter cremeus",Janibacter
+170272,"YIM B02568","CGMCC 1.18658, JCM 34639",1,"Janibacter endophyticus",Janibacter
+6267,PVAS-1,"DSM 21601, CCUG 56714, MTCC 8307, NBRC 109086, JCM 17930",1,"Janibacter hoylei",Janibacter
+130358,0704P10-1,"DSM 29878, CGMCC 1.12511, LMG 27493, JCM 30779",1,"Janibacter indicus",Janibacter
+6248,2003-10,"DSM 11140, IAM 14889, IFO 16128, NBRC 16128, CCUG 37980, HKI 83, ATCC 700321, CIP 105276, JCM 10980, KCTC 9994",1,"Janibacter limosus",Janibacter
+6249,2003-70,"DSM 11141, HKI 84, CIP 105277, ATCC 700322",0,"Janibacter limosus",Janibacter
+103016,"ST008524(HKI), 56, JA05570/1P2gelb",,0,"Janibacter limosus",Janibacter
+102974,"ST026835(HKI), GT20024039, Lorenz Actino8","HKI 0545",0,"Janibacter limosus",Janibacter
+103017,"ST000603(HKI), AM33404",,0,"Janibacter limosus",Janibacter
+102975,"ST026836(HKI), Lorenz Actino9, GT20024040",,0,"Janibacter limosus",Janibacter
+103018,"ST024699(HKI), 51022, 512/16","HKI 0451",0,"Janibacter limosus",Janibacter
+102976,ST029549(HKI),,0,"Janibacter limosus",Janibacter
+103019,"ST007116(HKI), ST 07116, U-19, 5","IMET 43364",0,"Janibacter limosus",Janibacter
+102977,ST033599(HKI),,0,"Janibacter limosus",Janibacter
+103020,"ST008496(HKI), 25, ST 08494, JA05142-25, ST 08497, sieheST 05265",,0,"Janibacter limosus",Janibacter
+102978,STH00106(ZIMET),"HKI 0106",0,"Janibacter limosus",Janibacter
+103021,"ST008497(HKI), JA05142-(Phosphat), 849408496, sieheST 05265, 24",,0,"Janibacter limosus",Janibacter
+102979,STI40310(IMET),"IMET 40310, NCIB 8225",0,"Janibacter limosus",Janibacter
+103022,"ST008494(HKI), ST 08496, ST 08497, sieheST 05265, JA05142-86",,0,"Janibacter limosus",Janibacter
+102980,"STI40311(IMET), andere Geschichte, identisch mit IMET40235",,0,"Janibacter limosus",Janibacter
+103023,"STI41563(IMET), AnglieI",,0,"Janibacter limosus",Janibacter
+102981,STI40315(IMET),"IMET 40315, NCIB 9004",0,"Janibacter limosus",Janibacter
+103024,"ST004717(HKI), ST 04717, 7",,0,"Janibacter limosus",Janibacter
+102982,"STI41564(IMET), Klinge",,0,"Janibacter limosus",Janibacter
+103025,"ST004985(HKI), A.S.4-135, SN-14","IMET 40210",0,"Janibacter limosus",Janibacter
+102983,STI07024(IMET),"NCTC 658",0,"Janibacter limosus",Janibacter
+103026,"ST005104(HKI), LUParis","IMET 40294",0,"Janibacter limosus",Janibacter
+102984,ST002354(HKI),,0,"Janibacter limosus",Janibacter
+103027,"ST005105(HKI), Paris1","IMET 40295",0,"Janibacter limosus",Janibacter
+102985,"ST026546(HKI), GT20024009, Lorenz H1101-89.2",,0,"Janibacter limosus",Janibacter
+103028,"ST005108(HKI), JA04620, identisch ST 05109","IMET 40306, IMET 40305, NCIB 3475",0,"Janibacter limosus",Janibacter
+102986,ST030166(HKI),,0,"Janibacter limosus",Janibacter
+103029,ST005110(HKI),"IMET 40307, IMRU 3496",0,"Janibacter limosus",Janibacter
+102987,"ST007509(HKI), JA10086, A54/254, 4","IMET 43365, IMET 41716",0,"Janibacter limosus",Janibacter
+103030,ST005113(HKI),"IMET 40313, NCIB 9001",0,"Janibacter limosus",Janibacter
+102988,"ST004983(HKI), SN-J, A.S.4-133","IMET 40208",0,"Janibacter limosus",Janibacter
+103031,ST005114(HKI),"IMET 40314, NCIB 9003",0,"Janibacter limosus",Janibacter
+102989,"ST004986(HKI), A.S.4-136, H-12","IMET 40211",0,"Janibacter limosus",Janibacter
+103032,SF002770(FSU),,0,"Janibacter limosus",Janibacter
+102990,"ST004988(HKI), JA06849, 41, A.S.4-138","IMET 40300, IMET 40213, IMRU 41",0,"Janibacter limosus",Janibacter
+102991,"ST004989(HKI), JA06850, A.S.4-139","IMET 40302, IMET 40214, IMRU 3465",0,"Janibacter limosus",Janibacter
+102992,"ST004995(HKI), A.S.4-181","IMET 40222",0,"Janibacter limosus",Janibacter
+102993,"ST005025(HKI), 9, BU7","IMET 40236",0,"Janibacter limosus",Janibacter
+102994,"ST005102(HKI), Japan","IMET 40292",0,"Janibacter limosus",Janibacter
+102995,"ST005103(HKI), Budapest","IMET 40293",0,"Janibacter limosus",Janibacter
+102996,"ST005106(HKI), Paris2","IMET 40296",0,"Janibacter limosus",Janibacter
+102997,"ST005107(HKI), JapanSN-J","IMET 40297",0,"Janibacter limosus",Janibacter
+102998,ST005111(HKI),"IMET 40309, NCIB 6962",0,"Janibacter limosus",Janibacter
+102999,ST005112(HKI),"IMET 40312, NCIB 8237",0,"Janibacter limosus",Janibacter
+103000,"ST005173(HKI), BeII",,0,"Janibacter limosus",Janibacter
+103001,"ST005265(HKI), 8496, JA05142-31, 08497, sieheST08494, 17","IMET 43371, ZIMET 43668",0,"Janibacter limosus",Janibacter
+103002,ST003378(HKI),,0,"Janibacter limosus",Janibacter
+103003,STI40303(IMET),"IMET 40303",0,"Janibacter limosus",Janibacter
+103004,"STI41861(IMET), Pakula",,0,"Janibacter limosus",Janibacter
+103005,ST006493(HKI),,0,"Janibacter limosus",Janibacter
+103006,"ST005426(HKI), K-234",,0,"Janibacter limosus",Janibacter
+103007,"ST007720(HKI), SN14 Japan","IMET 40298",0,"Janibacter limosus",Janibacter
+103008,"ST003712(HKI), JA01787/98",,0,"Janibacter limosus",Janibacter
+103009,"ST008491(HKI), 16, JA03933/NTg20",,0,"Janibacter limosus",Janibacter
+103010,"ST008499(HKI), 27, JA03933/G44",,0,"Janibacter limosus",Janibacter
+103011,"ST008500(HKI), JA05570/1P, 28",,0,"Janibacter limosus",Janibacter
+103012,"ST008504(HKI), JA3933/24-10, 32",,0,"Janibacter limosus",Janibacter
+103013,"ST008520(HKI), 51, JA03933/K1",,0,"Janibacter limosus",Janibacter
+103014,"ST008521(HKI), JA05142/01P7, 53",,0,"Janibacter limosus",Janibacter
+103015,"ST008522(HKI), 52, JA03933/956-2",,0,"Janibacter limosus",Janibacter
+148182,,"CCUG 35001",0,"Janibacter limosus",Janibacter
+154440,,"CCUG 53624",0,"Janibacter limosus",Janibacter
+157153,,"CCUG 69815",0,"Janibacter limosus",Janibacter
+154667,,"CCUG 54781, KCTC 19033",1,"Janibacter marinus",Janibacter
+6263,CM2104,"CCUG 54528, CIP 108643, DSM 16063, JCM 12321, KCTC 9987, NBRC 107855",1,"Janibacter melonis",Janibacter
+6264,CM2110,"DSM 16064",0,"Janibacter melonis",Janibacter
+161215,,"JCM 12322, KCTC 9988",0,"Janibacter melonis",Janibacter
+6262,03-238,"DSM 15959, CIP 108123, CCUG 55588",0,"Janibacter sanguinis",Janibacter
+103033,ST033336(HKI),,0,"Janibacter sp.",Janibacter
+103034,"ST018934(HKI), CP115, CIBA ID 41171, ST 18074",,0,"Janibacter sp.",Janibacter
+103035,SF001512(FSU),,0,"Janibacter sp.",Janibacter
+103036,SF001513(FSU),,0,"Janibacter sp.",Janibacter
+103037,SF008628(FSU),,0,"Janibacter sp.",Janibacter
+103038,SF008756(FSU),,0,"Janibacter sp.",Janibacter
+103039,SF008630(FSU),,0,"Janibacter sp.",Janibacter
+103040,"SF008631(FSU), agrAR199 mit lfd.Nr. 6123",,0,"Janibacter sp.",Janibacter
+161168,,"JCM 11555",0,"Janibacter sp.",Janibacter
+161169,,"JCM 11556",0,"Janibacter sp.",Janibacter
+139994,SST-36,"DSM 23985",0,"Janibacter sp.",Janibacter
+139995,RC5-101,"DSM 23045",0,"Janibacter sp.",Janibacter
+139996,SST-24,"DSM 23989",0,"Janibacter sp.",Janibacter
+132083,,"DSM 102774, Soil 728",0,"Janibacter sp.",Janibacter
+6260,CS12,"DSM 13876, JCM 10705, KCCM 80001, CCUG 45369, ATCC BAA-130, CIP 107018, KCTC 19953, NBRC 107853, NCIMB 14349, NBRC 107842",1,"Janibacter terrae",Janibacter
+6250,"DPO 210","DSM 11213",0,"Janibacter terrae",Janibacter
+6251,"DPO 360","DSM 11214",0,"Janibacter terrae",Janibacter
+6252,"DPO 400","DSM 11215",0,"Janibacter terrae",Janibacter
+6253,"DPO 410","DSM 11216",0,"Janibacter terrae",Janibacter
+6254,"DPO 420","DSM 11217",0,"Janibacter terrae",Janibacter
+6255,"DPO 430","DSM 11218",0,"Janibacter terrae",Janibacter
+6256,"DPO 440","DSM 11219",0,"Janibacter terrae",Janibacter
+6257,"DPO 1361","DSM 11220",0,"Janibacter terrae",Janibacter
+6258,"DPO 320","DSM 11345",0,"Janibacter terrae",Janibacter
+6259,"DPO 340","DSM 11346",0,"Janibacter terrae",Janibacter
+6261,10N,"DSM 13953, IAM 14781, JCM 12887, CIP 106967, KCTC 19032, KCTC 9986, NBRC 107854",0,"Janibacter terrae",Janibacter
+163128,,"JCM 21314, IAM 14782",0,"Janibacter terrae",Janibacter
+152190,,"CCUG 46014",0,"Janibacter terrae",Janibacter
+24489,GSW-M26,"DSM 28248, CCUG 60899, KCTC 23555, KCTC 23555T",1,"Jannaschia aquimarina",Jannaschia
+158617,JSSK-16,"KACC 19436, KCTC 62137, NBRC 113018",1,"Jannaschia confluentis",Jannaschia
+133693,CFPB-A9T,"LMG 22015, NBRC 100362",1,"Jannaschia cystaugens",Jannaschia
+13666,5SM22,"DSM 16310, CECT 5294, DSM 14426, CCUG 49437, CIP 108961",0,"Jannaschia cystaugens",Jannaschia
+131163,DSW-17,"DSM 102233, JCM 14563, KCTC 12862, CECT 7802, CIP 109732",1,"Jannaschia donghaensis",Jannaschia
+130605,HD-22,"DSM 100420, CCUG 63415, KCTC 32179",1,"Jannaschia faecimaris",Jannaschia
+166522,12N15,"MCCC 1H00325, KCTC 62582",1,"Jannaschia formosa",Jannaschia
+13665,,"DSM 14858, HEL Hel10, HEL 10, CIP 108047, NCIMB 13941",1,"Jannaschia helgolandensis",Jannaschia
+166741,SHC-163,"KCTC 72524, MCCC 1K04032",1,"Jannaschia marina",Jannaschia
+13667,H1-M8,"DSM 19073, KACC 11609",1,"Jannaschia pohangensis",Jannaschia
+13664,4SM3,"DSM 16279, CECT 5088, DSM 14425, CCUG 49434, CIP 108401",1,"Jannaschia rubra",Jannaschia
+154932,,"CCUG 55761",1,"Jannaschia saemankumensis",Jannaschia
+13668,SMK-146,"DSM 25227, CCUG 55326, KCTC 22172",1,"Jannaschia seohaensis",Jannaschia
+132846,CL-SP26,"DSM 104837, JCM 13035, KCCM 42114, CECT 7799, CIP 109167",1,"Jannaschia seosinensis",Jannaschia
+130604,,"DSM 14859, HEL Hel26, HEL 26",0,"Jannaschia sp.",Jannaschia
+11315,W1R3,"CCUG 43140, CIP 106332, DSM 9628, NCPPB 3945, JCM 21444, IAM 14973, NBRC 102515",1,"Janthinobacterium agaricidamnosum",Janthinobacterium
+100208,"STI07464(IMET), N444","IMET 7464",0,"Janthinobacterium agaricidamnosum",Janthinobacterium
+100209,"STI07465(IMET), N446","IMET 7465",0,"Janthinobacterium agaricidamnosum",Janthinobacterium
+100210,STI07036(IMET),,0,"Janthinobacterium agaricidamnosum",Janthinobacterium
+100211,STI07037(IMET),,0,"Janthinobacterium agaricidamnosum",Janthinobacterium
+100212,STI07035(IMET),,0,"Janthinobacterium agaricidamnosum",Janthinobacterium
+134556,GSR7,"CIP 106334",0,"Janthinobacterium agaricidamnosum",Janthinobacterium
+138337,H5,"CIP 106333, NCPPB 3964",0,"Janthinobacterium agaricidamnosum",Janthinobacterium
+164741,,"JCM 34173, GDMCC 1.1676, KACC 21468",1,"Janthinobacterium aquaticum",Janthinobacterium
+157392,,"IMI 347330",0,"Janthinobacterium lividium",Janthinobacterium
+11313,"H-24, HB","CCUG 2344, LMG 6034, LMG 2892, DSM 1522, ATCC 12473, CCM 160, NCIB 9130, NCTC 9796, JCM 9043, CECT 946, CGMCC 1.2308, CIP 103349, HAMBI 1919, IAM 13948, KCTC 2898, LMG 3917, NCCB 80003, NCIMB 9130, VKM B-1223, RIMD 0314001",1,"Janthinobacterium lividum",Janthinobacterium
+11314,,"DSM 16524, CIP 106720, NCIMB 9675, NRRL B-75, CCUG 2513, ATCC 33665, LMG 21632, JCM 13308, NCIMB 9672",0,"Janthinobacterium lividum",Janthinobacterium
+100214,SF000645(FSU),,0,"Janthinobacterium lividum",Janthinobacterium
+136192,,"CIP 52.227",0,"Janthinobacterium lividum",Janthinobacterium
+136358,,"CIP 53.144",0,"Janthinobacterium lividum",Janthinobacterium
+141591,,"CCUG 3359, ATCC 13426, NCTC 7917, LMG 6035, CCM 1888, IFO 3740",0,"Janthinobacterium lividum",Janthinobacterium
+142965,,"CCUG 15937, CCM 3355, NCIMB 10926, LMG 6356",0,"Janthinobacterium lividum",Janthinobacterium
+143246,,"CCUG 18004",0,"Janthinobacterium lividum",Janthinobacterium
+146944,,"CCUG 32518",0,"Janthinobacterium lividum",Janthinobacterium
+169512,S3-2,"DSM 102223, LMG 29653",0,"Janthinobacterium psychrotolerans",Janthinobacterium
+164742,,"JCM 34174, GDMCC 1.1677, KACC 21469",1,"Janthinobacterium rivuli",Janthinobacterium
+100213,"ST027323(HKI), F155, Nü46",,0,"Janthinobacterium sp.",Janthinobacterium
+161819,,"JCM 16567",0,"Janthinobacterium sp.",Janthinobacterium
+159356,ROICE36,"DSM 106030",0,"Janthinobacterium sp.",Janthinobacterium
+132830,JA_1,"DSM 25734, ZIM B637",1,"Janthinobacterium svalbardensis",Janthinobacterium
+164743,,"JCM 34175, GDMCC 1.1638, KACC 21319",1,"Janthinobacterium violaceinigrum",Janthinobacterium
+23030,S9-650,"DSM 45627, KACC 16232",1,"Jatrophihabitans endophyticus",Jatrophihabitans
+132263,PB158,"DSM 102133, JCM 30448, KCTC 33605",1,"Jatrophihabitans fulvus",Jatrophihabitans
+132631,I13A-01604,"DSM 46866, CPCC 204076, NBRC 110718",1,"Jatrophihabitans huperziae",Jatrophihabitans
+130337,KIS75-12,"DSM 45908, KACC 17298, NBRC 109658",1,"Jatrophihabitans soli",Jatrophihabitans
+158645,N237,"KCTC 39922, NRRL B-65477",1,"Jatrophihabitans telluris",Jatrophihabitans
+166138,KSNA2,"KCTC 72234, CCTCC AB 2019098",1,"Jejubacter calystegiae",Jejubacter
+156646,SSK1-1,"CCUG 63830, KCTC 32325",1,"Jejudonia soesokkakensis",Jejudonia
+163834,,"JCM 30601, KCTC 42342",1,"Jejuia marina",Jejuia
+5728,EM39,"DSM 21165, KCTC 22298",1,"Jejuia pallidilutea",Jejuia
+162472,,"JCM 19301",0,"Jejuia pallidilutea",Jejuia
+162473,,"JCM 19302",0,"Jejuia pallidilutea",Jejuia
+162551,,"JCM 19538",0,"Jejuia pallidilutea",Jejuia
+24800,Jchi,"DSM 28058, BCRC 80367, KCTC 23701",1,"Jeongeupia chitinilytica",Jeongeupia
+10529,BIO-TAS4-2,"DSM 24253, CCUG 57610, KCTC 22633",1,"Jeongeupia naejangsanensis",Jeongeupia
+162670,,"JCM 19920",0,"Jeongeupia sp.",Jeongeupia
+140572,1805-02,"CCUG 69147, CECT 9157",1,"Jeotgalibaca arthritidis",Jeotgalibaca
+164487,,"JCM 33222, KCTC 33991",1,"Jeotgalibaca ciconiae",Jeotgalibaca
+162431,,"JCM 19215, KCCM 90229",1,"Jeotgalibaca dankookensis",Jeotgalibaca
+140571,1804-02,"CECT 9156, CCUG 69148",1,"Jeotgalibaca porci",Jeotgalibaca
+1511,YKJ-13,"DSM 18867, CIP 107405, JCM 10872, KCCM 80002, CCM 7134, KCTC 13914",1,"Jeotgalibacillus alimentarius",Jeotgalibacillus
+133266,JC303,"KCTC 33662, LMG 28756",1,"Jeotgalibacillus alkaliphilus",Jeotgalibacillus
+1512,SF-57,"DSM 18983, CIP 108511, JCM 11810, KCCM 41644",1,"Jeotgalibacillus campisalis",Jeotgalibacillus
+131358,D5,"DSM 28777, KCTC 33550",1,"Jeotgalibacillus malaysiensis",Jeotgalibacillus
+1499,581,"DSM 1297, ATCC 29841, CCUG 28884, CIP 103308, LMG 6930, NRRL B-14558, NCIMB 2140",1,"Jeotgalibacillus marinus",Jeotgalibacillus
+1506,GU4233,"DSM 11896",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1507,GU4234,"DSM 11897",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1508,A03029,"DSM 11898",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1509,A03051,"DSM 11899",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1510,A02605,"DSM 12258",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+23746,GU4220,"DSM 12355",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+23747,GU4223,"DSM 12356",0,"Carboxydocella thermautotrophica",Carboxydocella
+23748,GU4214,"DSM 12359",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+23749,A03126,"DSM 12259",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+23750,GU4217,"DSM 12292",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+23751,GU4253,"DSM 12293",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+23752,AR3353,"DSM 12296",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+23753,A02685,"DSM 12323",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+23754,A02788,"DSM 12599",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1500,562,"DSM 1298, ATCC 29840",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1501,A02767,"DSM 11891",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1502,AR3396,"DSM 11892",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1503,AR3398,"DSM 11893",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1504,A02819,"DSM 11894",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+1505,AR3393,"DSM 11895",0,"Jeotgalibacillus marinus",Jeotgalibacillus
+159771,22-7,"MCCC 1H00228, KCTC 33930",1,"Jeotgalibacillus proteolyticus",Jeotgalibacillus
+1513,ASL-1,"DSM 23492, CCUG 56751, KCTC 13257, ASL -1",1,"Jeotgalibacillus salarius",Jeotgalibacillus
+1514,P9,"DSM 23228, LMG 25523",1,"Jeotgalibacillus soli",Jeotgalibacillus
+164022,,"JCM 31330",0,"Jeotgalibacillus sp.",Jeotgalibacillus
+158130,,"DSM 21374, YIM 93155",0,"Jeotgalibacillus sp.",Jeotgalibacillus
+160654,,"DSM 26195, SCSIO 04151",0,"Jeotgalibacillus sp.",Jeotgalibacillus
+130206,,"DSM 22174, KCTC 13528, JSM 081008",1,"Jeotgalibacillus terrae",Jeotgalibacillus
+14415,"MPA-33, MP 33","DSM 22420, CCM 7679, CCUG 57953, MPA 33, CIP 111750",1,"Jeotgalicoccus aerolatus",Jeotgalicoccus
+14416,"MK-7, MK7","DSM 22419, CCM 7682, CCUG 57956, CIP 111751",1,"Jeotgalicoccus coquinae",Jeotgalicoccus
+23289,C1-52,"DSM 27396, CGMCC 1.8911, NBRC 105788",1,"Jeotgalicoccus aerolatus",Jeotgalicoccus
+14411,"YKJ-101, YRJ-101","DSM 17274, CCM 7135, CCUG 47728, CIP 107958, JCM 11198, KCCM 41448, CGMCC 1.6779",1,"Jeotgalicoccus halotolerans",Jeotgalicoccus
+14414,NY-2,"DSM 23851, CCTCC AB 208288, JCM 15687",1,"Jeotgalicoccus huakuii",Jeotgalicoccus
+14413,,"DSM 19772, CCTCC AA 207028, KCTC 13189, JSM 076033",1,"Jeotgalicoccus marinus",Jeotgalicoccus
+166845,"Do 184","CCM 8918, CIP 111649, LMG 31100",1,"Jeotgalicoccus meleagridis",Jeotgalicoccus
+14417,,"DSM 23006, KCTC 13714, JSM 077023",1,"Jeotgalicoccus nanhaiensis",Jeotgalicoccus
+14410,A/G14/99/10,"DSM 17030, CCUG 42722, CIP 107946",1,"Jeotgalicoccus pinnipedialis",Jeotgalicoccus
+14412,YKJ-115,"DSM 19085, JCM 11199, KCCM 41449, CCUG 47729, CCM 7136, CGMCC 1.6772, CIP 107952",1,"Jeotgalicoccus psychrophilus",Jeotgalicoccus
+132617,140805-STR-02,"DSM 102815, CCM 8667, LMG 29445, CIP 111030",1,"Jeotgalicoccus schoeneichii",Jeotgalicoccus
+169586,13MG44_air,"DSM 28603",0,"Jeotgalicoccus sp.",Jeotgalicoccus
+169997,"MWH P2sevCIIIb","CCUG 56420, DSM 107629",1,"Jezberella montanilacus",Jezberella
+13860,CC-MHSW-1,"DSM 23413, CCM 7767, JCM 15068, CCUG 59509",1,"Jhaorihella thermophila",Jhaorihella
+17823,,"DSM 45237, CCTCC AA 208023, JCM 16901, YIM 61503",1,"Jiangella alba",Jiangella
+17822,D8-87,"DSM 45079, JBRI 2008, KCTC 19222, JCM 15620",1,"Jiangella alkaliphila",Jiangella
+167658,GTF31,"CECT 9378, DSM 100984",1,"Jiangella anatolica",Jiangella
+164594,,"JCM 33518, CGMCC 4.7672",1,"Jiangella asiatica",Jiangella
+164595,,"JCM 33519, CGMCC 4.7621",1,"Jiangella aurantiaca",Jiangella
+167990,KE2-3,"BCC 66359, NBRC 110004",1,"Jiangella endophytica",Jiangella
+17821,,"DSM 44835, CCTCC AA 204001, KCTC 19044, YIM 002, JCM 13367, BCRC 16824, CIP 108735, NCIMB 14350",1,"Jiangella gansuensis",Jiangella
+105470,STI07256(IMET),,0,"Jiangella gansuensis",Jiangella
+105471,STI07183(IMET),,0,"Jiangella gansuensis",Jiangella
+132224,3SM4-07,"DSM 102122, BCC 60398, NBRC 109648",1,"Jiangella mangrovi",Jiangella
+17825,15-Je-017,"DSM 45357, CCM 7680, CCUG 57954, JCM 17970",1,"Jiangella muralis",Jiangella
+105467,SF005181(FSU),,0,"Jiangella muralis",Jiangella
+105468,SF006110(FSU),,0,"Jiangella muralis",Jiangella
+105469,SF002177(FSU),,0,"Jiangella muralis",Jiangella
+158485,NEAU-YY265,"DSM 106774, CGMCC 4.7475, JCM 32551",1,"Jiangella rhizosphaerae",Jiangella
+17824,,"DSM 45060, Gsoil 532",0,"Jiangella sp.",Jiangella
+105466,,,0,"Jiangella sp.",Jiangella
+160672,,"DSM 45994, YIM 95868",0,"Jiangella sp.",Jiangella
+159556,,"DSM 45206, YIM 93227",0,"Jiangella sp.",Jiangella
+159557,,"DSM 45270, YIM 93390",0,"Jiangella sp.",Jiangella
+159558,,"DSM 100478, YIM 44150",0,"Jiangella sp.",Jiangella
+160671,,"DSM 45205, YIM 93251",0,"Jiangella sp.",Jiangella
+164596,,"JCM 33520, CGMCC 4.7618",1,"Jiangella ureilytica",Jiangella
+132945,LZB041,"DSM 28885, JCM 30119, MCCC 1K00255",1,"Jiella aquimaris",Jiella
+164469,,"JCM 33167, CGMCC 1.13863",1,"Jiella endophytica",Jiella
+170111,CQZ9-1,"CGMCC 1.18725, JCM 34331",1,"Jiella flava",Jiella
+166613,KSK16Y-­1,"CGMCC 1.18745, JCM 34332",1,"Jiella mangrovi",Jiella
+164690,,"JCM 33903, MCCC 1K04569",1,"Jiella pacifica",Jiella
+168185,MQZ13P-4,"CGMCC 1.18727, JCM 34333",1,"Jiella sonneratiae",Jiella
+168187,BWR-B9,"KACC 22153, NBRC 114879",1,"Limnobaculum allomyrinae",Limnobaculum
+164584,,"JCM 33490, CGMCC 1.16786, GDMCC 1.1587",1,"Limnobaculum xujianqingii",Limnobaculum
+164583,,"JCM 33489, CGMCC 1.16483, GDMCC 1.1586",1,"Limnobaculum zhutongyuii",Limnobaculum
+159638,,"DSM 100518, YIM 44261",0,"Micromonospora sp.",Micromonospora
+159791,,"NBRC 113144, TBRC 7644, PLAI 1-1, JCM 32592",1,"Micromonospora zingiberis",Micromonospora
+140837,JN14-9,"MCCC 1A00733, KCTC 42153",1,"Jiulongibacter sediminis",Jiulongibacter
+167898,,"ATCC 51276, VPI D94B-12",1,"Johnsonella ignava",Johnsonella
+6314,55134,"DSM 20603, ATCC 14870, CIP 55134, NCTC 10816, CCUG 15532, CIP 55.134, JCM 11481, BCRC 15368, CCM 4048, CECT 918, IFM 10529, IFO 15587, IMSNU 21281, NBRC 15587",1,"Jonesia denitrificans",Jonesia
+131386,,"DSM 21367, CCTCC AB 2014350, YIM 93067",0,"Jonesia luteola",Jonesia
+6315,QH3A7,"DSM 15701, CGMCC 1.3459, CIP 108595, JCM 13009",1,"Jonesia quinghaiensis",Jonesia
+10620,NP8-5,"DSM 45133, CIP 110031, KCTC 19360, JCM 16948",1,"Jongsikchunia kroppenstedtii",Jongsikchunia
+17784,,"DSM 22815, CCUG 53819, CIP 109408, ADV 126, AIP 136.05",1,"Jonquetella anthropi",Jonquetella
+5732,EN5,"DSM 19592, CGMCC 1.6973, KCTC 12518",1,"Joostella marina",Joostella
+140443,MDSW-26,"DSM 21468",0,"Joostella sp.",Joostella
+169891,"NSJ 37","CGMCC 1.32810, KCTC 25089",1,"Jutongia huaianensis",Jutongia
+23432,NEAU-J3,"DSM 45747, CGMCC 4.7039",0,"Jidongwangia harbinensis",Jidongwangia

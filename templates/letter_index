@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>MAIN INDEX</h1>
+    <ul class="index" data-columns="2">
+    {% for data in list %}
+            <li> <a href="/index/{{data.id}}">{{ data.species }}</a></li>
+    {% endfor %}
+    </ul>
+{% endblock %}

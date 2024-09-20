@@ -1,0 +1,16 @@
+.index{
+    column-count: 2;
+}
+
+h1 {
+    color: red;
+}
+
+body {
+    background-color: yellow;
+}
+
+.data_img{
+    height: 300px;
+    width: 300px;
+}

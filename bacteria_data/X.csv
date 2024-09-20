@@ -1,0 +1,250 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,genus
+138215,GA33,"CIP 105473, ATCC 19188, JCM 14576, KCTC 15681",1,"Xylanibacter brevis",Xylanibacter
+12545,KB3,"DSM 17970, JCM 13648",1,"Xylanibacter oryzae",Xylanibacter
+12546,"KB 10","DSM 17971, JCM 13649",0,"Xylanibacter oryzae",Xylanibacter
+158435,109,"DSM 105141, VKM B-2992",1,"Xylanibacter rarus",Xylanibacter
+165980,,"JCM 8958, ATCC 19189",1,"Xylanibacter ruminicola",Xylanibacter
+13144,PC1,"DSM 21306, ATCC 33616, CCM 2888, CCUG 18839, CIP 106723, ICMP 8561, LMG 2167, NCPPB 2982, JCM 13362, CIP 105155, LMG 21719",1,"Xanthomonas cissicola",Xanthomonas
+17418,,"DSM 3770, ATCC 43847",1,"Xanthobacter agilis",Xanthobacter
+17438,14A,"DSM 15009, ATCC BAA-299, VKM B-2254, CIP 108461",1,"Xanthobacter aminoxidans",Xanthobacter
+17420,7C,"DSM 432, ATCC 35674, JCM 1202, BCRC 12235, CIP 105431, IAM 12579, IAM 12636, LMG 7043, NBRC 102463, NCAIM B.01945, NCIMB 10809, NRRL B-14836, CCRC 12235",1,"Xanthobacter autotrophicus",Xanthobacter
+151710,,"CCUG 44692",0,"Xanthobacter autotrophicus",Xanthobacter
+17419,14g,"DSM 431, JCM 1201, CIP 105432, IAM 12635, NCIMB 10811",0,"Xanthobacter autotrophicus",Xanthobacter
+17421,"TK 0519","DSM 597, RH 10, JCM 7864, CIP 105437",0,"Xanthobacter autotrophicus",Xanthobacter
+17422,23A,"DSM 685, JCM 1203, CIP 105433",0,"Xanthobacter autotrophicus",Xanthobacter
+17423,GZ29,"DSM 1393",0,"Xanthobacter autotrophicus",Xanthobacter
+17424,"JW 33","DSM 1618, IFO 14758, NBRC 14758",0,"Xanthobacter autotrophicus",Xanthobacter
+17425,19/-/X,"DSM 2009",0,"Xanthobacter autotrophicus",Xanthobacter
+17426,"7C SF","DSM 2267",0,"Xanthobacter autotrophicus",Xanthobacter
+17427,GJ10,"DSM 3874",0,"Xanthobacter autotrophicus",Xanthobacter
+168419,YN2,"CGMCC 1.19031, JCM 34666",1,"Xanthobacter dioxanivorans",Xanthobacter
+17428,301,"DSM 338, ATCC 35867, IFO 14759, NBRC 14759, NCIB 10071, JCM 1204, BCRC 12271, CCM 4469, CIP 105434, LMG 7045, NCAIM B.01946, NCIMB 10071, NRRL B-14838, VKM B-2106, CCRC 12271",1,"Xanthobacter flavus",Xanthobacter
+17429,14p1,"DSM 10330",0,"Xanthobacter flavus",Xanthobacter
+167792,29k,"KCTC 72777, VKM B-3453",1,"Xanthobacter oligotrophicus",Xanthobacter
+155725,,"CCUG 59146",0,"Xanthobacter sp.",Xanthobacter
+139788,W30,"DSM 24535",0,"Xanthobacter sp.",Xanthobacter
+17430,124X,"DSM 6696, ATCC 49450",0,"Xanthobacter sp.",Xanthobacter
+17431,,"DSM 14517, CB 2",0,"Xanthobacter sp.",Xanthobacter
+17432,,"DSM 14518, CB 3",0,"Xanthobacter sp.",Xanthobacter
+17433,,"DSM 14519, CB 5",0,"Xanthobacter sp.",Xanthobacter
+17434,,"DSM 14520, CB 6",0,"Xanthobacter sp.",Xanthobacter
+17435,R-10,"DSM 14521",0,"Xanthobacter sp.",Xanthobacter
+17436,TagT2C,"DSM 11105",1,"Xanthobacter tagetidis",Xanthobacter
+17437,KA,"DSM 11602",0,"Xanthobacter tagetidis",Xanthobacter
+17439,7d,"DSM 21355, ATCC BAA-298, KCTC 12306, VKM B-2253, CIP 108462",1,"Xanthobacter viscosus",Xanthobacter
+162306,,"JCM 18821, MTCC 11705",1,"Xanthomarina gelatinilytica",Xanthomarina
+5589,A2,"DSM 22637, KCTC 22662",1,"Xanthomarina spongicola",Xanthomarina
+17578,ZA6,"DSM 3583, ATCC 33915, NCPPB 2969, PDDCC 196",1,"Xanthomonas albilineans",Xanthomonas
+168641,,"LMG 495, ICPB 10701, ATCC 11765, ICMP 15807",1,"Xanthomonas euvesicatoria",Xanthomonas
+167612,,"ICPB 10483, ICMP 15808, LMG 9325, ATCC 49120",1,"Xanthomonas alfalfae subsp. citrumelonis",Xanthomonas
+17602,S3,"DSM 18808, ATCC 49083, CFBP 2528, ICMP 35, LMG 747, NCPPB 411",1,"Xanthomonas arboricola",Xanthomonas
+17604,5262,"DSM 50854, ATCC 19313, ICPB XC 12, NCPPB 935, CFBP 1159",0,"Xanthomonas arboricola",Xanthomonas
+17601,"MPS 1","DSM 1049, ATCC 29078, ICPB XJ 103",0,"Xanthomonas arboricola",Xanthomonas
+17603,ZZ26,"DSM 50853, ATCC 19046, ICPB XC 144",0,"Xanthomonas arboricola",Xanthomonas
+17593,,"DSM 3585, ATCC 19312, ICPB XA 103, LMG 982, NCPPB 457, CFBP 4924",1,"Xanthomonas axonopodis",Xanthomonas
+17594,,"DSM 50850, DSM 60127, LMG 7178",0,"Xanthomonas axonopodis",Xanthomonas
+170010,FX4,"DSM 112530, CFBP 8703",1,"Xanthomonas bonasiae",Xanthomonas
+17605,,"DSM 18804, CFBP 1976, ICMP 12545, LMG 947",1,"Xanthomonas bromi",Xanthomonas
+17584,"P 25","DSM 3586, ATCC 33913, NCPPB 528, PDDCC 13, CCUG 47691, LMG 568, CECT 97, ICMP 13, CFBP 5251, JCM 13371, BCRC 12846, CFBP 2350, CFBP 5241, CIP 100069",1,"Xanthomonas campestris",Xanthomonas
+157556,,"IMI 349480",0,"Xanthomonas campestris",Xanthomonas
+157557,,"IMI 349452",0,"Xanthomonas campestris",Xanthomonas
+157558,,"IMI 349471",0,"Xanthomonas campestris",Xanthomonas
+157559,,"IMI 349485",0,"Xanthomonas campestris",Xanthomonas
+157560,,"IMI 349451",0,"Xanthomonas campestris",Xanthomonas
+157561,,"IMI 349477",0,"Xanthomonas campestris",Xanthomonas
+157562,,"IMI 349473",0,"Xanthomonas campestris",Xanthomonas
+157563,,"IMI 349435",0,"Xanthomonas campestris",Xanthomonas
+157564,,"IMI 350186",0,"Xanthomonas campestris",Xanthomonas
+157565,,"IMI 349445",0,"Xanthomonas campestris",Xanthomonas
+157566,,"IMI 349475",0,"Xanthomonas campestris",Xanthomonas
+157567,,"IMI 347319",0,"Xanthomonas campestris",Xanthomonas
+157568,,"IMI 350191",0,"Xanthomonas campestris",Xanthomonas
+157569,,"IMI 349461",0,"Xanthomonas campestris",Xanthomonas
+157570,,"IMI 349462",0,"Xanthomonas campestris",Xanthomonas
+157571,,"IMI 349444",0,"Xanthomonas campestris",Xanthomonas
+157572,,"IMI 350172",0,"Xanthomonas campestris",Xanthomonas
+157573,,"IMI 350251",0,"Xanthomonas campestris",Xanthomonas
+157574,,"IMI 349447",0,"Xanthomonas campestris",Xanthomonas
+157575,,"IMI 349448",0,"Xanthomonas campestris",Xanthomonas
+157576,,"IMI 349487",0,"Xanthomonas campestris",Xanthomonas
+157577,,"IMI 349459",0,"Xanthomonas campestris",Xanthomonas
+157578,,"IMI 349466",0,"Xanthomonas campestris",Xanthomonas
+157579,,"IMI 349443",0,"Xanthomonas campestris",Xanthomonas
+157580,,"IMI 349460",0,"Xanthomonas campestris",Xanthomonas
+157581,,"IMI 349469",0,"Xanthomonas campestris",Xanthomonas
+157582,,"IMI 349457",0,"Xanthomonas campestris",Xanthomonas
+157551,,"IMI 349468",0,"Xanthomonas campestris",Xanthomonas
+157552,,"IMI 349479",0,"Xanthomonas campestris",Xanthomonas
+157553,,"IMI 349482",0,"Xanthomonas campestris",Xanthomonas
+157554,,"IMI 349488",0,"Xanthomonas campestris",Xanthomonas
+162944,,"JCM 20469, ATCC 23390, IAM 12310, ICMP 309, ICMP 80, ICPB XN103, LMG 787, NCPPB 1935",0,"Xanthomonas campestris",Xanthomonas
+157555,,"IMI 349467",0,"Xanthomonas campestris",Xanthomonas
+149967,,"CCUG 38768, NCPPB 1926, LMG 7303",0,"Xanthomonas campestris",Xanthomonas
+149968,,"CCUG 38769, NCPPB 2985, LMG 7314",0,"Xanthomonas campestris",Xanthomonas
+157534,,"IMI 349486",0,"Xanthomonas campestris",Xanthomonas
+157535,,"IMI 371797",0,"Xanthomonas campestris",Xanthomonas
+100641,"STI09699(IMET), RNSH203, A167","IMET 9702, IMET 9699",0,"Xanthomonas campestris",Xanthomonas
+157536,,"IMI 375299",0,"Xanthomonas campestris",Xanthomonas
+100642,STI09592(IMET),"IMET 7307, IMET 9592, IMET 9700",0,"Xanthomonas campestris",Xanthomonas
+157537,,"IMI 377425",0,"Xanthomonas campestris",Xanthomonas
+100643,"STI07313(IMET), N374",,0,"Xanthomonas campestris",Xanthomonas
+157538,,"IMI 377746",0,"Xanthomonas campestris",Xanthomonas
+100644,"STI09701(IMET), A130","IMET 9701",0,"Xanthomonas campestris",Xanthomonas
+157539,,"IMI 379428",0,"Xanthomonas campestris",Xanthomonas
+100645,"STI09702(IMET), RNSH203, A167","IMET 9702, IMET 9699",0,"Xanthomonas campestris",Xanthomonas
+157540,,"IMI 379774",0,"Xanthomonas campestris",Xanthomonas
+100646,"STI09697(IMET), A246","NCPF 1066, IMET 9697",0,"Xanthomonas campestris",Xanthomonas
+157541,,"IMI 386925",0,"Xanthomonas campestris",Xanthomonas
+100647,"STI09694(IMET), A115","IMET 9694",0,"Xanthomonas campestris",Xanthomonas
+157542,,"IMI 349464",0,"Xanthomonas campestris",Xanthomonas
+100648,"STI09695(IMET), A171","IMET 9695, RV 27823, IP 84",0,"Xanthomonas campestris",Xanthomonas
+157543,,"IMI 349483",0,"Xanthomonas campestris",Xanthomonas
+157544,,"IMI 349476",0,"Xanthomonas campestris",Xanthomonas
+157545,,"IMI 349474",0,"Xanthomonas campestris",Xanthomonas
+157546,,"IMI 349465",0,"Xanthomonas campestris",Xanthomonas
+157547,,"IMI 349478",0,"Xanthomonas campestris",Xanthomonas
+157548,,"IMI 349431",0,"Xanthomonas campestris",Xanthomonas
+157549,,"IMI 349458",0,"Xanthomonas campestris",Xanthomonas
+157550,,"IMI 349456",0,"Xanthomonas campestris",Xanthomonas
+137146,596.3,"CIP 74.23, CNPB 1121, CFPB 1121",0,"Xanthomonas campestris",Xanthomonas
+17579,"B47, Q 18","DSM 1050, ICPB XC 135, NCPPB 1929, PDDCC 12",0,"Xanthomonas campestris",Xanthomonas
+17580,1,"DSM 1526, ATCC 29497, DSM 60151",0,"Xanthomonas campestris",Xanthomonas
+17581,3,"DSM 2405, ATCC 29498, DSM 60153",0,"Xanthomonas campestris",Xanthomonas
+17582,14,"DSM 2406, ATCC 29499, DSM 60163",0,"Xanthomonas campestris",Xanthomonas
+17583,32,"DSM 2407, ATCC 29500, DSM 60181",0,"Xanthomonas campestris",Xanthomonas
+17585,,"DSM 19000, ATCC 13951, NRRL B-1459, JCM 20529, BCRC 12354, CCM 1069, IAM 12378, ICMP 8425, ICPB XC153, IFO 13303, NBRC 13303, NCIMB 11803, VKM B-611",0,"Xanthomonas campestris",Xanthomonas
+17586,,"DSM 50852, DSM 60159",0,"Xanthomonas campestris",Xanthomonas
+17587,,"DSM 50851, DSM 60128",0,"Xanthomonas campestris",Xanthomonas
+17596,,"DSM 3850, ATCC 11672, NCPPB 571, JCM 20466, CIP 107796, IAM 12307, ICMP 571, ICPB XB103, LMG 546, Dye XB1",0,"Xanthomonas campestris",Xanthomonas
+17606,"VdM 147, ZD1","DSM 18958, ICMP 204, LMG 673, NCPPB 101",1,"Xanthomonas cassavae",Xanthomonas
+170009,"Gabriel 3213, 3213","ATCC 49118, LMG 9322, ICMP 15804, ICPB 10518",1,"Xanthomonas citri",Xanthomonas
+17621,XM13,"DSM 3849, ATCC 9924, ICMP 217, ICPB 10528, JCM 20468, LMG 785, IAM 12309, LMG 11726",1,"Xanthomonas citri subsp. malvacearum",Xanthomonas
+17620,R-10,"DSM 1220",0,"Xanthomonas citri subsp. malvacearum",Xanthomonas
+17607,,"DSM 18812, CFBP 4690, ICMP 9513, LMG 8678",1,"Xanthomonas codiaei",Xanthomonas
+17608,"E78, VdM","DSM 18957, ICMP 2299, LMG 690, NCPPB 2597",1,"Xanthomonas cucurbitae",Xanthomonas
+17599,A960701,"DSM 16794, CFBP 4188, CIP 106774",1,"Xanthomonas hortorum",Xanthomonas
+17615,,"DSM 19127, ATCC 19865, NCPPB 881",0,"Xanthomonas hortorum",Xanthomonas
+159562,,"DSM 110537, CFBP 7245, NCPPB 4446, ICMP 12167",1,"Xanthomonas dyei",Xanthomonas
+167181,,"LMG 31037, NCPPB 4675, CCOS 1891",1,"Xanthomonas euroxanthea",Xanthomonas
+17613,,"DSM 19128, ATCC 11633, LMG 27970, NCPPB 2968",1,"Xanthomonas euvesicatoria",Xanthomonas
+140741,,"ATCC TSD-60, ICMP 21312, LMG 29665, NCPPB 4601, WHRI 8848",1,"Xanthomonas floridensis",Xanthomonas
+17591,,"DSM 3587, ATCC 33239, NCPPB 1469, PDDCC 5715, CCUG 23372",1,"Xanthomonas fragariae",Xanthomonas
+170008,,"NCPPB 381, ICMP 239, ICPB 10520, ATCC 19315, LMG 826",0,"Xanthomonas citri",Xanthomonas
+168901,,"NCPPB 3236, CFBP 2901, ICPB 10470, ICMP 15806",1,"Xanthomonas fuscans subsp. aurantifolii",Xanthomonas
+17616,,"DSM 19143, ICMP 453, LMG 733, NCPPB 939",1,"Xanthomonas hortorum",Xanthomonas
+17617,,"DSM 50857",0,"Xanthomonas hortorum",Xanthomonas
+17618,,"DSM 50858",0,"Xanthomonas hortorum",Xanthomonas
+17619,1248/9,"DSM 50859",0,"Xanthomonas hortorum",Xanthomonas
+17589,,"DSM 19077, ATCC 19314, ICMP 189, LMG 739, NCPPB 599, IPO 392",1,"Xanthomonas hyacinthi",Xanthomonas
+141435,,"CCUG 1830, CCM 1896",0,"Xanthomonas hyacinthi",Xanthomonas
+17590,,"DSM 50855, ICPB XH 110",0,"Xanthomonas hyacinthi",Xanthomonas
+167988,"GBBC 2123","LMG 31884, CCOS 1956",1,"Xanthomonas hydrangeae",Xanthomonas
+132046,,"DSM 100900, SN 8",1,"Xanthomonas massiliensis",Xanthomonas
+167603,,"ICMP 8682, NCPPB 3434, LMG 8670, DSM 18798",1,"Xanthomonas melonis",Xanthomonas
+140742,,"ATCC TSD-61, ICMP 21313, LMG 29666, NCPPB 4600, WHRI 8853",1,"Xanthomonas nasturtii",Xanthomonas
+168649,"Rao X08, NCCPPB 3002, PDDCC 3125, Dye YK9","ATCC 35933, CFBP 2532, ICMP 3125, LMG 5047",1,"Xanthomonas oryzae",Xanthomonas
+17614,XV938,"DSM 18975, NCPPB 4321, CFBP 7293",1,"Xanthomonas euvesicatoria",Xanthomonas
+141436,,"CCUG 1831, CCM 862",0,"Xanthomonas phaseoli",Xanthomonas
+17609,"VdM 111, Xa1","DSM 18956, ICMP 570, NCPPB 762",1,"Xanthomonas pisi",Xanthomonas
+168336,,"LMG 5743, CFBP 1817, DSM 18847, ATCC 51165, NCPPB 2959, ICMP 5816",1,"Xanthomonas populi",Xanthomonas
+158738,,"CECT 9404, IVIA 3287.1, CFBP 8353",1,"Xanthomonas prunicola",Xanthomonas
+17610,,"DSM 22617, CFBP 4641, ICMP 16916, LMG 471",1,"Xanthomonas sacchari",Xanthomonas
+164850,,"JCM 3851, IAM 13033",0,"Xanthomonas sp.",Xanthomonas
+164851,,"JCM 3852, IAM 13034",0,"Xanthomonas sp.",Xanthomonas
+164852,,"JCM 3853, IAM 13035",0,"Xanthomonas sp.",Xanthomonas
+164853,,"JCM 3854, IAM 13036",0,"Xanthomonas sp.",Xanthomonas
+164854,,"JCM 3855, IAM 13037",0,"Xanthomonas sp.",Xanthomonas
+164855,,"JCM 3856, IAM 13038",0,"Xanthomonas sp.",Xanthomonas
+164856,,"JCM 3857, IAM 13039",0,"Xanthomonas sp.",Xanthomonas
+164857,,"JCM 3858, IAM 13040",0,"Xanthomonas sp.",Xanthomonas
+161748,,"JCM 16245, KCTC 22456",0,"Xanthomonas sp.",Xanthomonas
+161749,,"JCM 16246, KCTC 22457",0,"Xanthomonas sp.",Xanthomonas
+146644,,"CCUG 31710",0,"Xanthomonas sp.",Xanthomonas
+147067,,"CCUG 32784",0,"Xanthomonas sp.",Xanthomonas
+151616,,"CCUG 44461",0,"Xanthomonas sp.",Xanthomonas
+152438,,"CCUG 46779",0,"Xanthomonas sp.",Xanthomonas
+153289,,"CCUG 49005",0,"Xanthomonas sp.",Xanthomonas
+153460,,"CCUG 49670",0,"Xanthomonas sp.",Xanthomonas
+154685,,"CCUG 54836",0,"Xanthomonas sp.",Xanthomonas
+157533,,"IMI 372762",0,"Xanthomonas sp.",Xanthomonas
+132047,Leaf148,"DSM 102765",0,"Xanthomonas sp.",Xanthomonas
+132048,Leaf131,"DSM 102766",0,"Xanthomonas sp.",Xanthomonas
+17595,,"DSM 1350, ICPB P 121",0,"Xanthomonas sp.",Xanthomonas
+17597,,"DSM 3851, ATCC 13461, NCPPB 989, JCM 20467, CCM 1447, IAM 12308, ICMP 451, ICPB XH3, LMG 7416, VKM B-618",0,"Xanthomonas sp.",Xanthomonas
+17598,,"DSM 50861, DSM 60026, ICPB X 10",0,"Xanthomonas sp.",Xanthomonas
+17611,,"DSM 18797, CFBP 4691, ICMP 6774, LMG 8684",1,"Xanthomonas theicola",Xanthomonas
+17612,"VdM 130","DSM 18974, ATCC 19319, ICMP 5752, ICPB XT2, NCPPB 973, PDDCC 5752, CFBP 2054, LMG 876",1,"Xanthomonas translucens",Xanthomonas
+17600,"F465, ICMP, VdM 71","DSM 16926, CFBP 2543, LMG 736, LMG 8707, NCPPB 2417",1,"Xanthomonas vasicola",Xanthomonas
+17588,"ICBP XM130","DSM 24447, CFBP 7123, ICMP 2870, NCPPB 2005",0,"Xanthomonas vasicola",Xanthomonas
+17592,,"DSM 22252, ATCC 35937, CFBP 2537, ICMP 63, LMG 911, NCPPB 422",1,"Xanthomonas vesicatoria",Xanthomonas
+170011,AmX2T,"CFBP 8902, DSM 112529",1,"Xanthomonas youngii",Xanthomonas
+168026,"RKSG123, TSD-75","LMG 30075, ATCC TSD-75",1,"Xanthovirga aplysinae",Xanthovirga
+170128,MH17,"ACCC 19963, KCTC 52414",1,"Xaviernesmea rhizosphaerae",Xaviernesmea
+3020,5516S-2,"DSM 19424, KACC 12602",1,"Xenophilus aerolatus",Xenophilus
+158166,YW8,"DSM 107086, CCTCC AB 2012103, KACC 16853",1,"Xenophilus arseniciresistens",Xenophilus
+3019,KF46F,"DSM 13620, CCUG 47268, NCIMB 13707, ATCC BAA-794",1,"Xenophilus azovorans",Xenophilus
+5187,"Q 58, Q58","DSM 4764, ATCC 49542, CCM 7079, UQM 2871, CIP 109145",1,"Xenorhabdus nematophila subsp. beddingii",Xenorhabdus
+5188,"Q 58","DSM 4765, UQM 2872",0,"Xenorhabdus nematophila subsp. beddingii",Xenorhabdus
+5184,"T 228, T228","DSM 4766, ATCC 35271, CCM 7080, UQM 2210, CIP 109144",1,"Xenorhabdus nematophila subsp. bovienii",Xenorhabdus
+170897,XENO-1,"CCM 9244, CCOS 2015",1,"Xenorhabdus bovienii subsp. africana",Xenorhabdus
+5193,Bic,"DSM 16342, CIP 108891, NCIMB 14016",1,"Xenorhabdus budapestensis",Xenorhabdus
+5201,USTX62,"DSM 17905, CIP 109066",1,"Xenorhabdus cabanillasii",Xenorhabdus
+5204,FRM16,"DSM 17909, CIP 109074",1,"Xenorhabdus doucetiae",Xenorhabdus
+172670,DL20,"CIP 111195",1,"Xenorhabdus eapokensis",Xenorhabdus
+140467,DL20,"LMG 29917, CCM 8728, DSM 104079",1,"Xenorhabdus eapokensis",Xenorhabdus
+5191,Ser,"DSM 16337, CIP 108893, NCIMB 14018",1,"Xenorhabdus ehlersii",Xenorhabdus
+5206,ID10,"DSM 17911, CIP 109073",1,"Xenorhabdus griffiniae",Xenorhabdus
+5199,KE01,"DSM 17903, CIP 109072",1,"Xenorhabdus hominickii",Xenorhabdus
+5194,28,"DSM 17382, CIP 108830, CCM 7375",1,"Xenorhabdus indica",Xenorhabdus
+130315,"157-C, SF157-C","DSM 26379",0,"Xenorhabdus indica",Xenorhabdus
+5195,42,"DSM 17383",0,"Xenorhabdus indica",Xenorhabdus
+5196,43,"DSM 17384",0,"Xenorhabdus indica",Xenorhabdus
+5197,OM01,"DSM 17906, CIP 109071",0,"Xenorhabdus indica",Xenorhabdus
+5192,Sca,"DSM 16336, CIP 108894, NCIMB 14017, NCIMB 14018",1,"Xenorhabdus innexi",Xenorhabdus
+23011,GDh7,"DSM 22670, CGMCC 1.9166",1,"Xenorhabdus ishibashii",Xenorhabdus
+161751,,"JCM 16258, ATCC BAA-2153",0,"Xenorhabdus ishibashii",Xenorhabdus
+5189,SK-1,"DSM 16522, CIP 108997, IAM 14265",1,"Xenorhabdus japonica",Xenorhabdus
+23970,SF87,"DSM 25463, ATCC BAA-2406, LMG 29522",1,"Xenorhabdus khoisanae",Xenorhabdus
+23971,"106-C, SF106-C","DSM 26373",0,"Xenorhabdus khoisanae",Xenorhabdus
+23972,SF362,"DSM 26374",0,"Xenorhabdus khoisanae",Xenorhabdus
+23973,SF80,"DSM 26378",0,"Xenorhabdus khoisanae",Xenorhabdus
+5207,USNJ01,"DSM 18168, CIP 109199",1,"Xenorhabdus koppenhoeferi",Xenorhabdus
+5202,SaV,"DSM 17907, CIP 109068",1,"Xenorhabdus kozodoii",Xenorhabdus
+168423,VLS,"DSM 111583, CCCT 20.04",1,"Xenorhabdus lircayensis",Xenorhabdus
+5209,,"DSM 24915, IMI 397775",1,"Xenorhabdus magdalenensis",Xenorhabdus
+5203,VC01,"DSM 17908, CIP 109075",1,"Xenorhabdus mauleonii",Xenorhabdus
+5198,Q1,"DSM 17902, CIP 109069",1,"Xenorhabdus miraniensis",Xenorhabdus
+5185,,"DSM 3370, ATCC 19061, CCM 7081, CCUG 14189, CIP 108994, LMG 1036, CUETM 8319",1,"Xenorhabdus nematophila",Xenorhabdus
+5186,G1,"DSM 4768, ATCC 35272, UQM 2216, CIP 103468",1,"Xenorhabdus nematophila subsp. poinarii",Xenorhabdus
+173501,G6,"CIP 109143, ATCC 49121",0,"Xenorhabdus nematophila subsp. poinarii",Xenorhabdus
+137381,TZ01,"CIP 110340, DSM 25309",1,"Xenorhabdus pwaniensis",Xenorhabdus
+5205,PR06-A,"DSM 17910, CIP 109070",1,"Xenorhabdus romanii",Xenorhabdus
+137683,,"CIP 105189",0,"Xenorhabdus sp.",Xenorhabdus
+5200,TH01,"DSM 17904, CIP 109067",1,"Xenorhabdus stockiae",Xenorhabdus
+5190,Rar,"DSM 16338, CIP 108895, NCIMB 14019",1,"Xenorhabdus szentirmaii",Xenorhabdus
+140466,30TX1,"CCM 8727, LMG 29916, DSM 104078, CIP 111194",1,"Xenorhabdus thuongxuanensis",Xenorhabdus
+5208,VN01,"DSM 22392, CIP 109945",1,"Xenorhabdus vietnamensis",Xenorhabdus
+169860,zg-886,"JCM 34097, GDMCC 1.1710",1,"Xiamenia xianingshaonis",Xiamenia
+166530,IMT-291,"LMG 30636, CIP 111625, CCM 8858, IMT 291",1,"Xinfangfangia humi",Xinfangfangia
+159876,ZQBW,"KCTC 62102, CCTCC AB 2017177",1,"Xinfangfangia soli",Xinfangfangia
+158389,K13,"DSM 29793, NCAIM B.02605",1,"Xylanibacillus composti",Xylanibacillus
+160558,"ChR, PCHR","DSM 105245",0,"Xylanibacter caecicola",Xylanibacter
+160555,"spf2, PMUR","DSM 103722",0,"Xylanibacter muris",Xylanibacter
+160554,"spf1, PROD","DSM 103721",0,"Xylanibacter rodentium",Xylanibacter
+160557,"PJ1A, Janvier 1a","DSM 105243",0,"Xylanibacter rodentium",Xylanibacter
+105472,STI43563(IMET),"RIA 1087, IFO 12817, ISP 5039",0,"Streptomyces hiroshimensis",Streptomyces
+167694,2JSPR-7,"KACC 19330, NBRC 113052",1,"Xylanimonas allomyrinae",Xylanimonas
+12611,XIL07,"DSM 15894, CECT 5975, LMG 20990, JCM 12276, KCTC 9989, NBRC 107835, CIP 108193",1,"Xylanimonas cellulosilytica",Xylanimonas
+12610,VPCX2,"DSM 12657, JCM 13526, NBRC 107786, NCCB 100020",1,"Xylanimonas pachnodae",Xylanimonas
+166325,FW10M-9,"KACC 19331, NBRC 113053",1,"Xylanimonas protaetiae",Xylanimonas
+12609,XIL08,"DSM 16932, CECT 5731, LMG 21721, JCM 14284, NBRC 106152, NCIMB 14264",1,"Xylanimonas ulmi",Xylanimonas
+167409,"SYSU GA17129","CGMCC 1.5282, KCTC 15754",1,"Xylanivirga thermophila",Xylanivirga
+17622,"2683 PCE-RR","DSM 10026, ATCC 35879, CFBP 7970, LMG 17159",1,"Xylella fastidiosa",Xylella
+132105,"Wells 2691","DSM 103369, ATCC 35869, CFBP 8084, LMG 15098, MUL 3",0,"Xylella fastidiosa",Xylella
+132106,ALS-BC,"DSM 103417, ATCC 35870, LMG 15099",0,"Xylella fastidiosa",Xylella
+132107,PLM-G83,"DSM 103418, ATCC 35871, ICMP 15199, ICMP 8735, LMG 09063, CFBP 8173",1,"Xylella fastidiosa subsp. multiplex",Xylella
+133015,PLS229,"DSM 103350, BCRC 80915, JCM 31187, CFBP 8830",1,"Xylella taiwanensis",Xylella
+163966,,"JCM 31186",0,"Xylella taiwanensis",Xylella
+17954,,"DSM 7250, ATCC 33914, CNBP 1192, LMG 5856, NCPPB 2217, PDDCC 4298, CCUG 21976, LMG 5857",1,"Xylophilus ampelinus",Xylophilus
+142945,,"CCUG 15840, NCPPB 2218, ATCC 29074, LMG 516",0,"Xylophilus ampelinus",Xylophilus
+166369,CJ1-R5,"KACC 21265, CCTCC AB 2020030",1,"Xylophilus rhododendri",Xylophilus
