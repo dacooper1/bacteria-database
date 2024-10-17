@@ -5,20 +5,23 @@
 <main>
     <h1>PICK A LETTER TO BEGIN YOUR SEARCH</h1>
 
-    <!-- First row (A-M) -->
-    <ul class="index first-row">
-        {% for letter in alphabet[:13] %}
-            <li class="letter"><a href="/index/{{ letter }}">{{ letter }}</a></li>
-        {% endfor %}
-    </ul>
-    
-    <!-- Second row (N-Z) -->
-    <ul class="index second-row">
-        {% for letter in alphabet[13:] %}
-            <li class="letter"><a href="/index/{{ letter }}">{{ letter }}</a></li>
-        {% endfor %}
-    </ul>
+    <div class="index-wrapper">
+        <!-- First row (A-M) -->
+        <ul class="index first-row">
+            {% for letter in alphabet[:13] %}
+                <li class="letter"><a href="/index/{{ letter }}">{{ letter }}</a></li>
+            {% endfor %}
+        </ul>
+        
+        <!-- Second row (N-Z) -->
+        <ul class="index second-row">
+            {% for letter in alphabet[13:] %}
+                <li class="letter"><a href="/index/{{ letter }}">{{ letter }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
 </main>
+
 
 
 {% endblock %}

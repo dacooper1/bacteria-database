@@ -44,7 +44,7 @@ a {
 }
 
 .bacterium-name h1 {
-    color: red; /* Adjust the name color */
+    color: black; /* Adjust the name color */
     font-size: 2.5em; /* Adjust the size of the bacterium name */
 }
 
@@ -102,72 +102,88 @@ button:hover {
 /* General body styling */
 /* General body styling */
 /* General body styling */
+/* General body styling */
+
+
 body {
-    background-color: yellow;
     margin: 0;
     padding: 0;
     height: 100vh;
     display: flex;
     flex-direction: column;
+
+    background-color: #F6AE2D;
+
+    /* Correct background property */
 }
+
 
 /* Navbar at the top */
 nav {
-    background-color: grey;
+    background-color: #2F4858;
     padding: 10px 20px;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: fixed; /* Fix the navbar at the top */
+    position: fixed;
     top: 0;
     left: 0;
-    z-index: 1000; /* Keep navbar on top of everything */
-    margin: 0; /* Remove any margins */
+    z-index: 1000;
 }
 
-/* Ensure the content starts below the fixed navbar */
-/* body {
-    padding-top: 60px;
-} */
+/* Pushes content below the fixed navbar */
+
 
 /* Layout for the main content: Title on the left, list on the right */
 main {
     display: flex;
-    justify-content: flex-start; /* Aligns title and list horizontally */
-    align-items: center; /* Centers both vertically */
+    justify-content: flex-start;
+    align-items: center;
     width: 100%;
-    max-width: 1200px; /* Controls the width of the content block */
+    max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    flex-grow: 1; /* Ensure the main content grows and centers vertically */
+    flex-grow: 1;
 }
 
 /* Title styling on the left */
 h1 {
-    color: red;
+    color: black;
     font-size: 3em;
     line-height: 1.2;
     text-align: left;
-    margin-right: 50px; /* Adds space between the title and the list */
+    margin-right: 50px;
     flex-shrink: 0;
-    width: 300px; /* Ensures it wraps properly */
+    width: 300px;
+    font-weight: 600;
 }
 
-/* Styling for the grid of letters (on the right) */
-.index {
-    display: grid;
-    grid-template-columns: repeat(7, 1fr); /* 7 columns for better spacing */
-    gap: 30px; /* Adds space between list items */
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    max-width: 700px; /* Controls how wide the grid is */
+/* Ensures first and second rows are stacked vertically */
+.index-wrapper {
+    display: flex;
+    flex-direction: column; /* Ensures rows are stacked vertically */
+    gap: 30px; /* Adds space between the two rows */
 }
 
-/* Ensure separate rows for A-M and N-Z */
+/* Styling for the first row (A-M) */
 .first-row {
-    margin-bottom: 20px; /* Adds space between the first and second row */
+    display: grid;
+    grid-template-columns: repeat(13, 1fr); /* 13 columns for A-M */
+    gap: 30px;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
+/* Styling for the second row (N-Z) */
+.second-row {
+    display: grid;
+    grid-template-columns: repeat(13, 1fr); /* 13 columns for N-Z */
+    gap: 30px;
+    list-style: none;
+    padding: 0;
+    width: 100%;
 }
 
 .index li {
@@ -175,15 +191,21 @@ h1 {
 }
 
 /* Links inside list items */
+/* General letter styling */
 .index a {
     text-decoration: none;
     color: black;
     font-size: 2em;
-    transition: font-size 0.3s ease;
+    display: inline-block; /* Ensure it's treated as a block so transform works smoothly */
+    transition: transform 0.3s ease, font-size 0.3s ease; /* Smooth transition on hover */
 }
 
-/* Hover effect to increase letter size */
+/* Hover effect to enlarge the letter without affecting layout */
 .letter:hover {
-    font-size: 2.5em;
+    transform: scale(2.5); /* Grows the letter by 1.5x */
+    font-size: inherit; /* Keep font size consistent so no extra shifting happens */
+    font-weight: 600;
 }
+
+
 
