@@ -1,36 +1,122 @@
-
-
 h1 {
     color: red;
 }
 
-body {
-    background-color: yellow;
-}
 
-.data_img{
-    height: 300px;
-    width: 300px;
+.data_img {
+    height: 40px;
+    width: 40px;
 }
 
 .column-layout {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .column {
-    flex: 1;
-    padding: 10px;
-    min-width: 200px;
-  }
-  
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  li {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.grid-item {
     margin-bottom: 10px;
-  }
+}
+
+a {
+    text-decoration: none; 
+    color: black; 
+}
+
+body {
+    background-color: yellow; /* Your existing background color */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the body takes up the full height of the viewport */
+}
+
+.container {
+    flex-grow: 1; /* This ensures the container grows to take up most of the page */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Pushes the footer to the bottom */
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between; /* Aligns name and image on opposite sides */
+    align-items: center; /* Vertically centers the name and image */
+    margin-bottom: 20px; /* Adds space between the header and the list */
+}
+
+.bacterium-name h1 {
+    color: red; /* Adjust the name color */
+    font-size: 2.5em; /* Adjust the size of the bacterium name */
+}
+
+.bacterium-image img {
+    height: 150px; /* Adjust the size of the image */
+    width: 150px;  /* Ensure width matches for circular shape */
+    border-radius: 50%; /* Makes the image round */
+    object-fit: cover; /* Ensures the image fits the container */
+}
+
+ul.index {
+    list-style: none;
+    padding-left: 0;
+    flex-grow: 1; /* This makes sure the list grows and takes up space between the header and the footer */
+}
+
+ul.index li {
+    margin-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px; /* Adds space between the list and the button */
+}
+
+
+button {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 20px; /* Rounded corners */
+    border: 2px solid black; /* Optional: adds a border */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: all 0.3s ease; /* Adds smooth transitions */
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+}
+
+button:hover {
+    background-color: #f0f0f0; /* Changes the background color slightly on hover */
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2); /* Makes the shadow more intense on hover */
+}
+
+/* home page */
+
+.letter:hover {
+    font-size: 2em;
+}
+
+.index {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Creates 2 equal columns */
+    gap: 10px; /* Adds space between items */
+    list-style-type: none; /* Removes the bullet points */
+    padding: 0; /* Removes padding */
+}
+
+.index li {
+    margin-bottom: 10px; /* Adds space between list items */
+}
+
+.index a {
+    text-decoration: none;
+    color: black; /* Adjust the color as needed */
+}
+
+  
   

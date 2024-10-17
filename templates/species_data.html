@@ -2,100 +2,107 @@
 
 {% block content %}
 
-<h1>{{ bacteria.species }}</h1>
+<div class="container">
+    <div class="header">
+        <div class="bacterium-name">
+            <h1>{{ bacteria.species }}</h1>
+        </div>
+        <div class="bacterium-image">
+            {% if data.get('Morphology', {}).get('multimedia', {}).get('multimedia content') %}
+                <img src="{{ data['Morphology']['multimedia']['multimedia content'] }}" alt="Picture of {{ bacteria.species }}">
+            {% else %}
+                <img src="https://i.pinimg.com/736x/5c/1c/89/5c1c898d7c0d69befbc51a73c5a5138c.jpg" alt="General Microbiology Image">
+            {% endif %}
+        </div>
+    </div>
+
 <ul class="index" data-columns="2">
-    <li class="data_img">
-        {% if data.get('Morphology', {}).get('multimedia', {}).get('multimedia content') %}
-            <img src="{{ data['Morphology']['multimedia']['multimedia content'] }}" alt="Picture of {{ bacteria.species }}"></img> 
-        {% else %}
-            <img src="https://i.pinimg.com/736x/5c/1c/89/5c1c898d7c0d69befbc51a73c5a5138c.jpg" alt="General Microbiology Image"></img>
-        {% endif %}
-    </li>
 
     {% if bacteria.strain_id %}
-        <li>Strain Id: {{ bacteria.strain_id }}</li>
-    {% endif %}
+    <li><strong>Strain Id:</strong> {{ bacteria.strain_id }}</li>
+{% endif %}
 
-    {% if data.get("General", {}).get("description") %}
-        <li>Description: {{ data["General"]["description"] }}</li>
-    {% endif %}
+{% if data.get("General", {}).get("description") %}
+    <li><strong>Description:</strong> {{ data["General"]["description"] }}</li>
+{% endif %}
 
-    {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("domain") %}
-        <li>Domain: {{ data["Name and taxonomic classification"]["LPSN"]["domain"] }}</li>
-    {% endif %}
+{% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("domain") %}
+    <li><strong>Domain:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["domain"] }}</li>
+{% endif %}
 
-    {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("phylum") %}
-        <li>Phylum: {{ data["Name and taxonomic classification"]["LPSN"]["phylum"] }}</li>
-    {% endif %}
+{% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("phylum") %}
+    <li><strong>Phylum:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["phylum"] }}</li>
+{% endif %}
 
-    {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("class") %}
-        <li>Class: {{ data["Name and taxonomic classification"]["LPSN"]["class"] }}</li>
-    {% endif %}
+{% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("class") %}
+    <li><strong>Class:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["class"] }}</li>
+{% endif %}
 
-    {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("order") %}
-        <li>Order: {{ data["Name and taxonomic classification"]["LPSN"]["order"] }}</li>
-    {% endif %}
+{% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("order") %}
+    <li><strong>Order:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["order"] }}</li>
+{% endif %}
 
-    {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("family") %}
-        <li>Family: {{ data["Name and taxonomic classification"]["LPSN"]["family"] }}</li>
-    {% endif %}
+{% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("family") %}
+    <li><strong>Family:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["family"] }}</li>
+{% endif %}
 
-    {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("genus") %}
-        <li>Genus: {{ data["Name and taxonomic classification"]["LPSN"]["genus"] }}</li>
-    {% endif %}
+{% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("genus") %}
+    <li><strong>Genus:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["genus"] }}</li>
+{% endif %}
 
-    {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("species") %}
-        <li>Species: {{ data["Name and taxonomic classification"]["LPSN"]["species"] }}</li>
-    {% endif %}
+{% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("species") %}
+    <li><strong>Species:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["species"] }}</li>
+{% endif %}
 
-    {% if data.get("Culture and growth conditions", {}).get("culture medium", {}).get("name") %}
-        <li>Culture Medium: {{ data["Culture and growth conditions"]["culture medium"]["name"] }}</li>
-    {% endif %}
+{% if data.get("Culture and growth conditions", {}).get("culture medium", {}).get("name") %}
+    <li><strong>Culture Medium:</strong> {{ data["Culture and growth conditions"]["culture medium"]["name"] }}</li>
+{% endif %}
 
-    {% if data.get("Culture and growth conditions", {}).get("culture temp") %}
-        {% set temp_data = data["Culture and growth conditions"]["culture temp"] %}
-        {% if temp_data.get("growth") and temp_data.get("type") and temp_data.get("temperature") %}
-            <li>Culture Temp Growth: {{ temp_data["growth"] }} {{ temp_data["type"] }} at {{ temp_data["temperature"] }}&deg;C</li>
-        {% endif %}
+{% if "Culture and growth conditions" in data and "culture temp" in data["Culture and growth conditions"] %}
+    {% set temp_data = data["Culture and growth conditions"]["culture temp"] %}
+    {% if "growth" in temp_data and "type" in temp_data and "temperature" in temp_data %}
+        <li><strong>Culture Temp Growth:</strong> {{ temp_data["growth"] }} {{ temp_data["type"] }} at {{ temp_data["temperature"] }}&deg;C</li>
     {% endif %}
+{% endif %}
 
-    {% if data.get("General", {}).get("keywords") %}
-        <li> Keywords:
-            {% for key in data["General"]["keywords"] %}
-                {{ key }},
-            {% endfor %}
-        </li>
-    {% endif %}
-
-    {% if data.get("Morphology", {}).get("cell morphology", {}).get("gram stain") %}
-        <li>Gram Stain: {{ data["Morphology"]["cell morphology"]["gram stain"] }}</li>
-    {% endif %}
-
-    {% if data.get("Morphology", {}).get("cell morphology", {}).get("cell shape") %}
-        <li>Cell Shape: {{ data["Morphology"]["cell morphology"]["cell shape"] }}</li>
-    {% endif %}
-
-    {% if data.get("Morphology", {}).get("cell morphology", {}).get("motility") %}
-        <li>Motility: {{ data["Morphology"]["cell morphology"]["motility"] }}</li>
-    {% endif %}
-
-    {% if data.get("Physiology and metabolism", {}).get("oxygen tolerance", {}).get("oxygen tolerance") %}
-        <li>Oxygen Tolerance: {{ data["Physiology and metabolism"]["oxygen tolerance"]["oxygen tolerance"] }}</li>
-    {% endif %}
-
-    <li>Safety Information:
-        <ul>
-            {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("pathogenicity human") %}
-                <li> Pathogenic to humans: {{ data["Safety information"]["risk assessment"][0]["pathogenicity human"] }}</li>
-            {% endif %}
-            {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("pathogenicity animal") %}
-                <li> Pathogenic to animals: {{ data["Safety information"]["risk assessment"][0]["pathogenicity animal"] }}</li>
-            {% endif %}
-            {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("biosafety level") %}
-                <li> Bio Safety Level: {{ data["Safety information"]["risk assessment"][0]["biosafety level"] }} </li>
-            {% endif %}
-        </ul>
+{% if data.get("General", {}).get("keywords") %}
+    <li><strong>Keywords:</strong>
+        {% for key in data["General"]["keywords"] %}
+            {{ key }},
+        {% endfor %}
     </li>
+{% endif %}
+
+{% if data.get("Morphology", {}).get("cell morphology", {}).get("gram stain") %}
+    <li><strong>Gram Stain:</strong> {{ data["Morphology"]["cell morphology"]["gram stain"] }}</li>
+{% endif %}
+
+{% if data.get("Morphology", {}).get("cell morphology", {}).get("cell shape") %}
+    <li><strong>Cell Shape:</strong> {{ data["Morphology"]["cell morphology"]["cell shape"] }}</li>
+{% endif %}
+
+{% if data.get("Morphology", {}).get("cell morphology", {}).get("motility") %}
+    <li><strong>Motility:</strong> {{ data["Morphology"]["cell morphology"]["motility"] }}</li>
+{% endif %}
+
+{% if data.get("Physiology and metabolism", {}).get("oxygen tolerance", {}).get("oxygen tolerance") %}
+    <li><strong>Oxygen Tolerance:</strong> {{ data["Physiology and metabolism"]["oxygen tolerance"]["oxygen tolerance"] }}</li>
+{% endif %}
+
+<li><strong>Safety Information:</strong>
+    <ul>
+        {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("pathogenicity human") %}
+            <li><strong>Pathogenic to humans:</strong> {{ data["Safety information"]["risk assessment"][0]["pathogenicity human"] }}</li>
+        {% endif %}
+        {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("pathogenicity animal") %}
+            <li><strong>Pathogenic to animals:</strong> {{ data["Safety information"]["risk assessment"][0]["pathogenicity animal"] }}</li>
+        {% endif %}
+        {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("biosafety level") %}
+            <li><strong>Bio Safety Level:</strong> {{ data["Safety information"]["risk assessment"][0]["biosafety level"] }} </li>
+        {% endif %}
+    </ul>
+</li>
+
 
     {% if data.get("metabolite production") %}
         <li>Metabolite Production:
@@ -109,5 +116,7 @@
     {% endif %}
 </ul>
 
-<button><a href="/index">Go Back</a></button>
+<div class="footer">
+    <button><a href="/index">Go Back</a></button>
+</div>
 {% endblock %}

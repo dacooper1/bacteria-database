@@ -39,7 +39,7 @@ def show_home_page():
 
 @app.route('/index/<letter>')
 def show_letter_index(letter):
-    list = Bacterium.query.filter(Bacterium.species.startswith(letter)).all()
+    list = Bacterium.query.filter(Bacterium.species.startswith(letter)).order_by(Bacterium.species).all()
     return render_template('letter_index', list=list)
 
 @app.route('/index/<int:id>')
