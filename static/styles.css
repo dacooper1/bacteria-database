@@ -1,6 +1,4 @@
-.index{
-    column-count: 2;
-}
+
 
 h1 {
     color: red;
@@ -14,3 +12,25 @@ body {
     height: 300px;
     width: 300px;
 }
+
+.column-layout {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 10px;
+    min-width: 200px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
