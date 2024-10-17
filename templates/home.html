@@ -2,10 +2,23 @@
 
 {% block content %}
 
-<h1>TESTING CONNECTION</h1>
-    <ul class="index" data-columns="2">
-    {% for letter in alphabet %}
-            <li class="letter"> <a href="/index/{{letter}}">{{ letter }}</a></li>
-    {% endfor %}
+<main>
+    <h1>PICK A LETTER TO BEGIN YOUR SEARCH</h1>
+
+    <!-- First row (A-M) -->
+    <ul class="index first-row">
+        {% for letter in alphabet[:13] %}
+            <li class="letter"><a href="/index/{{ letter }}">{{ letter }}</a></li>
+        {% endfor %}
     </ul>
+    
+    <!-- Second row (N-Z) -->
+    <ul class="index second-row">
+        {% for letter in alphabet[13:] %}
+            <li class="letter"><a href="/index/{{ letter }}">{{ letter }}</a></li>
+        {% endfor %}
+    </ul>
+</main>
+
+
 {% endblock %}

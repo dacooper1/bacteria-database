@@ -1,6 +1,4 @@
-h1 {
-    color: red;
-}
+
 
 
 .data_img {
@@ -23,12 +21,12 @@ a {
     color: black; 
 }
 
-body {
-    background-color: yellow; /* Your existing background color */
+/* body {
+    background-color: yellow; 
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Ensure the body takes up the full height of the viewport */
-}
+    min-height: 100vh; 
+} */
 
 .container {
     flex-grow: 1; /* This ensures the container grows to take up most of the page */
@@ -97,26 +95,95 @@ button:hover {
 
 /* home page */
 
-.letter:hover {
-    font-size: 2em;
+/* General body styling */
+/* General body styling */
+/* General body styling */
+/* General body styling */
+/* General body styling */
+/* General body styling */
+/* General body styling */
+body {
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
+/* Navbar at the top */
+nav {
+    background-color: grey;
+    padding: 10px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed; /* Fix the navbar at the top */
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Keep navbar on top of everything */
+    margin: 0; /* Remove any margins */
+}
+
+/* Ensure the content starts below the fixed navbar */
+/* body {
+    padding-top: 60px;
+} */
+
+/* Layout for the main content: Title on the left, list on the right */
+main {
+    display: flex;
+    justify-content: flex-start; /* Aligns title and list horizontally */
+    align-items: center; /* Centers both vertically */
+    width: 100%;
+    max-width: 1200px; /* Controls the width of the content block */
+    margin: 0 auto;
+    padding: 20px;
+    flex-grow: 1; /* Ensure the main content grows and centers vertically */
+}
+
+/* Title styling on the left */
+h1 {
+    color: red;
+    font-size: 3em;
+    line-height: 1.2;
+    text-align: left;
+    margin-right: 50px; /* Adds space between the title and the list */
+    flex-shrink: 0;
+    width: 300px; /* Ensures it wraps properly */
+}
+
+/* Styling for the grid of letters (on the right) */
 .index {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Creates 2 equal columns */
-    gap: 10px; /* Adds space between items */
-    list-style-type: none; /* Removes the bullet points */
-    padding: 0; /* Removes padding */
+    grid-template-columns: repeat(7, 1fr); /* 7 columns for better spacing */
+    gap: 30px; /* Adds space between list items */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    max-width: 700px; /* Controls how wide the grid is */
+}
+
+/* Ensure separate rows for A-M and N-Z */
+.first-row {
+    margin-bottom: 20px; /* Adds space between the first and second row */
 }
 
 .index li {
-    margin-bottom: 10px; /* Adds space between list items */
+    text-align: center;
 }
 
+/* Links inside list items */
 .index a {
     text-decoration: none;
-    color: black; /* Adjust the color as needed */
+    color: black;
+    font-size: 2em;
+    transition: font-size 0.3s ease;
 }
 
-  
-  
+/* Hover effect to increase letter size */
+.letter:hover {
+    font-size: 2.5em;
+}
+
