@@ -1,0 +1,52 @@
+.grid-item {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none; 
+    color: black; 
+}
+
+.data-container {
+    flex-grow: 1; /* This ensures the container grows to take up most of the page */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Pushes the footer to the bottom */
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between; /* Aligns name and image on opposite sides */
+    align-items: center; /* Vertically centers the name and image */
+    margin-bottom: 20px; /* Adds space between the header and the list */
+}
+
+.bacterium-name h1 i{
+    color: black; 
+    font-size: 1em; 
+    font-weight: 600;
+}
+
+.bacterium-image img {
+    height: 150px; 
+    width: 150px;  
+    border-radius: 50%; 
+    object-fit: cover; /* Ensures the image fits the container */
+}
+
+ul.index {
+    list-style: none;
+    padding-left: 0;
+    flex-grow: 1; /* This makes sure the list grows and takes up space between the header and the footer */
+}
+
+ul.index li {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px; 
+}

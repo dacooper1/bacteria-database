@@ -1,1 +1,0 @@
-API_SECRET_KEY="pycjeR-nacno9-dyvmad"

@@ -7,7 +7,11 @@
   <title>Capstone</title>
   
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.3/lumen/bootstrap.css">
-  <link rel="stylesheet" href="../static/styles.css">
+  <link rel="stylesheet" href="../static/css/letter_index.css">
+  <link rel="stylesheet" href="../static/css/user.css">
+  <link rel="stylesheet" href="../static/css/species_data.css">
+  <link rel="stylesheet" href="../static/css/general.css">
+  <link rel="stylesheet" href="../static/css/home.css">
 </head>
 <body>
   <div class="background-image"></div>
@@ -16,11 +20,11 @@
   <a class="navbar-brand" href="/">HOME</a>
   <ul class="navbar-nav">
     {% if session['user_id'] %}
-    <li class="nav-item"><a class="nav-link" href="/favourites">Favourites</a></li>
+    <!-- <li class="nav-item"><a class="nav-link" href="/favourites">Favourites</a></li> -->
     <li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
     {% else %}
-    <li class="nav-item"><a class="nav-link" href="/login">Login</a></li>
-    <li class="nav-item"><a class="nav-link" href="register">Register</a></li>
+    <li class="nav-item"><a class="nav-link" href="/login">LOGIN</a></li>
+    <li class="nav-item"><a class="nav-link" href="register">REGISTER</a></li>
     {% endif %}
   </ul>
 </nav>

@@ -2,11 +2,19 @@
 
 {% block content %}
 
-<h1>MAIN INDEX</h1>
-<div class="column-layout">
+<div class="header">
+    <div>
+        <h1 class="index-title"> {{ letter }} </h1>
+    </div>
+    <div>
+        <button><a href="/index">GO BACK</a></button>
+    </div>
+</div>
+
+<div class="column-layout index-container">
     {% for data in list %}
         <div class="grid-item">
-            <a href="/index/{{data.id}}">{{ data.species }}</a>
+            <a href="/index/{{data.id}}"> <i>{{ data.species }}</i></a>
         </div>
     {% endfor %}
 </div>

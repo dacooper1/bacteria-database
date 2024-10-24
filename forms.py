@@ -3,13 +3,13 @@ from flask_wtf import FlaskForm
 from wtforms.validators import InputRequired, Optional
 
 class RegisterForm(FlaskForm):
-    first_name = StringField("First Name", validators=[InputRequired()])
-    last_name = StringField("Last Name", validators=[InputRequired()])
-    username = StringField("Username", validators=[InputRequired()])
-    password = PasswordField("Password", validators=[InputRequired()])
+    first_name = StringField("FIRST NAME", validators=[InputRequired()], render_kw={'class': 'user-form'})
+    last_name = StringField("LAST NAME", validators=[InputRequired()], render_kw={'class': 'user-form'})
+    username = StringField("USERNAME", validators=[InputRequired()], render_kw={'class': 'user-form'})
+    password = PasswordField("PASSWORD", validators=[InputRequired()], render_kw={'class': 'user-form'})
 
 class LoginForm(FlaskForm):
-    username = StringField("Username", validators=[InputRequired()])
+    username = StringField("USERNAME", validators=[InputRequired()], render_kw={'class': 'user-form'})
 
-    password = PasswordField("Password", validators=[InputRequired()])
+    password = PasswordField("PASSWORD", validators=[InputRequired()], render_kw={'class': 'user-form'})
 

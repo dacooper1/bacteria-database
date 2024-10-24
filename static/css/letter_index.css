@@ -1,0 +1,34 @@
+main {
+    display: flex;
+    flex-direction: column; /* Change layout to vertical */
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    flex-grow: 1;
+    height: 100vh; /* Ensure it takes up the full height */
+}
+
+.column-layout {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between; /* Aligns name and image on opposite sides */
+    align-items: center; /* Vertically centers the name and image */
+    margin-bottom: 20px; /* Adds space between the header and the list */
+}
+
+.index-title {
+    color: black; 
+    font-size: 5em; 
+    font-weight: 600;
+}
+
+
+

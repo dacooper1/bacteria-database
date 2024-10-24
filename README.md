@@ -1,3 +1,9 @@
+## Setup Instructions
+
+1. Create a `my_secrets.py` file in the root directory of the project.
+2. Copy the contents of `my_secrets_example.py` into `my_secrets.py`.
+3. Replace the placeholder values with your own API credentials.
+
 # Capstone Project One
 
 We have broken down the Capstone Project into easy-to-follow steps. Each step of the capstone contains a link with instructions for that step. Here’s a quick overview of what you’ll do for each step of your capstone project:

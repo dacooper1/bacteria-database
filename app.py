@@ -1,6 +1,6 @@
 from flask import Flask, redirect, render_template, session
 from flask_debugtoolbar import DebugToolbarExtension
-# from secrets import API_SECRET_KEY
+from my_secrets import USER, API_SECRET_KEY
 
 from models import db, connect_db, User, Favourite, Bacterium
 from forms import RegisterForm, LoginForm
@@ -15,14 +15,13 @@ app.config['SQLALCHEMY_ECHO'] = True
 
 connect_db(app)
 app.app_context().push()
-# db.drop_all()
 db.create_all()
 
 app.config['SECRET_KEY'] = "I'LL NEVER TELL!!"
 
-# client = bacdive.BacdiveClient('dejah.c@icloud.com', API_SECRET_KEY)
+client = bacdive.BacdiveClient(USER, API_SECRET_KEY)
 
-client = bacdive.BacdiveClient('dejah.c@icloud.com',"pycjeR-nacno9-dyvmad" )
+
 
 app.config['DEBUG_TB_INTERCEPT_REDIRECTS'] = False
 
@@ -40,7 +39,7 @@ def show_home_page():
 @app.route('/index/<letter>')
 def show_letter_index(letter):
     list = Bacterium.query.filter(Bacterium.species.startswith(letter)).order_by(Bacterium.species).all()
-    return render_template('letter_index', list=list)
+    return render_template('letter_index', list=list, letter=letter)
 
 @app.route('/index/<int:id>')
 def show_species_data(id):
@@ -52,8 +51,7 @@ def show_species_data(id):
     for strain in client.retrieve():
         bacdive_bacteria_data = strain
     
-    # print('000000000000000')
-    print(bacdive_bacteria_data)
+
 
     return render_template('species_data.html', bacteria=bacteria, data=bacdive_bacteria_data)
 
@@ -101,6 +99,5 @@ def show_register():
     else:
         return render_template('register.html', form=form)
 
-# @app.route('/index/<letter>')
-# def show_bacteria_beginning_with_letter()
+
     

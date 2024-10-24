@@ -2,10 +2,10 @@
 
 {% block content %}
 
-<div class="container">
+<div class="data-container">
     <div class="header">
         <div class="bacterium-name">
-            <h1>{{ bacteria.species }}</h1>
+            <h1 class="title"> <i>{{ bacteria.species }}</i></h1>
         </div>
         <div class="bacterium-image">
             {% if data.get('Morphology', {}).get('multimedia', {}).get('multimedia content') %}
@@ -51,12 +51,19 @@
 {% endif %}
 
 {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("species") %}
-    <li><strong>Species:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["species"] }}</li>
+    <li><strong>Species:</strong> <i>{{ data["Name and taxonomic classification"]["LPSN"]["species"] }}</i></li>
 {% endif %}
 
-{% if data.get("Culture and growth conditions", {}).get("culture medium", {}).get("name") %}
-    <li><strong>Culture Medium:</strong> {{ data["Culture and growth conditions"]["culture medium"]["name"] }}</li>
+{% if data.get("Culture and growth conditions") and data["Culture and growth conditions"] is not iterable %}
+    {% if data["Culture and growth conditions"].get("culture medium", {}).get("name") %}
+    <li><strong>Culture Medium:</strong>{{ data["Culture and growth conditions"]["culture medium"]["name"] }}
+    {% endif %}
 {% endif %}
+
+
+
+<!-- {{ data["Culture and growth conditions"] | tojson }}  Jinja way to print data structure -->
+
 
 {% if "Culture and growth conditions" in data and "culture temp" in data["Culture and growth conditions"] %}
     {% set temp_data = data["Culture and growth conditions"]["culture temp"] %}
@@ -89,21 +96,6 @@
     <li><strong>Oxygen Tolerance:</strong> {{ data["Physiology and metabolism"]["oxygen tolerance"]["oxygen tolerance"] }}</li>
 {% endif %}
 
-<li><strong>Safety Information:</strong>
-    <ul>
-        {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("pathogenicity human") %}
-            <li><strong>Pathogenic to humans:</strong> {{ data["Safety information"]["risk assessment"][0]["pathogenicity human"] }}</li>
-        {% endif %}
-        {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("pathogenicity animal") %}
-            <li><strong>Pathogenic to animals:</strong> {{ data["Safety information"]["risk assessment"][0]["pathogenicity animal"] }}</li>
-        {% endif %}
-        {% if data.get("Safety information", {}).get("risk assessment", [{}])[0].get("biosafety level") %}
-            <li><strong>Bio Safety Level:</strong> {{ data["Safety information"]["risk assessment"][0]["biosafety level"] }} </li>
-        {% endif %}
-    </ul>
-</li>
-
-
     {% if data.get("metabolite production") %}
         <li>Metabolite Production:
             {% for key in data["metabolite production"] %}
@@ -117,6 +109,6 @@
 </ul>
 
 <div class="footer">
-    <button><a href="/index">Go Back</a></button>
+    <button><a href="/index">GO BACK</a></button>
 </div>
 {% endblock %}

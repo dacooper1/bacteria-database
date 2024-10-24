@@ -2,9 +2,9 @@
 
 {% block content %}
 
-<h1>Register</h1>
+<h1 class="user-title">REGISTER</h1>
 
-<div>
+<div class="user-form-container">
     <form method="POST">
         {{ form.hidden_tag() }}
 
@@ -13,7 +13,7 @@
             %}
 
             <p>
-                {{field.label}}
+                <label class="user-label">{{ field.label.text }}</label>
                 {{field}}
     
                 {% for error in field.errors %}
@@ -21,7 +21,7 @@
                 {% endfor %}
             </p>
         {% endfor %}
-        <button> Create Account </button>
+        <button> CREATE ACCOUNT </button>
     </form>
 </div>
 
