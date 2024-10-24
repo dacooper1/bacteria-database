@@ -18,42 +18,60 @@
 
 <ul class="index" data-columns="2">
 
+<!-- STRAIN ID -->
     {% if bacteria.strain_id %}
     <li><strong>Strain Id:</strong> {{ bacteria.strain_id }}</li>
 {% endif %}
 
+
+<!-- DESCRIPTION -->
 {% if data.get("General", {}).get("description") %}
     <li><strong>Description:</strong> {{ data["General"]["description"] }}</li>
 {% endif %}
 
+
+<!-- DOMAIN -->
 {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("domain") %}
     <li><strong>Domain:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["domain"] }}</li>
 {% endif %}
 
+
+<!-- PHYLUM -->
 {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("phylum") %}
     <li><strong>Phylum:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["phylum"] }}</li>
 {% endif %}
 
+
+<!-- CLASS -->
 {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("class") %}
     <li><strong>Class:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["class"] }}</li>
 {% endif %}
 
+
+<!-- ORDER -->
 {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("order") %}
     <li><strong>Order:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["order"] }}</li>
 {% endif %}
 
+
+<!-- FAMILY -->
 {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("family") %}
     <li><strong>Family:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["family"] }}</li>
 {% endif %}
 
+
+<!-- GENUS -->
 {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("genus") %}
     <li><strong>Genus:</strong> {{ data["Name and taxonomic classification"]["LPSN"]["genus"] }}</li>
 {% endif %}
 
+<!-- SPECIES -->
 {% if data.get("Name and taxonomic classification", {}).get("LPSN", {}).get("species") %}
     <li><strong>Species:</strong> <i>{{ data["Name and taxonomic classification"]["LPSN"]["species"] }}</i></li>
 {% endif %}
 
+
+<!-- CULTURE MEDIUM -->
 {% if data.get("Culture and growth conditions") and data["Culture and growth conditions"] is not iterable %}
     {% if data["Culture and growth conditions"].get("culture medium", {}).get("name") %}
     <li><strong>Culture Medium:</strong>{{ data["Culture and growth conditions"]["culture medium"]["name"] }}
@@ -61,10 +79,7 @@
 {% endif %}
 
 
-
-<!-- {{ data["Culture and growth conditions"] | tojson }}  Jinja way to print data structure -->
-
-
+<!-- CULTURE TEMP GROWTH -->
 {% if "Culture and growth conditions" in data and "culture temp" in data["Culture and growth conditions"] %}
     {% set temp_data = data["Culture and growth conditions"]["culture temp"] %}
     {% if "growth" in temp_data and "type" in temp_data and "temperature" in temp_data %}
@@ -72,6 +87,7 @@
     {% endif %}
 {% endif %}
 
+<!-- KEYWORDS -->
 {% if data.get("General", {}).get("keywords") %}
     <li><strong>Keywords:</strong>
         {% for key in data["General"]["keywords"] %}
@@ -80,22 +96,50 @@
     </li>
 {% endif %}
 
-{% if data.get("Morphology", {}).get("cell morphology", {}).get("gram stain") %}
-    <li><strong>Gram Stain:</strong> {{ data["Morphology"]["cell morphology"]["gram stain"] }}</li>
+<!-- GRAM STAIN -->
+{% set gram_stain_data = data.get("Morphology", {}).get("cell morphology", {}).get("gram stain", "Not Available") %}
+
+<!-- Check if gram_stain_data is a list -->
+{% if gram_stain_data is iterable and not gram_stain_data is mapping %}
+    <!-- If it's a list, set to Not Available -->
+    {% set gram_stain = "Not Available" %}
+{% else %}
+    <!-- If it's not a list, use the actual value -->
+    {% set gram_stain = gram_stain_data %}
 {% endif %}
 
-{% if data.get("Morphology", {}).get("cell morphology", {}).get("cell shape") %}
-    <li><strong>Cell Shape:</strong> {{ data["Morphology"]["cell morphology"]["cell shape"] }}</li>
+<!-- Display the Gram Stain info -->
+<li><strong>Gram Stain:</strong> {{ gram_stain }}</li>
+
+
+<!-- CELL SHAPE -->
+{% set cell_shape_data = data.get("Morphology", {}).get("cell morphology", {}).get("cell shape", "Not Available") %}
+
+<!-- Check if cell_shape_data is a list -->
+{% if cell_shape_data is iterable and not cell_shape_data is mapping %}
+    <!-- If it's a list, set to Not Available -->
+    {% set cell_shape = "Not Available" %}
+{% else %}
+    <!-- If it's not a list, use the actual value -->
+    {% set cell_shape = cell_shape_data %}
 {% endif %}
 
+<!-- Display the Cell Shape info -->
+<li><strong>Cell Shape:</strong> {{ cell_shape }}</li>
+
+
+<!-- MOTILITY -->
 {% if data.get("Morphology", {}).get("cell morphology", {}).get("motility") %}
     <li><strong>Motility:</strong> {{ data["Morphology"]["cell morphology"]["motility"] }}</li>
 {% endif %}
 
+
+<!-- OXYGEN TOLERANCE -->
 {% if data.get("Physiology and metabolism", {}).get("oxygen tolerance", {}).get("oxygen tolerance") %}
     <li><strong>Oxygen Tolerance:</strong> {{ data["Physiology and metabolism"]["oxygen tolerance"]["oxygen tolerance"] }}</li>
 {% endif %}
 
+<!-- METABOLITE PRODUCTION -->
     {% if data.get("metabolite production") %}
         <li>Metabolite Production:
             {% for key in data["metabolite production"] %}
