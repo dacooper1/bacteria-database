@@ -2,9 +2,7 @@ from models import db, csv, Bacterium, User, Favourite
 from app import client
 import bacdive
 
-# db.drop_all()
-# db.create_all()
-file = 'Z.csv'
+file = './bacteria_data/Z.csv'
 
 
 
@@ -27,8 +25,6 @@ def get_unique_species(add_genus_index):
     
     return unique_list
     
-
-
 def get_species_data(get_unique_species):
     species_id_values = [value['id'] for value in get_unique_species]
     unique_data = []

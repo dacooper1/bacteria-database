@@ -9,7 +9,7 @@ import bacdive
 
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql:///capstone'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres.sdcpbhigcagexurbnwgi:degbo2-xYnpav-jupkos@aws-0-ca-central-1.pooler.supabase.com:6543/postgres'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_ECHO'] = True
 
