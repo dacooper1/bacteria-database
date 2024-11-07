@@ -1,6 +1,7 @@
 from flask import Flask, redirect, render_template, session
 from flask_debugtoolbar import DebugToolbarExtension
-from my_secrets import USER, API_SECRET_KEY
+import os
+
 
 from models import db, connect_db, User, Favourite, Bacterium
 from forms import RegisterForm, LoginForm
@@ -12,6 +13,8 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres.sdcpbhigcagexurbnwgi:degbo2-xYnpav-jupkos@aws-0-ca-central-1.pooler.supabase.com:6543/postgres'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_ECHO'] = True
+USER = os.getenv('USER')
+API_SECRET_KEY = os.getenv('API_SECRET_KEY')
 
 connect_db(app)
 app.app_context().push()
