@@ -39,9 +39,9 @@ def show_home_page():
 @app.route('/index/<letter>')
 def show_letter_index(letter):
     list = Bacterium.query.filter(Bacterium.species.startswith(letter)).order_by(Bacterium.species).all()
-    return render_template('letter_index', list=list, letter=letter)
+    return render_template('letter_index.html', list=list, letter=letter)
 
-@app.route('/index/<int:id>')
+@app.route('/species/<int:id>')
 def show_species_data(id):
     bacteria = Bacterium.query.get_or_404(id)
     bacdive_id = bacteria.strain_id

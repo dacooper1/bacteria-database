@@ -2,7 +2,8 @@
 
 1. Create a `my_secrets.py` file in the root directory of the project.
 2. Copy the contents of `my_secrets_example.py` into `my_secrets.py`.
-3. Replace the placeholder values with your own API credentials.
+3. Register account `https://sso.dsmz.de/auth/realms/DSMZ/login-actions/registration?client_id=api.bacdive&tab_id=0O-tBUlQElU`
+4. Replace the placeholder values with your own API credentials
 
 # Capstone Project One
 

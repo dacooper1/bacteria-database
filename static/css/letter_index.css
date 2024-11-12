@@ -1,15 +1,4 @@
-main {
-    display: flex;
-    flex-direction: column; /* Change layout to vertical */
-    justify-content: center; /* Center content vertically */
-    align-items: center; /* Center content horizontally */
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    flex-grow: 1;
-    height: 100vh; /* Ensure it takes up the full height */
-}
+
 
 .column-layout {
     display: grid;
