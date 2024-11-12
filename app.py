@@ -109,7 +109,7 @@ def show_register():
         db.session.add(user)
         db.session.commit()
 
-        session['user_id']=user.id
+        login_user(user)
 
         return redirect('/')
     else:
