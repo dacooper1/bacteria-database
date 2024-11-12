@@ -1,6 +1,7 @@
-from flask import Flask, redirect, render_template, session
+from flask import Flask, redirect, render_template, session, request
 from flask_debugtoolbar import DebugToolbarExtension
 from my_secrets import USER, API_SECRET_KEY, DATABASE_URI, SECRET_KEY
+from flask_login import LoginManager, login_required, login_user
 
 from models import db, connect_db, User, Favourite, Bacterium
 from forms import RegisterForm, LoginForm
@@ -15,6 +16,12 @@ app.config['SQLALCHEMY_ECHO'] = True
 
 connect_db(app)
 app.app_context().push()
+
+# Initialize Flask-Login
+login_manager = LoginManager()
+login_manager.init_app(app)
+login_manager.login_view = 'show_login' 
+
 db.create_all()
 
 app.config['SECRET_KEY'] = SECRET_KEY
@@ -26,6 +33,11 @@ client = bacdive.BacdiveClient(USER, API_SECRET_KEY)
 app.config['DEBUG_TB_INTERCEPT_REDIRECTS'] = False
 
 debug = DebugToolbarExtension(app)
+
+@login_manager.user_loader
+def load_user(user_id):
+    # Fetch the user by ID from the database
+    return User.query.get(user_id)
 
 @app.route('/')
 def root():
@@ -42,6 +54,7 @@ def show_letter_index(letter):
     return render_template('letter_index.html', list=list, letter=letter)
 
 @app.route('/species/<int:id>')
+@login_required
 def show_species_data(id):
     bacteria = Bacterium.query.get_or_404(id)
     bacdive_id = bacteria.strain_id
@@ -66,8 +79,11 @@ def show_login():
         user = User.authenticate(username, pwd)
 
         if user:
-            session['user_id'] = user.id
-            return redirect('/')
+            login_user(user)
+
+            next_page = request.args.get('next')
+
+            return redirect(next_page or  '/')
         else:
             form.username.errors = ['Incorrect username/password, please try again.']
     return render_template('login.html', form=form)

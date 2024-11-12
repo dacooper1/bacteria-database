@@ -1,5 +1,7 @@
 from flask_sqlalchemy import SQLAlchemy
 from flask_bcrypt import Bcrypt
+from flask_login import UserMixin
+
 import csv
 
 db = SQLAlchemy()
@@ -12,7 +14,7 @@ def connect_db(app):
     db.app = app
     db.init_app(app)
 
-class User(db.Model):
+class User(UserMixin, db.Model):
     """Playlist."""
     # ADDING HASHING METHOD
     # ADD THE NECESSARY CODE HERE
