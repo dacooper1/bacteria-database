@@ -4,6 +4,7 @@ __pycache__/
 # Ignore the virtual environment
 venv/
 
-# Ignore secrets file
-my_secrets.py
+# Ignore .env file
+.env
+
 

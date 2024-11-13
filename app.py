@@ -1,18 +1,23 @@
 from flask import Flask, redirect, render_template, session, request
 from flask_debugtoolbar import DebugToolbarExtension
-from my_secrets import USER, API_SECRET_KEY, DATABASE_URI, SECRET_KEY
 from flask_login import LoginManager, login_required, login_user
+from dotenv import load_dotenv
+import os
 
 from models import db, connect_db, User, Favourite, Bacterium
 from forms import RegisterForm, LoginForm
 import bacdive
 
-
+load_dotenv()
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE_URI
+app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URI')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_ECHO'] = True
+
+print("Database URI%%%%%%%%%%%%%%:", os.getenv('DATABASE_URI'))
+print("USERNAME!!!!!!!!!!!!!:", os.getenv('BACDIVE_USER'))
+print("PASSWORD###########:", os.getenv('API_SECRET_KEY') )
 
 connect_db(app)
 app.app_context().push()
@@ -24,9 +29,9 @@ login_manager.login_view = 'show_login'
 
 db.create_all()
 
-app.config['SECRET_KEY'] = SECRET_KEY
+app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
 
-client = bacdive.BacdiveClient(USER, API_SECRET_KEY)
+client = bacdive.BacdiveClient(os.getenv('BACDIVE_USER'),os.getenv('API_SECRET_KEY'))
 
 
 

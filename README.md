@@ -27,21 +27,21 @@ The Bacteria Database is a Flask-based web application that allows users to expl
 
 1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/username/bacterium-tracker.git
-   cd bacterium-tracker
+   ```
+   git clone https://github.com/dacooper1/bacterium-database.git
+   cd bacterium-database
    ```
 
 2. **Set Up Virtual Environment**:
 
-   ```bash
+   ```
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   source venv/bin/activate
    ```
 
 3. **Install Dependencies**:
 
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 
