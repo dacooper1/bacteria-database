@@ -15,9 +15,10 @@ app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URI')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_ECHO'] = True
 
-print("Database URI%%%%%%%%%%%%%%:", os.getenv('DATABASE_URI'))
-print("USERNAME!!!!!!!!!!!!!:", os.getenv('BACDIVE_USER'))
-print("PASSWORD###########:", os.getenv('API_SECRET_KEY') )
+if __name__ == "__main__":
+    # Use the port provided by the environment, or default to 5000 if not set
+    port = int(os.getenv("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
 
 connect_db(app)
 app.app_context().push()
