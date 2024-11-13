@@ -90,11 +90,11 @@ class Favourite(db.Model):
 
     id = db.Column(db.Integer, primary_key= True, autoincrement=True)
 
-    user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
+    user_id = db.Column(db.Integer, db.ForeignKey('users.id', ondelete='CASCADE'))
 
     bacterium_id = db.Column(db.Integer, db.ForeignKey('bacteria.id'))
 
-    user = db.relationship('User', backref='favourites')
+    user = db.relationship('User', backref='favourites', passive_deletes=True)
 
     bacterium = db.relationship('Bacterium', backref='favourites')
 
