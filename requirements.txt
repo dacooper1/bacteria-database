@@ -28,6 +28,7 @@ MarkupSafe==2.1.5
 packaging==24.1
 psycopg2-binary==2.9.9
 pycparser==2.22
+python-dotenv==1.0.1
 python-keycloak==4.2.0
 requests==2.32.3
 requests-toolbelt==1.0.0
