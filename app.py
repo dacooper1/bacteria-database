@@ -1,6 +1,6 @@
 from flask import Flask, redirect, render_template, session, request
 from flask_debugtoolbar import DebugToolbarExtension
-from flask_login import LoginManager, login_required, login_user
+from flask_login import LoginManager, login_required, login_user, logout_user
 from dotenv import load_dotenv
 import os
 
@@ -96,7 +96,7 @@ def show_login():
 
 @app.route('/logout')
 def logout():
-    session.pop('user_id')
+    logout_user()
     return redirect('/')
 
 @app.route('/register', methods=['GET', 'POST'])
